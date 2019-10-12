@@ -53,7 +53,7 @@ with open('composer_page_headings.txt', 'w', encoding='utf-8') as composer_page_
                     except IndexError:
                         pass
 
-                if title[0] == 'Masamichi Amano':
+                if title[0] == 'Inon Zur':
                     break
 
             except IndexError:
