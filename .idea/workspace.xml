@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c830591-7dcd-46ad-b077-c9944e19a3ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Datasets/vgmdb/most_popular_albums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/vgmdb/highest_rated_artists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,19 +14,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/most_popular_albums.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="367">
+              <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/most_popular_albums.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/highest_rated_artists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32825" />
+            <state relative-caret-position="952">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -52,10 +61,12 @@
         <option value="$PROJECT_DIR$/Datasets/vgmdb/test.py" />
         <option value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/get_individual_composer_pages.py" />
         <option value="$PROJECT_DIR$/Datasets/vgmdb/most_popular_albums.py" />
+        <option value="$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums.py" />
+        <option value="$PROJECT_DIR$/Datasets/vgmdb/highest_rated_artists.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1388" />
     <option name="y" value="90" />
     <option name="width" value="2268" />
@@ -84,13 +95,6 @@
               <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
               <item name="Datasets" type="462c0819:PsiDirectoryNode" />
               <item name="vgmdb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-              <item name="vgmdb" type="462c0819:PsiDirectoryNode" />
-              <item name="Webpage Local Copy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -122,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.most_popular_albums">
+  <component name="RunManager" selected="Python.least_popular_albums">
     <configuration name="get_individual_composer_pages (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="johnson_eric_data_mashup_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,28 +149,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_individual_composer_pages" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="johnson_eric_data_mashup_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Webpage Local Copy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Wikipedia\List of Video Game Musicians\get_individual_composer_pages.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="get_individual_game_pages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="johnson_eric_data_mashup_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,6 +163,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/get_individual_game_pages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="least_popular_albums" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="johnson_eric_data_mashup_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datasets/vgmdb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.least_popular_albums" />
         <item itemvalue="Python.most_popular_albums" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.get_individual_game_pages" />
         <item itemvalue="Python.get_individual_composer_pages (1)" />
-        <item itemvalue="Python.get_individual_composer_pages" />
       </list>
     </recent_temporary>
   </component>
@@ -253,15 +257,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570895562907</updated>
-      <workItem from="1570895570836" duration="16962000" />
+      <workItem from="1570895570836" duration="18292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16962000" />
+    <option name="totallyTimeSpent" value="18292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="617" y="40" width="1008" height="900" extended-state="1" />
+    <frame x="617" y="40" width="1008" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -294,6 +298,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$test.coverage" NAME="test Coverage Results" MODIFIED="1570915350512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
+    <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$least_popular_albums.coverage" NAME="least_popular_albums Coverage Results" MODIFIED="1570917871205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$clean_musicians_into_list.coverage" NAME="clean_musicians_into_list Coverage Results" MODIFIED="1570897855459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians" />
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$get_individual_composer_pages__1_.coverage" NAME="get_individual_composer_pages (1) Coverage Results" MODIFIED="1570903293717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians" />
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$most_popular_albums.coverage" NAME="most_popular_albums Coverage Results" MODIFIED="1570916019948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
@@ -447,8 +452,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/most_popular_albums.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        <state relative-caret-position="367">
+          <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/highest_rated_artists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
