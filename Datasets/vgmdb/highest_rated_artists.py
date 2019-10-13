@@ -58,6 +58,6 @@ with open('highest_rated_artists.txt', 'w', encoding='utf-8') as outfile:
             break
 
         s = random.uniform(8, 15)
-        print('Done with page ' + str(page_num - 1) + ', waiting ' +
+        print('Done with page ' + str(page_num - 1) + ' of 522, waiting ' +
               str(s) + ' seconds for page ' + str(page_num) + '.')
         time.sleep(s)
