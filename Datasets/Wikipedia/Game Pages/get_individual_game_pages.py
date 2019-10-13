@@ -1,5 +1,6 @@
 # Will come back to this file later if necessary —
-# Upon reflection, I'm not sure if I need any data from the individual game pages
+# Yes will try and get more ratings information and maybe release year/date and genre
+# (although those may be unnecessary)
 
 from lxml import html
 import requests
@@ -28,7 +29,6 @@ with open('composer_page_headings.txt', encoding='utf-8') as infile:
 
         title = tree.xpath("//h1[@id='firstHeading']/text()")
         print(title[0])
-
 
         # print(r.status_code())
 
