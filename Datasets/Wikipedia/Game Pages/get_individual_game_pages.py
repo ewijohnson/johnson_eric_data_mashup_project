@@ -11,7 +11,8 @@ import random
 # r = requests.get('https://en.wikipedia.org/wiki/Rod_Abernethy')
 # print(r.status_code)
 
-with open('composer_page_headings.txt', encoding='utf-8') as infile:
+with open('C:\\Users\\oboec\\MSLIS\\IS590OMO\\johnson_eric_data_mashup_project\\Datasets\\Wikipedia\\List of Video '
+          'Game Musicians\\composer_page_headings.txt', encoding='utf-8') as infile:
     composer_links_infile = infile.readlines()
     for line in composer_links_infile:
         line = line.strip('\n')
@@ -21,8 +22,6 @@ with open('composer_page_headings.txt', encoding='utf-8') as infile:
         # At this point, line[0] is the page heading name (composer name) and
         #   line[1] is the actual url
 
-        # print(requests.get(line[1]).status_code)
-
         url = line[1]
         page = requests.get(url)
         tree = html.fromstring(page.content)
@@ -30,12 +29,34 @@ with open('composer_page_headings.txt', encoding='utf-8') as infile:
         title = tree.xpath("//h1[@id='firstHeading']/text()")
         print(title[0])
 
-        # print(r.status_code())
+        game_links = tree.xpath("//ul/li/i/a/@href")
 
-        # url = line[1]
-        # page = requests.get(url)
-        # tree = html.fromstring(page.content)
-        #
-        # title = tree.xpath("//h1[@id='firstHeading']/text()")
-        # print(title[0])
-        # print(line)
+        try:
+            for link in game_links:
+
+                # here I need to access each link if it exists
+
+                try:
+                    print(link)
+
+                    url = link
+                    page = requests.get(url)
+                    tree = html.fromstring(page.content)
+
+                    game_title = tree.xpath("//h1[@id='firstHeading']/text()")
+
+                    print(game_title[0])
+
+                except:
+                    pass
+
+        except IndexError:
+            pass
+
+        if title[0] == 'Masamichi Amano':
+            break
+
+        s = random.uniform(4, 9)
+        time.sleep(s)
+
+
