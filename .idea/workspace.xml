@@ -2,7 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c830591-7dcd-46ad-b077-c9944e19a3ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/505_games.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/_(1992_video_game).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/_(2005_video_game).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/_(franchise).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/_(series).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/_(video_game).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/_(video_game_series).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/_and_.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/adventure_soft.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/atari_8-bit_family.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/autumn_moon_entertainment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/bandai_namco_entertainment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/bethesda_softworks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/capcom.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/cockfight.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/codemasters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/commodore_64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/creative_assembly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/disasterpeace.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/dreamcast.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/dynamedion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/electronic_arts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/eminence_symphony_orchestra.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/hexany_audio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/independent_games_festival.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/intellivision.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/jam_project.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/konami.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/konami_kukeiha_club.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/n3v_games.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/nintendo_entertainment_system.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/playstation.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/rare_(company).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/rebellion_developments.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/sega.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/sie_london_studio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/vertexguy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/westwood_studios.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/wonderswan.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,21 +52,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Top 1000 downloaded soundtracks.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/highest_rated_artists.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -64,13 +96,15 @@
         <option value="$PROJECT_DIR$/Datasets/Spotify/spotify.py" />
         <option value="$PROJECT_DIR$/Datasets/Wikipedia/Game Pages/get_individual_game_pages.py" />
         <option value="$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/unique column values.py" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1161" />
+    <option name="x" value="1869" />
     <option name="y" value="9" />
-    <option name="width" value="2685" />
+    <option name="width" value="1974" />
     <option name="height" value="2079" />
   </component>
   <component name="ProjectView">
@@ -78,8 +112,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
+              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
+              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
+              <item name="Wikipedia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
+              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
+              <item name="Wikipedia" type="462c0819:PsiDirectoryNode" />
+              <item name="List of Video Game Musicians" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -108,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.unique column values">
+  <component name="RunManager" selected="Python.combining_indv_to_one">
     <configuration name="Top 1000 downloaded soundtracks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="johnson_eric_data_mashup_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +185,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Top 1000 downloaded soundtracks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="combining_indv_to_one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="johnson_eric_data_mashup_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,28 +259,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="johnson_eric_data_mashup_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="unique column values" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="johnson_eric_data_mashup_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.combining_indv_to_one" />
         <item itemvalue="Python.unique column values" />
         <item itemvalue="Python.get_individual_game_pages" />
         <item itemvalue="Python.spotify" />
         <item itemvalue="Python.Top 1000 downloaded soundtracks" />
-        <item itemvalue="Python.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -250,21 +312,38 @@
       <workItem from="1572710638527" duration="4231000" />
       <workItem from="1573161739641" duration="626000" />
       <workItem from="1573258535995" duration="69000" />
+      <workItem from="1574016914805" duration="3306000" />
     </task>
+    <task id="LOCAL-00001" summary="remote test">
+      <created>1574017012234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574017012234</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed remote test">
+      <created>1574017046575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574017046575</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47587000" />
+    <option name="totallyTimeSpent" value="50893000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="16" width="1084" height="900" extended-state="0" />
+    <frame x="831" y="4" width="877" height="924" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35019454" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.362972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294423" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3294423" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32830188" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994812" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,6 +366,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remote test" />
+    <MESSAGE value="removed remote test" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed remote test" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$least_popular_albums.coverage" NAME="least_popular_albums Coverage Results" MODIFIED="1570917871205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$get_individual_composer_pages__1_.coverage" NAME="get_individual_composer_pages (1) Coverage Results" MODIFIED="1570903293717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians" />
@@ -294,6 +378,7 @@
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$wiki_test_1.coverage" NAME="wiki test 1 Coverage Results" MODIFIED="1570900081940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians" />
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$get_individual_composer_pages.coverage" NAME="get_individual_composer_pages Coverage Results" MODIFIED="1570902632879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Webpage Local Copy" />
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$spotify.coverage" NAME="spotify Coverage Results" MODIFIED="1571189890646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/Spotify" />
+    <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$combining_indv_to_one.coverage" NAME="combining_indv_to_one Coverage Results" MODIFIED="1574020664037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians" />
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$get_individual_game_pages.coverage" NAME="get_individual_game_pages Coverage Results" MODIFIED="1572313520747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/Wikipedia/Game Pages" />
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$testfile.coverage" NAME="testfile Coverage Results" MODIFIED="1570895765024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$test.coverage" NAME="test Coverage Results" MODIFIED="1570924451747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
@@ -304,171 +389,185 @@
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$highest_rated_artists.coverage" NAME="highest_rated_artists Coverage Results" MODIFIED="1570926451268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testfile.py" />
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/cleaned_musician_list_2.txt" />
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/rod_abernethy.txt">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/amiga.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/atari_8-bit_family.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/bandai_namco_entertainment.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/autumn_moon_entertainment.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/bethesda_softworks.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/c418.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/cockfight.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/codemasters.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-545" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/masamichi_amano.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/alec_holowka.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/alex_seropian.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/ari_pulkkinen.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/christopher_tin.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/christopher_stevens_(musician).txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/jeremy_soule.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/brad_fuller_(composer).txt">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/combichrist.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/commodore_64.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/kenji_ito.txt">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/jeff_van_dyck.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/koji_kondo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/nintendo_entertainment_system.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/mick_gordon_(composer).txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/mike_morasky.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/miki_higashino.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/mikko_tarmia.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/johnson_eric_data_mashup/Lib/site-packages/requests/api.py">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/creative_assembly.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="187">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/johnson_eric_data_mashup/Lib/site-packages/lxml/html/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="735" selection-start-line="735" selection-end-line="735" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/most_popular_albums.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32825" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/test.py" />
-    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/test.py" />
-    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/top_1000_downloaded_soundtracks.txt">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/disasterpeace.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Spotify/spotify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/Game Pages/get_individual_game_pages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-          <folding>
-            <element signature="e#176#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/akihiko_mori.txt">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/dreamcast.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/unique column values.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/wiki test 1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/andrew_sega.txt">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/dynamedion.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/capcom.txt">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/eminence_symphony_orchestra.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/go_shiina.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/hans_zimmer.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/harry_gregson-williams.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/hexany_audio.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/jam_project.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/jeremy_soule.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/jph_wacheski.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/jun_chikuma.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/kenneth_young_(scottish_composer).txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/koji_kondo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/konami.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/konami_kukeiha_club.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/lorne_balfe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/michael_bacon_(artist).txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/n3v_games.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/peter_connelly.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/rebellion_developments.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/robyn_miller.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/angelo_badalamenti.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/allister_brimble.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/composer_page_headings.txt">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/sie_london_studio.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4762">
-          <caret line="1" column="15" selection-start-line="1" selection-end-line="1" selection-end-column="15" />
+        <state relative-caret-position="204">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/clean_musicians_into_list.py">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/sakari.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/cleaned_musician_list.txt">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/silas_hite.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/stéphane_picq.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/tim_larkin.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/vertexguy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/frank_klepacki.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/westwood_studios.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/wonderswan.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/winifred_phillips.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/zuntata.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/toby_fox.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/tom_salta.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/clean_musicians_into_list.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/get_individual_composer_pages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/highest_rated_artists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        <state>
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -477,36 +576,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state>
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/most_popular_albums.py">
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Top 1000 downloaded soundtracks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/highest_rated_artists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
