@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c830591-7dcd-46ad-b077-c9944e19a3ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jupyter_notebooks_data_mashup/Dataset Combining.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter_notebooks_data_mashup/Dataset Combining.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,40 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/top_1000_downloaded_soundtracks.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/replacing_separators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/top_1000_downloaded_soundtracks_adjusted.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="362" selection-start-line="362" selection-end-line="362" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/changing_separators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="35" column="54" lean-forward="true" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,7 +56,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1140" />
+    <option name="x" value="1138" />
     <option name="width" value="2682" />
     <option name="height" value="2079" />
   </component>
@@ -105,28 +71,6 @@
             <path>
               <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-              <item name="vgmdb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-              <item name="Video Game Music mp3 Downloads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="jupyter_notebooks_data_mashup" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,7 +248,7 @@
       <workItem from="1573161739641" duration="626000" />
       <workItem from="1573258535995" duration="69000" />
       <workItem from="1574016914805" duration="5851000" />
-      <workItem from="1574041187504" duration="8080000" />
+      <workItem from="1574041187504" duration="8729000" />
     </task>
     <task id="LOCAL-00001" summary="remote test">
       <created>1574017012234</created>
@@ -369,22 +313,28 @@
       <option name="project" value="LOCAL" />
       <updated>1574049352359</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="all files can be read into pandas now&#10;might still need to do some name cleaning later on">
+      <created>1574049696565</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574049696565</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61518000" />
+    <option name="totallyTimeSpent" value="62167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="507" y="0" width="1192" height="924" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33362675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294423" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32830188" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32830188" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994812" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,7 +365,8 @@
     <MESSAGE value="updated README to include research Qs and background info" />
     <MESSAGE value="added Jupyter Notebook file&#10;changed separators in wikipedia and vgmdb files" />
     <MESSAGE value="finished preparing all vgmdb.net files for pandas" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished preparing all vgmdb.net files for pandas" />
+    <MESSAGE value="all files can be read into pandas now&#10;might still need to do some name cleaning later on" />
+    <option name="LAST_COMMIT_MESSAGE" value="all files can be read into pandas now&#10;might still need to do some name cleaning later on" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$least_popular_albums.coverage" NAME="least_popular_albums Coverage Results" MODIFIED="1570917871205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
@@ -615,13 +566,6 @@
     <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/top_1000_downloaded_soundtracks.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/changing_separators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="54" lean-forward="true" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/replacing_separators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -633,6 +577,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="362" selection-start-line="362" selection-end-line="362" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/changing_separators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="54" lean-forward="true" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
         </state>
       </provider>
     </entry>
