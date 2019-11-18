@@ -1,0 +1,1001 @@
+#; Album
+1; Persona 5
+2; Need for Speed - Most Wanted
+3; Super Mario World Original Soundtrack
+4; Minecraft
+5; Legend of Zelda, The - Ocarina of Time Original Soundtrack
+6; Super Smash Bros Brawl - Gamerip
+7; Persona 4 Original Soundtrack
+8; Need for Speed - Underground 2
+9; NieR Automata Original Soundtrack
+10; Legend of Zelda, The - Majora's Mask Original Soundtrack
+11; Super Mario Bros
+12; Persona 3 Original Soundtrack
+13; Super Mario Odyssey OST
+14; Super Mario Galaxy
+15; Legend of Zelda, The - Breath of the Wild
+16; Assassin's Creed II Original Soundtrack
+17; Kingdom Hearts Original Soundtrack
+18; Super Mario 64
+19; Dragon Ball & Z BGM
+20; Super Mario 3D World
+21; Sonic Generations
+22; Animal Crossing New Leaf
+23; God Of War Original Soundtrack
+24; Street Fighter 2 Turbo
+25; Pokemon HeartGold and SoulSilver
+26; Pokemon Gameboy Sound Collection
+27; Pokemon Black and White
+28; Harvest Moon - Back to Nature
+29; Mario Kart 8
+30; Sonic Adventure 2 Original Sound Track
+31; Castlevania - Symphony of the Night
+32; The Witcher 3 Wild Hunt - Extended Edition
+33; Kingdom Hearts II OST
+34; Donkey Kong Country 2 - Diddy's Kong Quest
+35; Pokemon Diamond and Pearl Super Music Collection
+36; Legend of Zelda, The - Skyward Sword - Expanded Video Game Soundtrack
+37; Kingdom Hearts Simple & Clean And Sanctuary Remixes And Extras
+38; Geometry Dash
+39; Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides)
+40; Super Sentai OST
+41; Metal Gear Rising  - Vocal Tracks
+42; Dark Souls III Soundtracks
+43; Shadow of the Colossus OST
+44; Lord of the Rings - The fellowship of the ring - Howard Shore
+45; Xenoblade Chronicles
+46; Rockman X1~6 Collection
+47; Need for Speed - Underground Original Soundtrack
+48; Pokemon Black and White 2 Super Music Collection
+49; Mother 3
+50; Sonic the Hedgehog 3 & Knuckles Original Sound Version Complete
+51; Metal Gear Solid V Original Soundtrack (2015)
+52; digimon themes
+53; Super Mario Galaxy 2
+54; Sonic Unleashed
+55; Sonic the Hedgehog 2 Original Soundtrack
+56; Donkey Kong Country
+57; Pokemon X & Y
+58; The Last of Us (2013)
+59; God of War III Original Soundtrack
+60; Legend of Zelda, The - Twilight Princess (gamerip)
+61; Sonic the Hedgehog Original Soundtrack
+62; Pokemon Sun & Moon Super Music Collection
+63; Assassin's Creed IV Black Flag
+64; Super Smash Bros. for 3DS & Wii U - A Smashing Soundtrack
+65; Pokemon Omega Ruby and Alpha Sapphire Super Music Complete (3DS)
+66; Tekken 7 Soundtrack
+67; Persona 4 Dancing All Night
+68; Fire Emblem Fates (if) (Japanese OST, English Tags)
+69; Mario Kart Wii
+70; Life Is Strange OST
+71; Pokemon Ruby & Sapphire Music Super Complete
+72; Pokemon Original Game Soundtrack
+73; Super Smash Bros. Melee (gamerip)
+74; Pokemon - Ten Years Of Pokemon
+75; Midnight Club 3 - Dubedition
+76; Cuphead
+77; God of War II OST
+78; New Super Mario Bros. Wii
+79; Banjo-Kazooie Complete
+80; Earthbound (Mother 2) (1994) (SNES)
+81; Lion King 2
+82; Dark Souls - Prepare to Die Edition
+83; Shadow Fight 2
+84; Mega Man X (Rockman X) (1993) (SNES)
+85; Legend of Zelda, The - The Wind Waker Original Soundtrack
+86; Batman - the Dark Knight Rises
+87; Howls Moving Castle Original Soundtrack
+88; Aladdin OST
+89; Sonic Generations Original Soundtrack Blue Blur
+90; NieR Gestalt and Replicant OST
+91; Sonic Colors
+92; Bully Original Soundtrack
+93; Pokemon Firered & Leafgreen Music Super Complete
+94; Paper Mario 2 The Thousand Year Door
+95; Danganronpa Original Soundtrack
+96; Tekken 3 PlayStation Soundtrack 002
+97; Super Mario Bros. 3
+98; Metal Slug Complete Sound Box
+99; Ragnarok Online Original Soundtrack
+100; Bloodborne Original Soundtrack (2015)
+101; Super Mario Sunshine
+102; Mega Man 2
+103; Sonic CD (2011)
+104; Pokemon Mystery Dungeon - Explorers of Sky
+105; Legend of Zelda, The - Ocarina of Time
+106; Sonic Adventure DX - Director's Cut
+107; Mario and Luigi - Bowser's Inside Story OST
+108; Plants vs. Zombies
+109; Shadow the Hedgehog Original Soundtrax
+110; Persona 4 The Golden Original Soundtrack
+111; Bayonetta
+112; Metal Gear Solid 3 Snake Eater Original Soundtrack
+113; Assassin's Creed 3
+114; Sonic the Hedgehog 1&2 Soundtrack
+115; Sonic the Hedgehog 3 - Game Soundtrack
+116; Super Paper Mario
+117; Super Mario RPG Original Soundtrack
+118; Tokyo Ghoul
+119; Call of Duty - Modern Warfare 2
+120; Donkey Kong 64 - Game Music
+121; Kirby's Return To Dream Land
+122; Legend of Zelda, The - A Link To The Past Original Soundtrack
+123; Sonic the Hedgehog (2006) Original Soundtrack
+124; Robotech Perfect Collection Soundtrack
+125; Metal Gear Solid Original Soundtrack
+126; Sonic R
+127; Kirby Planet Robobot Original Soundtrack
+128; Persona 3 Fes Original Soundtrack
+129; Legend of Zelda, The - Ocarina of Time 3D Original Soundtrack
+130; Mii Channel
+131; Xenoblade Chronicles X Original Soundtrack
+132; Assassin's Creed IV Black Flag Sea Shanty Edtion
+133; Donkey Kong Country Tropical Freeze Original Soundtrack
+134; Lord of the Rings - Return of the King - Howard Shore
+135; Sonic Adventure Original Sound Track
+136; Spiderman 3
+137; Wii Console Background Music
+138; Princess Mononoke Soundtrack
+139; Mega Man X4 (PSX)
+140; Iron Man 3
+141; Sonic Rush Original Groove Rush
+142; Hotline Miami
+143; Burnout 3 Takedown
+144; Kirby Triple Deluxe
+145; Mega Man X5
+146; Super Smash Bros. for 3DS and Wii U Vol 01. Super Mario Bros
+147; World of Warcraft 1 Soundtrack (2004)
+148; Mario Kart 64
+149; Mario and Luigi - Dream Team
+150; Sonic CD - The Complete Soundtrack
+151; Half-Life 2 (Original Soundtrack) (2004)
+152; Super Mario 3D Land
+153; Fire Emblem Awakening
+154; Silent Hill - Original Soundtrack
+155; Super Mario 64 (N64)
+156; Hotline Miami 2 - Wrong Number
+157; Tekken 5 Original Soundtrack
+158; Assassin's Creed: Brotherhood Original Soundtrack
+159; The World Ends with You TWEWY Soundtrack (Full Collection)
+160; Call of Duty - Black Ops II Soundtrack
+161; Pokemon Gold & Silver
+162; Gran Turismo 6
+163; Blazblue Phase III Chronophantasma Original Soundtrack
+164; Luigi's Mansion (GameCube) (gamerip)
+165; Tekken 5 & Tekken Dark Resurrection Original Soundtrack
+166; Need for Speed - Carbon Soundtrack
+167; Mario Kart DS
+168; Persona 3 Portable - Original Soundtrack
+169; Splatoon Original Soundtrack - Splatune
+170; Pokemon Gold, Silver & Crystal
+171; Kingdom Hearts HD 2.5 Remix
+172; Donkey Kong Country (1994) (SNES)
+173; Paper Mario - Color Splash ~ Original Sound Version
+174; Sonic the Hedgehog 4 - Episode I & II Original Soundtrack
+175; Paper Mario (Mario Story) (2000) (N64)
+176; Dragon Ball Z - Budokai
+177; Super Mario Bros. 1-3 Anthology
+178; Kirby Super Star Ultra
+179; Hatsune Miku - Project Mirai DX
+180; Legend of Zelda, The - The Wind Waker HD
+181; Need for Speed - Carbon
+182; Dragon Ball Z - Budokai Tenkaichi 3 (2007)
+183; Sonic Adventure 1 - Directors Cut
+184; Angry Birds
+185; Metal Gear Solid 2 - Sons of Liberty - The Complete Soundtrack (gamerip)
+186; Ace Combat 5 The Unsung War Original Soundtrack
+187; Dragon Ball Z Complete BGM Collection
+188; Asian Kung-Fu Generation - Sol-fa
+189; Dance Dance Revolution Mario Mix
+190; Lion King 2: Simba's Pride
+191; Tekken 4 Original Sound Tracks
+192; Far Cry 3
+193; Dragon Ball Song Collection
+194; Assassin's Creed Rogue Original Game Soundtrack
+195; Spyro the Dragon 1 Full Rip
+196; Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack
+197; Crash Bandicoot - PS1 Soundtrack Collection
+198; Legend of Zelda, The - Spirit Tracks
+199; Assassin's Creed: Revelations Complete Recordings
+200; Mario & Luigi Superstar Saga Original Soundtrack
+201; Paper Mario - Sticker Star
+202; Ori and the Blind Forest (Original Soundtrack)
+203; Silent Hill 2 Original Soundtrack
+204; Team Fortress 2
+205; Super Smash Bros. 64
+206; RWBY Volume 3 Original Soundtrack & Score
+207; My Neighbor Totoro Original Soundtrack
+208; Smash Hit (gamerip)
+209; Total War - Rome (gamerip) (2004)
+210; Sonic Heroes Original Soundtrack 20th Anniversary Edition
+211; KILL la KILL
+212; Legend of Zelda, The (NES)
+213; Donkey Kong Country Returns - Original Sound Version
+214; Sonic Adventure 2 Original Soundtrack 20th Anniversary Edition
+215; Fallout 4 OST
+216; Under Night In-Birth
+217; Contra OST (NES) (1988)
+218; Fate Grand Order Original Soundtrack I
+219; Tekken Tag Tournament 2
+220; Baroque - Music from the Original Soundtrack
+221; Dragon Ball Xenoverse 2 Soundtrack
+222; Mario Kart - Double Dash!!
+223; Need for Speed - Hot Pursuit 2
+224; Shin Sangokumusou 7 (Dynasty Warriors 8) Original Soundtrack
+225; Metal Gear Solid V Extended Soundtrack
+226; Persona Q - Shadow of the Labyrinth
+227; Duck Hunt
+228; Animal Crossing (gamerip)
+229; Namco X Capcom
+230; Detective Conan Songs
+231; Legend of Zelda, The - Link's Awakening DX
+232; Barbie as the Princess and the Pauper
+233; Sonic CD Japan (Game Rip)
+234; Sonic World Adventure Original Soundtrack - Planetary Pieces
+235; Pokemon Red, Green, Blue & Yellow
+236; Hatsune Miku -Project DIVA- F
+237; Legend of Zelda, The - 25th Anniversary Special Orchestra CD
+238; Tekken 7 PC Soundtrack
+239; Dragon Ball Z - Budokai Tenkaichi 2
+240; Sonic & Knuckles (Sega Genesis)
+241; Crash Bandicoot 1 (PSX Gamerip)
+242; Bayonetta 2 Original Soundtrack
+243; Mafia 2
+244; Mega Man X6 (PSX)
+245; PAYDAY 2 the Soundtrack
+246; Kingdom Hearts Re: Chain of Memories Original Soundtrack
+247; Streets of Rage
+248; Jet Set Radio Future
+249; Bioshock Infinite Soundtrack
+250; Phoenix Wright - Ace Attorney OST
+251; Wangan Midnight Maximum Tune Original Soundtrack 10th Anniversary Box
+252; Doki Doki Literature Club (gamerip)
+253; Jojo's Bizarre Adventure 2nd Season OP
+254; Kingdom Hearts 2 Theme Song - Passion [Utada Hikaru]
+255; Mega Man 3
+256; Call of Duty - Modern Warfare 3
+257; King of Fighters XIII Original Soundtrack
+258; Sonic Heroes
+259; Call of Duty - Black Ops
+260; WWE 2K18
+261; Castlevania
+262; Mario & Luigi - Superstar Saga + Bowser’s Minions (gamerip)
+263; New Super Mario Bros. U
+264; StarCraft (Soundtrack) (2007)
+265; Donkey Kong Country 3 - Dixie Kong's Double Trouble OST
+266; Sonic Heroes Complete Trinity Original Soundtrax
+267; Super Smash Bros Brawl Complete Sound Track
+268; Half-Life (gamerip) (1998)
+269; Counter-Strike - Global Offensive Soundtrack
+270; Metal Gear Solid - Music CD
+271; Naruto Shippuden Ultimate Ninja Storm 4 (gamerip)
+272; Pikmin 2
+273; Mega Man X2 (Rockman X2) (1994) (SNES)
+274; The Witcher 3 Wild Hunt - Blood & Wine
+275; New Super Mario Bros. 2
+276; Metalocalypse - Dethklok - The Dethalbum
+277; Sonic and the Black Knight Original Soundtrax - Tales of Knighthood
+278; Wii Sports (Wii)
+279; Kirby Super Star (1995) (SNES)
+280; Mega Man X3 (Rockman X3) (1995) (SNES)
+281; dot hack G.U. Game Music OST 1
+282; Street Fighter Alpha 3
+283; Legend of Zelda, The - Twilight Princess Official Soundtrack
+284; Diablo II + Lord Of Destruction Original Soundtrack
+285; Star Wars - Battlefront II (2005)
+286; King of Fighters '97
+287; Super Mario All-Stars Super Mario Bros. 3
+288; Metal Gear Solid 3 Snake Eater (gamerip)
+289; BlazBlue Central Fiction (gamerip)
+290; The Sims (PC) (gamerip)
+291; King of Fighters 2002 Unlimited Match Original Soundtrack (2009)
+292; Persona 4 Never More - Reincarnation soundtrack
+293; Luigi's Mansion - Dark Moon
+294; Splatoon (gamerip)
+295; Mario Bros
+296; Streets of Rage 2 Original Soundtrack
+297; Rayman Legends
+298; Sonic 3D Blast
+299; Castlevania (Super Castlevania) IV (SNES) Original Soundtrack
+300; Kingdom Hearts - Hikari
+301; Sonic and the Secret Rings Original Sound Track - SEVEN RINGS IN HAND
+302; Kingdom Hearts HD 1.5 Remix
+303; Metal Slug 3 Original Soundtrack
+304; Hatsune Miku- Project Diva F 2nd Soundtrack
+305; Prince of Persia The Warrior Within
+306; Burn My Dread -Reincarnation Persona 3-
+307; Soulcalibur II Original Sound Track
+308; Total Overdose - Original Game Audio
+309; Lord of the Rings - The two Towers - Howard Shore
+310; Persona 5 - Sounds of Rebellion
+311; Mega Man 8 (Saturn)
+312; To The Moon
+313; Dragon Ball Z ~ Dragon Ball Best Collection
+314; Secret of Mana Original Soundtrack
+315; Kingdom Hearts -Final Mix- & Kingdom Hearts II -Final Mix-
+316; Soulcalibur III Original Soundtrack -LEGEND OF SOUNDS-
+317; Soulcalibur V
+318; Gran Turismo 4 Original Game Soundtrack
+319; Plants vs. Zombies 2
+320; Super Danganronpa 2 Original Soundtrack
+321; Metal Gear Solid Vocal Tracks
+322; New Super Mario Brothers
+323; Mario Party 2
+324; Call of Duty - World at War
+325; Ace Combat 4 Shattered Skies Original Soundtracks
+326; Metal Gear Solid 4
+327; Ryu ga Gotoku Kiwami Original Soundtrack
+328; Laputa Castle in the Sky Original Soundtrack
+329; Parasite Eve Original Soundtrack
+330; Kingdom Hearts Birth by Sleep & 358-2 Days Original Soundtrack
+331; Mario Kart (SNES)
+332; Sonic 3D Blast (Sega Genesis)
+333; God Eater & God Eater 2 Rage Burst Original Soundtrack
+334; Contra (Arcade)
+335; Pokemon Omega Ruby and Alpha Sapphire (3DS) (gamerip)
+336; Tekken 2 (1995)
+337; Snoopy's Silly Sports Spectacular (NES)
+338; Battlefield 4
+339; DuckTales Remastered Soundtrack
+340; King of Fighters '98
+341; Need for Speed - Undercover
+342; Crash Bandicoot 3 - Warped (PSX Gamerip)
+343; Mario Party
+344; Tekken Tag Tournament Direct Audio
+345; Shovel Knight Original Soundtrack
+346; Silent Hill - Complete Soundtrack Ultimate Edition
+347; Mario Kart 7 Original Soundtrack
+348; Animal Crossing Wild World
+349; Sonic Advance 3 (Remastered)
+350; Gran Turismo 2 Original Game Sound Track
+351; Tekken 6
+352; Jet Set Radio Original Soundtrack
+353; F-Zero GX-AX Original Soundtracks
+354; Kid Icarus - Uprising Original Soundtrack
+355; Banjo-Kazooie The Soundtrack
+356; Runescape
+357; World of Warcraft 3 Wrath of the Lich King Soundtrack
+358; Red Alert 2 Original Soundtrack
+359; RWBY Volume 4 Original Soundtrack & Score
+360; Animal Crossing City Folk
+361; Katamari Damacy Soundtrack (Katamari Fortissimo Damacy)
+362; Kidou Senshi Gundam EXTREME VS. FULL BOOST Premium G Sound Edition
+363; Dragon Ball Z - Budokai 3
+364; Tetris (Gameboy Rip)
+365; Call of Duty - Advanced Warfare
+366; Dragon Ball Z - Infinite World (PS2)
+367; Castlevania - Rondo of Blood (PC Engine CD)
+368; Super Smash Bros. for 3DS and Wii U Vol 03. The Legend of Zelda
+369; Legend of Zelda, The - A Link Between Worlds
+370; Kirby's Epic Yarn
+371; Call of Duty 4 - Modern Warfare OST
+372; Teenage Mutant Ninja Turtles IV - Turtles in Time (1992) (SNES)
+373; Uncharted 3 - Drake's Deception
+374; Stardew Valley
+375; Genso Suikoden II Original Sound Track Vol. 1
+376; BlazBlue Chronophantasma Extend (gamerip)
+377; Super Mario Advance 2 (Super Mario World) (Gameboy Advance)
+378; rockman vocal collection
+379; Parappa The Rapper 2 Original Soundtrack
+380; Street Fighter II - Arcade Mix
+381; Mortal Kombat X - The Komplete Videogame Score
+382; Portal 2 - Soundtrack Songs To Test By Collectors Edition
+383; Project IGI
+384; Dragon Ball Z - Budokai 2
+385; Xenogears - Original Soundtrack
+386; Dragon Ball Heroes (Original Theme Song Collection)
+387; Donkey Kong
+388; Super Mario Kart Original Soundtrack
+389; DoDonPachi Saidaioujou - DoDonPachi Maximum Original Soundtrack
+390; Paper Mario Original Soundtrack (Mario Story)
+391; Fate Zero OST
+392; Crash Team Racing
+393; The New Super Mario Bros DS Rip
+394; Super Mario Bros 2
+395; Best of Nintendo Music
+396; Metroid Prime OST
+397; Destiny 2 (Original Soundtrack) (2017)
+398; Persona Original Soundtrack CD
+399; Sonic CD US Tracks
+400; Fate EXTRA CCC Original Soundtrack
+401; Sonic Riders Shooting Star Story Original Soundtrack "Zero Gravity Tracks"
+402; Tony Hawk's Pro Skater Original Soundtrack
+403; Prince of Persia Sands of Time Original Sound Track
+404; LISA (the Painful RPG) - Soundtrack
+405; Mario Kart 8 Original Soundtrack (2015)
+406; Super Mario Land (GameBoy) (Rip)
+407; The End of Evangelion
+408; Legend of Heroes - Sen no Kiseki Original Soundtrack Master
+409; Castlevania - Order of Ecclesia (DS)
+410; Assassin's Creed Original Soundtrack
+411; Super Smash Bros. for 3DS and Wii U Vol 07. Kirby
+412; Sonic Rush Adventure Original Soundtrack
+413; Persona 4 The Ultimate in Mayonaka Arena Original Soundtrack
+414; Soulcalibur IV Original Soundtrack
+415; Crash Twinsanity - Complete Soundtrack
+416; Parappa The Rapper Original Soundtrack
+417; Mega Man: Maverick Hunter X
+418; Legend of Zelda, The - The Minish Cap Original Soundtrack
+419; Batman Arkham City
+420; Wii Shop Channel (Wii)
+421; Worms 3D
+422; Tekken 6 Complete OST
+423; WWE Smackdown vs. Raw 2008 (Playstation 2)
+424; True Blue - The Best of Sonic the Hedgehog
+425; Battlefield 1 (Original Soundtrack) (2016)
+426; Transformers Song Masterpiece
+427; Skullgirls Encore Expanded Soundtrack
+428; GOD EATER Original Soundtrack
+429; Wild Arms 2nd Ignition Original Soundtrack
+430; Super Mario World 2- Yoshi's Island (1995) (SNES)
+431; Legend of Zelda, The 2 - The Adventure of Link
+432; Happy! Mario 20th - SUPER MARIO Sound Collection
+433; Tekken 3 Arcade Soundtrack 001 ex
+434; BlazBlue Central Fiction - Song Interlude III Soundtrack
+435; Dr. Mario (NES)
+436; Mario & Luigi - Paper Jam Bros. (gamerip)
+437; Crash Bandicoot 2 - Cortex Strikes Back (PSX Gamerip)
+438; Rockman 1-6 Family Computer Soundtrack
+439; Thor - The Dark World
+440; Pokemon Super Mystery Dungeon Original Soundtrack
+441; Legend of Zelda, The - Twilight Princess HD Original Soundtrack
+442; Tony Hawk's Pro Skater 2
+443; Capcom VS. SNK 2 Millionaire Fighting (2001) Original Soundtrack
+444; Fate Grand Order Original Soundtrack II
+445; Dragon Ball - Raging Blast 2
+446; League of Legends
+447; DJ MAX PORTABLE Original Soundtrack
+448; Crysis 3
+449; Metal Slug 2
+450; Ace Combat Zero
+451; Batman Arkham Knight - Original Video Game Score, Vol. 1
+452; Lego Star Wars - The Complete Saga
+453; Mega Man 1
+454; 25 Year Legend - A Legend of Zelda Indie Game Composer Tribute
+455; Bravely Default Flying Fairy Original Soundtrack
+456; Goldeneye Original Soundtrack
+457; Dark Souls 2 Original Soundtrack
+458; Kirby The Very Best Of Kirby
+459; Sonic the Hedgehog CD Original Soundtrack 20th Anniversary Edition
+460; Top Gear (1992) (SNES)
+461; Luigi's Mansion (GameCube) Soundtrack
+462; Gran Turismo Original Game Soundtrack
+463; Mario & Luigi - Partners In Time 
+464; Super Mario World 2 - Yoshi's Island OST
+465; Call of Duty - Black Ops - Zombies - Mob of the Dead
+466; Sonic Lost World
+467; Blazblue Calamity Trigger
+468; Mass Effect - Expanded Soundtrack
+469; Super Mario Land 2 - Six Golden Coins
+470; JoJo's Bizarre Adventure - Eyes of Heaven OST
+471; Far Cry 4 (Original Game Soundtrack)
+472; The World Ends With You Soundtrack
+473; Punch-Out (Wii) (gamerip)
+474; Yu-Gi-Oh - Forbidden Memories (1999) (gamerip)
+475; JoJo's Bizzare Adventure - Battle Tendency [Musik]
+476; Sonic & Knuckles - Sonic the Hedgehog 3
+477; Transformers - Revenge of the Fallen
+478; Rockman ZX Soundtrack
+479; Streets Of Rage Remake Ultimate Soundtrack
+480; Hyrule Warriors (gamerip)
+481; Super Smash Bros. for 3DS and Wii U Vol 29. Super Smash Bros
+482; Mario Kart - Super Circuit Original Soundtrack
+483; Rockman 8 Original Soundtrack
+484; Castle Crashers
+485; Mike Tyson's Punch-Out!! (NES) (gamerip)
+486; F-Zero X Original Soundtrack
+487; Freedom Planet Official Soundtrack (2014)
+488; Uncharted 4 - A Thief's End
+489; Crypt of the Necrodancer
+490; Legend of Zelda, The - A Link Between Worlds Sound Selection
+491; Sonic - Crush 40
+492; Destiny Original Soundtrack (2014)
+493; Mega Man - The Wily Wars OST (1994) (Sega Genesis)
+494; Metal Gear Solid V Original Soundtrack - The Lost Tapes
+495; Tekken 7 Collector's Edition Soundtrack
+496; Rockman ZX Advent Soundtrack -ZXA TUNES-
+497; Sonic - After the Sequel Original Soundtrack
+498; Super Mario Maker (full gamerip)
+499; F-Zero Original Soundtrack
+500; Dragon Age - Inquisition (Original Soundtrack) (2014) 
+501; Tekken 2 Strike Fighting Vol.2
+502; Lupin III - Theme Music History OST
+503; Mega Man 4
+504; Persona 4 Arena Ultimax Gamerip
+505; Red Dead Redemption
+506; Hatsune Miku -Project DIVA- extend Complete Collection
+507; Mass Effect (Original Soundtrack) (2007)
+508; Mega Man 7 (1995) (SNES)
+509; Nausicaa of the Valley of the Wind Original Soundtrack
+510; God of War - Blood and Metal
+511; Mega Man X8
+512; No More Heroes Original Sound Tracks
+513; Mortal Kombat - The Album
+514; Crash Bandicoot 4 - The Wrath Of Cortex (PSX Gamerip)
+515; Shin Megami Tensei III Nocturne Original Soundtrack
+516; Dark Souls Original Soundtrack
+517; Need for Speed - The Run (Score)
+518; Newer Super Mario Bros Wii Soundtrack
+519; Castlevania II - Simon's Quest
+520; Dance Dance Revolution 3rdMIX ORIGINAL SOUNDTRACK
+521; Mario Party 9 Soundtrack
+522; Assassin's Creed Unity (2014) Original Soundtrack
+523; Monster Hunter 4
+524; Golden Sun
+525; Spiderman - the Amazing
+526; Pokemon XD - Gale of Darkness (GC)
+527; dot hack G.U. Game Music OST 2
+528; Persona 2 Innocent Sin Original Soundtrack
+529; Super Robot Wars (Taisen) OG
+530; Burnout 5 Revenge
+531; King of Fighters '96 Original Sound Trax
+532; Mafia (gamerip)
+533; Metal Gear Solid 2 Sons of Liberty Original Soundtrack
+534; Rockman Zero Physis (Remastered Tracks) (Rockman Zero 2, Rockman Zero 4)
+535; World of Warcraft 7 Legion (Soundtrack) (2016)
+536; Dance Dance Revolution 1st Mix Original Soundtrack
+537; Legend of Zelda, The
+538; Shantae - Half-Genie Hero OST
+539; Max Payne 2 Original Soundtrack (Game Rip)
+540; Warcraft 3 Frozen Throne
+541; Vivid Sounds x Hybrid Colors - Sonic Colors Original Soundtrack
+542; Sonic and All-Stars Racing Transformed
+543; Super Castlevania IV (1991) (SNES)
+544; Destiny - The Taken King Original Soundtrack
+545; Castlevania Dawn of Sorrow
+546; Tales of Vesperia
+547; Mortal Kombat
+548; Super Metroid - Sound In Action
+549; Assassin's Creed Syndicate Soundtrack
+550; Who Wants To Be a Millionaire
+551; Drag-On Dragoon 3 Original Soundtrack
+552; Warcraft III - Reign Of Chaos Soundtrack
+553; Diablo I + Hellfire Soundtrack 
+554; Fallout - New Vegas Original Game Soundtrack
+555; Need for Speed - Most Wanted Black Edition Soundtrack
+556; My Little Pony - Fighting is Magic
+557; Castlevania Bloodlines OST (1994) (Sega Genesis)
+558; Super Smash Bros. (3DS) (gamerip)
+559; Crash Twinsanity Music Soundtrack
+560; Super Mario All-Stars Super Mario Bros
+561; Monster Hunter Soundtrack Book - Original Soundtrack + Visua
+562; WarioWare, Inc. Mega Party Game$!
+563; Dark Souls 2 Scholar of the First Sin Original Soundtrack (2015)
+564; Sonic Advance 3 Complete Sound Trax Rip
+565; Dragon Quest Game Music Super Collection VOL.1
+566; Hitman 2 - Silent Assassin
+567; Face to Faith Sonic and the Black Knight Vocal Trax
+568; Shinobi 3 - Return of the Ninja Master Original Game Audio
+569; The Hobbit - Original Soundtrack
+570; Starbound Soundtrack
+571; SaGa Series 20th Anniversary Original Soundtrack -Premium Box-
+572; Terraria Soundtrack
+573; WWE Smackdown! Here Comes the Pain (PS2 Rip)
+574; Soulcalibur Original Soundtrack
+575; Mario Party 10
+576; DIGITAL DEVIL SAGA ~Avatar Tuner~ 1 & 2 Original Sound Track Integral
+577; Tekken 7 ''Soundtrack Plus''
+578; God of War - Ascension Original Soundtrack
+579; Dark Souls III - The Ringed City Extended Soundtrack
+580; Tales of Symphonia: Original Soundtrack
+581; Naruto Shippuden - Ultimate Ninja 5
+582; Kirby Super Star Original Game Audio
+583; Pokemon Colosseum
+584; Castlevania - Lords of Shadow 2 - The Expanded Soundtrack
+585; Sonic Lost World - Without Boundaries
+586; Blazblue Continuum Shift
+587; Castlevania Circle of the Moon & Harmony Of Dissonance
+588; Sonic Riders Original Soundtrack speedbeats grand prix
+589; Beyblade 2000
+590; Gran Turismo 3 A-spec Original Game Sound Track
+591; Mario Party 3 Original Soundtrack
+592; Rockman Zero Mythos (Remastered Tracks) (Rockman Zero 1~4, Rockman Zero Collection)
+593; Saints Row The Third
+594; Shadow of the Colossus Original Soundtrack: Roar of the Earth
+595; Sly Cooper and the Thievius Raccoonus
+596; Ponyo OST
+597; Shantae and the Pirate's Curse
+598; Kirby and The Rainbow Curse
+599; Metal Slug 5 Original Soundtrack
+600; Kirby 64 - The Crystal Shards (N64)
+601; Mario & Sonic at the London 2012 Olympic Games
+602; Sonic and Knuckles Collection
+603; Kirby 64: The Crystal Shards
+604; Mass Effect 2 (Original Score) (2010)
+605; Tekken Tag Tournament 2 Original Soundtrack Plus
+606; Hitman - Blood Money
+607; WWF SmackDown! [Exciting Pro Wrestling] (2000) (Playstation) (gamerip)
+608; Super Smash Bros. Original Soundtrack
+609; JoJo's Bizzare Adventure - Battle Tendency [Leicht Verwendbar]
+610; Inazuma Eleven Original Soundtrack
+611; FLCL Original Soundtrack 3
+612; Total War - Shogun 2 (gamerip) (2011)
+613; Silent Hill 2 - Complete
+614; Mortal Kombat (Arcade) (1992)
+615; Phoenix Wright Ace Attorney - Dual Destinies Original Soundtrack
+616; Mario & Sonic at the Olympic Winter Games (Wii)
+617; Crysis 2
+618; Dragon Ball Xenoverse
+619; The Binding of Isaac Soundtrack
+620; Tekken 2 Strike Fighting Vol.1
+621; Super Mario World (NES) (gamerip)
+622; Metroid - Super Metroid (1994) (SNES)
+623; Furi Kuri (FLCL) Original Soundtrack 1 - Addict
+624; Call of Duty - Modern Warfare
+625; Mega Man Zero 4
+626; Yoshi's Island Original Sound Version
+627; Lego Star Wars III - The Clone Wars
+628; Chrono Trigger Remixes
+629; Galaga (Arcade)
+630; Phoenix Wright - Ace Attorney Trilogy (3DS)
+631; Wii Music Collection
+632; Project X Zone 2 (3DS) (gamerip)
+633; Fallout 1 Original Soundtrack
+634; Sonic - Before The Sequel '12 Original Soundtrack
+635; Fire Emblem Fates (if) (Japanese OST, Japanese Tags)
+636; Tony Hawk's Pro Skater 4 (Game Rip)
+637; Rockman X5 Original Soundtrack + Beta Tracks
+638; Bokujou Monogatari ~ Harvest Moon Original Soundtrack
+639; Fallout 3 Original Game Soundtrack
+640; Ninja Gaiden
+641; Sonic Advance (Remastered)
+642; Sonic Advance 2
+643; Klonoa Of The Wind ~ Door To Phantomile
+644; Terraria Complete Soundtrack
+645; Pokemon Mystery Dungeon - Blue Rescue Team
+646; Metal Gear Solid & Twin Snakes - The Complete Soundtrack (gamerip)
+647; Castlevania - Dracula X (Castlevania - Vampire's Kiss) (1995) (SNES)
+648; Super Smash Bros. Melee Disc 1
+649; Tokyo Mirage Sessions #FE (gamerip)
+650; Street Fighter II - Alfh Lyra with Toriyama Yuuji
+651; Dragon Ball Z - Ultimate Tenkaichi
+652; Heroes of Might and Magic III
+653; Ace Combat 6
+654; Super Smash Bros. for 3DS and Wii U Vol 11. Fire Emblem
+655; Einhander Original Soundtrack
+656; Shin Megami Tensei IV Original Soundtrack
+657; Castlevania Lament of Innocence
+658; Kirby Star Allies (Switch) (gamerip)
+659; Jak and Daxter - The Precursor Legacy Rip
+660; Legend of Mana - Original Soundtrack
+661; Star Wars - The Force Unleashed
+662; Portal Soundtrack
+663; Sonic & Sega All-Stars Racing
+664; Shadow The Hedgehog Vocal Trax - Lost And Found
+665; Mystic Messenger OST (Cheritz)
+666; Ace Combat Zero: The Belkan War
+667; Bioshock - Soundtrack
+668; JoJo's Bizzare Adventure - All Star Battle Complete OST
+669; Spyro the Dragon 2 - Riptos Rage (PSX Rip)
+670; Yoshi's Story (N64) (gamerip)
+671; Super Mario 64 DS
+672; Disney Collection Volume 2
+673; Battlefield 3
+674; Street Fighter III - New Generation
+675; Star Fox (1993) (SNES)
+676; Max Payne 3
+677; Sonic and Sega All-Stars Racing Soundtrack
+678; Metal Gear Rising
+679; Gran Turismo 5
+680; Castlevania III - Dracula's Curse
+681; Madoka Magica Hangyaku no Monogatari Original Soundtrack
+682; Mega Man 6
+683; Hitman Blood Money Original Soundtrack
+684; Dr. Robotniks Mean Bean Machine
+685; Killer Instinct (Xbox One) (Killer Instinct 3)
+686; City Hunter - Best Collections
+687; Star Fox Zero
+688; Sonic The Fighters Sound Tracks
+689; Legend of Heroes - Sen no Kiseki II Original Soundtrack
+690; Game of Thrones - A Telltale Games Series (gamerip) (2015)
+691; Call of Duty - Black Ops 2 - Zombies - Mob of the Dead
+692; Asura's Wrath
+693; Unreal Tournament Original Soundtrack
+694; Sly Cooper 2 - Band of Thieves
+695; Metal Gear Solid 4 Guns of the Patriots Expanded Score (gamerip)
+696; Zelda Reorchestrated - 05 - Ocarina of Time
+697; Sonic Advance 2 (Remastered)
+698; Kirby & The Amazing Mirror
+699; Pokemon Stadium
+700; Teenage Mutant Ninja Turtles (Arcade) (gamerip)
+701; Super Smash Bros. for 3DS and Wii U Vol 09. Pokemon
+702; Call of Duty Black Ops III (Official Soundtrack)
+703; Rewrite Original Soundtrack
+704; Vampire Sound Box (Darkstalkers)
+705; Yokai Watch Original Soundtrack
+706; Diddy Kong Racing (N64)
+707; Castlevania Aria of Sorrow
+708; Castlevania (Akumajo Dracula) Chronicles Original Soundtrack
+709; Golden Sun - The Lost Age
+710; Super Mario Advance 4 (Super Mario Brothers 3)
+711; F-Zero (1990) (SNES)
+712; Spyro 3
+713; The Warriors Soundtrack
+714; Pokemon Mystery Dungeon - Gates to Infinity
+715; Dragon Ball Z Buu's Fury Soundtrack
+716; Melty Blood - Actress Again (ALL OVER MELTY BLOOD) Limited Edition Original Sound Track
+717; Granblue Fantasy Original Soundtrack
+718; Dragon Quest VIII Sorato Umito Daichito Norowareshi Himegimi Symphonic Suite
+719; SD Gundam G Generation Overworld
+720; Mega Man X Arranged Album (ALPH-LYLA with TOSHIAKI OHTSUBO)
+721; NieR Automata Arranged & Unreleased Tracks
+722; Mega Man X7
+723; Tales of the Abyss Original Soundtrack
+724; Mass Effect 3 - N7 Collector's Edition Soundtrack
+725; Bioshock (I Am Rapture - Rapture is Me) OST
+726; Rayman Origins
+727; Rockman 10 Original Soundtrack
+728; Azure Striker Gunvolt
+729; Mario & Sonic at the Rio 2016 Olympic Games - Original Sound Version
+730; King of Fighters XIV Original Soundtrack
+731; Metal Slug
+732; Ratchet & Clank
+733; NiGHTS ~Journey of Dreams Original Soundtrack
+734; Phoenix Wright 3 - Ace Attorney - Trials and Tribulations
+735; Fire Emblem 7 - Rekka no Ken (gamerip)
+736; Monster Hunter 3
+737; Street Fighter III 2nd Impact Giant Attack Original Sound Track
+738; God of War - Ghost of Sparta Original Soundtrack
+739; Pac-Man World 2 (PS2-Gamecube-XBOX) Soundtrack
+740; World of Warcraft 1 (gamerip)
+741; Tomodachi Life (3DS)
+742; Persona 2 Innocent Sin
+743; Tekken
+744; Sonic Advance
+745; Killer Instinct 1 & 2 - The Complete Soundtrack
+746; Castlevania 64 (N64)
+747; Yoshi's New Island
+748; Legend of Zelda, The - Breath of the Wild - The Champions' Ballad Soundtrack
+749; James Bond 007 - Nightfire Original Soundtrack
+750; Bloodborne - The Old Hunters (Original Soundtrack) (2016)
+751; Metal Gear Solid 1 - Twin Snakes (Game Rip)
+752; Kirby Squeak Squad
+753; Mario Kart 7
+754; Killer Instinct - Season One and Original Arcade Soundtrack
+755; Ace Attorney Investigations 2
+756; Legend of Zelda, The - Breath of the Wild Sound Selection
+757; The Last of Us, Volume 2 (2014)
+758; Prince of Persia - The Two Thrones Original Game Soundtrack
+759; Legend of Dragoon - Original Soundtrack
+760; Castlevania Judgement (Wii)
+761; Hatsune Miku -Project DIVA- 2nd
+762; The Binding of Isaac - Antibirth OST
+763; Journey
+764; Metal Slug 6
+765; Castlevania - Curse of Darkness (Akumajo Dracula - Yami no Juin) Limited Edition Soundtrack Sampler
+766; Duck Tales
+767; Warcraft 2 - Tides of Darkness (CDA)
+768; Donkey Kong Country Returns
+769; Contra III - The Alien Wars (1992) (SNES)
+770; Assassin's Creed IV Black Flag Sea Shanty Edtion Vol 2
+771; Spider-Man (PSX)
+772; Need for Speed 3 - Hot Pursuit (PC Rip)
+773; Quake 2
+774; Wario Land Shake It! - Original Sound Version
+775; Persona (PSX)
+776; The Sims 2 Soundtrack
+777; Left 4 Dead 2 (gamerip)
+778; Dragon Ball Z - Buu - The Majin Buu Sagas
+779; Sonic Free Riders Original Soundtrack - Break Free
+780; Castlevania - Rondo of Blood (Akumajo Dracula X) Original Soundtrack
+781; Wolfs Rain Original Soundtrack
+782; Mario Party DS
+783; Jikkyou Oshaberi Parodius (Sega Saturn)
+784; Mega Man X Corrupted
+785; Dragon Ball BGM
+786; Dragon Ball Z Budokai 3 Original Soundtrack
+787; Harvest Moon: A Wonderful Life
+788; Star Fox 64 Original Soundtrack
+789; Super Mario World Arranged Original Soundtrack
+790; Kirby's Dream Land
+791; Hotel Mario (CDi)
+792; Mario Paint (1992) (SNES)
+793; Silent Hill Volume 2 OST
+794; Sonic the Hedgehog 2 Remaster
+795; Space Dandy OST2 Boobies Wonderland
+796; Yoshi's Island (SNES)
+797; Tekken Tag Tournament Arcade OST
+798; King of Fighters '99
+799; Super Mario Bros 2 (NES) (Rip)
+800; Super Mario World (1990) (SNES)
+801; Soul Blade (Playstation) (Rip)
+802; The Godfather - The Game Original Soundtrack
+803; Ryu ga Gotoku 5 Yume, Kanaeshi Mono Original Soundtrack Vol.1 (Yakuza 5)
+804; Ryu ga Gotoku 5 Yume, Kanaeshi Mono Original Soundtrack Vol.2 (Yakuza 5)
+805; King of Fighters '95 Original Sound Trax
+806; Whisper of the Heart Original Soundtrack
+807; City Hunter Original Animation Soundtrack Vol. 1
+808; Max Anarchy ~ Anarchy Reigns - The Expanded Soundtrack
+809; Apollo Justice Ace Attorney Original Soundtrack
+810; Rockman Sound Box
+811; Ace Combat Infinity & Series Music Best
+812; Megadimension Neptunia VII Dream Edition DG-ROM
+813; Super Smash Bros Brawl - Lost Tracks
+814; Fate Stay Night [Realta Nua] Soundtrack Reproduction
+815; Duke Nukem - Zero Hour (1999) (N64)
+816; Metroid Prime 2 Echoes
+817; Call of Duty - Modern Warfare 2 (PC gamerip)
+818; Miitopia
+819; Super Smash Bros. for 3DS and Wii U Vol 02. Donkey Kong
+820; Tales of Zestiria (Japanese) Original Soundtrack
+821; WWE Smackdown VS Raw (2007) (PS2) (gamerip)
+822; Macross 7 - Fire Bomber - Ultra Fire!!! Fire Bomber Best Alb
+823; Shin Sangokumusou 3 (Dynasty Warriors 4) OST
+824; Kirby Nightmare in Dreamland
+825; Rockman EXE 1~3 Game Music Super Collection
+826; Teenage Mutant Ninja Turtles Turtles In Time
+827; Ace Combat Assault Horizon
+828; Sonic Colors (DS)
+829; World of Warcraft 6 Warlords of Draenor (2014)
+830; LEGO Star Wars
+831; Sonic Adventure Original Soundtrack 20th Anniversary Edition
+832; The Witcher 3 Wild Hunt - Hearts Of Stone
+833; Hitman Contracts Original Soundtrack
+834; Pokemon Mystery Dungeon - Red Rescue Team
+835; Touhou Koumakyou - the Embodiment of Scarlet Devil
+836; NieR Automata Original Soundtrack HACKING TRACKS
+837; Assassin's Creed III: The Tyranny of King Washington DlC OST
+838; Yu-Gi-Oh! Duel Monsters GX Sound Duel Vol I
+839; Dragon Ball Z Ultimate Battle 22 (PSX)
+840; JAM Project - Best Collection I
+841; Super Smash Bros. Melee Disc 2
+842; Dragon Ball Z & Z2 Original Soundtrack
+843; Heroes of Might and Magic IV
+844; Silent Hill - Book of Memories
+845; dot hack Link
+846; Seiken Densetsu Music Complete Book
+847; Batman Arkham Origins
+848; Metal Slug 4
+849; Sonic & Tails
+850; OutRun 20th Anniversary Box
+851; Super Smash Bros. for 3DS and Wii U Vol 21. Nintendo
+852; Dragon Quest Game Music Super Collection VOL.3
+853; Dance Dance Revolution 4th Mix Original Soundtrack
+854; Sonic & All-Stars Racing Transformed Soundtrack
+855; Kirby Planet Robobot (gamerip)
+856; Dr. Mario (GB) Soundtrack
+857; Bomberman 64 Original Soundtrack
+858; Freedom Fighters Original Soundtrack
+859; Watch Dogs (Original Game Soundtrack) Extended Edition (2014)
+860; Team Fortress 2 - Fight Songs, The Music of
+861; Genso Suikoden Original Game Soundtrack
+862; Gran Turismo ~Western Editions~
+863; Assassin's Creed Brotherhood (gamerip)
+864; The Legend of Heroes Sora No Kiseki FC Original Soundtrack
+865; Sonic Mega Collection Plus
+866; Need for Speed - Carbon (Original Score) (2006)
+867; Killer Instinct
+868; Umineko No Naku Koro Ni (visual Novel) Complete OST
+869; King of Fighters '98 Ultimate Match Arrange Soundtrack (PS2 Gamerip)
+870; Croc - Legend of the Gobbos (PSX) Game Rip
+871; Musou Orochi 2 (Warriors Orochi 3) OST (PS3 gamerip)
+872; Kingdom Hearts Dream Drop Distance Original Soundtrack
+873; Pikmin Worlds Original Soundtrack
+874; L.A. Noire
+875; Mario Party 8
+876; Pokemon Emerald (Gameboy Advance) (gamerip)
+877; Shin Sangokumusou 5 (Dynasty Warriors 6) OST
+878; Donkey Kong 64 - Official Soundtrack
+879; Metal Gear Solid 4 Guns Of The Patriots Limited Edition
+880; Metal Gear Solid V - Ground Zeroes OST
+881; LittleBigPlanet (Little Big Planet) (PS3 gamerip) (2009)
+882; Symphogear Vocal Collection
+883; Fire Emblem Fates (if) (English)
+884; Neko No Ongaeshi Original Soundtrack
+885; Shin Sangokumusou 4 (Dynasty Warriors 5) Original Soundtrack
+886; Wario Land IV
+887; King of Fighters 2000 Arranged Soundtrack
+888; Project Soul - The Primary Sound Box -Soul Edge~Soul Calibur I & II-
+889; Call of Duty 2 Original Soundtrack
+890; Silent Hill 4 The Room Original Soundtrack
+891; Sonic Heroes Rip
+892; Teenage Mutant Ninja Turtles (NES)
+893; Gradius 3 (1990) (SNES)
+894; King of Fighters '96 Arrange Sound Trax
+895; Sonic & Knuckles - Sonic the Hedgehog 3 Remix
+896; Zelda Step - Ephixa
+897; Sonic Heroes Vocal Trax Triple Threat
+898; Hyrule Warriors Soundtrack
+899; Unreal Tournament 2004
+900; BUMP OF CHICKEN - Zero (Limited Edition)
+901; Pikmin 3
+902; Mario Party 4 Original Soundtrack
+903; Catherine Original Soundtrack
+904; Scott Pilgrim vs. The World The Game (by Anamanaguchi) - 2010
+905; Sonic the Hedgehog (Sega Master System)
+906; Sonic the Hedgehog Vocal Traxx - Several Wills
+907; Rayman 2 - The Great Escape
+908; Legend of Zelda, The - Twilight Symphony
+909; Ys VIII Lacrimosa of Dana Original Soundtrack
+910; Ace Combat 2
+911; Silent Hill 3 Original Soundtrack
+912; Mass Effect 3
+913; Shin Megami Tensei IV Final Original Soundtrack
+914; Sonic Runners Original Soundtrack Vol 1&2
+915; Star Wars - Battlefront (2015)
+916; The Sims 4
+917; Battlefield Vietnam Original Soundtrack
+918; Dragon Ball Z - Legendary Super Warriors
+919; Donkey Kong Country 3 Soundtrack
+920; Rayman (PSX) Soundtrack
+921; MIME (PC-98) Original Soundtrack (1995)
+922; Super Mario Bros. - The 30th Anniversary
+923; Evil Within, The
+924; Ducati World - Racing Challenge (Sega Dreamcast)
+925; Wario World
+926; Wild Arms Advanced 3rd Original Soundtrack
+927; Pokemon Best Collection
+928; The Sims 3
+929; Captain Toad - Treasure Tracker ~ Original Sound Version
+930; Rockman Zero Idea (Remastered Tracks) (Rockman Zero 2)
+931; Diddy Kong Racing N64
+932; Jet Set Radio Future Unreleased Tracks
+933; Wolfenstein - Return to Castle
+934; Armored Core for Answer Original Soundtrack
+935; Rhythm Heaven (gamerip)
+936; Saints Row 4
+937; Monster Hunter 3 Ultimate (Monster Hunter 3G) (2011) (gamerip)
+938; Neverhood
+939; Streets of Rage 3
+940; Winning Eleven Original Soundtrack
+941; Mario Super Sluggers (Wii)
+942; Legend of Zelda, The - Phantom Hourglass (gamerip)
+943; Klonoa 2 - Lunatea's Veil Music Collection
+944; No More Heroes 2 Desperate Struggle Original Sound Tracks
+945; Fate Extra OST
+946; Sonic 3 & Knuckles - Project Chaos
+947; Shiro Sagisu - Music From EVANGELION 1.0 YOU ARE (NOT) ALONE
+948; Pokemon Yellow - Blue - Red (GB)
+949; Ace Combat 3 - Electrosphere
+950; Super Mario Land 3 Wario Land
+951; Gradius Ultimate Collection
+952; Shin Sangokumusou 6 (Dynasty Warriors 7)
+953; Diablo - The Music of - 1996-2011 - Diablo 15 Year Anniversary
+954; Darksiders 2 Complete Soundtrack
+955; Gran Turismo 2 Music at the Speed of Sound
+956; World of Warcraft 3-3 Fall of the Lich King Soundtrack
+957; Dragon Ball - Raging Blast
+958; Banjo-Tooie Soundtrack
+959; Super Smash Bros. for 3DS and Wii U Vol 04. Metroid
+960; Namco Game Sound Express Vol.4 - Dragon Saber
+961; Tenchu 3 - Wrath of Heaven
+962; Fatal Fury (Garou Densetsu) Special Original Soundtrack
+963; Mega Man Zero
+964; Jazz Jackrabbit 2
+965; Brave Fencer Musashiden Original Soundtrack
+966; Ninja Gaiden (Xbox)
+967; Kirby's Dream Land 3 (1997) (SNES)
+968; Earthbound Zero - Mother
+969; Pokken Tournament
+970; Yu Yu Hakusho Collective Songs
+971; VA-11 HALL-A - Second Round
+972; Gradius Gaiden Original Game Soundtrack
+973; Legend of Zelda, The - Phantom Hourglass
+974; Gran Turismo 5 (gamerip)
+975; Double Dragon Neon
+976; Noir - Original Soundtrack 1
+977; Demon's Souls Original Soundtrack
+978; RockMan (Mega Man) Powered Up
+979; Mega Man Zero 2
+980; Fate Stay Night Game Original Soundtrack
+981; Mega Man 2 Arranged Album
+982; RockMan 3 (Mega Man 3) Complete Works
+983; Mario Kart 8 DLC
+984; Sonic - Unleashed Project ~White Space~ OST
+985; Super Star Wars - The Empire Strikes Back (1993) (SNES)
+986; Rockman EXE (Mega Man Battle Network) Sound Box
+987; Call of Duty - Modern Warfare (Complete Score)
+988; Max Payne (2001)
+989; Silent Hill - Shattered Memories
+990; Silent Hill 3 Complete Soundtrack Ultimate Edition
+991; Ookami Kodomo no Ame to Yuki - Wolf Children
+992; Um Jammer Lammy Original Soundtrack
+993; Dragon Quest Game Music Super Collection VOL.2
+994; Ace Attorney Investigations - Miles Edgeworth
+995; Little Red Riding Hood's Zombie BBQ (DS)
+996; Battlefield 1 (gamerip) (2016)
+997; Dragon Ball Z - Dokkan Battle
+998; Super Bomberman R Original Soundtrack
+999; Need for Speed - Most Wanted Original Score
+1000; Furi (Complete Arragements)
