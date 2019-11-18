@@ -13,10 +13,10 @@ questions, that cannot be answered by any one dataset currently in existence.
 
 Are there any correlations between:
     
-    * The age of a composer and the rating of a soundtrack?
-    * The average rating of a video game and how highly ranked its soundtrack is?
-    * The ranking of a video game soundtrack and the game genre?
-    * Which soundtracks are highly ranked and the game's ESRB rating?
+* The age of a composer and the rating of a soundtrack?
+* The average rating of a video game and how highly ranked its soundtrack is?
+* The ranking of a video game soundtrack and the game genre?
+* Which soundtracks are highly ranked and the game's ESRB rating?
     
 Does a given composer tend to write music for a certain game genre, or is there
 a tendency to not be limited by game genre?
