@@ -1,0 +1,109 @@
+#songlist, #top40 {
+	text-align: left;
+	width: 526px;
+	border: 1px solid #444;
+	border-collapse: collapse;
+	margin-left: 10px;
+}
+
+#songlist .plSel {
+	opacity: 0.8;
+	background-color: #CCC;
+}
+
+
+
+#songlist th, #top40 th {
+	border-bottom: 1px solid #444;
+	border-top: 1px solid #444;
+	padding: 3px;
+	background-color: #CCCC99;
+}
+
+#songlist tr td, #top40 tr td {
+	padding: 3px;
+}
+
+#songlist tr:hover, #top40 tr:hover {
+	background-color: #AAA;
+}
+
+.playlistDownloadSong i, .playlistAddTo i {
+	font-size: 18px; 
+	padding-top: 1px;
+}
+
+.clickable-row a {
+	height: 100%
+	width: 100%;
+	display:block;
+}
+
+.clickable-row :hover {
+	cursor: pointer;
+}
+
+.playTrack {
+	height:100%;
+	width:100%;
+	display:block;
+	cursor:pointer
+}
+
+.arrow-play {
+	width: 0;
+	height: 0;
+	border-top: 5px solid transparent;
+	border-bottom: 5px solid transparent;
+	border-left: 5px solid #8d8d8d;
+}
+
+.albumMassDownload {
+	height: 40px;
+	padding-left: 10px;
+	text-align: left;
+}
+
+.albumMassDownload i {
+	display: inline-block;
+	vertical-align: middle;
+	padding-top: 5px;
+}
+
+
+.albumMassDownload div {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 5px;
+}
+
+#top40 tr {
+	height: 30px;
+}
+
+.playlistAddTo {
+	text-align: center;
+	width: 20px
+}
+
+.playlistAddTo div, #top40 .movement div {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.playlistAddTo i, #top40 .movement i {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.playlistAddTo :hover {
+
+}
+
+
+
+.songDownloadLink i {
+	float:left;
+	font-size: 16px;
+	padding-right: 5px;
+}

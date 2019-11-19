@@ -1,0 +1,1953 @@
+Rank, Album Name, Rating (#votes), Popularity
+1, DIABOLIK LOVERS Vol.1 Bonus CD, 3.80 (15), 0.0006
+2, Eiga Precure Dream Stars! Original✿Soundtrack, 4.10 (15), 0.0006
+3, DIABOLIK LOVERS, 4.04 (14), 0.0006
+4, Haikyu!! SPECIAL DISC VOL. 07, 4.04 (14), 0.0006
+5, Eiga Kirakira☆Precure à la Mode Paris-tto! Omoide no Mille-feuille! Original Soundtrack, 4.50 (13), 0.0006
+6, nightmare, 4.31 (13), 0.0006
+7, Haikyu!! SPECIAL DISC VOL. 01, 4.31 (13), 0.0006
+8, Haikyu!! SPECIAL DISC VOL. 02, 4.31 (13), 0.0006
+9, Haikyu!! SPECIAL DISC VOL. 03, 4.31 (13), 0.0006
+10, Haikyu!! SPECIAL DISC VOL. 04, 4.31 (13), 0.0006
+11, Haikyu!! SPECIAL DISC VOL. 05, 4.31 (13), 0.0006
+12, Haikyu!! SPECIAL DISC VOL. 08, 4.31 (13), 0.0006
+13, Haikyu!! SPECIAL DISC VOL. 09, 4.31 (13), 0.0006
+14, DIVE!! Original Soundtrack & Original Drama CD, 5.00 (11), 0.0006
+15, Haikyu!! SPECIAL DISC VOL. 06, 5.00 (11), 0.0006
+16, SQUARE ENIX MUSiC SAMPLER CD Vol.10, 4.58 (13), 0.0029
+17, The Best of Final Fantasy 1994-1999: A Musical Tribute, 1.00 (11), 0.0034
+18, Kirakira☆Precure à la Mode Original Soundtrack 1: Precure☆Sound☆Decoration!!, 4.33 (15), 0.0040
+19, Ao Haru Ride Original Soundtrack, 4.29 (14), 0.0043
+20, DIVE!! Original Soundtrack (Special Edition), 3.77 (11), 0.0044
+21, GUNDAM BUILD FIGHTERS TRY ORIGINAL SOUNDTRACK 02, 4.13 (16), 0.0046
+22, GUNDAM BUILD FIGHTERS TRY ORIGINAL SOUNDTRACK 02, 4.41 (16), 0.0063
+23, DIABOLIK LOVERS Vol.4 Bonus CD, 4.10 (15), 0.0077
+24, Music Inspired By Final Fantasy, 1.54 (12), 0.0087
+25, ONE PIECE FILM GOLD Original Soundtrack, 4.12 (17), 0.0087
+26, Xenoblade Chronicles X Soundtrack Selection, 1.50 (14), 0.0091
+27, PROMARE ORIGINAL SOUNDTRACK, 4.86 (11), 0.0123
+28, 2V-ALK / SawanoHiroyuki[nZk] [Limited Edition], 4.25 (12), 0.0125
+29, TRICKSTER -Edogawa Ranpo "Shounen Tanteidan" yori- ORIGINAL SOUNDTRACK, 4.06 (18), 0.0126
+30, KABANERI OF THE IRON FORTRESS COMPLETE SOUNDTRACK, 4.13 (16), 0.0136
+31, 2V-ALK / SawanoHiroyuki[nZk], 4.29 (12), 0.0136
+32, MY HERO ACADEMIA 2018 Original Soundtrack, 3.88 (12), 0.0136
+33, DIABOLIK LOVERS MORE,BLOOD I Bonus CD, 5.00 (14), 0.0136
+34, SOUL EATER NOT! ORIGINAL SOUNDTRACK SELECTION, 4.00 (17), 0.0138
+35, KODOKU NO KAKE -itoshiki hitoyo- Original Soundtrack, 5.00 (11), 0.0152
+36, A Song to the Sun ORIGINAL SOUNDTRACK, 4.95 (11), 0.0155
+37, SOUL EATER NOT! NOTri! CD5 ~ BGM Collection Part1, 4.77 (13), 0.0159
+38, SOUL EATER NOT! NOTri! CD6 ~ BGM Collection Part2, 4.77 (13), 0.0159
+39, DRAMAtical Murder SPECIAL CDs, 4.18 (17), 0.0165
+40, TV ANIMATION "HAIKYU!! SECOND SEASON" ORIGINAL SOUNDTRACK 1, 4.50 (20), 0.0172
+41, TV ANIMATION "HAIKYU!! SECOND SEASON" ORIGINAL SOUNDTRACK 2, 4.79 (17), 0.0174
+42, ROBOTICS;NOTES Vol.3 Bonus CD, 4.36 (14), 0.0176
+43, TV ANIMATION RUN WITH THE WIND ORIGINAL SOUNDTRACK, 3.93 (14), 0.0185
+44, GUNDAM BUILD FIGHTERS TRY ORIGINAL SOUNDTRACK 01, 4.08 (19), 0.0186
+45, Classroom☆Crisis Original Soundtrack, 3.93 (22), 0.0192
+46, BOSS ORIGINAL SOUNDTRACK, 4.98 (22), 0.0200
+47, ROBOTICS;NOTES Vol.8 Bonus CD, 4.50 (15), 0.0201
+48, BLUE EXORCIST Kyoto Saga Original Soundtrack, 4.08 (13), 0.0207
+49, Boku dake ga Inai Machi Original Soundtrack, 4.64 (14), 0.0214
+50, GUILTY CROWN COMPLETE SOUNDTRACK, 4.75 (14), 0.0216
+51, STREETS OF RAGE, 4.36 (11), 0.0224
+52, musica / Hiroyuki Sawano, 4.75 (16), 0.0224
+53, Blood Lad O.S.T. 2, 4.29 (17), 0.0227
+54, Konami Game Music Remix Series Vol.1 Dracula X Remixies, 1.77 (13), 0.0230
+55, TV ANIMATION ROBOTICS;NOTES ORIGINAL SOUNDTRACK, 4.13 (19), 0.0233
+56, TV ANIMATION MY HERO ACADEMIA 2nd ORIGINAL SOUND TRACK, 4.26 (21), 0.0239
+57, Blood Lad O.S.T. 1, 4.17 (18), 0.0254
+58, GUILTY CROWN SOUNDTRACK ANOTHER SIDE 03, 4.42 (12), 0.0255
+59, SONIC Adventure REMIX, 3.50 (12), 0.0259
+60, MOBILE SUIT GUNDAM NARRATIVE ORIGINAL SOUNDTRACK, 4.43 (21), 0.0269
+61, Kirakira☆Precure à la Mode Original Soundtrack 2: Precure♡Sound♡Go Round!!, 4.24 (19), 0.0273
+62, TV Animation "Sengoku BASARA Ni" Ongaku Emaki Ni ~Ransei, Futatabi!~, 4.63 (12), 0.0276
+63, ZOMBIE-LOAN ORIGINAL SOUNDTRACK, 4.77 (13), 0.0277
+64, SONIC ADVENTURE 2 Original Soundtrack 20th Anniversary Edition, 4.14 (11), 0.0278
+65, Junji Ito Collection ORIGINAL SOUNDTRACK, 4.27 (11), 0.0278
+66, THE KING OF SOUNDTRACKS '94-XIII, 4.36 (11), 0.0281
+67, UnChild / SawanoHiroyuki[nZk]:Aimer, 4.54 (14), 0.0281
+68, Best of the Best, Volume I, 2.77 (13), 0.0281
+69, GUILTY CROWN SOUNDTRACK ANOTHER SIDE 02, 4.46 (12), 0.0283
+70, R∃/MEMBER / SawanoHiroyuki[nZk], 4.86 (14), 0.0288
+71, KIZNAIVER ORIGINAL SOUNDTRACK 01, 4.36 (18), 0.0289
+72, KIZNAIVER ORIGINAL SOUNDTRACK 02, 4.19 (18), 0.0291
+73, Dragon Quest Best Dance Mix, 2.17 (12), 0.0292
+74, TALES OF THE TEMPEST Original Soundtrack, 3.14 (11), 0.0296
+75, Denpa Ningen no RPG Original Soundtrack, 2.54 (12), 0.0304
+76, Thunderbolt Fantasy Sword seekers Original Soundtrack, 4.75 (18), 0.0305
+77, Attack on Titan -Guren no Yumiya- Original sound track, 4.29 (12), 0.0308
+78, Shin Megami Tensei: Persona 3 Original Soundtrack, 3.41 (11), 0.0310
+79, The Seven Deadly Sins ORIGINAL SOUNDTRACK 2, 4.28 (16), 0.0320
+80, We Are Error, 4.23 (11), 0.0320
+81, Donkey Kong Country 3: Double the Trouble!, 3.21 (12), 0.0323
+82, PLATINA DATA Original Soundtrack, 4.95 (11), 0.0324
+83, Death Parade Original Soundtrack Digest Edition, 3.75 (22), 0.0325
+84, GRADIUS house ReMix, 2.35 (13), 0.0331
+85, GUILTY CROWN SOUNDTRACK ANOTHER SIDE 01, 4.42 (12), 0.0332
+86, KILL la KILL REARRANGE & REMIX SOUNDTRACK CD, 3.87 (15), 0.0333
+87, Triangle Original Soundtrack, 4.98 (22), 0.0334
+88, ZELDA Triforce Trilogy, 3.90 (15), 0.0345
+89, DECADE OF EXPOSE, 3.23 (11), 0.0350
+90, TV animation Gigantic Formula Original Sound Track Vol.2, 4.83 (12), 0.0353
+91, TV animation Gigantic Formula Original Sound Track Vol.1, 4.89 (14), 0.0353
+92, ROCKMAN HOLIC ~the 25th Anniversary~, 3.82 (11), 0.0355
+93, Dione Aggregation, 4.00 (11), 0.0361
+94, narrative/NOISEofRAIN / SawanoHiroyuki[nZk], 4.41 (17), 0.0362
+95, Seraph of the end: Battle in Nagoya ORIGINAL SOUNDTRACK, 4.38 (13), 0.0364
+96, THE LEGEND OF ZELDA BREATH OF THE WILD SOUND SELECTION, 3.25 (16), 0.0366
+97, Sonic the Hedgehog 2: Hedgehog Heaven, 3.54 (12), 0.0369
+98, Over The Rainbow, 4.36 (11), 0.0369
+99, BEFORE THE FALL: FINAL FANTASY XIV Original Soundtrack, 3.63 (12), 0.0370
+100, DISSIDIA FINAL FANTASY -Arcade- ORIGINAL SOUNDTRACK, 3.03 (16), 0.0371
+101, Blue Exorcist Plugless [Limited Edition], 4.64 (14), 0.0372
+102, Solitude Blossom, 3.55 (11), 0.0374
+103, Valhalla Knights -Eldar Saga- Original Soundtrack, 3.13 (12), 0.0381
+104, FINAL FANTASY X-2 Vocal Collection PAINE, 2.27 (13), 0.0382
+105, PLAY! A VIDEO GAME SYMPHONY LIVE!, 2.71 (14), 0.0382
+106, Distant Worlds III: more music from FINAL FANTASY, 3.82 (11), 0.0386
+107, Grand Theft Auto: Vice City Official Soundtrack Box Set, 4.58 (12), 0.0390
+108, Portal 2: Songs to Test By Volume 2, 3.95 (11), 0.0398
+109, TV ANIMATION "HAIKYU!! THIRD SEASON" ORIGINAL SOUNDTRACK, 4.10 (24), 0.0399
+110, RIDGE LASER, 2.75 (12), 0.0399
+111, YAMANAIAME, 4.54 (12), 0.0400
+112, Shenmue Jukebox, 3.41 (11), 0.0403
+113, Spectrum of Mana, 4.27 (11), 0.0404
+114, STREET FIGHTER X TEKKEN ORIGINAL SOUND TRACK, 3.09 (11), 0.0405
+115, Death Parade Blu-ray BOX Bonus Discs, 4.42 (19), 0.0407
+116, Mare Original Soundtrack, 4.72 (23), 0.0410
+117, THE LEGEND OF HEROES: SEN NO KISEKI II ORIGINAL SOUNDTRACK, 4.45 (11), 0.0413
+118, Immortal 2, 3.68 (11), 0.0413
+119, Mega Man X: Maverick Rising, 4.00 (15), 0.0417
+120, GRADIUS TRIBUTE, 2.50 (12), 0.0419
+121, Teenage Mutant Ninja Turtles: Shell Shocked, 3.82 (11), 0.0420
+122, DmC: Devil May Cry Noisia Soundtrack, 2.58 (12), 0.0424
+123, SONIC ADVENTURE Original Soundtrack 20th Anniversary Edition, 4.64 (11), 0.0424
+124, KILL la KILL ORIGINAL SOUNDTRACK CD Vol.2, 4.47 (16), 0.0425
+125, Seraph of the end ORIGINAL SOUNDTRACK, 4.37 (15), 0.0425
+126, Speed Nation: The Original RR64 Soundtrack, 3.36 (11), 0.0427
+127, N7 Collector's Edition Soundtrack, 3.50 (11), 0.0437
+128, Sonic the Hedgehog: The Sound of Speed, 3.75 (14), 0.0439
+129, TRIPLE THREAT: SONIC HEROES VOCAL TRAX, 3.85 (13), 0.0439
+130, Shadow the Hedgehog Original Soundtrax, 4.08 (13), 0.0440
+131, FINAL FANTASY XV Original Soundtrack, 3.65 (13), 0.0441
+132, POP | CULTURE, 2.79 (12), 0.0442
+133, ALICE ORDER ORIGINAL SOUNDTRACK, 4.71 (19), 0.0450
+134, DEVILMAN crybaby Original Soundtrack, 4.05 (11), 0.0451
+135, BLUE REFLECTION OFFICIAL SOUNDTRACK, 4.64 (11), 0.0452
+136, MOBILE SUIT GUNDAM UNICORN ORIGINAL SOUNDTRACK 4, 4.40 (21), 0.0453
+137, ALDNOAH.ZERO ORIGINAL SOUNDTRACK 2, 4.18 (25), 0.0454
+138, 1080° Snow Boarding Original Sound Track, 2.77 (11), 0.0459
+139, o1 / SawanoHiroyuki[nZk], 4.68 (11), 0.0459
+140, Sengoku BASARA -The Last Party- Ongaku Emaki ~Saraba, Tomo yo~, 4.58 (12), 0.0461
+141, MARIO SPORTS CD: MARIO TENNIS GC & MARIO GOLF FAMILY TOUR THE BEST, 3.77 (11), 0.0462
+142, TV ANIMATION "HAIKYU!!" ORIGINAL SOUND TRACK 2, 4.27 (22), 0.0462
+143, Monster Hunter Swing ~Big Band Jazz Arrange~, 3.45 (11), 0.0464
+144, X.U. | scaPEGoat / SawanoHiroyuki[nZk] [Limited Edition], 4.42 (13), 0.0466
+145, Medal of Honor original soundtrack recording, 4.27 (11), 0.0472
+146, Blood on the Asphalt: A Super Street Fighter 2 Turbo ReMix Collaboration, 3.00 (19), 0.0473
+147, Crimson Blitz - LIGHTNING RETURNS:FINAL FANTASY XIII, 3.58 (12), 0.0481
+148, Rockman X Command Mission Original Soundtrack, 3.86 (11), 0.0481
+149, SHENMUE, 3.83 (12), 0.0483
+150, Capcom vs. SNK Millennium Fight 2000 Original Soundtrack, 3.15 (13), 0.0483
+151, HIROYUKI SAWANO BEST OF SOUNDTRACK [emU] [Limited Edition], 4.38 (13), 0.0484
+152, Heroes vs. Villains, 3.91 (16), 0.0487
+153, RED, 4.08 (12), 0.0487
+154, Persona 4 soundtrack side a, 3.97 (15), 0.0489
+155, PERFECT COLLECTION BRANDISH, 3.09 (11), 0.0491
+156, Rockman ZX Soundsketch "ZX Gigamix", 3.88 (12), 0.0491
+157, Zelda Sound Collection, 3.54 (14), 0.0492
+158, Mega Man 2 Soundtrack: Beat The 8 Super Robots With 8 Bit Instrumental, 3.91 (11), 0.0493
+159, Tsubasa Chronicle Original Soundtrack - Future Soundscape I, 4.09 (11), 0.0494
+160, The Legend of Zelda: Majora's Mask Official Soundtrack, 4.04 (12), 0.0498
+161, Seiken Densetsu RISE of MANA Original Soundtrack, 2.70 (15), 0.0501
+162, Devil May Cry 5 ORIGINAL SOUNDTRACK, 3.73 (11), 0.0504
+163, HALO 4 ORIGINAL SOUNDTRACK, 3.58 (12), 0.0505
+164, BioShock Infinite Digital Soundtrack, 3.50 (12), 0.0508
+165, TALES OF XILLIA2 Original Soundtrack, 3.41 (11), 0.0510
+166, ALDNOAH.ZERO REARRANGE SOUNDTRACK, 4.43 (15), 0.0512
+167, Castlevania: Symphony of the Night - Resurrection, 3.42 (12), 0.0514
+168, Mario Party 3 Original Soundtrack, 3.29 (14), 0.0514
+169, TOKYO XANADU ORIGINAL SOUNDTRACK, 4.14 (11), 0.0514
+170, Diablo III Collector's Edition Soundtrack, 3.77 (11), 0.0515
+171, Da Banana Bunch: The Original Donkey Kong 64 Soundtrack, 3.38 (13), 0.0517
+172, Star Ocean: The Second Story Fantasy MegaMix, 3.23 (13), 0.0517
+173, Sounds From The Lighthouse: Official BioShock 2 Score, 3.46 (13), 0.0517
+174, muchimuchipork! original sound track, 3.32 (11), 0.0519
+175, Welcome to the Ballroom ORIGINAL SOUNDTRACK, 4.35 (23), 0.0520
+176, Akumajo Dracula -Odi et amo-, 3.46 (12), 0.0527
+177, Lost and Found : Shadow the Hedgehog Vocal Trax, 3.95 (11), 0.0528
+178, Metal Gear Rising: Revengeance Soundtrack, 3.27 (15), 0.0530
+179, LEG VACUUM, 4.18 (11), 0.0530
+180, The Legend of Xanadu Super Arrange Version, 3.50 (13), 0.0532
+181, SONIC THE HEDGEHOG 4 EPISODE I & II Original Soundtrack, 3.08 (19), 0.0532
+182, HAUNTED DANCEHALL, 3.89 (14), 0.0533
+183, Kokoro vibration, 4.79 (12), 0.0534
+184, DODONPACHI SAIDAIOUJOU ARRANGE ALBUM, 3.36 (11), 0.0535
+185, A/Z|aLIEz / SawanoHiroyuki[nZk] [Limited Edition], 4.38 (12), 0.0538
+186, EXSERENS, 4.39 (14), 0.0539
+187, Steins;Gate Original Soundtrack+Radio CD (Kari), 4.55 (11), 0.0541
+188, Ryuusei no Rockman 1&2 Original Soundtrack, 3.73 (11), 0.0542
+189, Split Theory, 4.23 (13), 0.0543
+190, Crush 40, 4.82 (11), 0.0545
+191, Nintendo DS Pokémon Black2 - White2 Super Music Complete, 4.16 (19), 0.0545
+192, Image Album Ys V Ushinawareta Suna no Miyako Kefin, 3.23 (11), 0.0545
+193, TV ANIMATION "HAIKYU!!" ORIGINAL SOUND TRACK 1, 4.27 (24), 0.0547
+194, THE LEGEND OF HEROES "SORA NO KISEKI FC & SC" SUPER ARRANGE VERSION, 4.13 (12), 0.0547
+195, Nadir, 4.59 (11), 0.0548
+196, NiGHTS: Lucid Dreaming, 3.79 (14), 0.0548
+197, PUELLA MAGI MADOKA☆MAGICA THE MOVIE Original Soundtrack, 3.89 (14), 0.0548
+198, True Blue: The Best of Sonic the Hedgehog, 4.07 (15), 0.0549
+199, Elminage ~Yami no Miko to Kamigami no Yubiwa~ Original Soundtrack, 3.41 (11), 0.0552
+200, REMASTERED TRACKS ROCKMAN ZERO, 3.90 (15), 0.0554
+201, ZONE OF THE ENDERS ReMIX EDITION, 3.47 (16), 0.0555
+202, GUNDAM BUILD FIGHTERS ORIGINAL SOUNDTRACK, 4.27 (26), 0.0556
+203, The Baku Bom!!! Baku Bomberman Original Soundtrack, 3.57 (15), 0.0556
+204, Metal Gear 25th Anniversary ~ Metal Gear Music Collection, 4.18 (11), 0.0557
+205, Xenogears Light | an arranged album, 2.64 (14), 0.0561
+206, Mr. DRILLER SOUND TRACKS, 4.00 (11), 0.0561
+207, Biohazard 2 ReMIX~met@morPhoses~, 2.95 (11), 0.0561
+208, Chocobo to Mahou no Ehon Series Original Soundtrack, 3.45 (11), 0.0562
+209, Final Fantasy V: The Fabled Warriors ~I. WIND~, 3.34 (16), 0.0562
+210, NARUTO Original Soundtrack II, 4.23 (11), 0.0563
+211, Secret of Mana Original Soundtrack, 3.50 (12), 0.0564
+212, Gekijouban Fate/stay night UNLIMITED BLADE WORKS ORIGINAL SOUND TRACK, 4.27 (11), 0.0565
+213, Jiyuu e no Shingeki / Linked Horizon [Limited Edition], 3.29 (12), 0.0565
+214, Bokujou Monogatari ~ Harvest Moon Original Soundtrack, 3.64 (14), 0.0565
+215, Pachislot Akumajo DraculaII Original Soundtrack, 2.86 (11), 0.0566
+216, Devil Summoner: Soul Hackers Arrange Sound Track, 4.27 (11), 0.0568
+217, FINAL FANTASY REMIX, 2.66 (19), 0.0568
+218, SHIN SANGOKUMUSOU 6 ORIGINAL SOUND TRACK COMPLETE, 4.09 (11), 0.0568
+219, Tales of Hearts Original Soundtrack, 3.46 (12), 0.0568
+220, DooM: The Dark Side of Phobos, 3.42 (12), 0.0570
+221, DARK SOULS with ARTORIAS OF THE ABYSS EDITION Original Soundtrack, 4.15 (13), 0.0570
+222, PUELLA MAGI MADOKA MAGICA THE MOVIE: REBELLION ORIGINAL SOUNDTRACK, 4.50 (13), 0.0571
+223, LIGHTNING RETURNS:FINAL FANTASY XIII Original Soundtrack PLUS, 3.29 (14), 0.0573
+224, THE KING OF FIGHTERS 2001 ORIGINAL SOUND TRAX, 3.00 (11), 0.0573
+225, narrative/NOISEofRAIN / SawanoHiroyuki[nZk] [Limited Edition], 4.86 (11), 0.0574
+226, The Legend of Zelda: Ocarina of Time Original Soundtrack, 4.18 (11), 0.0577
+227, Blue Exorcist The Movie Original Soundtrack, 4.46 (13), 0.0579
+228, TV ANIMATION MY-HiME ORIGINAL SOUNDTRACK Vol.1 HiME, 4.50 (12), 0.0581
+229, FRONT MISSION ONLINE Original Soundtrack, 3.25 (12), 0.0584
+230, THE ENTRANCE "Densetsu no Ogre Battle" Image Album, 2.95 (11), 0.0592
+231, L.A. Noire Official Soundtrack, 3.69 (13), 0.0593
+232, ALEX KIDD COMPLETE ALBUM, 3.65 (13), 0.0597
+233, The Legend of Zelda: The Wind Waker HD Sound Selection, 4.00 (12), 0.0598
+234, Battlefield 3 Original Videogame Soundtrack, 2.67 (12), 0.0598
+235, Rise of the Star: The Kirby's Adventure Remix Collaboration, 3.50 (12), 0.0599
+236, michigan ORIGINAL SOUND TRACK, 3.18 (11), 0.0599
+237, FAIRY TAIL ORIGINAL SOUND COLLECTION, 4.58 (12), 0.0602
+238, Sword Art Online Original Soundtrack vol.2, 3.67 (15), 0.0602
+239, Gensokyo Jihen, 4.36 (11), 0.0603
+240, SORA NO KISEKI ZANMAI, 3.92 (13), 0.0605
+241, FACE TO FAITH: SONIC AND THE BLACK KNIGHT - VOCAL TRAX, 4.07 (14), 0.0606
+242, ninelie EP / Aimer, 4.59 (11), 0.0607
+243, Metroid Metal - Expansion Pack, 4.33 (12), 0.0607
+244, Cuts Unleashed: SA2 Vocal Collection, 3.81 (16), 0.0608
+245, GENSOSUIKODENIV Original Soundtrack, 3.40 (15), 0.0608
+246, Shin Megami Tensei IV SOUND & ART COLLECTION, 3.50 (12), 0.0610
+247, Ikenie to Yuki no Setsuna ORIGINAL SOUNDTRACK, 3.64 (14), 0.0612
+248, Minecraft - Volume Alpha, 3.47 (15), 0.0612
+249, Nintendo Power - Play it Loud! Original Soundtrack Volume 1, 3.77 (11), 0.0613
+250, BRAVELY SECOND END LAYER Original Soundtrack, 2.53 (35), 0.0613
+251, DINO CRISIS ORIGINAL SOUNDTRACK, 3.12 (13), 0.0613
+252, Marie no Atelier: Salburg no Renkinjutsushi Original Soundtrack, 3.55 (11), 0.0613
+253, Harmony of a Hunter, 4.36 (11), 0.0614
+254, 25YEARLEGEND: A Legend of Zelda Indie Game Composer Tribute, 4.33 (12), 0.0615
+255, FANTASY LIFE ORIGINAL SOUND TRACK, 4.05 (11), 0.0616
+256, Tales of Graces ORIGINAL SOUNDTRACK, 3.42 (13), 0.0618
+257, Genso Suikogaiden Vol.2 Last Duel at the Crystal Valley Original Soundtrack, 4.00 (11), 0.0619
+258, Blue Exorcist Original Soundtrack 2, 4.38 (17), 0.0621
+259, Sonic After the Sequel Original Sound Track, 4.45 (11), 0.0621
+260, DOOM Original Game Soundtrack, 4.55 (11), 0.0621
+261, PERSONA3 PORTABLE Voice Mix Arrange, 3.19 (16), 0.0624
+262, SONIC ADVENTURE Songs With Attitude ~Vocal mini-Album~, 4.14 (14), 0.0627
+263, Medal of Honor: Frontline Original Soundtrack Recording, 4.33 (12), 0.0627
+264, Subarashiki Kono Sekai + The World Ends with You, 4.06 (16), 0.0628
+265, STREET FIGHTER EX 2 Arrange Album, 3.88 (12), 0.0629
+266, System Shock 2 Soundtrack, 3.45 (11), 0.0633
+267, THE WORKS / JUN SENOUE, 4.25 (12), 0.0634
+268, DEGENERATE DANCEHALL, 3.92 (12), 0.0634
+269, Super Meat Boy! Soundtrack, 4.59 (11), 0.0637
+270, Valkyrie Profile 2 -Silmeria- Voice Mix Album, 3.55 (11), 0.0637
+271, A/Z|aLIEz / SawanoHiroyuki[nZk], 4.62 (17), 0.0641
+272, Sonic Adventure 2 Official Soundtrack, 4.00 (16), 0.0641
+273, Sailor Moon Crystal Original Soundtracks, 4.18 (14), 0.0642
+274, DEATH NOTE original soundtrack III, 4.00 (14), 0.0643
+275, "Attack on Titan" Season 3 Original Soundtrack, 4.85 (13), 0.0644
+276, Yoshi's Story Original Soundtrack, 3.00 (17), 0.0645
+277, Ollie King Original Soundtrack, 4.03 (16), 0.0646
+278, Kong in Concert: Donkey Kong Country An Arrangement Collaboration, 3.43 (23), 0.0649
+279, Sonic Mania Plus Original Soundtrack, 4.47 (16), 0.0651
+280, REMASTERED TRACKS ROCKMAN ZERO Idea, 4.23 (13), 0.0652
+281, Baldur's Gate II: Shadows of Amn, 4.14 (11), 0.0653
+282, Jormungand Original Soundtrack, 4.67 (12), 0.0653
+283, The Witcher 2: Assassins of Kings Official Game Soundtrack, 3.96 (13), 0.0657
+284, CHOCOBO RACING ORIGINAL SOUNDTRACK, 3.96 (13), 0.0658
+285, Fate/stay night [Unlimited Blade Works] Original Soundtrack I, 4.15 (13), 0.0659
+286, Kingdoms of Amalur: Reckoning - The Soundtrack, 4.09 (11), 0.0660
+287, NARUTO Original Soundtrack III, 4.33 (12), 0.0661
+288, Sora no Woto Original Soundtrack, 4.27 (11), 0.0662
+289, Tales of Symphonia -Ratatosk no Kishi- Original Soundtrack, 3.38 (13), 0.0662
+290, Dear Esther Official Soundtrack, 3.71 (12), 0.0662
+291, Double Counterpoint, 4.54 (14), 0.0663
+292, HALO 3: ODST ORIGINAL SOUNDTRACK, 3.48 (22), 0.0663
+293, Omega Boost Original Soundtrack, 3.46 (12), 0.0665
+294, Castlevania: Sonata of the Damned, 3.48 (22), 0.0665
+295, FINAL FANTASY X-2 Vocal Collection RIKKU, 2.95 (11), 0.0665
+296, Batman: Arkham City - Original Video Game Score, 3.91 (11), 0.0665
+297, Mushishi Original Soundtrack Mushinone Go, 4.27 (11), 0.0667
+298, MARIOTENNIS64 ORIGINAL SOUND TRACK, 3.82 (17), 0.0667
+299, Call of Duty: Modern Warfare 2 Original Score, 3.28 (16), 0.0668
+300, Over the Sky -FINAL FANTASY XII-, 3.67 (12), 0.0668
+301, NICE TO MEAT YOU, 4.77 (11), 0.0669
+302, DEVIL SURVIVOR Original Remix Sound Track, 3.37 (15), 0.0669
+303, THE LEGEND OF HEROES: AO NO KISEKI Original Soundtrack, 3.88 (12), 0.0670
+304, planetarian original soundtrack, 4.23 (11), 0.0670
+305, Diablo II Expansion Set: Lord of Destruction Soundtrack Audio CD, 4.18 (14), 0.0671
+306, Super Mario Compact Disco: Ambassadors of Funk featuring M.C. Mario, 3.77 (13), 0.0672
+307, Ninja Ryukenden II - Ankoku no Jashin Ken, 3.58 (12), 0.0673
+308, of memories, 4.60 (15), 0.0674
+309, Assassin's Creed III: Liberation Original Game Soundtrack, 3.64 (11), 0.0674
+310, Umineko no Naku Koro ni musicbox Red, 3.93 (14), 0.0675
+311, SONIC THE HEDGEHOG-REMIX, 4.13 (15), 0.0675
+312, Kanon AIR Piano Arrange Album Re-feel, 4.08 (12), 0.0675
+313, NINETY-NINE NIGHTS ORIGINAL SOUNDTRACK, 4.27 (11), 0.0677
+314, Symphonic Suite Dragon Quest X: Mezameshi Itsutsu no Shuzoku, 4.13 (12), 0.0679
+315, Tobi Tsukihime Soundtrack, 4.23 (11), 0.0680
+316, FINAL FANTASY TRIBUTE ~THANKS~, 3.75 (12), 0.0682
+317, Fable II Original Soundtrack, 3.82 (11), 0.0685
+318, GURREN LAGANN ORIGINAL SOUNDTRACK, 4.39 (14), 0.0686
+319, LOG HORIZON ORIGINAL SOUNDTRACK 2, 4.17 (12), 0.0686
+320, Freedom Fighters Original Soundtrack, 4.41 (11), 0.0692
+321, Mass Effect 2 Original Videogame Score, 3.50 (16), 0.0694
+322, GUNVALKYRIE OFFICIAL SOUNDTRACK, 4.04 (13), 0.0694
+323, Banjo-Kazooie Nuts & Bolts Original Soundtrack, 4.15 (13), 0.0695
+324, SONIC THE HEDGEHOG VOCAL TRAXX SEVERAL WILLS, 4.14 (14), 0.0695
+325, the Garden of sinners: Thanatos. Original Soundtrack, 4.45 (11), 0.0695
+326, gravityWall/shØut / SawanoHiroyuki[nZk], 4.65 (13), 0.0698
+327, Music from "EVANGELION: 3.0" YOU CAN (NOT) REDO., 4.42 (12), 0.0699
+328, Puella Magi Madoka Magica Special CD 6 Original Soundtrack III, 4.40 (15), 0.0700
+329, HALO 2 original soundtrack and new music volume one, 3.39 (18), 0.0707
+330, Hitman: Codename 47 / Hitman 2: Silent Assassin - Original Soundtracks From The Eidos Videogames, 4.21 (12), 0.0708
+331, Street Fighter III: 3rd Strike Original Soundtrack, 3.83 (12), 0.0708
+332, A New World: intimate music from FINAL FANTASY, 4.17 (12), 0.0709
+333, Tales of Zestiria Original Soundtrack, 4.38 (16), 0.0709
+334, DEATH NOTE original soundtrack II, 4.00 (14), 0.0710
+335, PiA-COM I / PIA-COMS, 3.91 (11), 0.0711
+336, Namco Game Sound Express VOL.2 Burning Force, 4.00 (12), 0.0711
+337, FINAL FANTASY TYPE-0 Original Soundtrack, 4.11 (18), 0.0711
+338, The Best of Crush 40 - Super Sonic Songs, 4.69 (13), 0.0712
+339, Re:CREATORS Original Soundtrack, 4.23 (37), 0.0713
+340, Motoi Sakuraba Live 2006 -Valkyrie Profile 2-, 4.05 (11), 0.0713
+341, Banjo-Tooie CD Soundtrack, 4.00 (12), 0.0714
+342, SUPER MARIO KART ALBUM, 3.74 (19), 0.0716
+343, Monster Hunter 4 Original Soundtrack, 3.77 (11), 0.0717
+344, ORIGINAL SOUND TRACK DINOSAUR resurrection, 3.81 (13), 0.0718
+345, SEVEN RINGS IN HAND: Sonic and the Secret Rings Original Sound Track, 4.06 (18), 0.0718
+346, Mario Basketball 3on3 Original Soundtrack, 3.88 (13), 0.0718
+347, Chrono Symphonic: A Cinematic Interpretation, 3.00 (31), 0.0720
+348, OTOMEDIUS-X ORIGINAL SOUNDTRACK, 3.42 (12), 0.0721
+349, Humans + Gears: Xenogears ReMixed, 3.24 (17), 0.0722
+350, ROCKCAN Sound E Can (Rockman 25th Anniversary), 3.62 (13), 0.0722
+351, "Bomberman Hero" Original Soundtrack, 3.65 (13), 0.0722
+352, Little Busters! Arrange Album "Rockstar Busters!", 4.33 (12), 0.0724
+353, Marvel VS. Capcom: Clash of Super Heroes Original Soundtrack, 3.71 (14), 0.0726
+354, Prince of Persia WARRIOR WITHIN Original Soundtrack, 4.38 (12), 0.0726
+355, Love=ALL, 4.69 (13), 0.0727
+356, THE KING OF FIGHTERS '98 -ULTIMATE MATCH- ORIGINAL SOUNDTRACK, 4.14 (11), 0.0728
+357, Shin Megami Tensei Sound Collection, 3.55 (11), 0.0729
+358, Psychonauts Original Soundtrack, 3.64 (11), 0.0730
+359, Puella Magi Madoka Magica Special CD 4 Original Soundtrack II, 4.44 (16), 0.0730
+360, Legacy of Ys: Books I & II Original Soundtrack, 3.73 (11), 0.0730
+361, STREET FIGHTER III NEW GENERATION ORIGINAL ARRANGE ALBUM, 3.63 (12), 0.0732
+362, Rayman Origins Original Soundtrack, 4.09 (11), 0.0733
+363, Marvel Super Heroes VS. Street Fighter Original Sound Track & Arrange, 3.36 (11), 0.0734
+364, white clear, 4.25 (12), 0.0734
+365, Mushishi Original Soundtrack Mushinone Zen, 4.42 (12), 0.0735
+366, Sonic Rush Adventure Original Soundtrack, 4.07 (14), 0.0736
+367, Albert Odyssey 2, 3.96 (12), 0.0740
+368, The Music of Command & Conquer: Red Alert, 4.36 (11), 0.0741
+369, FINAL FANTASY X VOCAL COLLECTION, 2.83 (21), 0.0741
+370, MOBILE SUIT GUNDAM UNICORN ORIGINAL SOUNDTRACK 3, 4.76 (17), 0.0742
+371, Bouyuu Toukaidou ~ Retrospective 53 minutes -ZUN's Music Collection vol.4-, 4.45 (11), 0.0743
+372, Horizon on the Middle of Nowhere ORIGINAL SOUND TRACK, 4.67 (12), 0.0743
+373, MUSIC FROM FFV AND FFVI VIDEO GAMES, 3.70 (15), 0.0744
+374, GHOST IN THE SHELL : STAND ALONE COMPLEX Music Archive Sound Files, 4.33 (12), 0.0747
+375, ARCHIV-EAST, 4.46 (12), 0.0748
+376, BEGIERDE DES ZAUBERER, 4.66 (16), 0.0748
+377, SQ Chips 2, 3.50 (13), 0.0749
+378, MOBIUS FINAL FANTASY Original Soundtrack, 3.17 (12), 0.0749
+379, X'mas Collections music from SQUARE ENIX, 3.17 (18), 0.0749
+380, Rockman ZX Advent Soundtrack: ZXA Tunes, 4.37 (15), 0.0750
+381, PERSONA5 ORIGINAL SOUNDTRACK, 3.67 (27), 0.0751
+382, ALAN WAKE SOUNDTRACK, 3.93 (15), 0.0752
+383, FINAL FANTASY VII CHIPS, 3.58 (12), 0.0752
+384, Maji de Watashi ni Koishinasai! S Music Collection, 4.00 (15), 0.0753
+385, EVANGELION:2.0 YOU CAN (NOT) ADVANCE. original sound track [Limited Edition], 4.64 (14), 0.0754
+386, "Attack on Titan" Season 2 Original Soundtrack, 4.15 (31), 0.0755
+387, FAIRY TAIL ORIGINAL SOUNDTRACK VOL.3, 4.43 (15), 0.0755
+388, Fate/Zero Drama CD II & Original Soundtrack II, 4.04 (12), 0.0756
+389, Plastik World, 4.24 (17), 0.0757
+390, SILENT HILL 4 THE ROOM ORIGINAL SOUNDTRACK, 3.53 (18), 0.0758
+391, Perfect Prince Original Soundtrack, 3.45 (11), 0.0759
+392, Katayoku no Tori / Akiko Shikata, 4.21 (14), 0.0760
+393, Hoshi no Kirby 20th Anniversary Memorial Soundtrack, 4.13 (16), 0.0760
+394, Time & Space - A Tribute to Yasunori Mitsuda (Green), 3.67 (12), 0.0760
+395, DOMINATED DANCEHALL, 3.95 (11), 0.0761
+396, Lair Original Soundtrack from the Video Game [Limited Edition], 4.29 (12), 0.0764
+397, MEGA DRIVE LAST ACTION HEROES, 4.07 (14), 0.0764
+398, Final Symphony - music from Final Fantasy VI, VII and X, 4.41 (11), 0.0765
+399, Tales of Eternia Original Soundtrack, 3.15 (13), 0.0766
+400, THE LEGEND OF HEROES SORA NO KISEKI SC ORIGINAL SOUND TRACK, 4.27 (11), 0.0768
+401, Sega Rally Championship Ignition, 4.09 (11), 0.0768
+402, The Witcher -Role.Playing Game- Original Soundtrack, 3.68 (11), 0.0768
+403, Borderlands Original Soundtrack, 3.92 (13), 0.0770
+404, FINAL FANTASY XV Original Soundtrack Volume 2, 4.45 (11), 0.0770
+405, VIOLET EVERGARDEN : Automemories, 4.75 (12), 0.0771
+406, Shin Sekaiju no MeiQ 2 Fafnir no Kishi ORIGINAL SOUNDTRACK, 4.08 (13), 0.0772
+407, Double Dragon, 3.95 (11), 0.0772
+408, PERSONA Q SHADOW OF THE LABYRINTH ORIGINAL SOUNDTRACK, 3.67 (15), 0.0772
+409, TalesWeaver Original Soundtrack Plus, 4.50 (11), 0.0773
+410, Final Fantasy IV: Echoes of Betrayal, Light of Redemption, 3.43 (29), 0.0773
+411, Xenoblade2 Original Soundtrack [Type A], 4.83 (27), 0.0774
+412, SONIC & KNUCKLES • SONIC THE HEDGEHOG 3, 3.78 (16), 0.0775
+413, The irregular at magic high school Original Soundtrack 2, 4.18 (11), 0.0776
+414, BRA★BRA FINAL FANTASY BRASS de BRAVO, 4.07 (14), 0.0776
+415, SHOCK TROOPERS 2nd Squad / SHOCK TROOPERS, 4.18 (14), 0.0777
+416, Love SQ, 3.34 (16), 0.0777
+417, Dariusburst Original Soundtrack, 3.91 (11), 0.0777
+418, Xenoblade 2 SOUND SELECTION, 4.27 (11), 0.0777
+419, Final Fight Original Sound Collection, 4.23 (11), 0.0778
+420, Wave Race 64 Original Soundtrack, 3.96 (13), 0.0779
+421, Kiss Me Good-Bye, 3.92 (12), 0.0779
+422, Portal 2: Songs to Test By Volume 1, 3.92 (13), 0.0779
+423, Sendaisoushi ~ Offering to The Sukhavati, 4.68 (20), 0.0779
+424, Myst III: Exile The Soundtrack, 3.63 (12), 0.0780
+425, Donkey Kong Country 2 ~Diddy's Kong Quest~ Serious Monkey Business, 4.04 (23), 0.0781
+426, VIDEO GAMES LIVE: LEVEL 2, 3.18 (17), 0.0781
+427, Nesshou!! STREET FIGHTER II, 3.64 (14), 0.0781
+428, Virtua Fighter, 3.54 (13), 0.0782
+429, Zero Wing, 4.00 (11), 0.0784
+430, Kanon Arrange Best Album "recollections", 3.86 (11), 0.0785
+431, Touch! Generations SOUND TRACK, 4.19 (16), 0.0787
+432, TV ANIME POCKET MONSTERS ORIGINAL SOUNDTRACK BEST 1997-2010 2, 4.79 (14), 0.0787
+433, HALO 2 original soundtrack volume two, 3.31 (16), 0.0787
+434, Metal Gear Solid Original Game Soundtrack, 4.27 (11), 0.0788
+435, Tenchu 4 Original Soundtrack, 4.25 (12), 0.0789
+436, PROFESSOR LAYTON VS GYAKUTEN SAIBAN MAGICAL MYSTERY MUSIC, 4.32 (11), 0.0790
+437, Summoning of Spirits: An Arrangement of Music from Tales of Phantasia and Tales of Symphonia, 3.62 (26), 0.0790
+438, Ghost in the Shell STAND ALONE COMPLEX Solid State Society O.S.T., 4.32 (11), 0.0790
+439, Ghost in the Shell STAND ALONE COMPLEX O.S.T.2, 4.18 (11), 0.0792
+440, Metal Kombat for the Mortal Man, 4.50 (11), 0.0794
+441, Guild Wars 2 Original Game Soundtrack, 4.16 (16), 0.0794
+442, Twilight Symphony, 4.58 (12), 0.0794
+443, SEGA PIANO NOCTURNE, 4.04 (12), 0.0794
+444, Mighty Switch Force 2 Official Soundtrack, 4.00 (12), 0.0796
+445, Armored Core Original Best Track, 3.68 (11), 0.0796
+446, Luminous Arc Original Soundtracks, 3.73 (13), 0.0796
+447, BioShock Orchestral Score, 3.86 (14), 0.0797
+448, PERFECT SELECTION TWINBEE, 4.04 (12), 0.0797
+449, Hitman: Contracts Original Soundtrack, 4.15 (13), 0.0797
+450, FINAL FANTASY CRYSTAL CHRONICLES Echoes of Time Original Soundtrack, 3.76 (17), 0.0798
+451, SUZUNO=MIYA Ar tonelico III hymmnos concert side. Red, 3.92 (13), 0.0801
+452, Shigatsu wa Kimi no Uso ORIGINAL SONG & SOUNDTRACK, 3.86 (14), 0.0801
+453, The Seven Deadly Sins Original soundtrack, 4.36 (29), 0.0802
+454, Magna Carta II Original Sound Track, 3.59 (11), 0.0803
+455, Rockman X8 Original Soundtrack, 4.07 (15), 0.0804
+456, Raiden IV original sound track -Ultimate of Raiden-, 4.29 (12), 0.0806
+457, Symphonic Suite Dragon Quest IV: Guided People, 3.86 (11), 0.0809
+458, TV ANIMATION Tokyo Ghoul Original Soundtrack, 4.46 (12), 0.0811
+459, CHAOS RINGS II -Original Soundtrack-, 4.08 (12), 0.0811
+460, 3D DOT GAME HEROES ORIGINAL SOUNDTRACK, 3.83 (12), 0.0814
+461, Rockman X7 Original Soundtrack, 3.92 (13), 0.0814
+462, The OneUps Volume 1, 3.74 (19), 0.0815
+463, Sonic R, 4.12 (21), 0.0816
+464, VAMPIRE SOUND BOX, 4.41 (11), 0.0817
+465, BIOHAZARD 6 ORIGINAL SOUNDTRACK, 3.71 (17), 0.0818
+466, Naraku no Hana / Eiko Shimamiya, 4.29 (14), 0.0820
+467, Advent Rising - Music from the Video Game, 4.27 (15), 0.0821
+468, Lord of Apocalypse Original Soundtrack, 3.79 (14), 0.0821
+469, The Music of Diablo 1996 - 2011: Diablo 15 Year Anniversary, 4.43 (14), 0.0826
+470, Genso Suikoden III Original Soundtrack, 3.63 (19), 0.0826
+471, Maken X original sound tracks, 3.91 (11), 0.0826
+472, The Legend of Zelda Ocarina of Time Sound Track CD, 4.03 (16), 0.0826
+473, F-ZERO X: Style Arrangements, 4.50 (13), 0.0827
+474, Manabu Namiki WORKS ~ OPERATION RAGNAROK ~, 3.68 (11), 0.0828
+475, RIDGE RACERS 2 DIRECT AUDIO, 4.19 (13), 0.0828
+476, MARIOKART Wii PLATINUM SOUNDTRACK, 4.00 (20), 0.0829
+477, Pokémon Reorchestrated: Kanto Symphony, 4.73 (11), 0.0829
+478, KLEENE, 4.23 (11), 0.0830
+479, Virtua Fighter 3 Sound Tracks, 4.14 (11), 0.0831
+480, feel / Go dream Yuna & Tidus, 3.63 (15), 0.0832
+481, GUILTY GEAR Xrd -SIGN- ORIGINAL SOUND TRACK, 4.50 (12), 0.0832
+482, Skullgirls Original Soundtrack, 4.25 (14), 0.0833
+483, DEVIL SURVIVOR 2 Original Sound Track, 3.71 (14), 0.0833
+484, NARUTO Original Soundtrack, 4.57 (14), 0.0834
+485, THE LAST STORY: THE PREMIUM SOUNDTRACK, 3.64 (14), 0.0835
+486, Machinarium Bonus EP, 4.00 (12), 0.0835
+487, Byousoku 5 Centimeter Soundtracks, 4.29 (12), 0.0836
+488, F-ZERO The Transmitter, 4.03 (15), 0.0837
+489, DISSIDIA 012[duodecim] FINAL FANTASY Original Soundtrack, 3.61 (14), 0.0838
+490, Chanting the Moon ~Tsukikanade~ Ar tonelico Hymmnos concert Side Crimson, 4.42 (13), 0.0838
+491, Jiyuu e no Shingeki / Linked Horizon, 3.50 (16), 0.0839
+492, Never More -Reincarnation:PERSONA4-, 4.00 (11), 0.0841
+493, Transistor Original Soundtrack, 3.82 (11), 0.0842
+494, I.Q Intelligent Qube & I.Q FINAL PERFECT MUSIC FILE, 4.00 (11), 0.0842
+495, gRiMgRiMoiRe Soundtrack CD, 3.50 (13), 0.0843
+496, Thieves of Fate: Radical Dreamers ReMix Project, 3.97 (18), 0.0843
+497, DARK SOULS II OFFICIAL SOUNDTRACK CD, 3.44 (16), 0.0844
+498, Free! Original Soundtrack Ever Blue Sounds, 4.31 (13), 0.0845
+499, MEGALOMANIA, 4.04 (12), 0.0845
+500, Ys III J.D.K. Special, 3.83 (12), 0.0846
+501, Secret of Mana Genesis / Seiken Densetsu 2 Arrange Album, 3.18 (25), 0.0847
+502, DARK SOULS III Original Soundtrack, 3.53 (15), 0.0847
+503, The Legend of Dragoon Original Soundtrack, 3.75 (16), 0.0848
+504, Amrita, 4.46 (12), 0.0849
+505, Myst Soundtrack, 4.00 (13), 0.0849
+506, Gargantia on the Verdurous Planet Original Soundtrack, 4.00 (15), 0.0850
+507, Under Defeat -Extended Tracks-, 4.08 (12), 0.0850
+508, REMASTERED TRACKS ROCKMAN ZERO Telos, 4.37 (15), 0.0851
+509, BLAZBLUE SONG ACCORD #1 with CONTINUUM SHIFT, 4.18 (11), 0.0852
+510, Earthworm Jim Anthology, 4.46 (12), 0.0853
+511, Ar tonelico III: Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku Original Soundtrack, 4.04 (12), 0.0853
+512, KIRBY Wii MUSIC SELECTION, 4.21 (12), 0.0854
+513, The Banner Saga, 4.00 (13), 0.0854
+514, BAYONETTA 2 ORIGINAL SOUNDTRACK, 3.50 (20), 0.0854
+515, Cradle -Touhou Gengaku Shiten-, 3.96 (12), 0.0854
+516, Ray'z PREMIUM BOX -BEYOND-, 4.77 (11), 0.0855
+517, HARDCORE SYNDROME 4, 4.42 (12), 0.0855
+518, GATCHAMAN CROWDS ORIGINAL SOUNDTRACK, 4.18 (17), 0.0856
+519, Super Donkey Kong 3 Mysterious Kremis Island Original Soundtrack, 3.81 (13), 0.0856
+520, Perfect Collection Sorcerian Vol. 3, 3.32 (11), 0.0856
+521, Project Chaos: A Sonic 3 and Knuckles Arrangement Album, 4.00 (20), 0.0857
+522, Fire Emblem: Shin Ankoku Ryuu to Hikari no Ken Original Soundtrack, 3.50 (13), 0.0858
+523, Hoshi no Kirby Robobo Planet Original Soundtrack, 4.88 (12), 0.0859
+524, Phantasy Star Online Songs of Ragol Odyssey Soundtrack ~Episode 1&2~, 4.06 (16), 0.0859
+525, Far Cry 3: Blood Dragon Original Soundtrack, 4.39 (14), 0.0860
+526, Ryu ga Gotoku & Ryu ga Gotoku 2 Original Sound Track, 4.23 (13), 0.0862
+527, Bloodborne Original Soundtrack, 4.13 (15), 0.0863
+528, Kyousougiga Music Collection, 4.62 (13), 0.0863
+529, MADWORLD Original Soundtrack, 3.38 (20), 0.0863
+530, WITCH ON THE HOLY NIGHT ORIGINAL SOUNDTRACK, 4.81 (13), 0.0864
+531, MOBILE SUIT GUNDAM UNICORN ORIGINAL SOUNDTRACK 2, 4.70 (22), 0.0867
+532, Piano Arrange: Radiant Historia, 4.08 (13), 0.0867
+533, Tsukino Akari -FINAL FANTASY IV Theme of Love-, 4.70 (15), 0.0867
+534, Dragon Quest Suite, 3.77 (13), 0.0868
+535, TEKKEN BLOOD VENGEANCE Original Soundtrack, 3.82 (11), 0.0868
+536, FAIRY TAIL ORIGINAL SOUNDTRACK VOL.4, 4.65 (17), 0.0869
+537, After all..., 4.27 (11), 0.0870
+538, Diablo II Soundtrack, 4.50 (16), 0.0870
+539, Music from Star Trader, 3.63 (12), 0.0871
+540, Banjo-Kazooie Game Soundtrack, 4.32 (14), 0.0872
+541, The irregular at magic high school Original Soundtrack 1, 4.00 (11), 0.0872
+542, Phantasy Star Online Episode I & II Premium Arrange, 3.62 (13), 0.0873
+543, Dimension W ORIGINAL SOUNDTRACK: Resonance W, 4.27 (11), 0.0874
+544, Shin Megami Tensei IV FINAL ORIGINAL SOUNDTRACK, 4.00 (12), 0.0874
+545, RETRO FUTURE GIRLS, 4.50 (14), 0.0875
+546, Celestial Music Record of All Mankind ~ Touhou Hisouten ORIGINAL SOUND TRACK, 4.29 (12), 0.0875
+547, Assassin's Creed Original Game Soundtrack, 3.88 (12), 0.0875
+548, INNOCENCE O.S.T., 4.68 (11), 0.0876
+549, RIDGE RACER 7 : direct audio, 3.42 (13), 0.0877
+550, HALO: REACH ORIGINAL SOUNDTRACK, 3.92 (13), 0.0877
+551, Music from Ys Renewal, 3.64 (11), 0.0878
+552, Trine Original Soundtrack, 4.32 (17), 0.0878
+553, Nintendo 3DS Pokémon X・Y Super Music Collection, 3.88 (20), 0.0880
+554, MUSIC FROM JESUS KYOUFU NO BIO-MONSTER, 3.62 (13), 0.0880
+555, REDLINE Original Soundtrack, 4.82 (11), 0.0881
+556, Driving Emotion Type-S / BUSHIDO BLADE Original Soundtrack, 3.96 (14), 0.0882
+557, Arc the Lad Original Game Sound Track, 3.93 (14), 0.0883
+558, LOG HORIZON ORIGINAL SOUNDTRACK 1, 4.41 (16), 0.0886
+559, SUPER MARIO HISTORY 1985-2010 Sound Track CD, 3.52 (22), 0.0886
+560, TEN PLANTS, 3.21 (14), 0.0887
+561, Time & Space - A Tribute to Yasunori Mitsuda (Blue), 3.43 (14), 0.0887
+562, Garou Densetsu / Last Resort, 4.09 (11), 0.0888
+563, I Am Rapture - Rapture Is Me: Official BioShock Score, 4.00 (14), 0.0888
+564, Genso Suikoden III Music Collection ~Rustling of the Wind~, 4.13 (12), 0.0888
+565, A NIGHT IN FANTASIA 2009, 3.75 (16), 0.0889
+566, Professor Layton and the Diabolical Box Original Soundtrack, 3.81 (13), 0.0889
+567, THE LEGEND OF ZELDA: MAJORA'S MASK 3D ORIGINAL SOUND TRACK, 4.32 (11), 0.0891
+568, THE LEGEND OF HEROES: SEN NO KISEKI ORIGINAL SOUNDTRACK, 4.66 (16), 0.0893
+569, THE KING OF FIGHTERS '95 ARRANGE SOUND TRAX, 4.05 (11), 0.0893
+570, Akame ga Kill! Original Soundtrack 1, 4.50 (14), 0.0893
+571, Makai Senki Disgaea Original Soundtrack, 3.68 (11), 0.0894
+572, GRAN TURISMO 3 A-spec ORIGINAL GAME SOUNDTRACK, 3.77 (13), 0.0895
+573, Sekaiju to Fushigi no Dungeon Original Sound Track, 4.62 (13), 0.0895
+574, Shirokishi Monogatari -Inishie no Kodou- ORIGINAL SOUNDTRACK, 3.83 (12), 0.0896
+575, Sakura Note ~Ima ni Tsunagaru Mirai~ Oto no Okurimono, 3.78 (18), 0.0897
+576, Higurashi no Naku Koro ni / Eiko Shimamiya, 4.54 (14), 0.0898
+577, Persona 4 The Ultimate in Mayonaka Arena Original Arrange Soundtrack CD, 4.09 (16), 0.0899
+578, Ys Piano Collection, 3.08 (12), 0.0899
+579, PERSONA MUSIC LIVE BAND, 4.06 (16), 0.0900
+580, Retro Remix Revue: Volume 2, 4.29 (12), 0.0901
+581, FZ Series "AXIS", 3.79 (12), 0.0901
+582, Tales Of Series Battle Arrange Tracks, 4.11 (14), 0.0902
+583, MIDI POWER Pro 7 ~GRADIUS~, 4.14 (11), 0.0902
+584, 428 ~Fuusasareta Shibuya de~ Original Soundtrack, 3.92 (12), 0.0903
+585, Sacred Factor, 4.17 (12), 0.0904
+586, Sword Art Online Original Soundtrack vol.1, 4.06 (18), 0.0908
+587, Command & Conquer Soundtrack Collection, 4.68 (11), 0.0908
+588, Söldner-X 2: Final Soundtrack, 4.19 (13), 0.0909
+589, Mágico Catástrofe, 4.83 (20), 0.0910
+590, DO-DON-PACHI DAI-FUKKATSU ORIGINAL SOUND TRACK for iPhone / iPod touch, 3.41 (16), 0.0910
+591, .hack//Liminality ORIGINAL SOUNDTRACK, 4.08 (12), 0.0911
+592, Tokyo Mono Hara Shi Karasunomorigakuen Kitan Gakusou, 4.63 (15), 0.0911
+593, DARK SOULS, 4.18 (14), 0.0911
+594, Maneuver Cepter "GRANADA", 3.62 (13), 0.0911
+595, Shin Megami Tensei NINE PREMIUM SOUND TRAX, 3.79 (12), 0.0913
+596, Hotline Miami Soundtrack, 4.67 (15), 0.0913
+597, Super Metroid: Relics of the Chozo, 4.06 (16), 0.0914
+598, D2 Original Sound Track, 4.31 (13), 0.0915
+599, THE LEGEND OF HEROES: ZERO NO KISEKI SUPER ARRANGE VERSION, 4.10 (15), 0.0915
+600, HARDCORE SYNDROME 5, 4.68 (14), 0.0915
+601, PERFECT SELECTION XEXEX, 4.36 (11), 0.0915
+602, Biohazard Revelations Original Soundtrack, 4.07 (14), 0.0917
+603, Assassin's Creed III Original Game Soundtrack, 3.38 (16), 0.0918
+604, SUPER STREET FIGHTER IV Character Sound Collection (Single Cut), 4.27 (11), 0.0919
+605, JIN-ROH Original Motion Picture Soundtrack, 4.45 (11), 0.0921
+606, TWINBEE PARADISE Sound Fantasia, 4.00 (11), 0.0923
+607, Re:Birth II -Sen- / "SaGa" BATTLE ARRANGE, 4.23 (15), 0.0924
+608, THE LEGEND OF ZELDA: Twilight Princess HD ORIGINAL SOUNDTRACK, 4.27 (13), 0.0924
+609, Haibane Renmei Soundtrack Hane no ne, 4.50 (11), 0.0924
+610, Arc the Lad Twilight of the Spirits ORIGINAL GAME SOUNDTRACK, 3.96 (14), 0.0925
+611, CODE GEASS Lelouch of the Rebellion R2 O.S.T.2, 4.38 (12), 0.0925
+612, THE ANSWER - Armored Core Tribute Album -, 4.66 (16), 0.0925
+613, Varth: Operation Thunder Storm -G.S.M. CAPCOM 6-, 4.15 (13), 0.0925
+614, Namco Game Sound Express VOL.10 Cyber Sled, 4.25 (12), 0.0926
+615, MediEvil: Resurrection Original Soundtrack, 4.34 (16), 0.0927
+616, Yuke Yuke!! Trouble Makers Original Soundtrack, 4.33 (12), 0.0927
+617, TV ANIMATION MY HERO ACADEMIA ORIGINAL SOUNDTRACK, 4.58 (30), 0.0928
+618, We are ROCK-MEN!, 3.79 (17), 0.0928
+619, KILLER INSTINCT GOLD SOUNDTRACK, 3.81 (13), 0.0930
+620, The Legend of Legacy Original Soundtrack, 3.97 (17), 0.0930
+621, TALES OF REBIRTH Original Soundtrack, 3.34 (16), 0.0930
+622, THE END OF EVANGELION, 4.62 (17), 0.0930
+623, Bakemonogatari Complete Music Works Songs & Soundtracks, 4.47 (17), 0.0931
+624, Blossom, 4.42 (18), 0.0931
+625, Capcom vs. SNK 2 Millionaire Fighting 2001 Original Soundtrack, 3.96 (13), 0.0932
+626, Provincialism Ys, 3.64 (14), 0.0933
+627, 25th Anniversary Rockman Techno Arrange Ver., 3.59 (16), 0.0933
+628, VANQUISH ORIGINAL SOUNDTRACK, 3.41 (17), 0.0933
+629, BURNING RANGERS SOUND TRACK, 4.29 (12), 0.0933
+630, NHK Special "Uchuu Namachuukei Suisei Bakuhatsu Taiyoukei no Nazo" Original Soundtrack, 4.12 (13), 0.0934
+631, Blazing Star, 3.86 (11), 0.0936
+632, NEON GENESIS EVANGELION III, 3.70 (15), 0.0936
+633, NARUTO SHIPPŪDEN Original Sound Track II, 4.86 (18), 0.0937
+634, Splatoon ORIGINAL SOUNDTRACK -Splatune-, 4.04 (14), 0.0939
+635, CODE GEASS Lelouch of the Rebellion O.S.T.2, 4.32 (11), 0.0940
+636, THE LEGEND OF ZELDA A LINK BETWEEN WORLDS SOUND SELECTION, 4.63 (15), 0.0940
+637, Replica*, 4.36 (11), 0.0941
+638, Primal Original Soundtrack Score Recording, 3.88 (13), 0.0942
+639, FINAL FANTASY CRYSTAL CHRONICLES Ring of Fates Original Soundtrack, 3.58 (19), 0.0942
+640, FINAL FANTASY VII ADVENT CHILDREN COMPLETE REUNION TRACKS, 4.03 (15), 0.0943
+641, Kiri no Mukou ni Tsunagaru Sekai / Haruka Shimotsuki + Revo, 4.92 (13), 0.0943
+642, Battle SQ [Limited Edition], 3.54 (12), 0.0944
+643, Devil Summoner: Kuzunoha Raidou tai Chouriki Heidan Complete Music Works, 4.03 (15), 0.0944
+644, Rockman 10 Image Soundtrack, 3.81 (18), 0.0944
+645, FINAL FANTASY TYPE-0 Original Soundtrack [Limited Edition], 3.88 (20), 0.0945
+646, Umineko no Naku Koro ni Episode.1 Original Soundtrack Essence, 4.00 (12), 0.0946
+647, Deus Ex: Game of the Year Edition Soundtrack, 4.03 (16), 0.0946
+648, Anata wo Yurusanai Original Soundtrack, 3.75 (14), 0.0948
+649, Sorcerian Super Arrange Version, 4.14 (11), 0.0948
+650, Fable Original Soundtrack, 3.76 (17), 0.0949
+651, ESPGALUDA II Original Sound Track, 3.85 (13), 0.0949
+652, THE KING OF FIGHTERS XIII ORIGINAL SOUNDTRACK, 4.06 (16), 0.0950
+653, The Greatest Video Game Music 2, 3.41 (16), 0.0950
+654, MAJIN TENSEI II EXCELLENCE SOUND COLLECTION, 4.23 (13), 0.0952
+655, Alan Wake Original Score, 3.88 (16), 0.0952
+656, Sound Fantasy Romancia, 4.04 (13), 0.0952
+657, Fable III Original Soundtrack, 4.23 (11), 0.0953
+658, Sinen ni Nozomu ga Gotoshi, 4.57 (14), 0.0954
+659, FINAL FANTASY V Original Soundtrack Remaster Version, 4.45 (11), 0.0955
+660, STARFOX 64 Original Soundtrack, 3.92 (13), 0.0955
+661, Mana-Khemia Original Soundtrack, 4.14 (14), 0.0955
+662, THE KING OF FIGHTERS XI SOUND COLLECTION, 4.04 (12), 0.0957
+663, Mario Kart 64 Race Tracks, 3.79 (14), 0.0957
+664, Let The Winds Blow: Phantasy Star Online episode III C.A.R.D. Revolution Original Sound Track, 4.18 (11), 0.0957
+665, Poptrick, 4.41 (11), 0.0958
+666, Il mondo dove e finito il tempo, 4.43 (20), 0.0958
+667, Headhunter: Redemption / Headhunter Original Soundtrack Recording, 4.29 (12), 0.0959
+668, Metal Gear Ac!d & Ac!d² Original Soundtrack, 3.58 (13), 0.0960
+669, Super Mario Bros. 3 Akihabara Electric Circus, 4.04 (12), 0.0960
+670, Under Defeat HD "NEW ORDER" Soundtrack, 3.85 (13), 0.0960
+671, Remember Me Original Soundtrack, 3.88 (16), 0.0960
+672, Mega Selection -G.S.M. SEGA-, 4.42 (12), 0.0960
+673, Tekken 7 Soundtrack, 4.08 (13), 0.0961
+674, KABANERI OF THE IRON FORTRESS ORIGINAL SOUNDTRACK, 4.14 (43), 0.0961
+675, Super Retro Game, 3.73 (11), 0.0963
+676, Namco Game Sound Express VOL.24 Rave Racer, 3.89 (14), 0.0963
+677, DONKEY KONG RETURNS ORIGINAL SOUND TRACK, 3.87 (23), 0.0963
+678, KISEIJU ORIGINAL SOUNDTRACK, 4.22 (18), 0.0964
+679, American McGee's Alice Original Music Score, 4.22 (16), 0.0965
+680, The Elder Scrolls III: Morrowind Original Soundtrack, 3.83 (15), 0.0967
+681, Genso Suikoden Arrange Collection Vol.2 ~Celtic & Asian~, 3.88 (12), 0.0967
+682, CHAOS THEORY / AMON TOBIN, 4.05 (19), 0.0967
+683, Assassin's Creed Revelations Original Game Soundtrack - The Complete Recordings, 4.42 (12), 0.0968
+684, ZERO DIVIDE Original Game Soundtrack, 4.81 (13), 0.0969
+685, Darksiders II Original Soundtrack, 4.35 (13), 0.0969
+686, Riviera ~The Promised Land~ Perfect Audio Collection Plus, 4.27 (11), 0.0969
+687, NieR:Automata Arranged & Unreleased Tracks, 3.63 (15), 0.0972
+688, GRAN TURISMO 2 ORIGINAL GAME SOUNDTRACK, 4.05 (11), 0.0972
+689, Aquaria Original Soundtrack, 4.57 (14), 0.0973
+690, OBOROMURAMASA GENROKUKAIKITAN ORIGINAL SOUNDTRACK, 4.50 (13), 0.0974
+691, Fate/Zero Drama CD I & Original Soundtrack I, 4.06 (16), 0.0974
+692, Sword Maniac, 3.83 (12), 0.0974
+693, Persona4 The GOLDEN Original Soundtrack, 3.53 (17), 0.0976
+694, GUNSTAR HEROES, 4.27 (15), 0.0976
+695, Bionic Commando Rearmed (The Soundtrack), 4.27 (13), 0.0977
+696, SaGa 3 Jikuu no Hasha: Shadow or Light Original Soundtrack, 3.89 (14), 0.0978
+697, Black Ocean / IMERUAT, 4.20 (15), 0.0979
+698, Puella Magi Madoka Magica Special CD 2 Original Soundtrack I, 4.58 (20), 0.0980
+699, RULE of ROSE ~ Songs from the Original Soundtrack, 4.64 (14), 0.0980
+700, The Soundtrack of Half-Life 2, 4.19 (13), 0.0981
+701, ADVENTURES of MANA Original Soundtrack, 4.00 (17), 0.0982
+702, Alien Soldier, 4.36 (11), 0.0982
+703, The Greatest Video Game Music, 3.29 (19), 0.0982
+704, Nintendo 3DS Pokémon Omega Ruby & Alpha Sapphire Super Music Complete, 4.85 (13), 0.0982
+705, BLAZBLUE PHASE III CHRONOPHANTASMA Original Soundtrack, 4.19 (13), 0.0982
+706, NOIR ORIGINAL SOUNDTRACK II, 4.00 (12), 0.0983
+707, Giana Sisters: Twisted Dreams Original Soundtrack, 4.33 (12), 0.0984
+708, RAINBOW MOON MELODIES original soundtrack, 4.27 (11), 0.0986
+709, The Binding of Isaac, 4.00 (18), 0.0987
+710, Yuusha 30 Sou ORIGINAL SOUNDTRACK, 4.21 (17), 0.0988
+711, Pop'n Twinbee, 4.07 (14), 0.0988
+712, GRAN TURISMO 5 ORIGINAL GAME SOUNDTRACK, 4.00 (12), 0.0989
+713, The Orange Box Original Soundtrack, 4.15 (13), 0.0989
+714, Musou Materialise, 4.88 (13), 0.0989
+715, Perfect Dark Zero Original Soundtrack, 3.67 (15), 0.0990
+716, Vampire: The Night Warriors Arcade Gametrack, 3.83 (12), 0.0992
+717, Street Fighter EX -Arrange Sound Trax-, 4.17 (12), 0.0992
+718, KINGDOM HEARTS -FINAL MIX- Additional Tracks, 3.81 (13), 0.0992
+719, NiGHTS ~Hoshi Furu Yoru no Monogatari~ Original Soundtrack, 4.16 (16), 0.0993
+720, The Legend of Zelda - Ocarina of Time Vol. II: The Lost Tracks, 3.62 (17), 0.0993
+721, XANADU NEXT Original Sound Track, 3.92 (12), 0.0993
+722, METAL GEAR SOLID PORTABLE OPS ORIGINAL SOUNDTRACK, 3.83 (12), 0.0995
+723, Panty & Stocking with Garterbelt The Original Soundtrack, 4.23 (13), 0.0996
+724, REMASTERED TRACKS ROCKMAN ZERO Physis, 4.47 (16), 0.0996
+725, ZUNTATA LIVE 1998 "güten Talk" from the earth ~AUDIO FILE~, 4.23 (11), 0.0997
+726, Stolen Hearts / Nanaa Mihgo's, 4.39 (14), 0.0997
+727, Crysis 2 Original Videogame Soundtrack, 4.59 (17), 0.0998
+728, Umineko no Naku Koro ni musicbox Blue, 4.33 (12), 0.0998
+729, WORLD OF FINAL FANTASY Original Soundtrack, 4.16 (16), 0.0998
+730, Celestial Score, 4.08 (12), 0.0998
+731, ROCKMAN EXE TRANSMISSION SOUND TRACK, 4.00 (12), 0.0999
+732, Message, 3.92 (12), 0.0999
+733, Merregnon Soundtrack Volume 2, 4.00 (11), 0.1002
+734, Armored Core 4 Original Soundtrack, 4.41 (11), 0.1004
+735, Katamari Damacy TRIBUTE Original Soundtrack: Katamari Takeshi, 4.77 (11), 0.1004
+736, GUILTY CROWN ORIGINAL SOUNDTRACK, 4.47 (32), 0.1004
+737, Panzer Dragoon II Zwei Original Soundtrack, 4.13 (16), 0.1004
+738, Before Crisis -Final Fantasy VII- & Last Order -Final Fantasy VII- Original Soundtrack, 3.88 (20), 0.1005
+739, La Tale, 4.55 (11), 0.1005
+740, MOTHER, 3.97 (15), 0.1006
+741, Violin de Hiite Mita ep2 ~ Maou no Gyakushuu / Scream no Hito, 4.54 (12), 0.1009
+742, Rewrite ORIGINAL SOUNDTRACK, 4.32 (19), 0.1010
+743, Diddy Kong Racing Original Soundtrack, 3.75 (16), 0.1011
+744, Vampire Hunter: Darkstalkers' Revenge Arcade Gametrack, 4.00 (11), 0.1011
+745, Lost Child Original Sound Track from S.S.H Side-B, 4.35 (13), 0.1012
+746, Age of Mythology Original Soundtrack, 4.36 (11), 0.1013
+747, MOBILE SUIT GUNDAM UNICORN ORIGINAL SOUNDTRACK, 4.87 (39), 0.1015
+748, Super Mario Bros. 3 -G.S.M.(FC) Nintendo 1-, 4.38 (13), 0.1015
+749, Navigatoria / Akiko Shikata, 4.64 (11), 0.1015
+750, DONPACHI, 3.65 (13), 0.1017
+751, GUIN SAGA ORIGINAL SOUNDTRACK, 4.27 (11), 0.1019
+752, Another Eden Original Soundtrack, 4.27 (11), 0.1019
+753, Okami Gojuu no Shirabe, 3.70 (20), 0.1019
+754, Contra Dual Spirits ORIGINAL SOUNDTRACK, 3.86 (11), 0.1021
+755, Dead Rising Original Soundtrack, 3.83 (15), 0.1022
+756, Brandish -The Dark Revenant- ORIGINAL SOUND TRACK, 4.14 (14), 0.1023
+757, MACROSS THE COMPLETE, 4.77 (11), 0.1023
+758, NO REALITY ORIGINAL SOUNDTRACK, 4.83 (12), 0.1024
+759, Strider Hiryu -G.S.M. CAPCOM 2-, 3.75 (12), 0.1025
+760, Plants vs. Zombies Original Soundtrack, 4.04 (13), 0.1025
+761, CLANNAD remix album -memento-, 4.12 (13), 0.1026
+762, THE KING OF FIGHTERS 2002 ORIGINAL SOUND TRAX, 4.59 (11), 0.1026
+763, NO MORE HEROES 2 DESPERATE STRUGGLE ORIGINAL SOUND TRACKS, 4.25 (14), 0.1028
+764, Symphonic Suite Dragon Quest I & II, 4.00 (11), 0.1028
+765, FAMICOM 20TH ANNIVERSARY ARRANGE SOUND TRACKS, 3.79 (19), 0.1029
+766, Biohazard The Umbrella Chronicles Original Sound Track, 4.00 (11), 0.1030
+767, Valkyrie Profile -Covenant of the Plume- Arrange Album, 3.96 (12), 0.1030
+768, GAME SOUND COLLECTION VOL.6 Soukyugurentai, 4.00 (11), 0.1030
+769, BLOOD+ ORIGINAL SOUNDTRACK 1, 4.54 (13), 0.1030
+770, Atlantis: The Lost Tales, 4.14 (11), 0.1031
+771, Higurashi no Naku Koro ni Kai Original Sound Version & Extra Sounds "Thanks/you", 4.71 (12), 0.1031
+772, GUILTY GEAR 2 OVERTURE ORIGINAL SOUNDTRACK Vol.2, 4.36 (11), 0.1031
+773, SONIC THE HEDGEHOG BOOM, 4.23 (15), 0.1032
+774, NARUTO SHIPPŪDEN Original Sound Track, 4.67 (21), 0.1033
+775, Music from Super Contra & A-JAX, 3.80 (15), 0.1033
+776, Seiken Densetsu 25th Anniversary Orchestra Concert CD, 4.46 (12), 0.1034
+777, Original Sound of Double Dragon ■ Arcade Version ■, 4.50 (12), 0.1034
+778, BLOOD of BAHAMUT Original Soundtrack, 3.86 (14), 0.1034
+779, FINAL FANTASY Orchestral Album, 4.72 (16), 0.1034
+780, Fuujin Ryouiki Eretzvaju Original Soundtrack, 4.29 (14), 0.1036
+781, VALKYRIE PROFILE VOICE MIX ARRANGE, 3.47 (17), 0.1036
+782, ROCKMANZERO The Complete Works of GAME MUSIC, 4.46 (14), 0.1038
+783, ELDER GATE Original Soundtrack, 4.08 (12), 0.1038
+784, Beautiful Katamari Damacy Original Soundtrack "Katamari Suteki Damacy", 4.21 (14), 0.1039
+785, SONIC THE HEDGEHOG ORIGINAL SOUND TRACK, 4.39 (18), 0.1039
+786, FAIRY TAIL ORIGINAL SOUNDTRACK VOL.2, 4.22 (16), 0.1040
+787, Xenoblade2 Original Soundtrack [Type B], 4.79 (26), 0.1040
+788, R-TYPE FINAL ORIGINAL SOUND TRACKS, 3.70 (15), 0.1041
+789, Star Ocean -The Last Hope- Arrange Soundtrack, 3.88 (16), 0.1042
+790, Bayonetta Preorder Purchase Bonus Original Soundtrack "Rodin's Selection", 4.40 (15), 0.1042
+791, Professor Layton and the Curious Village Original Soundtrack, 3.79 (17), 0.1043
+792, Wanderers from Ys Super Arrange Version, 3.77 (13), 0.1045
+793, GUILTY GEAR XX SOUND ALIVE / A.S.H., 3.87 (15), 0.1045
+794, YORU NO NAI KUNI OFFICIAL SOUND TRACK, 4.42 (13), 0.1046
+795, WANDERINGS, 4.41 (11), 0.1046
+796, The Legend of Heroes Zero no Kiseki Original Soundtrack, 4.00 (13), 0.1046
+797, Tales of Destiny Original Soundtrack, 3.75 (12), 0.1047
+798, COWBOY BEBOP Original Soundtrack 3 BLUE, 3.65 (13), 0.1047
+799, Street Fighter V Original Soundtrack, 4.03 (15), 0.1047
+800, NINJA GAIDEN Σ2 Official Soundtrack, 4.21 (12), 0.1047
+801, Symphonic Poem "Hope" [Limited Edition], 3.81 (13), 0.1050
+802, The OneUps Volume 2, 4.10 (15), 0.1050
+803, Let's TAP SOUNDTRACK, 3.75 (16), 0.1051
+804, Silent Hill Downpour Original Soundtrack, 3.97 (17), 0.1054
+805, DISSIDIA 012[duodecim] FINAL FANTASY Original Soundtrack [Limited Edition], 3.77 (26), 0.1056
+806, Beyond Good & Evil, 4.19 (18), 0.1056
+807, Dragon Quest IX Hoshizora no Mamoribito Synthesizer & Original Soundtrack, 4.14 (11), 0.1056
+808, FRONT MISSION 4 plus 1st ORIGINAL SOUNDTRACK, 3.96 (12), 0.1057
+809, The Vanishment of Haruhi Suzumiya Original Soundtrack, 4.58 (12), 0.1058
+810, Namco Game Sound Express VOL.17 Tekken, 4.04 (14), 0.1060
+811, WANDERINGS II, 4.19 (13), 0.1062
+812, "Attack on Titan" Original Soundtrack II, 3.94 (48), 0.1062
+813, Genso Suikogaiden Vol.1 Swordsman of Harmonia Original Soundtrack, 4.50 (13), 0.1062
+814, NEON GENESIS EVANGELION II, 3.93 (15), 0.1063
+815, Valkyrie Profile -Covenant of the Plume- Original Sound Track, 3.86 (14), 0.1065
+816, FINAL FANTASY XIV - Eorzean Frontiers, 4.05 (11), 0.1067
+817, CYBER ORG ORIGINAL SOUNDTRACK, 4.08 (12), 0.1067
+818, Granado Espada Original Sound Track Volume 1, 4.19 (18), 0.1067
+819, Parodius da! -Shinwa kara Owaraihe-, 3.77 (11), 0.1069
+820, Falcom J.D.K. BAND 2 / Dalk Fukt no Gyakushuu, 4.14 (14), 0.1070
+821, EVERGRACE Original Soundtrack, 4.59 (11), 0.1070
+822, DOOM Music, 4.09 (11), 0.1072
+823, RAKA / Akiko Shikata, 4.75 (16), 0.1073
+824, Genso Suikoden Music Collection Produced by Hiroyuki Namba/Played by Yajuh-Ohkoku, 4.25 (16), 0.1073
+825, SONIC LOST WORLD ORIGINAL SOUNDTRACK WITHOUT BOUNDARIES, 4.10 (15), 0.1074
+826, COWBOY BEBOP Original Soundtrack 2 No Disc, 3.75 (12), 0.1074
+827, Makoto Shinkai Image Album "PROMISE", 4.60 (15), 0.1075
+828, FALCOM BOSS ZANMAI, 3.82 (17), 0.1076
+829, SAKIYA=RUMEI Ar tonelico III hymmnos concert side. Blue, 4.37 (15), 0.1076
+830, PIANO OPERA FINAL FANTASY VII/VIII/IX, 4.19 (16), 0.1083
+831, Capcom Music Generation Area 88 Original Soundtrack, 3.73 (13), 0.1083
+832, STREET FIGHTER III 2nd IMPACT GIANT ATTACK ORIGINAL SOUND TRACK, 4.29 (12), 0.1084
+833, Final Fantasy V Mambo de Chocobo, 3.77 (11), 0.1085
+834, HEAVENSWARD: FINAL FANTASY XIV Original Soundtrack, 4.18 (17), 0.1086
+835, Nintendo Sound Selection vol.3 Luigi <B-Side Music>, 4.09 (17), 0.1087
+836, GHOST TRICK Original Sound Track, 4.53 (18), 0.1087
+837, Valkyria Chronicles TV Animation Original Soundtrack, 4.41 (11), 0.1087
+838, Street Fighter ZERO3 Original Soundtrack, 3.88 (21), 0.1089
+839, Tales of Destiny2 Original Soundtrack, 3.71 (19), 0.1091
+840, Söldner-X: Himmelsstürmer Complete Edition Original Soundtrack, 3.75 (12), 0.1091
+841, AFTER BURNER 20th Anniversary Box, 4.43 (14), 0.1094
+842, PROJECT SYLPHEED Original Soundtrack, 4.12 (17), 0.1095
+843, Nintendo Sound Selection vol.2 Koopa <Loud Music>, 3.92 (19), 0.1097
+844, Winbee's Neo Cinema Club ~Evergreen~, 4.15 (13), 0.1097
+845, Hexyz Force Original Sound Track, 4.36 (11), 0.1097
+846, G-DARIUS ORIGINAL ARCADE SCORE, 4.54 (12), 0.1099
+847, TAKAHASHIMEIJIN NO DAIBOUKENJIMA, 3.97 (15), 0.1099
+848, Mortal Kombat II • Music from the Arcade Game Soundtrack, 4.17 (15), 0.1099
+849, HANJUKU HERO VS 3D ORIGINAL SOUNDTRACK, 3.74 (17), 0.1100
+850, Phantasy Star Online Original Sound Track, 4.23 (20), 0.1100
+851, Shin Sekaiju no MeiQ millennium no shoujo ORIGINAL SOUNDTRACK, 4.14 (18), 0.1101
+852, Ninja Gaiden Original Sound Trax, 4.18 (14), 0.1101
+853, Terror in Resonance Original Soundtrack, 4.31 (18), 0.1101
+854, Shin Megami Tensei: Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon Soundtrack, 4.18 (14), 0.1102
+855, GUWANGE / ESP RA.DE. ORIGINAL SOUND TRACK, 4.03 (17), 0.1103
+856, Ganbare Goemon: Yukihime Kyuushutsu Emaki, 4.33 (12), 0.1103
+857, VIEWTIFUL JOE + VIEWTIFUL JOE 2 ORIGINAL SOUNDTRACK, 4.04 (13), 0.1103
+858, LAND STALKER ~Koutei no Zaihou~, 4.14 (14), 0.1104
+859, HALO 3 Original Soundtrack, 3.43 (22), 0.1105
+860, Rhapsodia Original Soundtrack, 3.82 (14), 0.1105
+861, Competition / Sega Rally Championship Complete, 4.05 (11), 0.1106
+862, Distant Worlds: music from FINAL FANTASY Returning Home, 4.38 (20), 0.1107
+863, Classic Dungeon ~Fuyoku no Masoujin~ Original Soundtrack, 4.64 (11), 0.1107
+864, CODE GEASS Lelouch of the Rebellion R2 O.S.T., 4.62 (13), 0.1108
+865, Star Ocean Blue Sphere Arrange&Sound Trax, 4.07 (15), 0.1110
+866, Perfect Collection Sorcerian Vol. 2, 3.96 (13), 0.1111
+867, MOTHER3+, 3.38 (17), 0.1112
+868, murmur, 4.25 (12), 0.1112
+869, PANZER DRAGOON ORTA OFFICIAL SOUNDTRACK, 4.50 (15), 0.1113
+870, DELTORA QUEST Seven Jewels ORIGINAL SOUNDTRACK, 3.78 (18), 0.1116
+871, Vent ~ Grandia Arrange Version, 3.42 (19), 0.1116
+872, DANGANRONPA Original Soundtrack, 4.25 (18), 0.1117
+873, Suite Dragon Quest II -Gods of the Evil Spirits-, 4.19 (13), 0.1119
+874, Final Fantasy VI: Balance and Ruin, 4.23 (22), 0.1119
+875, Gyakuten Saiban 4 Original Soundtrack, 3.56 (17), 0.1120
+876, Raystorm, 4.38 (12), 0.1120
+877, FRONT MISSION 2 Original Soundtrack [Limited Edition], 4.18 (11), 0.1121
+878, COMPLETE TRINITY: SONIC HEROES - ORIGINAL SOUNDTRAX, 4.04 (24), 0.1121
+879, GHOST IN THE SHELL Original Soundtrack, 4.36 (11), 0.1122
+880, BERSERK ORIGINAL SOUNDTRACK, 4.86 (14), 0.1123
+881, World of Goo Soundtrack, 4.38 (16), 0.1123
+882, Game Sound Museum ~Famicom Edition~ 01 Super Mario Bros., 4.50 (11), 0.1123
+883, TV ANIMATION FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 2, 4.31 (13), 0.1123
+884, TIME TRAVELERS Original Soundtrack, 3.73 (15), 0.1123
+885, Kingdom Hearts Original Soundtrack, 4.39 (18), 0.1126
+886, MIDI POWER ver.5.0, 4.55 (11), 0.1126
+887, Super Street Fighter II Turbo HD Remix Official Soundtrack / OverClocked ReMix, 3.42 (25), 0.1127
+888, Streets of Rage Remake, 4.54 (12), 0.1127
+889, Devil May Cry 4 Original Soundtrack, 4.00 (16), 0.1128
+890, The Legend of Zelda: Twilight Princess Official Soundtrack, 3.26 (27), 0.1128
+891, SONIC THE HEDGEHOG 10th Anniversary, 4.46 (13), 0.1130
+892, Final Fight -G.S.M. CAPCOM 3-, 4.00 (12), 0.1130
+893, Atelier Rorona Original Sound Track, 4.30 (22), 0.1131
+894, Symphonic Fantasies Tokyo, 4.96 (13), 0.1132
+895, PRESS START The 5th Anniversary, 4.30 (15), 0.1132
+896, Kokoro / Joanne Hogg Theme from "Xenosaga Episode I", 3.95 (11), 0.1132
+897, ZONE OF THE ENDERS Z.O.E ORIGINAL SOUNDTRACK, 4.03 (16), 0.1133
+898, Inazuma Eleven Original Soundtrack, 3.90 (15), 0.1135
+899, Namco Game Sound Express VOL.1 Valkyrie no Densetsu, 3.96 (13), 0.1135
+900, Tenchi wo Kurau II: The Battle of Red Cliff -G.S.M. CAPCOM 7-, 4.27 (13), 0.1135
+901, .hack//G.U. GAME MUSIC O.S.T., 4.32 (14), 0.1136
+902, Angel Beats! ORIGINAL SOUNDTRACK, 4.16 (22), 0.1136
+903, Seiken Densetsu DS CHILDREN of MANA -Original Soundtrack-, 3.64 (14), 0.1137
+904, Gokujou Parodius, 4.36 (14), 0.1138
+905, The Elder Scrolls III: Morrowind Special Edition Soundtrack, 4.20 (15), 0.1138
+906, NOIR ORIGINAL SOUNDTRACK I, 4.03 (17), 0.1140
+907, Street Fighter III: New Generation, 4.00 (12), 0.1140
+908, Nobuo Uematsu's 10 Short Stories, 3.92 (13), 0.1140
+909, Ys ZANMAI, 3.97 (16), 0.1141
+910, DO-DON-PACHI DAI-FUKKATSU ARRANGE ALBUM, 3.56 (17), 0.1141
+911, Octave Theory, 3.76 (25), 0.1143
+912, ALDNOAH.ZERO ORIGINAL SOUNDTRACK, 4.19 (34), 0.1144
+913, THE LEGEND OF HEROES SORA NO KISEKI THE 3RD ORIGINAL SOUND TRACK, 4.40 (15), 0.1144
+914, Contra 4: Rocked 'n' Loaded, 4.28 (18), 0.1145
+915, Ys PREMIUM MUSIC CD BOX in FELGHANA, 4.55 (11), 0.1145
+916, Symphony Ys '95, 4.09 (17), 0.1147
+917, SOUL EDGE Arcade Edition Original Sound Track SUPER BATTLE SOUND ATTACK, 3.92 (13), 0.1148
+918, Flame ~Homura Ar tonelico II Hymmnos Concert Side Crimson, 4.23 (15), 0.1148
+919, Melody Of Legend ~ Chapter of Love, 3.61 (14), 0.1148
+920, THE SECOND APOCALYPSE: Ketsui ~Kizunajigokutachi~ PERFECT SOUND TRACK, 3.86 (11), 0.1148
+921, GOD EATER 2 & GOD EATER 2 RAGE BURST ORIGINAL SOUNDTRACK, 4.34 (19), 0.1149
+922, THE BOUNCER ORIGINAL SOUNDTRACK, 3.61 (14), 0.1150
+923, MOTHER, 4.03 (18), 0.1150
+924, TV ANIMATION FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1, 4.42 (13), 0.1150
+925, Singing the Stars ~Hoshiyomi~ Ar tonelico Hymmnos concert Side Blue, 4.56 (16), 0.1150
+926, ROCKMAN ZERO COLLECTION SOUNDTRACK - résonnant vie -, 4.28 (18), 0.1151
+927, ACE COMBAT 3D: CROSS RUMBLE Original Soundtrack, 3.78 (18), 0.1151
+928, MOTHER3i, 3.81 (13), 0.1154
+929, Genso Suikoden Tsumugareshi Hyakunen no Toki Original Soundtrack, 4.23 (11), 0.1154
+930, To the Moon Original Soundtrack, 4.40 (15), 0.1154
+931, DO-DON-PACHI DAI-FUKKATSU BLACK LABEL Arrange Mode Album, 3.77 (15), 0.1154
+932, Puella Magi Madoka Magica Music Collection, 4.38 (21), 0.1156
+933, SUPER MARIO SOUND COLLECTION, 4.19 (16), 0.1157
+934, PERFECT SELECTION SNATCHER & SD SNATCHER, 4.20 (15), 0.1157
+935, FRONT MISSION 5 ~Scars of the War~ ORIGINAL SOUNDTRACK, 4.00 (12), 0.1157
+936, CHRONO CROSS ~memory of music~, 3.93 (15), 0.1161
+937, VIDEO GAMES LIVE: VOLUME ONE, 3.29 (21), 0.1165
+938, Calling All Dawns, 4.53 (16), 0.1166
+939, Falcom Special Box '91, 4.29 (12), 0.1166
+940, World of Warcraft Soundtrack, 4.00 (15), 0.1167
+941, BUSHIDO BLADE 2 ORIGINAL SOUNDTRACK, 4.21 (14), 0.1168
+942, TV ANIME POCKET MONSTERS ORIGINAL SOUNDTRACK BEST 1997-2010, 4.85 (17), 0.1168
+943, FINAL FANTASY XI Chains of Promathia Original Soundtrack, 3.67 (18), 0.1169
+944, Mushihimesama Cave Festival ver1.5 -Arrange Album-, 3.88 (13), 0.1170
+945, Lagrange Point, 4.42 (12), 0.1171
+946, DRAGON'S DOGMA Original Soundtrack, 3.94 (17), 0.1171
+947, PERFECT SELECTION Sound Racing History, 4.42 (13), 0.1171
+948, Valkyrie Profile -LENNETH- Arrange Album, 4.29 (14), 0.1174
+949, FRONTIER GATE ORIGINAL SOUNDTRACK, 4.00 (14), 0.1176
+950, Namco Game Sound Express VOL.11 Ridge Racer, 4.18 (17), 0.1177
+951, Atelier Escha & Logy -Alchemist of Dusk Sky- Original Soundtrack, 4.21 (17), 0.1177
+952, ABANDONER original sound track, 4.53 (15), 0.1177
+953, TVanimation NORAGAMI Original Soundtrack Noragami no Oto, 4.33 (18), 0.1179
+954, SENKO NO RONDE Dis-United Order SOUND TRACK, 4.04 (14), 0.1180
+955, Gyakuten Saiban 5 Original Soundtrack, 4.18 (14), 0.1181
+956, CADENZA -Gyakuten Saiban 1-, 4.30 (15), 0.1181
+957, WANGAN MIDNIGHT MAXIMUM TUNE 4 ORIGINAL SOUNDTRACK, 3.72 (16), 0.1182
+958, GANBARE GOEMON~NEO MOMOYAMA-BAKUFU NO ODORI~ ORIGINAL GAME SOUNDTRACK, 4.43 (15), 0.1182
+959, STREET FIGHTER EX, 4.07 (14), 0.1183
+960, ESCAFLOWNE Original Sound Track, 4.46 (13), 0.1183
+961, TEKKEN4 Original Sound Tracks, 3.75 (12), 0.1183
+962, Soukyugurentai Original Soundtrack, 3.73 (15), 0.1184
+963, Devil May Cry O.S.T., 4.50 (11), 0.1184
+964, Pachislot Akumajo Dracula Original Soundtrack, 3.69 (18), 0.1185
+965, Okamiden ~Chiisaki Taiyou~ Oto to Hikari no Tamatebako, 4.91 (11), 0.1185
+966, Labyrinth no Kanata Original Soundtrack, 4.50 (15), 0.1187
+967, Rockman ZX Soundtrack: ZX Tunes, 4.52 (23), 0.1187
+968, CODE GEASS Lelouch of the Rebellion O.S.T., 4.54 (12), 0.1188
+969, DETANA!! TWINBEE / KONAMI KUKEIHA CLUB, 4.41 (11), 0.1189
+970, Tenkuu no Shiro Laputa Soundtrack -Hikouseki no Nazo-, 4.21 (12), 0.1189
+971, Dune - Spice Opera, 4.47 (16), 0.1190
+972, Shin Megami Tensei IV Original Soundtrack, 3.91 (29), 0.1192
+973, Nintendo All Star! Dairantou Smash Brothers Original Soundtrack, 3.95 (21), 0.1194
+974, FEZ ORIGINAL SOUNDTRACK, 3.69 (18), 0.1196
+975, Dark Cloud Original Soundtrack, 3.88 (17), 0.1197
+976, SUITE GRADIUS Fantasia, 4.12 (13), 0.1198
+977, ODIN SPHERE LEIFTHRASIR Original Soundtrack, 4.00 (16), 0.1198
+978, Atelier Shallie -Alchemist of the sea of dusk- ORIGINAL SOUNDTRACK, 4.36 (14), 0.1199
+979, ENEMY ZERO original soundtrack, 4.44 (16), 0.1200
+980, Technosoft GAME MUSIC COLLECTION VOL.4 ~ Elemental Master, 4.33 (12), 0.1201
+981, Ys Healing, 4.04 (14), 0.1201
+982, THE LUNATIC: IBARA REMIX TRACKS, 4.10 (15), 0.1202
+983, PIANO OPERA FINAL FANTASY IV/V/VI, 3.74 (23), 0.1202
+984, Shin Megami Tensei: Digital Devil Saga 2 Original Soundtrack, 4.18 (17), 0.1203
+985, RADIATA STORIES Original Soundtrack, 3.77 (15), 0.1204
+986, METAL SLUG2, 4.21 (12), 0.1205
+987, Vampire Savior: The Lord Of Vampire, 4.07 (14), 0.1206
+988, Demon's Souls ART BOOK & SOUNDTRACK CD, 3.71 (33), 0.1207
+989, HOSPITAL. -Six Doctors- ORIGINAL SOUNDTRACK, 4.53 (17), 0.1207
+990, Nintendo Sound History Series: Zelda the Music, 3.86 (22), 0.1208
+991, NEO CONTRA Original Soundtrack, 4.50 (15), 0.1208
+992, GUWANGE Arrange Album + Original Sound Track, 4.00 (11), 0.1209
+993, Donkey Kong Country 3: Dixie Kong's Double Trouble! Original Soundtrack, 3.77 (22), 0.1209
+994, Resolution Trigger, 4.59 (11), 0.1210
+995, Red Dead Redemption Original Soundtrack, 4.00 (17), 0.1210
+996, GOD OF WAR III: ORIGINAL SOUNDTRACK FROM THE VIDEO GAME, 3.79 (12), 0.1213
+997, StarCraft II: Wings of Liberty Soundtrack, 4.24 (17), 0.1215
+998, Shin Onimusha Dawn of Dreams Special Pack Original Soundtrack, 4.25 (16), 0.1215
+999, Umihara Kawase Soundtrack, 4.50 (14), 0.1215
+1000, FINAL FANTASY XV Original Soundtrack, 3.60 (31), 0.1216
+1001, Heavy Rain Original Videogame Score, 3.60 (21), 0.1217
+1002, SQUARE ENIX MUSIC Presents Music for Art, 4.21 (12), 0.1219
+1003, FICTION II, 4.33 (12), 0.1220
+1004, Space Manbow, 4.06 (17), 0.1221
+1005, Virtua Fighter 2 SOUND TRACK, 4.13 (15), 0.1224
+1006, God of War Soundtrack, 3.73 (11), 0.1224
+1007, Ghost in the Shell STAND ALONE COMPLEX O.S.T., 4.21 (14), 0.1225
+1008, ASH: Archaic Sealed Heat Original Soundtrack, 3.54 (25), 0.1225
+1009, preludio -For All of You FF Lovers-, 4.59 (11), 0.1225
+1010, TALES OF KNIGHTHOOD: SONIC AND THE BLACK KNIGHT - ORIGINAL SOUNDTRAX, 4.07 (21), 0.1226
+1011, RIDGE RACERS direct audio, 4.37 (15), 0.1226
+1012, Zero Divide 2: The Secret Wish Original Soundtrack, 4.96 (13), 0.1226
+1013, Space Channel 5 original soundtrack, 4.18 (14), 0.1227
+1014, AZEL -PanzerDragoonRPG- COMPLETE ALBUM, 4.23 (13), 0.1227
+1015, Silent Hill Shattered Memories Soundtrack, 3.78 (25), 0.1228
+1016, FM Sound Module Maniax, 4.46 (13), 0.1231
+1017, PERFECT COLLECTION Dragon Slayer: The Legend of Heroes, 3.95 (11), 0.1231
+1018, MONSTER WORLD COMPLETE COLLECTION ORIGINAL SOUND TRACK, 4.41 (17), 0.1231
+1019, The Orchestral SaGa -Legend of Music-, 4.39 (18), 0.1233
+1020, BLACK★ROCK SHOOTER THE GAME ORIGINAL SOUNDTRACK, 4.32 (17), 0.1233
+1021, BROKEN THUNDER -project THUNDER FORCE VI-, 4.33 (15), 0.1233
+1022, Namco Game Sound Express VOL.14 Ridge Racer 2, 3.91 (17), 0.1233
+1023, PROJECT SOUL the PRIMARY SOUND BOX -SOUL EDGE ~ SOULCALIBUR I & II-, 4.67 (15), 0.1234
+1024, Scott Pilgrim vs. the World: The Game Original Videogame Soundtrack, 4.40 (21), 0.1234
+1025, BAROQUE Original Soundtrack, 3.92 (13), 0.1235
+1026, Falcom Special Box '94, 4.04 (14), 0.1237
+1027, Ninja Ryukenden -G.S.M. TECMO 1-, 4.42 (12), 0.1237
+1028, CHRONO TRIGGER Official Soundtrack: Music from FINAL FANTASY CHRONICLES, 3.92 (13), 0.1238
+1029, FALCOM vs. jdk BAND 2010 SUMMER, 4.33 (12), 0.1238
+1030, Rockman 9 Arrange Soundtrack, 3.63 (28), 0.1239
+1031, Music from Sorcerian, 4.41 (11), 0.1239
+1032, DRAGON FORCE COMPLETE ALBUM, 4.58 (13), 0.1240
+1033, SONG OF SAYA ORIGINAL SOUNDTRACK, 4.35 (17), 0.1240
+1034, LORD of VERMILION Re:2 FAN KIT, 3.87 (15), 0.1240
+1035, Phantom Brave ~Original sound track~, 4.13 (12), 0.1241
+1036, Sekaiju no MeiQ² *syoou no seihai* sound track : Piano sketch version, 4.00 (14), 0.1243
+1037, Estpolis Denki II, 4.23 (13), 0.1243
+1038, Gungage Original Soundtrack, 4.41 (16), 0.1243
+1039, Red Dragon Original Soundtrack, 4.00 (15), 0.1244
+1040, Falcom Special Box '93, 4.55 (11), 0.1244
+1041, METAL GEAR SOLID V ORIGINAL SOUNDTRACK, 3.35 (17), 0.1245
+1042, VALKYRIA : Azure Revolution Original Soundtrack, 3.77 (15), 0.1246
+1043, Sekaiju no MeiQ V: Nagaki Shinwa no Hate Original Soundtrack, 4.33 (15), 0.1247
+1044, SQ Chips, 3.55 (21), 0.1249
+1045, Waterway ~Mio Ar tonelico II Hymmnos Concert Side Blue, 4.24 (17), 0.1250
+1046, Gunstar Heroes Sound Collection, 4.10 (15), 0.1250
+1047, Child of Light / Cœur de pirate, 4.47 (18), 0.1251
+1048, GUILTY GEAR ISUKA ORIGINAL SOUNDTRACK, 3.82 (19), 0.1251
+1049, Mushihimesama Special Arrange Album, 4.13 (15), 0.1251
+1050, Tales of Vesperia Original Soundtrack, 3.69 (24), 0.1252
+1051, WANGAN MIDNIGHT SOUNDTRACK, 3.56 (17), 0.1252
+1052, OTOMEDIUS ORIGINAL SOUNDTRACK, 4.69 (13), 0.1252
+1053, FRAGILE ~Sayonara Tsuki no Haikyo~ Original Soundtrack PLUS, 4.22 (18), 0.1252
+1054, Super Famicom Version Symphonic Suite Dragon Quest III: Into the Legend..., 4.50 (11), 0.1253
+1055, THE STAR ONIONS FINAL FANTASY XI- Music from the Other Side of Vana'diel, 3.55 (21), 0.1254
+1056, Live at Symphony Hall / Video Game Orchestra, 4.36 (14), 0.1256
+1057, 7THDRAGON2020 ORIGINAL SOUNDTRACK, 4.03 (17), 0.1257
+1058, THE LEGAIA Original Soundtrack, 4.41 (11), 0.1258
+1059, iFUTURELIST, 4.41 (16), 0.1259
+1060, Langrisser: Hikari no Matsuei, 3.50 (14), 0.1260
+1061, Yuusha no Kuse ni Namaikida. 1&2 Giant Recital, 4.45 (11), 0.1261
+1062, Perfect Dark Dual CD Soundtrack, 4.09 (17), 0.1262
+1063, KILL la KILL ORIGINAL SOUND TRACK, 4.24 (51), 0.1262
+1064, Cocoon of White Dreams ~Ricordando il Passato~, 4.18 (14), 0.1262
+1065, NieR:Automata Original Soundtrack HACKING TRACKS, 4.36 (14), 0.1264
+1066, Street Fighter ZERO Arcade Gametrack, 3.66 (16), 0.1264
+1067, Soul Blader, 4.13 (15), 0.1264
+1068, Akumajo Dracula MIDI collection, 3.81 (18), 0.1264
+1069, F. F. MIX, 3.53 (19), 0.1264
+1070, Eternal Darkness: Sanity's Requiem Sound Track, 4.11 (19), 0.1266
+1071, Re:Birth/Seiken Densetsu Kenji Ito Arrange Album, 3.75 (22), 0.1267
+1072, GRADIUS ReBirth Original Soundtrack, 4.06 (17), 0.1267
+1073, Music from Alone in the Dark, 4.00 (16), 0.1267
+1074, KUKEIHA CLUB pro-fusion ~TWINBEE YAHHO!~, 4.04 (14), 0.1267
+1075, Rez / Gamer's Guide to..., 4.14 (21), 0.1268
+1076, GALAXY FORCE II & THUNDER BLADE ORIGINAL SOUND TRACK, 4.37 (15), 0.1268
+1077, Guilty Gear XX #Reload Korean Version Original Sound Track, 4.41 (16), 0.1271
+1078, Mamoru-kun wa Norowarete Shimatta! Arrange Tracks, 3.84 (16), 0.1272
+1079, ROGUE GALAXY Premium Arrange, 4.07 (15), 0.1274
+1080, Your Name / RADWIMPS, 4.16 (19), 0.1274
+1081, R-TYPE Δ, 4.06 (17), 0.1277
+1082, Finest FANTASY For ADVANCE: FINAL FANTASY IV V VI Original Sound Track, 4.53 (18), 0.1277
+1083, THE LEGEND OF ZELDA OCARINA OF TIME 3D ORIGINAL SOUNDTRACK, 3.98 (33), 0.1278
+1084, Dragon Quest Game Music Super Collection Vol. 2, 3.88 (13), 0.1278
+1085, THE LEGEND OF ZELDA:MAJORA'S MASK ORCHESTRATIONS, 3.52 (28), 0.1278
+1086, Mononoke Hime Soundtrack, 4.28 (16), 0.1279
+1087, Hitokui no Oowashi Trico Original Soundtrack, 4.06 (16), 0.1279
+1088, Shinobi ORIGINAL SOUNDTRACK, 4.53 (18), 0.1280
+1089, DEVIL MAY CRY 2 ORIGINAL SOUNDTRACK, 4.07 (14), 0.1282
+1090, SOUL SACRIFICE ORIGINAL SOUNDTRACK, 3.65 (24), 0.1282
+1091, GRAN TURISMO 4 ORIGINAL GAME SOUNDTRACK, 4.40 (15), 0.1282
+1092, Higurashi no Naku Koro ni Kai Original Soundtrack, 4.63 (12), 0.1282
+1093, Bloodrayne: Betrayal Official Soundtrack, 4.12 (17), 0.1283
+1094, Star Ocean Perfect Sound Collection, 4.09 (16), 0.1283
+1095, Hoshi no Kirby ~Yume no Izumi no Monogatari~ / Mako Miyata, 3.96 (13), 0.1283
+1096, ICO Respect Arrange Album, 4.04 (13), 0.1284
+1097, FINAL FANTASY IV MINIMUM ALBUM, 4.08 (12), 0.1284
+1098, Thunder Force III/Tecno Soft GAME MUSIC COLLECTION VOL.3, 4.38 (17), 0.1286
+1099, Namco Game Sound Express VOL.26 Tekken 2, 4.00 (15), 0.1286
+1100, Senjou no Valkyria Piano Pieces, 4.33 (12), 0.1287
+1101, Rockman 8: Metal Heroes Original Soundtrack, 3.84 (22), 0.1288
+1102, Manenjushaka ~ Nada Upasana Pundarika, 4.81 (36), 0.1289
+1103, Atelier Totori Original Soundtrack, 4.50 (20), 0.1289
+1104, KAISER KNUCKLE, 4.32 (14), 0.1289
+1105, Symphonic Suite Dragon Quest V: Heaven's Bride, 4.83 (12), 0.1292
+1106, Xenoblade2 Original Soundtrack [Type C], 4.75 (30), 0.1292
+1107, Tour de Japon: Music from Final Fantasy, 4.75 (12), 0.1295
+1108, deathsmiles IIX original sound track, 4.03 (19), 0.1296
+1109, HALO Original Soundtrack, 3.75 (28), 0.1296
+1110, STAR OCEAN Till the End of Time Arrange Album, 3.60 (15), 0.1296
+1111, Perfect Selection GRADIUS, 4.36 (18), 0.1296
+1112, KUKEIHA CLUB pro-fusion ~TOKIMEKI MEMORIAL~, 4.39 (14), 0.1297
+1113, ATLUS BEST SELECTION MEGAMI SEKAI MEGATEN WORLD, 4.14 (11), 0.1301
+1114, OZ ORIGINAL SOUNDTRACK, 4.47 (15), 0.1301
+1115, Atelier Iris ETERNAL MANA 2 Arranged Tracks RED LUCIFER RISING, 4.28 (16), 0.1302
+1116, METAL BLACK -The First-, 4.25 (16), 0.1303
+1117, SUPER MARIO ODYSSEY ORIGINAL SOUND TRACK, 4.50 (15), 0.1304
+1118, LET'S GO AWAY THE VIDEO GAME DAYTONA USA ANNIVERSARY BOX, 4.47 (16), 0.1304
+1119, Zwei!! Original Sound Track 2008, 4.04 (12), 0.1304
+1120, BIOHAZARD 5 ORIGINAL SOUNDTRACK, 3.70 (23), 0.1305
+1121, SUPER MARIO GALAXY ORIGINAL SOUND TRACK, 4.15 (24), 0.1307
+1122, Original Video Animation Rurouni Kenshin -Meiji Kenkaku Romantan- Tsuiokuhen Original Soundtrack, 4.73 (11), 0.1307
+1123, LOST CHILD infinia, 4.50 (14), 0.1308
+1124, GAROU: MARK OF THE WOLVES, 4.55 (11), 0.1308
+1125, Lost Files, 3.88 (12), 0.1310
+1126, Biohazard The Darkside Chronicles Original Soundtrack, 4.50 (13), 0.1310
+1127, Blue Exorcist Original Soundtrack 1, 4.54 (28), 0.1310
+1128, Gensei Kyokou Seirei Kidoudan Original Sound Track & Drama, 4.19 (13), 0.1311
+1129, TOBAL No.1 Original Sound Track, 3.89 (19), 0.1312
+1130, suteki da ne featured in FINAL FANTASY X, 3.97 (18), 0.1312
+1131, parasite eve remixes, 3.68 (22), 0.1312
+1132, Gyakuten Kenji Original Soundtrack, 3.92 (18), 0.1313
+1133, Street Fighter II Image Album -G.S.M. CAPCOM-, 3.98 (24), 0.1313
+1134, INFINITE UNDISCOVERY ORIGINAL SOUNDTRACK, 3.59 (16), 0.1314
+1135, Lost Child Original Sound Track from S.S.H Side-A, 4.44 (16), 0.1315
+1136, God of War II Official Soundtrack, 3.81 (13), 0.1316
+1137, ASURA'S WRATH Original Soundtrack, 3.97 (19), 0.1316
+1138, Shin Megami Tensei II Sound Relation, 4.38 (13), 0.1316
+1139, SOLID SNAKE METAL GEAR2, 4.21 (19), 0.1317
+1140, Gyakuten Saiban 3 Original Soundtrack, 4.31 (18), 0.1318
+1141, MIDI POWER Pro 3 ~Policenauts~, 4.46 (12), 0.1318
+1142, Final Fantasy 1987 - 1994 [Limited Edition], 3.89 (19), 0.1319
+1143, XEXEX, 4.46 (14), 0.1320
+1144, Namco × Capcom Original Soundtrack, 4.15 (17), 0.1321
+1145, Rockman 2: The Power Fighters, 3.90 (15), 0.1322
+1146, AFRIKA ORIGINAL SOUNDTRACK, 4.35 (20), 0.1324
+1147, Neotokyo, 4.74 (17), 0.1325
+1148, MAGICAL CHASE ORIGINAL SOUNDTRACK, 4.13 (12), 0.1325
+1149, FINAL FANTASY XII THE ZODIAC AGE Original Soundtrack [Limited Edition], 4.54 (14), 0.1325
+1150, FAIRY TAIL ORIGINAL SOUNDTRACK VOL.1, 4.80 (22), 0.1326
+1151, 20th Anniversary Rockman 1~6 Techno Arrange Ver., 3.50 (28), 0.1326
+1152, Perfect Selection Dracula, 3.10 (29), 0.1328
+1153, Fate/stay night A.OST, 4.42 (18), 0.1330
+1154, Machinarium Soundtrack, 4.17 (23), 0.1331
+1155, Ys & Ys II ETERNAL Original Sound Track, 4.32 (11), 0.1333
+1156, TALES OF THE ABYSS Original Soundtrack, 3.57 (21), 0.1333
+1157, Mamoru-kun wa Norowarete Shimatta! Soundtrack, 4.22 (16), 0.1334
+1158, METAL GEAR RISING REVENGEANCE Vocal Tracks, 3.98 (25), 0.1334
+1159, WILD ARMS Music the Best -rocking heart-, 3.88 (20), 0.1335
+1160, Mass Effect Original Soundtrack, 3.90 (24), 0.1338
+1161, Guilty Gear X Original Sound Track, 3.79 (12), 0.1339
+1162, Sorcerian Super Arrange Version III Sengoku Sorcerian VS Pyramid Sorcerian, 4.04 (12), 0.1339
+1163, SONIC RUSH Original Groove Rush., 4.18 (25), 0.1340
+1164, 25th Anniversary Rockman Rock Arrange Ver., 3.80 (22), 0.1340
+1165, METAL GEAR 20th ANNIVERSARY: METAL GEAR MUSIC COLLECTION, 4.09 (17), 0.1340
+1166, Famicom Sound History Series "Mario the Music", 4.50 (19), 0.1341
+1167, Harmonia / Akiko Shikata, 4.34 (19), 0.1342
+1168, AKAI KATANA ORIGINAL SOUND TRACK, 3.70 (22), 0.1343
+1169, STREET FIGHTER EX2, 4.38 (12), 0.1344
+1170, GOD TRACKS!, 4.24 (17), 0.1344
+1171, Chocobo no Fushigi na Dungeon Tokiwasure no Meikyuu Original Soundtrack, 3.98 (20), 0.1345
+1172, THE VISION OF ESCAFLOWNE ORIGINAL SOUNDTRACK, 4.31 (13), 0.1347
+1173, Catherine Sound Disc & Art Book, 4.00 (26), 0.1347
+1174, Last Bible III Soundtrack, 4.35 (13), 0.1348
+1175, Symphonic Suite "SUIKODEN" ~presented by JAGMO~, 5.00 (12), 0.1348
+1176, NEON GENESIS EVANGELION, 4.13 (19), 0.1348
+1177, BLAST FROM THE PAST, 4.31 (18), 0.1351
+1178, Hikari no 4 Senshi -Final Fantasy Gaiden- Original Soundtrack, 4.03 (20), 0.1352
+1179, MADE IN ABYSS ORIGINAL SOUNDTRACK, 4.56 (18), 0.1352
+1180, Under Defeat -Sound Tracks-, 4.15 (13), 0.1354
+1181, Cafe SQ, 3.67 (18), 0.1355
+1182, THE KING OF FIGHTERS '98 ARRANGE SOUND TRAX, 4.63 (16), 0.1355
+1183, Parasite Eve II ORIGINAL SOUNDTRACK, 3.39 (28), 0.1356
+1184, Dracula ~Music Collection~, 4.03 (16), 0.1356
+1185, .hack//SIGN ORIGINAL SOUND & SONG TRACK 2, 4.31 (13), 0.1356
+1186, TEKKEN 3 arcade soundtrack 001 ex, 3.89 (18), 0.1357
+1187, THE KING OF FIGHTERS 2000 ARRANGE SOUND TRAX, 4.62 (13), 0.1362
+1188, Toki wo Kizamu Uta/TORCH, 4.47 (18), 0.1364
+1189, FINAL FANTASY X HD Remaster Original Soundtrack, 3.32 (28), 0.1367
+1190, VOICES music from FINAL FANTASY - Final Fantasy Premium Orchestra Concert [Limited Edition], 4.57 (14), 0.1367
+1191, DEATHSMILES ARRANGE ALBUM, 3.52 (22), 0.1367
+1192, Atelier Meruru Original Soundtrack, 4.50 (18), 0.1368
+1193, Chill SQ, 3.94 (18), 0.1368
+1194, POLICENAUTS, 4.43 (14), 0.1368
+1195, Enthusia ~Professional Racing~ Original Soundtrack, 4.34 (16), 0.1370
+1196, Ghost in the Shell STAND ALONE COMPLEX O.S.T.3, 4.50 (14), 0.1370
+1197, History Repeats Itself: Abandoner/Lostchild coupling soundtrack, 4.67 (15), 0.1371
+1198, Onimusha 3 Original Soundtrack, 4.12 (13), 0.1371
+1199, BIO HAZARD SOUND TRACK REMIX, 4.12 (21), 0.1373
+1200, Contra Chronicle Vol.2 The Beginning of the Legends, 4.91 (11), 0.1374
+1201, REMASTERED TRACKS ROCKMAN ZERO Mythos, 4.54 (25), 0.1375
+1202, ZWEI2 Original Soundtrack, 4.54 (13), 0.1376
+1203, Symphonic Suite Dragon Quest V: Heaven's Bride, 4.73 (13), 0.1376
+1204, Akumajo Dracula Mokushiroku Original Game Soundtrack, 3.65 (27), 0.1377
+1205, "PANZER DRAGOON ORTA" ORIGINAL SOUND TRACK, 4.32 (17), 0.1378
+1206, RAYFORCE, 4.50 (15), 0.1379
+1207, THE SECRET LOVER: Mushihimesama REMIX TRACKS, 4.38 (12), 0.1379
+1208, Shin Hikari Shinwa: Palutena no Kagami Music Selection, 4.18 (20), 0.1380
+1209, Nintendo Super Famicom Game Music, 4.29 (17), 0.1386
+1210, Jet Set Radio Future Original Sound Tracks, 4.36 (22), 0.1386
+1211, Kukeiha Club, 4.34 (16), 0.1389
+1212, Tekken Tag Tournament Original Soundtrack, 4.28 (16), 0.1391
+1213, Symphonic Poem GRADIUS III, 4.25 (14), 0.1393
+1214, alone the world WILD ARMS Vocal Collection, 4.05 (21), 0.1393
+1215, ESCHATOS Soundtrack, 4.29 (19), 0.1393
+1216, Genso Suikoden Music Collection ~Celtic Collection~, 4.18 (14), 0.1393
+1217, Mighty Switch Force! Official Soundtrack, 4.64 (18), 0.1395
+1218, Okamiden ~Chiisaki Taiyou~ Original Soundtrack, 3.95 (19), 0.1395
+1219, Ys VIII -Lacrimosa of DANA- ORIGINAL SOUNDTRACK, 4.53 (17), 0.1396
+1220, Omega Five sound track, 4.03 (20), 0.1396
+1221, GRADIUS III, 4.21 (14), 0.1397
+1222, Seiken Densetsu Music Complete Book, 4.54 (14), 0.1398
+1223, Tekken 6 Soundtrack, 3.79 (19), 0.1400
+1224, Symphonic Poem "Hope", 4.17 (15), 0.1400
+1225, Heroes of Might and Magic IV: The Soundtrack, 4.19 (13), 0.1402
+1226, FolksSoul ORIGINAL SOUNDTRACK, 4.07 (15), 0.1403
+1227, Ragnarok Online OriginalSoundtrack, 4.14 (18), 0.1403
+1228, Ori and the Blind Forest, 4.38 (16), 0.1403
+1229, Parasite Eve I & II Original Soundtrack BOX, 4.06 (17), 0.1403
+1230, Shadows of the DAMNED, 3.91 (23), 0.1403
+1231, biohazard 4 Soundtrack Book, 4.06 (18), 0.1405
+1232, Area 88, 4.33 (12), 0.1406
+1233, WILD ARMS 2nd IGNITION ORIGINAL SOUNDTRACK, 3.71 (21), 0.1408
+1234, Darius Gaiden, 4.41 (16), 0.1409
+1235, BARE KNUCKLE III, 3.70 (30), 0.1410
+1236, FINAL FANTASY IV Original Soundtrack Remaster Version, 4.11 (18), 0.1412
+1237, Shovel Knight Original Soundtrack, 4.09 (23), 0.1415
+1238, Snatcher >> Policenauts Music Compilation of Hideo Kojima/Black Disc, 4.39 (14), 0.1416
+1239, Falcom jdk Band 2008 Spring, 4.50 (17), 0.1418
+1240, Sekaiju no MeiQ SUPER ARRANGE VERSION, 4.05 (21), 0.1419
+1241, Shiki Original Soundtrack, 4.67 (18), 0.1420
+1242, Shining Hearts Original Soundtrack, 4.03 (15), 0.1420
+1243, Knights in the Nightmare Perfect Audio Collection, 4.50 (12), 0.1421
+1244, Symphonic Suite Dragon Quest V: Heaven's Bride, 4.32 (14), 0.1422
+1245, PHANTASY STAR COLLECTION: Sound Collection II, 4.41 (22), 0.1423
+1246, Beer SQ [Limited Edition], 4.03 (15), 0.1425
+1247, MARIOSTORY ORIGINAL SOUND TRACK, 3.74 (29), 0.1426
+1248, Daytona USA, 4.00 (23), 0.1427
+1249, ANUBIS ZONE OF THE ENDERS ORIGINAL SOUNDTRACK, 4.28 (23), 0.1428
+1250, Castlevania ~Lords of Shadow~ Soundtrack, 3.95 (29), 0.1430
+1251, CODE OF PRINCESS Original Soundtrack, 4.13 (15), 0.1433
+1252, 20th Anniversary ROCKMAN X SOUND BOX, 4.71 (14), 0.1433
+1253, BORDER DOWN Sound Tracks Vol.2, 4.46 (14), 0.1433
+1254, CONCERTO ~The extraordinary world of Concerto Gate~, 4.08 (13), 0.1433
+1255, Grim Fandango Original Game Soundtrack, 4.45 (20), 0.1434
+1256, GRANDIA XTREME Original Soundtracks, 3.76 (19), 0.1436
+1257, Destiny: Dreamer's ALLIANCE, 4.42 (13), 0.1436
+1258, DRAGON'S CROWN ORIGINAL SOUNDTRACK, 4.18 (19), 0.1437
+1259, Perfect Collection Sorcerian, 4.18 (14), 0.1439
+1260, Out Run, 4.31 (16), 0.1440
+1261, Street Fighter II -G.S.M. CAPCOM 4-, 4.11 (18), 0.1441
+1262, Bastion Original Soundtrack, 4.03 (31), 0.1441
+1263, Professor Layton and the Unwound Future Original Soundtrack, 4.36 (18), 0.1442
+1264, Umineko no Naku Koro ni / Akiko Shikata, 4.33 (27), 0.1443
+1265, POTION: Relaxin' with FINAL FANTASY, 4.47 (15), 0.1443
+1266, Nintendo Sound Selection vol.1 Peach <Healing Music>, 4.06 (18), 0.1444
+1267, RIDGE RACER 6 direct audio, 3.79 (17), 0.1444
+1268, FINAL FANTASY XIII-2 Original Soundtrack PLUS, 3.42 (25), 0.1444
+1269, THE KING OF FIGHTERS '97 ARRANGE SOUND TRAX, 4.30 (15), 0.1445
+1270, Symphonic Suite Dragon Quest VI Maboroshi no Daichi, 4.50 (14), 0.1445
+1271, CHOCOBO NO FUSHIGINA DUNGEON ORIGINAL SOUNDTRACK, 4.08 (18), 0.1446
+1272, WOLF'S RAIN, 4.41 (16), 0.1447
+1273, Music from Brandish 2 - THE PLANET BUSTER, 4.31 (13), 0.1449
+1274, Persona Original Soundtrack CD, 3.66 (25), 0.1449
+1275, WOLF'S RAIN O.S.T.2, 4.30 (15), 0.1450
+1276, TEKKEN TAG TOURNAMENT 2 ORIGINAL SOUND TRACK, 3.60 (15), 0.1452
+1277, Akumajo Dracula Tribute Vol.1, 3.27 (32), 0.1455
+1278, Rogue Galaxy Original Soundtrack, 4.21 (14), 0.1456
+1279, SALAMANDER 2 ORIGINAL GAME SOUNDTRACK, 4.39 (14), 0.1458
+1280, GENSOSUIKODEN II ORIGINAL GAME SOUNDTRACK Vol. 2, 4.18 (20), 0.1458
+1281, Istoria ~Musa~, 4.38 (13), 0.1458
+1282, FINAL FANTASY BRAVE EXVIUS Original Soundtrack, 4.47 (17), 0.1460
+1283, SWORD OF MANA PREMIUM SOUNDTRACK, 3.67 (23), 0.1465
+1284, BREATH of FIRE II, 4.00 (15), 0.1466
+1285, Castlevania 20th Anniversary Deluxe Music Collection, 3.68 (17), 0.1467
+1286, Dark Chronicle Original Sound Tracks, 4.02 (21), 0.1468
+1287, the Garden of sinners -Movie "Kara no Kyoukai" Music Collection-, 4.69 (24), 0.1471
+1288, GRANBLUE FANTASY ORIGINAL SOUNDTRACK, 4.17 (15), 0.1473
+1289, FINAL FANTASY XI Wings of the Goddess Original Soundtrack, 3.57 (21), 0.1476
+1290, WILD ARMS Music the Best -feeling wind-, 3.86 (21), 0.1478
+1291, Elvandia Story Original Soundtrack, 4.12 (17), 0.1481
+1292, Kaze no Tani no Nausicaä Soundtrack ~Haruka na Chi e~, 4.50 (12), 0.1486
+1293, Ketsui ~Kizunajigokutachi~ EXTRA Limited Edition Bundled Bonus Special Soundtrack, 4.38 (17), 0.1486
+1294, Dark Chronicle Premium Arrange, 4.12 (21), 0.1488
+1295, RIZ-ZOAWD Original Soundtrack, 3.61 (22), 0.1489
+1296, THE SCHEME SOUND TRACK, 4.34 (16), 0.1491
+1297, FINAL FANTASY XI Treasures of Aht Urhgan Original Soundtrack, 3.95 (19), 0.1492
+1298, Little Busters! Original Soundtrack, 4.25 (22), 0.1492
+1299, GRANDIA ONLINE -PERFECT SOUND LIBRARY-, 3.93 (14), 0.1492
+1300, Devil May Cry 3 Original Soundtrack, 4.15 (17), 0.1494
+1301, Racing Lagoon ORIGINAL SOUNDTRACK, 3.95 (20), 0.1495
+1302, Symphonic Suite Dragon Quest IX: Hoshizora no Mamoribito, 4.19 (18), 0.1495
+1303, Armored Core: for Answer Original Soundtrack, 4.47 (15), 0.1496
+1304, Genso Suikoden Music Collection Produced by Kentaro Haneda, 4.41 (16), 0.1499
+1305, Mirror's Edge Original Videogame Score, 4.05 (20), 0.1502
+1306, Technosoft GAME MUSIC COLLECTION VOL.5 ~ Thunder Force IV, 4.59 (16), 0.1505
+1307, Sailing to the World Piano Score, 4.14 (14), 0.1505
+1308, Genso Suikoden Music Collection ~Celtic Collection 2~, 4.46 (13), 0.1507
+1309, Contra Chronicle Vol.1 coupling with "HARD CORPS:UPRISING", 4.78 (18), 0.1509
+1310, TALES OF SYMPHONIA ORIGINAL SOUNDTRACK, 3.72 (32), 0.1512
+1311, STAR OCEAN -THE LAST HOPE- Original Soundtrack, 3.75 (26), 0.1513
+1312, Gyakuten Saiban Yomigaeru Gyakuten Original Soundtrack, 4.38 (20), 0.1513
+1313, MONSTER HUNTER 3 (tri) Original Soundtrack, 3.95 (19), 0.1513
+1314, PERSONA3 PORTABLE Original Soundtrack, 3.91 (27), 0.1515
+1315, Metal Gear >> Solid Snake Music Compilation of Hideo Kojima/Red Disc, 3.91 (17), 0.1515
+1316, Deus Ex: Human Revolution Original Soundtrack, 4.38 (20), 0.1517
+1317, CRIMSONSHROUD Original Soundtrack, 3.82 (22), 0.1518
+1318, Symphonic Suite Shining Force II ~Ancient Sealing~, 4.55 (22), 0.1518
+1319, Okami Piano Arrange, 3.91 (27), 0.1519
+1320, COWBOY BEBOP, 4.21 (19), 0.1524
+1321, Mugen Kairou: Hikari to Kage no Hako: a Soundtrack, 5.00 (13), 0.1524
+1322, Perfect Collection Ys III, 3.83 (20), 0.1524
+1323, Shin Megami Tensei III NOCTURNE Maniacs SOUNDTRACK extra version, 4.36 (21), 0.1528
+1324, LIVE A LIVE Original Soundtrack, 4.31 (18), 0.1529
+1325, Arc The Lad Piano Album, 4.11 (18), 0.1530
+1326, MOTHER 2  Gyiyg no Gyakushuu, 4.05 (28), 0.1530
+1327, Tomoyo After Original SoundTrack, 4.63 (12), 0.1532
+1328, Super Donkey Kong Game Music CD Jungle Fantasy, 4.34 (16), 0.1532
+1329, The complete soundtrack from the Secret of Evermore video game, 4.16 (22), 0.1532
+1330, GOLDEN AXE THE MUSIC, 4.67 (18), 0.1533
+1331, Gyakuten Saiban + Gyakuten Saiban 2 Original Soundtrack, 4.14 (22), 0.1537
+1332, Albert Odyssey Gaiden: Legend of Eldean, 4.57 (15), 0.1538
+1333, Mario & Luigi RPG Sound Selection, 4.04 (25), 0.1539
+1334, THE KING OF FIGHTERS 2002 -UNLIMITED MATCH- ORIGINAL SOUNDTRACK, 4.59 (17), 0.1540
+1335, Rockman 7: Shukumei no Taiketsu! Original Soundtrack, 4.00 (22), 0.1541
+1336, multi - dimensional SONIC ADVENTURE 2 ORIGINAL SOUND TRACK, 4.15 (34), 0.1541
+1337, Dragon Quest VII ~Warriors of Eden~ Symphonic Suite + Original Soundtrack, 4.50 (12), 0.1542
+1338, Sanctuary / The Star Onions, 4.00 (19), 0.1542
+1339, Ys Foliage Ocean in CELCETA Original Soundtrack, 4.06 (25), 0.1544
+1340, FINAL FANTASY XI Rise of the Zilart Original Soundtrack, 3.98 (21), 0.1545
+1341, Perfect Collection Ys IV The Dawn of Ys Vol. 3, 4.00 (15), 0.1545
+1342, ARC RISE FANTASIA ORIGINAL SOUNDTRACK, 4.24 (21), 0.1548
+1343, String Quartet "Dragon Quest", 4.10 (15), 0.1548
+1344, Atelier Ayesha ~Alchemist of the Ground of Dusk~ Original Soundtrack, 4.50 (19), 0.1548
+1345, OCTOPATH TRAVELER Original Soundtrack, 4.50 (19), 0.1549
+1346, THE KING OF FIGHTERS '99 ARRANGE SOUND TRAX, 4.59 (17), 0.1550
+1347, SUPER DONKEY KONG ORIGINAL SOUND VERSION, 4.12 (17), 0.1553
+1348, Lunar -Harmony of Silver Star- Limited Sound Track, 4.50 (12), 0.1553
+1349, Donkey Kong 64 • Official Soundtrack, 3.78 (23), 0.1554
+1350, Shining Force III Original Soundtrack, 4.59 (17), 0.1555
+1351, Gyakuten Saiban Jazz Album ~Gyakuten Meets Jazz Soul~, 3.92 (25), 0.1555
+1352, front mission 3 Original Soundtrack, 3.92 (18), 0.1555
+1353, Genso Suikoden II Music Collection ~Orrizonte~, 4.43 (15), 0.1556
+1354, Kyokugen Dasshutsu ADV Zennin Shibou Desu Soundtrack, 4.53 (15), 0.1556
+1355, Seiken Densetsu HEROES of MANA Original Soundtrack, 3.90 (20), 0.1560
+1356, FINAL FANTASY X-2 INTERNATIONAL+LAST MISSION Original Soundtrack, 3.58 (25), 0.1560
+1357, Konami Music Masterpiece Collection, 4.83 (12), 0.1561
+1358, Turrican Soundtrack Anthology, 4.62 (25), 0.1564
+1359, BIOHAZARD 3 LAST ESCAPE ORIGINAL SOUNDTRACK, 3.86 (21), 0.1566
+1360, Dairantou Smash Brothers for Nintendo 3DS / for Wii U Special Sound Test, 4.26 (25), 0.1566
+1361, Shin Megami Tensei LAW & CHAOS DISC, 3.95 (21), 0.1569
+1362, MOTOI SAKURABA LIVE CONCERT STAR OCEAN & VALKYRIE PROFILE, 4.54 (14), 0.1571
+1363, GENSOSUIKODEN II ORIGINAL GAME SOUNDTRACK Vol. 1, 4.31 (21), 0.1571
+1364, Pop'n TWINBEE GRAFFITI, 4.31 (16), 0.1573
+1365, AZEL -PanzerDragoonRPG- MEMORIAL ALBUM, 4.39 (18), 0.1574
+1366, SONIC COLORS ORIGINAL SOUNDTRACK ViViD SOUND × HYBRiD COLORS, 4.10 (34), 0.1575
+1367, DOUBLE DRAGON II The Revenge, 4.47 (15), 0.1576
+1368, God of War Trilogy Soundtrack, 4.42 (12), 0.1578
+1369, Valkyrie Profile -LENNETH- Original Sound Track, 4.21 (24), 0.1578
+1370, Misty Blue, 4.24 (17), 0.1580
+1371, Final Fantasy Gaiden: Seiken Densetsu Original Sound Version, 4.43 (15), 0.1581
+1372, Piano Pieces "SF 2" Rhapsody on a Theme of SaGa FRONTIER 2, 4.30 (22), 0.1583
+1373, All Over Xanadu, 4.39 (14), 0.1583
+1374, GRAN TURISMO Original Game Soundtrack, 4.38 (21), 0.1585
+1375, Devil May Cry ORIGINAL SOUNDTRACK, 4.24 (19), 0.1585
+1376, Shin Megami Tensei STRANGE JOURNEY Original Soundtrack, 3.62 (25), 0.1587
+1377, Dragon Quest VIII Sora to Umi to Daichi to Norowareshi Himegimi Original Soundtrack, 4.14 (14), 0.1587
+1378, Blade & Soul OST, 4.30 (15), 0.1587
+1379, GBA Pokémon Firered & Leafgreen Music Super Complete, 4.13 (26), 0.1590
+1380, BEFORE METEOR: FINAL FANTASY XIV Original Soundtrack, 4.05 (28), 0.1592
+1381, GRADIUS IN CLASSIC I, 4.41 (11), 0.1592
+1382, THE LEGEND OF ZELDA -OCARINA OF TIME- / Re-Arranged Album, 3.80 (32), 0.1592
+1383, Seiken Densetsu 4 Original Soundtrack -Sanctuary-, 3.67 (24), 0.1594
+1384, KLONOA2 SOUND TRACK, 4.33 (18), 0.1594
+1385, GBA Pokémon Ruby & Sapphire Music Super Complete, 4.26 (29), 0.1598
+1386, PinkSweets Original Sound Track, 3.91 (28), 0.1599
+1387, Eyes On Me ~featured in FINAL FANTASY VIII / Faye Wong, 3.97 (18), 0.1599
+1388, DARK SOULS Original Soundtrack, 3.95 (21), 0.1599
+1389, Banjo to Kazooie no Daibouken Original Soundtrack, 4.25 (20), 0.1600
+1390, More Friends music from FINAL FANTASY ~Final Fantasy Orchestra Concert in Los Angeles 2005~, 4.02 (23), 0.1600
+1391, S.S.T. Band Live! -G.S.M. SEGA-, 4.61 (14), 0.1601
+1392, Megami Ibunroku Persona Original Soundtrack & Arrange Album, 4.47 (15), 0.1601
+1393, The Elder Scrolls IV: Oblivion, 4.02 (22), 0.1602
+1394, CHOCOBO NO FUSHIGINA DUNGEON: COI VANNI GIALLI, 4.37 (15), 0.1603
+1395, FINAL FANTASY XIII Original Soundtrack PLUS, 3.81 (34), 0.1606
+1396, El Shaddai: Ascension of the Metatron Original Soundtrack, 4.06 (27), 0.1608
+1397, Super Street Fighter II: The New Challengers Arcade Gametrack, 4.18 (19), 0.1608
+1398, SALAMANDER ARCADE SOUNDTRACK, 4.44 (18), 0.1610
+1399, KIRBY TRIPLE DELUXE SOUND SELECTION, 4.66 (22), 0.1612
+1400, Tekken Tag Tournament Direct Audio, 4.22 (16), 0.1613
+1401, MARIO & ZELDA BIG BAND LIVE CD, 4.24 (29), 0.1614
+1402, MUSIC FROM Ys III WANDERERS FROM Ys, 4.16 (16), 0.1616
+1403, NINE HOURS NINE PERSONS NINE DOORS SOUNDTRACK, 4.43 (21), 0.1617
+1404, STELLA DEUS BGM ReArrange Album, 3.89 (19), 0.1619
+1405, GRADIUS IN CLASSIC II, 4.23 (11), 0.1619
+1406, Ys IV J.D.K. SPECIAL The Dawn of Ys, 4.06 (16), 0.1621
+1407, PERSONA2 INNOCENT SIN. ORIGINAL SOUNDTRACK, 4.43 (22), 0.1621
+1408, 7TH DRAGON ORIGINAL SOUNDTRACK, 4.10 (20), 0.1624
+1409, Echoes of War: The Music of Blizzard Entertainment Legendary Edition, 3.82 (19), 0.1624
+1410, PSYVARIAR "THE MIX", 4.61 (23), 0.1628
+1411, KE-TSU-I kizunajigokutachi [ARRANGE ALBUM], 3.75 (20), 0.1629
+1412, METAL BLACK, 4.61 (18), 0.1630
+1413, Oto Gift, 4.63 (15), 0.1632
+1414, PHANTASY STAR 1st Series Complete Album, 4.52 (24), 0.1633
+1415, Final Fantasy VII: Voices of the Lifestream, 3.48 (45), 0.1636
+1416, TOBAL2 Original Sound Track, 4.75 (14), 0.1638
+1417, We Love Katamari Damacy Original Soundtrack, 4.12 (25), 0.1639
+1418, BlazBlue -Calamity Trigger- Limited Edition Soundtrack, 4.36 (21), 0.1639
+1419, ACE COMBAT ASSAULT HORIZON ORIGINAL SOUNDTRACK, 3.80 (27), 0.1639
+1420, FINAL FANTASY VI Special Tracks, 3.61 (22), 0.1640
+1421, DEATH NOTE original soundtrack, 4.38 (21), 0.1640
+1422, STAR OCEAN Soundtrack, 3.94 (17), 0.1641
+1423, CATHERINE Original Soundtrack, 3.82 (34), 0.1642
+1424, AKAI KATANA SHIN ARRANGE ALBUM, 4.25 (18), 0.1643
+1425, LAST RANKER Limited Soundtrack -Piano Trio Arrange-, 4.21 (17), 0.1646
+1426, Melodies Of Life ~featured in FINAL FANTASY IX, 4.50 (18), 0.1649
+1427, Colours of Light: yasunori mitsuda vocal collection, 4.62 (17), 0.1649
+1428, "FINAL FANTASY XIV" BATTLE TRACKS, 3.77 (30), 0.1653
+1429, Fire Emblem if ORIGINAL SOUNDTRACK, 4.58 (26), 0.1654
+1430, SONIC GENERATIONS ORIGINAL SOUNDTRACK BLUE BLUR, 4.45 (30), 0.1655
+1431, NiGHTS Original Soundtrack, 4.41 (17), 0.1656
+1432, KUKEIHA CLUB pro-fusion ~SALAMANDER~, 4.24 (23), 0.1657
+1433, FANTASY ZONE: ULTRA SUPER BIG MAXIMUM GREAT STRONG COMPLETE ALBUM, 4.82 (17), 0.1658
+1434, ACE COMBAT 3 ELECTROSPHERE : DIRECT AUDIO, 4.05 (21), 0.1659
+1435, Karigurashi no Arrietty Soundtrack, 4.65 (13), 0.1659
+1436, Kanon ORIGINAL SOUNDTRACK, 4.43 (20), 0.1660
+1437, THE LAST OF US SOUNDTRACK, 4.13 (26), 0.1661
+1438, NieR Gestalt & Replicant 15 Nightmares & Arrange Tracks, 3.50 (28), 0.1664
+1439, Image from King Colossus -Tougi Ou no Gensou Kumikyoku-, 4.63 (15), 0.1664
+1440, ESPGALUDA II Black Label ORIGINAL SOUND TRACK, 3.90 (21), 0.1665
+1441, .hack//SIGN ORIGINAL SOUND & SONG TRACK 1, 4.42 (18), 0.1666
+1442, BIOHAZARD -CODE:Veronica- Complete Version ORIGINAL SOUNDTRACK, 4.00 (17), 0.1668
+1443, Yuzo Koshiro BEST COLLECTION vol.1, 4.47 (19), 0.1669
+1444, "TEKKEN 5" "TEKKEN DARK RESURRECTION" Original Soundtrack, 4.12 (21), 0.1670
+1445, biohazard SOUND CHRONICLE BEST TRACK BOX, 4.40 (24), 0.1671
+1446, METAL GEAR / METAL GEAR 2 SOLID SNAKE Music Collection, 4.40 (15), 0.1675
+1447, Kirby Ultra Super Deluxe Original Sound Track, 4.27 (26), 0.1677
+1448, Castlevania: Lament of Innocence Limited Edition Music Sampler, 3.88 (13), 0.1678
+1449, Sekaiju no MeiQ⁴ *denshou no kyojin* Super Arrange Version, 4.10 (25), 0.1679
+1450, Symphonic Suite Dragon Quest VI The Phantom World, 4.10 (15), 0.1681
+1451, Koudelka, 3.82 (22), 0.1684
+1452, FINAL FANTASY VI Original Soundtrack Remaster Version, 4.80 (23), 0.1689
+1453, Burn My Dread -Reincarnation: PERSONA3-, 4.04 (24), 0.1689
+1454, GENSOSUIKODEN V Original Soundtrack, 4.19 (24), 0.1691
+1455, BENYAMIN NUSS PLAYS UEMATSU, 3.26 (35), 0.1692
+1456, Metroid Metal - Varia Suite, 4.29 (26), 0.1693
+1457, Grand Knights History Original Soundtrack, 4.12 (21), 0.1695
+1458, Aion ~The Tower Of Eternity~ Original Sound Track, 4.29 (21), 0.1696
+1459, GAME MUSIC CONCERT 5 by Symphony Orchestra -Live Best Collection-, 4.00 (16), 0.1699
+1460, Napple Tale Illustrated Guide to the Monsters, 4.50 (17), 0.1702
+1461, Assassin's Creed II Original Game Soundtrack, 4.55 (19), 0.1703
+1462, Atelier Iris ETERNAL MANA Arranged Tracks DECEITFUL WINGS, 4.43 (20), 0.1705
+1463, Breath of Fire IV Original Soundtrack, 3.90 (20), 0.1710
+1464, SUPER HANG-ON 20th Anniversary Collection, 4.73 (20), 0.1713
+1465, Sekaiju no MeiQ² *shoou no seihai* Super Arrange Version, 3.86 (22), 0.1716
+1466, Xenoblade Special Sound Track, 3.97 (19), 0.1716
+1467, Akumajo Dracula Tribute Vol.2, 3.50 (28), 0.1716
+1468, GRANDIA III ~original sound tracks~, 3.95 (22), 0.1718
+1469, MUGEN KAIROU ORIGINAL SOUND TRACK, 4.34 (16), 0.1720
+1470, BRAVE FENCER "MUSASHIDEN" Original Soundtrack, 3.76 (21), 0.1722
+1471, Valkyrie Profile 2 -Silmeria- Arrange Album, 4.38 (17), 0.1723
+1472, Baten Kaitos II: Hajimari no Tsubasa to Kamigami no Shishi Original Soundtrack, 4.13 (26), 0.1724
+1473, Senjou no Valkyria 3 -Unrecorded Chronicles- Original Soundtrack, 3.98 (22), 0.1726
+1474, Re:Birth II / Romancing SaGa Battle Arrange, 4.30 (25), 0.1727
+1475, Onimusha 2 ORIGINAL SOUNDTRACK, 4.13 (15), 0.1729
+1476, Daikoukai Jidai II Special Edition, 4.53 (17), 0.1730
+1477, "FINAL FANTASY XIV" FIELD TRACKS, 3.96 (27), 0.1731
+1478, GRADIUS IV FUKKATSU ORIGINAL GAME SOUNDTRACK, 4.00 (21), 0.1731
+1479, Langrisser II Original Game Music, 4.36 (18), 0.1735
+1480, CHRONOTORIOUS, 3.98 (27), 0.1736
+1481, Mystic Ark Soundtrack, 4.28 (16), 0.1742
+1482, PHANTASY STAR COLLECTION: Sound Collection I, 4.69 (24), 0.1743
+1483, Piano Pieces "SF 2" Rhapsody on a Theme of SaGa FRONTIER 2, 4.39 (19), 0.1743
+1484, Another Mind Original Soundtrack, 4.11 (23), 0.1748
+1485, Atelier Iris GRAND FANTASM Original Soundtrack, 4.18 (22), 0.1749
+1486, Ys Origin Super Arrange Version, 4.00 (21), 0.1749
+1487, Perfect Collection Ys II, 4.03 (20), 0.1751
+1488, STREET FIGHTER II ALPH-LYLA with YUJI TORIYAMA, 4.07 (29), 0.1753
+1489, BIOHAZARD 2 COMPLETE TRACK, 3.81 (27), 0.1754
+1490, Piano Collections FINAL FANTASY XII, 4.33 (18), 0.1754
+1491, Music from Braid, 4.44 (24), 0.1759
+1492, Music from Ys II, 4.25 (14), 0.1763
+1493, Gyakuten Saiban Sound BOX, 4.55 (20), 0.1764
+1494, GAME MUSIC CONCERT 3 by Symphony Orchestra, 4.06 (17), 0.1765
+1495, BLUE DRAGON ORIGINAL SOUNDTRACK, 3.65 (33), 0.1766
+1496, SILENT HILL 3 original soundtrack, 4.23 (28), 0.1770
+1497, PERFECT SELECTION KONAMI BATTLE the BEST, 4.63 (16), 0.1774
+1498, Lunar ~The Silver Star~, 4.21 (14), 0.1775
+1499, End of Eternity Original Soundtrack, 3.63 (28), 0.1776
+1500, THE LAST STORY Original Soundtrack, 3.67 (33), 0.1777
+1501, Genso Suikoden Tierkreis Original Soundtrack, 4.35 (17), 0.1782
+1502, GRANDIA ORIGINAL SOUNDTRACKS II, 3.88 (24), 0.1785
+1503, Sen to Chihiro no Kamikakushi Soundtrack, 4.32 (19), 0.1786
+1504, Shatter - Official Videogame Soundtrack, 4.48 (21), 0.1786
+1505, SOULCALIBUR V ORIGINAL SOUNDTRACK, 4.35 (20), 0.1787
+1506, Tales of Phantasia Original Soundtrack Complete Version, 3.57 (22), 0.1788
+1507, Tenchu SOUNDTRACK, 4.52 (26), 0.1790
+1508, The Very Best of Kirby: 52 Hit Tracks, 4.50 (18), 0.1792
+1509, Forest of glass / Motoi Sakuraba, 4.13 (19), 0.1792
+1510, Piano Collections FINAL FANTASY XI, 3.65 (24), 0.1793
+1511, Silent Hill Homecoming Soundtrack, 3.94 (27), 0.1793
+1512, Perfect Collection Ys IV The Dawn of Ys Vol. 2, 4.11 (18), 0.1796
+1513, Manabu Namiki Selection Deathsmiles Premium Arrange Album, 3.90 (29), 0.1796
+1514, MOTHER 1+2 Original Soundtrack, 4.10 (25), 0.1799
+1515, Alphabet Planet, 3.91 (16), 0.1799
+1516, Snatcher, 4.59 (16), 0.1802
+1517, DARIUSBURST REMIX WONDER WORLD, 4.30 (22), 0.1807
+1518, WILD ARMS XF ORIGINAL SOUNDTRACK, 3.88 (21), 0.1807
+1519, WILD ARMS the 4th Detonator ORIGINAL SCORE, 4.05 (20), 0.1809
+1520, Final Fantasy Crystal Chronicles The Crystal Bearers Music Collections, 4.00 (26), 0.1817
+1521, Atelier Iris ETERNAL MANA 2 Original Soundtrack, 4.22 (18), 0.1820
+1522, Piano Collections KINGDOM HEARTS FIELD & BATTLE, 4.16 (25), 0.1822
+1523, SILENT HILL ZERO ORIGINAL SOUNDTRACKS, 4.04 (23), 0.1824
+1524, METAL GEAR SOLID 2 SONS OF LIBERTY SOUNDTRACK 2 : THE OTHER SIDE, 4.07 (22), 0.1827
+1525, NO MORE HEROES ORIGINAL SOUND TRACKS, 4.19 (26), 0.1828
+1526, WILD ARMS the Vth Vanguard ORIGINAL SCORE Vol.2, 4.26 (21), 0.1828
+1527, LUNAR ~ETERNAL BLUE, 4.61 (14), 0.1831
+1528, dodonpachi DAI-OU-JOU & ESPGALUDA -Perfect remix-, 4.20 (20), 0.1835
+1529, DISSIDIA FINAL FANTASY ORIGINAL SOUNDTRACK [Limited Edition], 3.66 (46), 0.1835
+1530, Street Fighter II The Definitive Soundtrack, 4.59 (17), 0.1836
+1531, Falcom J.D.K. BAND 1, 4.17 (24), 0.1837
+1532, ACE COMBAT 6 Fires of Liberation Original Soundtrack, 3.84 (28), 0.1837
+1533, 20th Anniversary Rockman 1~6 Rock Arrange Ver., 3.83 (35), 0.1839
+1534, THE LEGEND OF HEROES VI SORA NO KISEKI ORIGINAL SOUND TRACK, 4.39 (22), 0.1840
+1535, METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUNDTRACK, 3.79 (26), 0.1841
+1536, Nintendo DS Pokémon Black・White Super Music Collection, 4.53 (30), 0.1841
+1537, THE SUPER SHINOBI & WORKS, 4.45 (20), 0.1842
+1538, SONIC ADVENTURE "Digi-LOG Conversation" Original Sound Track, 4.48 (43), 0.1842
+1539, Cuphead Original Soundtrack, 4.66 (19), 0.1845
+1540, SONIC THE HEDGEHOG CD Original Soundtrack 20th Anniversary Edition, 4.50 (27), 0.1853
+1541, 2197, 4.06 (24), 0.1853
+1542, Nintendo DS Pokémon Diamond & Pearl Super Music Collection, 4.09 (33), 0.1854
+1543, Valkyrie Profile 2 -Silmeria- Original Soundtrack Vol.1 Alicia Side, 4.02 (23), 0.1855
+1544, THE KING OF FIGHTERS '96 ARRANGE SOUND TRAX, 4.75 (22), 0.1867
+1545, Guilty Gear Original Sound Collection, 4.14 (21), 0.1870
+1546, DRAG-ON DRAGOON Original Soundtrack, 4.05 (20), 0.1875
+1547, PLANETARY PIECES SONIC WORLD ADVENTURE ORIGINAL SOUNDTRACK, 4.41 (34), 0.1876
+1548, dodonpachi DAI-OU-JOU [arrange album], 4.15 (20), 0.1879
+1549, Killer Cuts, 3.93 (22), 0.1880
+1550, METAL GEAR SOLID PEACE WALKER ORIGINAL SOUNDTRACK, 4.33 (24), 0.1881
+1551, carpe diem "SENKO no RONDE" ORIGINAL SOUND TRACKS Volume 2, 4.19 (24), 0.1884
+1552, Valkyrie Profile 2 -Silmeria- Original Soundtrack Vol.2 Silmeria Side, 4.09 (23), 0.1890
+1553, SaGa Frontier Original Sound Track, 3.96 (25), 0.1891
+1554, GAME SOUND LEGEND CONSUMER SERIES BIOGRAPHY ESTPOLIS SOUND TRACK, 4.48 (21), 0.1891
+1555, Persona 2: Eternal Punishment Original Sound Tracks, 4.38 (21), 0.1894
+1556, ACE COMBAT 2 ORIGINAL SOUNDTRACK, 4.27 (22), 0.1894
+1557, Ni no Kuni: Shikkoku no Madoushi Original Soundtrack, 4.48 (21), 0.1895
+1558, DK Jamz: The Original Donkey Kong Country Soundtrack, 4.22 (36), 0.1900
+1559, DODONPACHI SAIDAIOUJOU / DODONPACHI MAXIMUM ORIGINAL SOUND TRACK, 3.84 (22), 0.1901
+1560, F-ZERO GX/AX Original Soundtracks, 4.18 (34), 0.1907
+1561, The Syber Punk Adventure Snatcher -Zoom Tracks-, 4.71 (19), 0.1908
+1562, Shining the Holy Ark Original Soundtrack, 4.50 (23), 0.1908
+1563, XenobladeX Original Soundtrack, 4.14 (186), 0.1909
+1564, Makaimura Ongakutaizen, 4.53 (20), 0.1913
+1565, PERFECT SELECTION KONAMI SHOOTING BATTLE, 4.31 (21), 0.1919
+1566, KINGDOM HEARTS 3D [Dream Drop Distance] Original Soundtrack, 4.50 (24), 0.1920
+1567, Romancing SaGa 2 Original Sound Version, 3.90 (24), 0.1920
+1568, SOULCALIBUR IV ORIGINAL SOUNDTRACK, 4.12 (21), 0.1924
+1569, SUPER DONKEY KONG 2 DIXIE & DIDDY ORIGINAL SOUND VERSION, 4.54 (23), 0.1925
+1570, Wangan Midnight MAXIMUM TUNE 3 ORIGINAL SOUNDTRACKS, 4.25 (26), 0.1930
+1571, MOONLiT SHADOW, 4.07 (28), 0.1933
+1572, The Elder Scrolls V: Skyrim Original Game Soundtrack, 4.06 (36), 0.1937
+1573, Mario Kart 64 Original Soundtrack, 4.00 (25), 0.1941
+1574, Music from Ys V Ushinawareta Suna no Miyako Kefin, 4.32 (17), 0.1943
+1575, TEKKEN 3 PlayStation Soundtrack 002, 4.35 (23), 0.1949
+1576, Perfect Collection Ys IV The Dawn of Ys Vol. 1, 4.12 (21), 0.1950
+1577, Gradius Gaiden Original Game Soundtrack, 4.26 (21), 0.1953
+1578, Ys VI ORIGINAL SOUND TRACK, 4.26 (23), 0.1954
+1579, SOUL EDGE Original Sound Track KHAN SUPER SESSION, 4.38 (20), 0.1958
+1580, Senjou no Valkyria 2 Gallia Ouritsu Shikan Gakkou ORIGINAL SOUNDTRACK, 4.05 (22), 0.1959
+1581, Policenauts F/N, 4.69 (18), 0.1961
+1582, NieR Tribute Album -echo-, 3.59 (32), 0.1963
+1583, memória! / The Very Best of Yoko Shimomura, 4.15 (27), 0.1963
+1584, Romancing SaGa La Romance, 3.98 (23), 0.1967
+1585, Noora to Toki no Koubou: Kiri no Mori no Majo ORIGINAL SOUNDTRACK, 4.64 (25), 0.1969
+1586, VM JAPAN ORIGINAL SOUND TRACK, 4.38 (26), 0.1978
+1587, Legend of Joe Musashi: SHINOBI Music Collection, 4.50 (22), 0.1984
+1588, BORDER DOWN -Sound Tracks-, 4.63 (19), 0.1985
+1589, GENSOSUIKODEN II ORIGINAL GAME SOUNDTRACK Complete Box, 4.45 (22), 0.1987
+1590, Ar tonelico II: Sekai ni Hibiku Shoujotachi no Metafalica Original Soundtrack, 4.40 (21), 0.1988
+1591, THE LEGEND OF ZELDA -Takt of Wind- ORIGINAL SOUND TRACKS, 4.00 (42), 0.1988
+1592, Sekaiju no MeiQ³ *seikai no raihousya* ORIGINAL SOUNDTRACK, 4.30 (27), 0.1994
+1593, GAME MUSIC CONCERT 4 by Symphony Orchestra -Live Best Collection-, 4.08 (19), 0.1996
+1594, Rockman 10: Uchuu Kara no Kyoui!! Original Soundtrack, 4.17 (33), 0.1997
+1595, Persona 2: Innocent Sin. Original Soundtracks, 4.36 (21), 0.1997
+1596, Piano Collections FINAL FANTASY XIII, 4.01 (34), 0.1999
+1597, JET SET RADIO ORIGINAL SOUND TRACKS, 4.36 (29), 0.2000
+1598, Sekaiju no MeiQ² *shoou no seihai* Original Soundtrack, 4.39 (22), 0.2007
+1599, The 3rd Birthday Original Soundtrack, 4.13 (28), 0.2017
+1600, BIO HAZARD ORCHESTRA ALBUM, 4.15 (24), 0.2017
+1601, METAL GEAR SOLID 2 SONS OF LIBERTY ORIGINAL SOUNDTRACK, 3.74 (34), 0.2017
+1602, Romancing SaGa Original Sound Version, 3.96 (23), 0.2022
+1603, Gyakuten Saiban Orchestra Album ~GYAKUTEN MEETS ORCHESTRA~, 4.27 (28), 0.2024
+1604, Lunar: Silver Star Story Complete Music Soundtrack, 4.20 (23), 0.2025
+1605, SILENT HILL SOUNDS BOX, 4.66 (25), 0.2027
+1606, Lunar 2: Eternal Blue Complete Music Soundtrack, 4.26 (19), 0.2027
+1607, PPPPPP, 4.05 (30), 0.2028
+1608, Double Dragon Neon Official Soundtrack, 3.98 (30), 0.2029
+1609, Romancing SaGa 2 Eternal Romance, 4.22 (18), 0.2029
+1610, Brandish Piano Collection, 4.45 (22), 0.2031
+1611, [-Aka-] original sound track: PRIMITIVE, 4.70 (20), 0.2032
+1612, Final Fantasy Gaiden: Seiken Densetsu put your thoughts to music, 4.43 (21), 0.2034
+1613, DRAG-ON DRAGOON ORIGINAL SOUND TRACK VOL.1, 3.98 (28), 0.2035
+1614, Ni no Kuni: Wrath of the White Witch - The Original Soundtrack, 4.40 (24), 0.2038
+1615, "Attack on Titan" Original Soundtrack, 4.14 (76), 0.2039
+1616, Akumajo Dracula: Harmony of Despair Original Soundtrack, 4.42 (33), 0.2042
+1617, Yuzo Koshiro BEST COLLECTION vol.2, 4.79 (21), 0.2042
+1618, LORD of VERMILION II Original Soundtrack, 3.91 (27), 0.2043
+1619, Klonoa of the Wind: door to phantomile Original Soundtrack, 4.48 (29), 0.2045
+1620, BAROQUE Original Soundtrack, 4.25 (24), 0.2057
+1621, ALUNDRA Original Game Soundtrack, 4.40 (29), 0.2058
+1622, A REALM REBORN: FINAL FANTASY XIV Original Soundtrack, 4.33 (27), 0.2058
+1623, Live Music by Piano and Strings: 7th Dragon Super Arrange Version, 4.26 (21), 0.2062
+1624, Subarashiki Kono Sekai ORIGINAL SOUNDTRACK, 4.07 (36), 0.2063
+1625, STAR OCEAN Till the End of Time Original Soundtrack vol.2, 4.04 (24), 0.2063
+1626, SCC Memorial Series Snatcher -Joint Disk-, 4.56 (17), 0.2077
+1627, SHADOW HEARTS FROM THE NEW WORLD Original Soundtracks, 4.19 (26), 0.2081
+1628, Symphonic Suite Dragon Quest Complete CD-BOX, 4.79 (21), 0.2082
+1629, Ogre Battle 64: Person of Lordly Caliber, 4.02 (22), 0.2089
+1630, The Best of Grandia, 4.46 (26), 0.2094
+1631, Musashiden II Blademaster Original Sound Track, 4.22 (27), 0.2097
+1632, SUPER MARIO 3D WORLD ORIGINAL SOUND TRACK, 4.24 (35), 0.2101
+1633, PIANO COLLECTIONS FINAL FANTASY V, 3.80 (33), 0.2107
+1634, Music from Ys, 4.60 (15), 0.2119
+1635, STREET FIGHTER Tribute Album, 4.05 (22), 0.2119
+1636, FINAL FANTASY TACTICS A2 Grimoire of the Rift Original Soundtrack, 4.08 (31), 0.2120
+1637, white melodies of FINAL FANTASY TACTICS ADVANCE, 4.12 (25), 0.2123
+1638, PERSONA3 FES ORIGINAL SOUNDTRACK, 4.01 (37), 0.2133
+1639, Chiptuned Rockman, 4.17 (27), 0.2139
+1640, GRAVITY DAZE Original Soundtrack, 4.15 (31), 0.2144
+1641, Napple Tale Illustrated Guide to the Fairies, 4.65 (20), 0.2149
+1642, GRADIUS ULTIMATE COLLECTION, 4.63 (24), 0.2149
+1643, PERFECT SELECTION KONAMI SHOOTING BATTLE II, 4.44 (24), 0.2152
+1644, UNDERTALE Soundtrack, 4.47 (35), 0.2156
+1645, RAGNAROK Online Complete Soundtrack, 4.67 (23), 0.2165
+1646, Fire Emblem: Kakusei Original Soundtrack, 4.54 (28), 0.2177
+1647, Castlevania Chronicle: Akumajo Dracula Original Soundtrack, 4.02 (32), 0.2178
+1648, DO-DON-PACHI DAI-FUKKATSU Original Sound Track, 4.08 (33), 0.2181
+1649, GUILTY GEAR SOUND COMPLETE BOX, 4.42 (25), 0.2181
+1650, Wangan MIDNIGHT MAXIMUMTUNE 2 ORIGINAL SOUNDTRACK, 4.31 (31), 0.2193
+1651, Megami Tensei I • II Summon Disc & Fusion Disc, 4.40 (26), 0.2194
+1652, Gikyokuonsou, 4.50 (24), 0.2197
+1653, WILD ARMS the Vth Vanguard ORIGINAL SCORE Vol. 1, 4.17 (24), 0.2202
+1654, MARIO KART 8 ORIGINAL SOUND TRACK, 4.78 (29), 0.2206
+1655, WILD ARMS Alter code:F ORIGINAL SCORE, 4.05 (21), 0.2208
+1656, FINAL FANTASY XIII-2 Original Soundtrack [Limited Edition], 4.38 (34), 0.2210
+1657, DO-DON-PACHI DAI-FUKKATSU BLACK LABEL Original Sound Track, 4.50 (22), 0.2212
+1658, Namco Game Sound Express VOL.4 Dragon Saber, 4.26 (23), 0.2221
+1659, Shatter - Official Videogame Soundtrack, 4.46 (27), 0.2221
+1660, Symphony Sorcerian, 4.60 (21), 0.2224
+1661, FINAL FANTASY CRYSTAL CHRONICLES Original Soundtrack, 4.13 (43), 0.2224
+1662, Dracula Densetsu ReBirth & Contra ReBirth Original Soundtrack, 4.05 (30), 0.2227
+1663, Mushihimesama Double Arrange Album, 4.00 (28), 0.2231
+1664, WILD ARMS Original Game Soundtrack, 4.11 (28), 0.2234
+1665, MIDI POWER Pro 6 ~AKUMAJO DORACULA X GEKKA NO NOCUTURNE~, 4.29 (26), 0.2237
+1666, DRAG-ON DRAGOON ORIGINAL SOUND TRACK VOL.2, 4.05 (28), 0.2240
+1667, DRAG-ON DRAGOON 3 Original Soundtrack, 4.02 (33), 0.2242
+1668, Ys Origin Original Sound Track, 4.38 (28), 0.2245
+1669, Hoshi no Kirby 64 Original Soundtrack, 4.33 (29), 0.2245
+1670, SOULCALIBUR original soundtrack, 4.15 (26), 0.2246
+1671, near death experience, SHADOW HEARTS Arrangetracks, 4.17 (29), 0.2255
+1672, SILENT HILL 4 –THE ROOM– ORIGINAL SOUNDTRACKS, 4.00 (33), 0.2256
+1673, Breath of Fire III Original Sound Track, 4.13 (27), 0.2256
+1674, Trusty Bell ~Chopin no Yume~ Original Score, 4.17 (35), 0.2257
+1675, Piano Collections KINGDOM HEARTS, 3.90 (36), 0.2258
+1676, IBARA Original Sound Track, 4.18 (38), 0.2260
+1677, CRISIS CORE -FINAL FANTASY VII- Original Soundtrack, 3.95 (41), 0.2265
+1678, GB Pokémon Complete Sound CD, 4.15 (33), 0.2268
+1679, SHINCONTRA ORIGINAL SOUNDTRACK, 4.31 (32), 0.2270
+1680, F-ZERO X ORIGINAL SOUND TRACK, 4.42 (33), 0.2274
+1681, The Legend of Zelda: Majora's Mask Original Soundtrack, 4.08 (40), 0.2275
+1682, "zwei!!" SUPER ARRANGE VERSION, 4.70 (27), 0.2277
+1683, Final Fantasy Song Book: mahoroba, 4.31 (27), 0.2278
+1684, Super Mario Land, 4.18 (28), 0.2287
+1685, PIANO OPERA FINAL FANTASY I/II/III, 4.04 (28), 0.2290
+1686, WILD ARMS Advanced 3rd Original Soundtrack, 4.24 (25), 0.2290
+1687, Persona: Be Your True Mind Original Soundtracks, 4.70 (23), 0.2291
+1688, PHANTASMAGORIA, 4.02 (30), 0.2292
+1689, killer7 original sound track, 4.35 (26), 0.2293
+1690, FRONT MISSION Original Sound Version, 3.93 (28), 0.2293
+1691, TREASURE HUNTER G ORIGINAL SOUND TRACK, 4.20 (23), 0.2293
+1692, KINGDOM HEARTS Birth by Sleep & 358/2 Days Original Soundtrack, 4.50 (35), 0.2299
+1693, KINGDOM HEARTS II ORIGINAL SOUNDTRACK, 3.94 (32), 0.2300
+1694, STAR OCEAN Till the End of Time Original Soundtrack vol.1, 4.25 (24), 0.2305
+1695, Street Fighter IV Original Soundtrack, 4.07 (29), 0.2310
+1696, Zwei!! Original Sound Track, 4.54 (25), 0.2310
+1697, All Sounds of SaGa, 3.93 (28), 0.2310
+1698, DEWPRISM Original Soundtrack, 4.28 (27), 0.2313
+1699, LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK, 3.82 (46), 0.2315
+1700, Legaia DuelSaga Original Soundtrack, 4.15 (30), 0.2317
+1701, R4 / RIDGE RACER TYPE 4 / DIRECT AUDIO, 4.61 (35), 0.2319
+1702, Guilty Gear XX Original Soundtrack, 4.42 (26), 0.2320
+1703, ARMODYNE, 3.91 (28), 0.2327
+1704, FINAL FANTASY III Original Soundtrack, 3.76 (39), 0.2329
+1705, THE MADNESS: BATTLE GAREGGA PERFECT SOUNDTRACK, 4.84 (22), 0.2331
+1706, The Legend of Zelda 25th Anniversary Special Orchestra CD, 4.09 (48), 0.2335
+1707, Symphony Ys, 4.46 (27), 0.2336
+1708, 20020220 music from FINAL FANTASY, 4.16 (31), 0.2341
+1709, LORD of VERMILION Original Soundtrack, 3.88 (38), 0.2344
+1710, STREET FIGHTER III 3rd STRIKE ORIGINAL SOUNDTRACK, 4.46 (27), 0.2345
+1711, Ys -THE OATH IN FELGHANA- ORIGINAL SOUND TRACK, 4.61 (31), 0.2346
+1712, F-ZERO, 4.17 (35), 0.2346
+1713, Nintendo DS Pokémon HeartGold & SoulSilver Music Super Complete, 4.53 (30), 0.2354
+1714, Symphonic Shades - Hülsbeck in Concert, 4.46 (26), 0.2363
+1715, Onimusha 2 Orchestra Album ~Taro Iwasiro Selection~, 4.27 (26), 0.2366
+1716, ESPGALUDA II Original Sound Track, 4.22 (27), 0.2370
+1717, SQUARE ENIX SaGa Series 20th Anniversary Original Soundtrack -PREMIUM BOX-, 4.83 (27), 0.2372
+1718, CONTRA SPIRITS, 4.48 (27), 0.2372
+1719, All Sounds of OgreBattle, 4.00 (26), 0.2378
+1720, Beyond the Beyond ORIGINAL GAME SOUNDTRACK, 4.69 (24), 0.2378
+1721, VAGRANTSTORY Original Soundtrack, 4.58 (26), 0.2378
+1722, Sekaiju no MeiQ⁴ *denshou no kyoshin* Original Soundtrack, 4.42 (25), 0.2380
+1723, OutRun 20th Anniversary Box, 4.61 (31), 0.2382
+1724, Turrican Original Video Game Soundtrack, 4.48 (26), 0.2388
+1725, PERFECT SELECTION SNATCHER BATTLE, 4.52 (28), 0.2390
+1726, Chaos Legion Original Soundtrack, 4.45 (30), 0.2392
+1727, ACE COMBAT ZERO THE BELKAN WAR ORIGINAL SOUNDTRACK, 4.43 (36), 0.2397
+1728, Eternity ~Memories of Light and Waves~ Music from FINAL FANTASY X-2, 4.42 (24), 0.2401
+1729, Chrono Trigger Original Soundtrack, 4.11 (28), 0.2419
+1730, WILD ARMS Complete Tracks, 4.14 (28), 0.2423
+1731, Ys SEVEN ORIGINAL SOUND TRACK, 4.37 (27), 0.2424
+1732, Sekaiju no MeiQ³ *seikai no raihousya* SUPER ARRANGE VERSION, 4.57 (27), 0.2428
+1733, SEIKEN DENSETSU / LEGEND OF MANA arrangement album Promise, 4.54 (28), 0.2430
+1734, Stella Deus Original Soundtrack, 4.09 (34), 0.2434
+1735, ROMANCING SAGA -Minstrel Song- Original Soundtrack, 4.33 (30), 0.2456
+1736, Atelier Iris ETERNAL MANA Original Soundtrack, 4.34 (25), 0.2468
+1737, PIANO COLLECTIONS FINAL FANTASY IV, 3.85 (37), 0.2476
+1738, Castlevania Akatsuki no Minuet & Akumajo Dracula Sougetsu no Juujika Original Soundtrack, 4.11 (37), 0.2482
+1739, Perfect Collection Ys, 4.20 (25), 0.2485
+1740, SOULCALIBUR III ORIGINAL SOUNDTRACK ~LEGEND OF SOUNDS~, 4.41 (27), 0.2488
+1741, dodonpachi DAI-OU-JOU / KE-TSU-I kizunajigokutachi ORIGINAL SOUND TRACK, 4.45 (32), 0.2489
+1742, AXELAY, 4.39 (35), 0.2502
+1743, Ys I & II Chronicles ORIGINAL SOUND TRACK, 4.52 (28), 0.2506
+1744, Symphonic Suite Dragon Quest VIII: Journey of the Cursed King, 4.44 (24), 0.2510
+1745, GUN HAZARD Original Sound Track, 4.02 (31), 0.2514
+1746, ecco SONGS OF TIME, 4.43 (28), 0.2515
+1747, METAL GEAR SOLID 3 SNAKE EATER ORIGINAL SOUNDTRACK, 4.17 (33), 0.2521
+1748, Game Music Concert -The Best Selection-, 4.15 (26), 0.2525
+1749, Castlevania: Circle of the Moon & Castlevania: Concerto of Midnight Sun Original Soundtrack, 4.27 (28), 0.2526
+1750, Romeo x Juliet Original Soundtrack, 4.72 (29), 0.2535
+1751, Rockman 9: The Ambition's Revival!! Original Soundtrack, 4.38 (39), 0.2537
+1752, Game Music Concert 2 -The Best Selection-, 4.20 (22), 0.2539
+1753, Final Fantasy Gaiden: Seiken Densetsu Sound Collections, 4.46 (26), 0.2540
+1754, Hako no Niwa, 4.46 (26), 0.2543
+1755, Sekaiju no MeiQ Original Soundtrack, 4.26 (27), 0.2545
+1756, Soma Bringer Original Soundtrack, 4.19 (34), 0.2546
+1757, Ogre -Grand Repeat-, 4.24 (23), 0.2549
+1758, Journey: Original Soundtrack from the Video Game, 4.09 (41), 0.2556
+1759, STARFOX, 4.41 (27), 0.2567
+1760, Oboromuramasa Ongakushuu Hensou no Maku, 4.41 (34), 0.2572
+1761, Hanakisou Symphonic Orchestra, 4.58 (25), 0.2574
+1762, Ace Combat 04 shattered skies Original Sound Tracks, 4.16 (35), 0.2579
+1763, Ys V ORCHESTRA VERSION, 4.42 (26), 0.2581
+1764, Distant Worlds II: more music from FINAL FANTASY, 4.20 (38), 0.2590
+1765, BlazBlue -Calamity Trigger- Original Soundtrack, 4.17 (35), 0.2591
+1766, BIOHAZARD 2 ORIGINAL SOUNDTRACK, 4.40 (34), 0.2604
+1767, Piano Collections NieR Gestalt & Replicant, 4.23 (28), 0.2611
+1768, Akumajo Dracula Judgment Original Soundtrack, 3.99 (34), 0.2613
+1769, NiGHTS into dreams… PERFECT ALBUM, 4.52 (31), 0.2617
+1770, FINAL FANTASY IV Original Soundtrack, 3.96 (39), 0.2617
+1771, CHRONO TRIGGER ORCHESTRA EXTRA SOUNDTRACK, 4.19 (35), 0.2637
+1772, RADIANT SILVERGUN SOUNDTRACK+, 4.44 (31), 0.2639
+1773, Tactics Ogre: Let Us Cling Together, 4.37 (23), 0.2644
+1774, Ragnarok Online II Original Sound Track DVD Edition, 4.36 (22), 0.2644
+1775, Tactics Ogre: Unmei no Wa Original Soundtrack, 4.32 (37), 0.2644
+1776, METAL SLUG COMPLETE SOUND BOX, 4.74 (25), 0.2652
+1777, Romancing SaGa 3 Original Sound Version, 4.23 (28), 0.2658
+1778, GOD EATER Original Soundtrack, 4.40 (36), 0.2661
+1779, DIGITAL DEVIL SAGA ~Avatar Tuner~ 1 & 2 Original Sound Track: Integral, 4.61 (31), 0.2668
+1780, Bahamut Lagoon Original Sound Track, 4.00 (32), 0.2682
+1781, FINAL FANTASY X-2 Original Soundtrack, 3.67 (51), 0.2687
+1782, Senko no Ronde -Sound Tracks-, 4.45 (29), 0.2689
+1783, Bare Knuckle Original Soundtrack, 4.62 (25), 0.2694
+1784, Piano Collections Final Fantasy VI, 3.96 (37), 0.2699
+1785, METROID PRIME & FUSION ORIGINAL SOUNDTRACKS, 4.28 (47), 0.2702
+1786, Chrono Trigger Arranged Version: The Brink of Time, 3.58 (56), 0.2703
+1787, PERSONA3 Original Soundtrack, 4.09 (53), 0.2705
+1788, To Far Away Times: Chrono Trigger & Chrono Cross Arrangement Album, 4.17 (42), 0.2706
+1789, Star Ocean: The Second Story Arrange Album, 4.39 (22), 0.2707
+1790, Romancing SaGa 3 Windy Tale, 4.40 (24), 0.2712
+1791, FINAL FANTASY XIII Original Soundtrack [Limited Edition], 4.33 (48), 0.2729
+1792, GRADIUS ARCADE SOUNDTRACK, 4.61 (27), 0.2732
+1793, Xenosaga III: Also Sprach Zarathustra ORIGINAL SOUND BEST TRACKS, 4.10 (43), 0.2743
+1794, Tenchi Souzou Creative Soundtracks, 4.65 (31), 0.2747
+1795, Mushihimesama Futari Original Sound Track, 4.19 (35), 0.2759
+1796, Radiant Historia Original Soundtrack, 4.20 (33), 0.2766
+1797, SILENT HILL 3 ORIGINAL SOUNDTRACKS, 4.33 (33), 0.2774
+1798, FINAL FANTASY TACTICS ADVANCE Original Soundtrack, 4.11 (37), 0.2775
+1799, Grandia II ~POVO~, 4.15 (31), 0.2776
+1800, Shin Megami Tensei III NOCTURNE ORIGINAL SOUNDTRACK, 4.36 (35), 0.2778
+1801, Live Music by Piano and Strings: Sekaiju no MeiQ I & II Super Arrange Version, 4.63 (32), 0.2784
+1802, AIR ORIGINAL SOUNDTRACK, 4.40 (35), 0.2788
+1803, LIVE A LIVE Original Sound Version, 4.23 (31), 0.2802
+1804, SILENT HILL ORIGINAL SOUNDTRACKS, 4.02 (43), 0.2805
+1805, FINAL FANTASY IX Original Soundtrack PLUS, 3.90 (46), 0.2807
+1806, Akumajo-Dracula Ubawareta kokuin Original Soundtrack, 4.44 (39), 0.2811
+1807, LAST RANKER Original Soundtrack, 4.49 (37), 0.2821
+1808, Rudra no Hihou original sound version, 4.46 (23), 0.2829
+1809, ROCKMAN X ALPH-LYLA with TOSHIAKI OHTSUBO, 4.38 (33), 0.2829
+1810, FINAL FANTASY III ORIGINAL SOUND VERSION, 4.04 (37), 0.2830
+1811, Dairantou Smash Brothers DX Orchestra Concert, 4.58 (44), 0.2830
+1812, ACE COMBAT 5 THE UNSUNG WAR Original Soundtrack, 4.43 (37), 0.2833
+1813, Akumajo Dracula Gallery of Labyrinth Original Soundtrack, 4.31 (40), 0.2838
+1814, The Legend of Zelda SOUND & DRAMA, 4.40 (35), 0.2841
+1815, secret of mana +, 4.17 (35), 0.2852
+1816, SOULCALIBUR II original soundtrack, 4.68 (33), 0.2866
+1817, Valkyrie Profile Original Sound Track, 4.38 (37), 0.2869
+1818, OBOROMURAMASA ORIGINAL SOUNDTRACK, 4.37 (41), 0.2875
+1819, ESPGALUDA Original Sound Track, 4.30 (35), 0.2876
+1820, VALKYRIE PROFILE ARRANGE ALBUM, 4.41 (27), 0.2881
+1821, Donkey Kong Country 2: Diddy's Kong Quest The Original Donkey Kong Country2 Soundtrack, 4.61 (31), 0.2892
+1822, SUPER METROID "SOUND IN ACTION", 4.23 (33), 0.2900
+1823, Vielen Dank, 4.15 (33), 0.2901
+1824, The Last Remnant Original Soundtrack, 4.30 (32), 0.2901
+1825, FINAL FANTASY XI Original Soundtrack PREMIUM BOX, 4.20 (32), 0.2904
+1826, Mushihimesama Original Sound Track, 4.34 (32), 0.2906
+1827, an cinniùint, 4.21 (39), 0.2920
+1828, Symphonic Odysseys TRIBUTE TO NOBUO UEMATSU, 4.37 (27), 0.2926
+1829, Persona4 Original Soundtrack, 4.19 (52), 0.2930
+1830, Baten Kaitos: Owaranai Tsubasa to Ushinawareta Umi Original Soundtrack, 4.27 (43), 0.2938
+1831, Xenosaga II: Jenseits von Gut und Böse ~Movie Scene Soundtrack~, 4.12 (43), 0.2941
+1832, Shenmue Orchestra Version, 4.61 (31), 0.2946
+1833, Ar tonelico: Sekai no Owari de Utaitsuzukeru Shoujo Original Soundtrack, 4.45 (32), 0.2956
+1834, SIGMA HARMONICS Original Soundtrack, 4.29 (35), 0.2958
+1835, deathsmiles original sound track, 4.24 (37), 0.2958
+1836, SUPER MARIO GALAXY 2 ORIGINAL SOUND TRACK, 4.39 (47), 0.2959
+1837, SHADOW HEARTS Original Soundtracks plus1, 4.35 (40), 0.2965
+1838, DIRGE of CERBERUS -FINAL FANTASY VII- Original Soundtrack, 3.71 (57), 0.2967
+1839, FINAL FANTASY VII Reunion Tracks, 4.06 (34), 0.2971
+1840, FINAL FANTASY XI Original Soundtrack, 4.16 (34), 0.2975
+1841, Super Mario Yoshi Island Original Sound Version, 4.37 (41), 0.2986
+1842, DRAG-ON DRAGOON 2 ORIGINAL SOUNDTRACK, 4.43 (30), 0.3006
+1843, Akumajo Dracula X Chronicle Original Soundtrack, 4.39 (45), 0.3008
+1844, THE BLACK MAGES III Darkness and Starlight, 3.98 (46), 0.3017
+1845, KINGDOM HEARTS ORIGINAL SOUNDTRACK, 4.16 (37), 0.3019
+1846, CLANNAD ORIGINAL SOUNDTRACK, 4.60 (47), 0.3024
+1847, Katamari Damacy Soundtrack "Katamari Fortissimo Damacy", 4.34 (46), 0.3024
+1848, Motoi Sakuraba Live Concert Star Ocean & Valkyrie Profile, 4.37 (26), 0.3033
+1849, F-ZERO X Guitar Arrange Edition, 4.45 (37), 0.3036
+1850, opoona original soundtrack, 4.50 (35), 0.3041
+1851, Distant Worlds: music from FINAL FANTASY, 4.32 (38), 0.3043
+1852, Breath of Fire V Dragon Quarter Original Soundtrack, 4.30 (37), 0.3046
+1853, Castlevania Original Soundtrack, 4.11 (41), 0.3047
+1854, TALES OF LEGENDIA ORIGINAL SOUNDTRACK, 4.48 (44), 0.3050
+1855, GUILTY GEAR X HEAVY ROCK TRACKS ~ The Original Sound Track of Dreamcast!!, 4.50 (34), 0.3081
+1856, The Legend of Zelda: Ocarina of Time Hyrule Symphony, 4.24 (38), 0.3084
+1857, Star Ocean: The Second Story Original Soundtrack, 4.34 (34), 0.3113
+1858, Perfect Selection Dracula ~NEW CLASSIC~, 4.40 (41), 0.3128
+1859, Piano Collection FINAL FANTASY X-2, 4.35 (31), 0.3132
+1860, Xenosaga Original Soundtrack, 4.20 (35), 0.3135
+1861, ODIN SPHERE Original Soundtrack, 4.08 (48), 0.3156
+1862, BAYONETTA ORIGINAL SOUNDTRACK, 4.39 (59), 0.3170
+1863, Piano Collections FINAL FANTASY VIII, 4.30 (42), 0.3178
+1864, Shin Hikari Shinwa Palutena no Kagami Original Soundtrack, 4.35 (48), 0.3187
+1865, Sailing to the World, 4.27 (35), 0.3188
+1866, Final Fantasy USA: Mystic Quest Sound Collections, 4.26 (40), 0.3192
+1867, Final Fantasy III Legend of the Eternal Wind, 4.22 (34), 0.3204
+1868, CHRONO TRIGGER ORIGINAL SOUNDTRACK, 4.65 (41), 0.3206
+1869, Synphonic suite from ACTRAISER, 4.34 (37), 0.3209
+1870, Akumajo-Dracula -Yami no juin- Original Soundtrack, 4.26 (44), 0.3242
+1871, ALL SOUNDS OF FINAL FANTASY I • II, 4.17 (39), 0.3261
+1872, SHADOW HEARTS II Original Soundtracks, 4.40 (45), 0.3261
+1873, FINAL FANTASY & FINAL FANTASY II Original Soundtrack, 3.98 (50), 0.3328
+1874, BARE KNUCKLE, 4.49 (41), 0.3350
+1875, Final Fantasy Vocal Collections II "Love Will Grow", 4.42 (37), 0.3380
+1876, FINAL FANTASY V DEAR FRIENDS, 4.17 (41), 0.3381
+1877, Grandia II ~DEUS~, 4.26 (36), 0.3396
+1878, GRADIUS V SOUNDTRACKS, 4.25 (40), 0.3396
+1879, SONIC THE HEDGEHOG 1&2 SOUNDTRACK, 4.70 (46), 0.3403
+1880, Piano Collections FINAL FANTASY IX, 4.30 (49), 0.3419
+1881, ICO ~Melody in the Mist~, 3.89 (57), 0.3431
+1882, Akumajo Dracula X, 4.42 (38), 0.3436
+1883, Piano Collections FINAL FANTASY VII, 4.22 (46), 0.3436
+1884, NieR:Automata Original Soundtrack, 4.66 (60), 0.3439
+1885, THE BLACK MAGES II The Skies Above, 4.06 (50), 0.3441
+1886, Actraiser, 4.22 (41), 0.3468
+1887, BARE NUCKLE II, 4.67 (47), 0.3484
+1888, FINAL FANTASY VII ADVENT CHILDREN ORIGINAL SOUNDTRACK, 4.09 (52), 0.3511
+1889, EINHÄNDER ORIGINAL SOUNDTRACK, 4.32 (53), 0.3520
+1890, SUPER MARIO RPG ORIGINAL SOUND VERSION, 4.27 (46), 0.3550
+1891, Xenosaga Episode I, 4.28 (43), 0.3579
+1892, Gallian Chronicles Original Soundtrack, 4.23 (44), 0.3592
+1893, FINAL FANTASY XIII-2 Original Soundtrack, 4.24 (54), 0.3599
+1894, Breath of Fire Original Soundtrack Special Box, 4.59 (45), 0.3599
+1895, FINAL FANTASY VI GRAND FINALE, 3.94 (53), 0.3599
+1896, Shenmue chapter 1 -yokosuka- Original Sound Track, 4.30 (44), 0.3629
+1897, ETERNAL ARCADIA ORIGINAL SOUND TRACK, 4.40 (46), 0.3652
+1898, FINAL FANTASY IV Celtic Moon, 4.30 (45), 0.3660
+1899, Super Mario World, 4.60 (49), 0.3681
+1900, THE BLACK MAGES, 4.11 (58), 0.3696
+1901, SYMPHONIC SUITE FINAL FANTASY, 4.41 (45), 0.3707
+1902, GENSOSUIKODEN ORIGINAL GAME SOUNDTRACK, 4.53 (48), 0.3723
+1903, Super Mario 64 Original Soundtrack, 4.36 (56), 0.3727
+1904, Akumajo Dracula Best Music Collections BOX, 4.70 (58), 0.3732
+1905, Final Fantasy Vocal Collections I -Pray-, 4.53 (38), 0.3791
+1906, Seiken Densetsu 3 Original Sound Version, 4.42 (46), 0.3814
+1907, PERFECT SELECTION DRACULA BATTLE II, 4.44 (47), 0.3823
+1908, Symphonic Fantasies - music from SQUARE ENIX, 4.51 (46), 0.3873
+1909, Akumajo Dracula Famicom Best, 4.55 (47), 0.3893
+1910, LOST ODYSSEY ORIGINAL SOUNDTRACK, 4.15 (48), 0.3930
+1911, Capcom Music Generation Rockman X1~6, 4.53 (55), 0.3991
+1912, Myth: The Xenogears Orchestral Album, 4.10 (54), 0.3995
+1913, Capcom Music Generation Famicom Music Complete Works Rockman 1~6, 4.55 (49), 0.4002
+1914, UNLIMITED:SaGa Original Soundtrack, 4.38 (48), 0.4019
+1915, Metal Gear Solid Original Game Soundtrack, 4.22 (56), 0.4036
+1916, The Legend of Zelda: Ocarina of Time Original Sound Track, 4.33 (58), 0.4139
+1917, KINGDOM HEARTS Original Soundtrack COMPLETE, 4.61 (52), 0.4193
+1918, Akumajo Dracula Best 2, 4.64 (50), 0.4201
+1919, kiЯitɘ, 4.62 (46), 0.4204
+1920, FITHOS LUSEC WECOS VINOSEC: FINAL FANTASY VIII [Limited Edition], 4.43 (56), 0.4289
+1921, GRANDIA ORIGINAL SOUNDTRACKS, 4.57 (44), 0.4317
+1922, FINAL FANTASY IV ORIGINAL SOUND VERSION, 4.23 (66), 0.4349
+1923, parasite eve Original Soundtrack, 4.44 (57), 0.4367
+1924, FINAL FANTASY XIII Original Soundtrack, 4.43 (63), 0.4394
+1925, SaGa FRONTIER II Original Soundtrack, 4.38 (52), 0.4413
+1926, VAGRANTSTORY Original Soundtrack, 4.64 (55), 0.4440
+1927, BRAVELY DEFAULT FLYING FAIRY Original Soundtrack, 4.46 (70), 0.4628
+1928, drammatica -The Very Best of Yoko Shimomura-, 4.57 (63), 0.4661
+1929, PERFECT SELECTION DRACULA BATTLE, 4.57 (64), 0.4662
+1930, SUPER MARIO GALAXY ORIGINAL SOUND TRACK Platinum Version, 4.40 (77), 0.4868
+1931, Okami Original Soundtrack, 4.44 (77), 0.4882
+1932, Soukaigi Original Soundtrack, 4.58 (54), 0.4883
+1933, Seiken Densetsu / Legend of Mana Original Soundtrack, 4.36 (59), 0.4923
+1934, Piano Collections FINAL FANTASY X, 4.36 (60), 0.4930
+1935, Xenoblade Original Soundtrack, 4.18 (92), 0.4965
+1936, FINAL FANTASY V ORIGINAL SOUND VERSION, 4.22 (67), 0.5049
+1937, SILENT HILL 2 ORIGINAL SOUNDTRACKS, 4.54 (83), 0.5304
+1938, CREID, 4.65 (75), 0.5528
+1939, FINAL FANTASY TACTICS Original Sound Track, 4.57 (80), 0.5684
+1940, FINAL FANTASY XII Original Soundtrack [Limited Edition], 4.41 (93), 0.5719
+1941, Seiken Densetsu 2 Original Sound Version, 4.57 (83), 0.5800
+1942, FINAL FANTASY IX Original Soundtrack, 4.50 (104), 0.6719
+1943, Wander and the Colossus Original Soundtrack: Roar of the Earth, 4.53 (103), 0.6760
+1944, Xenogears ORIGINAL SOUNDTRACK, 4.54 (99), 0.6782
+1945, NieR Gestalt & Replicant Original Soundtrack, 4.56 (126), 0.6784
+1946, FINAL FANTASY X Original Soundtrack, 4.31 (114), 0.6940
+1947, Akumajo Dracula X ~Gekka no Nocturne~ Original Game Soundtrack, 4.65 (112), 0.6974
+1948, FINAL FANTASY VIII Original Soundtrack, 4.46 (120), 0.7102
+1949, CHRONO TRIGGER ORIGINAL SOUND VERSION, 4.54 (117), 0.7801
+1950, FINAL FANTASY VII Original Sound Track [Limited Edition], 4.27 (126), 0.7838
+1951, FINAL FANTASY VI ORIGINAL SOUND VERSION, 4.65 (117), 0.8424
+1952, CHRONO CROSS ORIGINAL SOUNDTRACK, 4.73 (155), 1.0000
