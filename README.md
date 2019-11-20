@@ -7,6 +7,16 @@ sources and combines it into a single, novel dataset.
 
 This project looks at data on video games and video game composers. 
 
+## Documentation
+Documentation for all datasets can be found in two places - in each dataset
+folder along with the code and datasets themselves, and also separately in 
+the first-level folder Documentation. Putting these files in two locations 
+was done to facilitate ease of access. On the one hand, it makes sense to 
+keep them in with the respective code and datasets, and on the other hand, 
+for people who are looking at this project for the first time, or who are 
+looking for a high-level overview, will find it easier to have the files in 
+their own top-level folder. 
+
 ## Research Questions
 The final dataset aims to allow for analysis to answer these questions, and related
 questions, that cannot be answered by any one dataset currently in existence.

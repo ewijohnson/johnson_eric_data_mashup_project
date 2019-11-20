@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c830591-7dcd-46ad-b077-c9944e19a3ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/Video game sales with ratings.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Original Data Do Not Edit/top_1000_downloaded_soundtracks.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Top 1000 downloaded soundtracks.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/List of video game musicians.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Video game soundtracks by composer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/vgmdb/Most and least popular albums AND Highest rated artists.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/vgmdb/Original Data Do Not Edit/highest_rated_artists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/vgmdb/Original Data Do Not Edit/least_popular_albums.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/vgmdb/Original Data Do Not Edit/most_popular_albums.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/kaggle_documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/vgmdb_all_documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/video_game_music_mp3_downloads_documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/wikipedia_musician_list_documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/wikipedia_soundtracks_by_composer_documentation.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Spotify/spotify.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/Game Pages/get_individual_game_pages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/wiki test 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +17,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="136">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,15 +68,16 @@
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py" />
         <option value="$PROJECT_DIR$/Datasets/vgmdb/testest.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Datasets/vgmdb/changing_separators.py" />
         <option value="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/replacing_separators.py" />
+        <option value="$PROJECT_DIR$/Documentation/wikipedia_musician_list_documentation.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="922" />
-    <option name="y" value="9" />
+    <option name="x" value="1143" />
+    <option name="y" value="20" />
     <option name="width" value="2682" />
     <option name="height" value="2079" />
   </component>
@@ -91,6 +99,19 @@
               <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
               <item name="Datasets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
+              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
+              <item name="Wikipedia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
+              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
+              <item name="Wikipedia" type="462c0819:PsiDirectoryNode" />
+              <item name="List of Video Game Musicians" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -100,22 +121,22 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Datasets/vgmdb/Original Data Do Not Edit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Documentation" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Wikipedia\Game Pages" />
+      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Wikipedia\List of Video Game Musicians\" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Documentation" />
       <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\vgmdb\Original Data Do Not Edit" />
       <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Video Game Music mp3 Downloads\Original Data Do Not Edit" />
       <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Wikipedia\List of Video Game Musicians" />
       <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Video Game Music mp3 Downloads" />
-      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\vgmdb" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Wikipedia\Game Pages" />
-      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Wikipedia\List of Video Game Musicians\" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,7 +296,8 @@
       <workItem from="1574016914805" duration="5851000" />
       <workItem from="1574041187504" duration="8729000" />
       <workItem from="1574051002318" duration="29000" />
-      <workItem from="1574133221684" duration="532000" />
+      <workItem from="1574133221684" duration="2526000" />
+      <workItem from="1574212949370" duration="865000" />
     </task>
     <task id="LOCAL-00001" summary="remote test">
       <created>1574017012234</created>
@@ -354,16 +376,24 @@
       <option name="project" value="LOCAL" />
       <updated>1574051019680</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added documentation files&#10;cleaned up folders and code that are not going to be used&#10;cleaned up test code&#10;made sure all datasets have original data and website copy folders">
+      <created>1574133837613</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574133837613</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62728000" />
+    <option name="totallyTimeSpent" value="65587000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="410" y="4" width="1192" height="924" extended-state="0" />
+    <frame x="508" y="9" width="1192" height="924" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3459507" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27640846" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -400,7 +430,8 @@
     <MESSAGE value="added Jupyter Notebook file&#10;changed separators in wikipedia and vgmdb files" />
     <MESSAGE value="finished preparing all vgmdb.net files for pandas" />
     <MESSAGE value="all files can be read into pandas now&#10;might still need to do some name cleaning later on" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files can be read into pandas now&#10;might still need to do some name cleaning later on" />
+    <MESSAGE value="added documentation files&#10;cleaned up folders and code that are not going to be used&#10;cleaned up test code&#10;made sure all datasets have original data and website copy folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="added documentation files&#10;cleaned up folders and code that are not going to be used&#10;cleaned up test code&#10;made sure all datasets have original data and website copy folders" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$least_popular_albums.coverage" NAME="least_popular_albums Coverage Results" MODIFIED="1570917871205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
@@ -423,17 +454,6 @@
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$changing_separators.coverage" NAME="changing_separators Coverage Results" MODIFIED="1574049265223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/kenneth_young_(scottish_composer).txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/koji_kondo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/konami.txt" />
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/konami_kukeiha_club.txt" />
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/lorne_balfe.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/michael_bacon_(artist).txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -501,16 +521,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/all_composer_data.csv" />
     <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/testest.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/highest_rated_artists_adjusted.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -636,11 +646,63 @@
     <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/Original Data Do Not Edit/least_popular_albums.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/wiki test 1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/wiki test 1.py" />
     <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/Original Data Do Not Edit/most_popular_albums.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/kaggle_documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/vgmdb_all_documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/video_game_music_mp3_downloads_documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret lean-forward="true" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/wikipedia_soundtracks_by_composer_documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/wikipedia_musician_list_documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="1" selection-start-column="1" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
