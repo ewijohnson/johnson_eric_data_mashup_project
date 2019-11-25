@@ -1,0 +1,536 @@
+,Name,Platform,Year_of_Release,Genre,Publisher,Critic_Score,User_Score,Developer,Rating_x,Soundtrack,Composer,Composer Birthday,Rank,Artist Name,Rating_y,#,Album
+0,Wii Sports,Wii,2006,Sports,Nintendo,76.0,8,Nintendo,E,Wii Sports,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,278,Wii Sports
+2,Pokemon Red/green/blue/yellow,GB,1996,Role-Playing,Nintendo,,,,,Pokemon Red/green/blue/yellow,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,235,Pokemon Red/green/blue/yellow
+3,Pokemon Red/green/blue/yellow,GB,1996,Role-Playing,Nintendo,,,,,Pokemon Red/green/blue/yellow,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,948,Pokemon Red/green/blue/yellow
+4,Tetris,GB,1989,Puzzle,Nintendo,,,,,Tetris,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,364,Tetris
+5,Tetris,GB,1989,Puzzle,Nintendo,,,,,Tetris,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,364,Tetris
+6,Tetris,GB,1989,Puzzle,Nintendo,,,,,Tetris,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,364,Tetris
+7,Tetris,GB,1989,Puzzle,Nintendo,,,,,Tetris,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,364,Tetris
+8,Tetris,NES,1988,Puzzle,Nintendo,,,,,Tetris,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,364,Tetris
+9,Tetris,NES,1988,Puzzle,Nintendo,,,,,Tetris,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,364,Tetris
+10,Tetris,NES,1988,Puzzle,Nintendo,,,,,Tetris,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,364,Tetris
+11,Tetris,NES,1988,Puzzle,Nintendo,,,,,Tetris,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,364,Tetris
+12,Duck Hunt,NES,1984,Shooter,Nintendo,,,,,Duck Hunt,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,227,Duck Hunt
+13,Pokemon Gold/silver/crystal,GB,1999,Role-Playing,Nintendo,,,,,Pokemon Gold/silver/crystal,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,161,Pokemon Gold/silver/crystal
+14,Pokemon Gold/silver/crystal,GB,1999,Role-Playing,Nintendo,,,,,Pokemon Gold/silver/crystal,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,170,Pokemon Gold/silver/crystal
+15,Super Mario Land,GB,1989,Platform,Nintendo,,,,,Super Mario Land,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,406,Super Mario Land
+16,Minecraft,X360,2013,Misc,Microsoft Game Studios,,,,,Minecraft,Laura Shigihara,,4117,Laura Shigihara,4.23,4,Minecraft
+18,Minecraft,PS3,2014,Misc,Sony Computer Entertainment,,,,,Minecraft,Laura Shigihara,,4117,Laura Shigihara,4.23,4,Minecraft
+20,Minecraft,PS4,2014,Misc,Sony Computer Entertainment Europe,,,,,Minecraft,Laura Shigihara,,4117,Laura Shigihara,4.23,4,Minecraft
+22,Minecraft,XOne,2014,Misc,Microsoft Game Studios,,,,,Minecraft,Laura Shigihara,,4117,Laura Shigihara,4.23,4,Minecraft
+24,Minecraft,PSV,2014,Misc,Sony Computer Entertainment Europe,,,,,Minecraft,Laura Shigihara,,4117,Laura Shigihara,4.23,4,Minecraft
+26,Minecraft,WiiU,2016,Misc,Microsoft Game Studios,,,,,Minecraft,Laura Shigihara,,4117,Laura Shigihara,4.23,4,Minecraft
+28,The Sims 3,PC,2009,Simulation,Electronic Arts,86.0,7.6,The Sims Studio,T,The Sims 3,Jerry Martin,,5928,Jerry Martin,4.13,928,The Sims 3
+29,The Sims 3,X360,2010,Simulation,Electronic Arts,76.0,7.1,The Sims Studio,T,The Sims 3,Jerry Martin,,5928,Jerry Martin,4.13,928,The Sims 3
+30,The Sims 3,PS3,2010,Simulation,Electronic Arts,78.0,6.4,The Sims Studio,T,The Sims 3,Jerry Martin,,5928,Jerry Martin,4.13,928,The Sims 3
+31,The Sims 3,Wii,2010,Simulation,Electronic Arts,,2.5,The Sims Studio,T,The Sims 3,Jerry Martin,,5928,Jerry Martin,4.13,928,The Sims 3
+32,The Sims 3,3DS,2011,Simulation,Electronic Arts,52.0,3.3,EA Games,T,The Sims 3,Jerry Martin,,5928,Jerry Martin,4.13,928,The Sims 3
+33,The Sims 3,DS,2010,Simulation,Electronic Arts,73.0,6.4,Exient Entertainment,E,The Sims 3,Jerry Martin,,5928,Jerry Martin,4.13,928,The Sims 3
+34,Tekken 3,PS,1998,Fighting,Sony Computer Entertainment,96.0,9.1,Namco,T,Tekken 3,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,96,Tekken 3
+35,Mario Kart 8,WiiU,2014,Racing,Nintendo,88.0,9.1,Nintendo,E,Mario Kart 8,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,29,Mario Kart 8
+36,Mario Kart 8,WiiU,2014,Racing,Nintendo,88.0,9.1,Nintendo,E,Mario Kart 8,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,405,Mario Kart 8
+37,Mario Kart 8,WiiU,2014,Racing,Nintendo,88.0,9.1,Nintendo,E,Mario Kart 8,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,983,Mario Kart 8
+41,Mario Kart 8,WiiU,2014,Racing,Nintendo,88.0,9.1,Nintendo,E,Mario Kart 8,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,29,Mario Kart 8
+42,Mario Kart 8,WiiU,2014,Racing,Nintendo,88.0,9.1,Nintendo,E,Mario Kart 8,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,405,Mario Kart 8
+43,Mario Kart 8,WiiU,2014,Racing,Nintendo,88.0,9.1,Nintendo,E,Mario Kart 8,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,983,Mario Kart 8
+44,Mario Kart 8,WiiU,2014,Racing,Nintendo,88.0,9.1,Nintendo,E,Mario Kart 8,Toru Minegishi,,7475,Toru Minegishi,4.03,29,Mario Kart 8
+45,Mario Kart 8,WiiU,2014,Racing,Nintendo,88.0,9.1,Nintendo,E,Mario Kart 8,Toru Minegishi,,7475,Toru Minegishi,4.03,405,Mario Kart 8
+46,Mario Kart 8,WiiU,2014,Racing,Nintendo,88.0,9.1,Nintendo,E,Mario Kart 8,Toru Minegishi,,7475,Toru Minegishi,4.03,983,Mario Kart 8
+47,Super Smash Bros. Melee,GC,2001,Fighting,Nintendo,92.0,9.1,HAL Labs,T,Super Smash Bros. Melee,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,73,Super Smash Bros. Melee
+48,Super Smash Bros. Melee,GC,2001,Fighting,Nintendo,92.0,9.1,HAL Labs,T,Super Smash Bros. Melee,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,648,Super Smash Bros. Melee
+49,Super Smash Bros. Melee,GC,2001,Fighting,Nintendo,92.0,9.1,HAL Labs,T,Super Smash Bros. Melee,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,841,Super Smash Bros. Melee
+50,Uncharted 3: Drake's Deception,PS3,2011,Action,Sony Computer Entertainment,92.0,8.3,Naughty Dog,T,Uncharted 3: Drake's Deception,Greg Edmonson,,9782,Greg Edmonson,3.68,373,Uncharted 3: Drake's Deception
+51,Donkey Kong Country Returns,Wii,2010,Platform,Nintendo,87.0,8.6,Retro Studios,E,Donkey Kong Country Returns,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,213,Donkey Kong Country Returns
+52,Donkey Kong Country Returns,Wii,2010,Platform,Nintendo,87.0,8.6,Retro Studios,E,Donkey Kong Country Returns,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,768,Donkey Kong Country Returns
+53,Donkey Kong Country Returns,3DS,2013,Platform,Nintendo,,,,,Donkey Kong Country Returns,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,213,Donkey Kong Country Returns
+54,Donkey Kong Country Returns,3DS,2013,Platform,Nintendo,,,,,Donkey Kong Country Returns,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,768,Donkey Kong Country Returns
+55,Kingdom Hearts,PS2,2002,Role-Playing,Sony Computer Entertainment,85.0,8.8,SquareSoft,E,Kingdom Hearts,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,17,Kingdom Hearts
+57,Kingdom Hearts,PS3,2013,Role-Playing,Square Enix,,,,,Kingdom Hearts,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,17,Kingdom Hearts
+59,Super Mario Sunshine,GC,2002,Platform,Nintendo,92.0,8.6,Nintendo,E,Super Mario Sunshine,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,101,Super Mario Sunshine
+60,Metal Gear Solid 2: Sons Of Liberty,PS2,2001,Action,Konami Digital Entertainment,96.0,8.7,KCEJ,M,Metal Gear Solid 2: Sons Of Liberty,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,185,Metal Gear Solid 2: Sons Of Liberty
+61,Metal Gear Solid 2: Sons Of Liberty,PS2,2001,Action,Konami Digital Entertainment,96.0,8.7,KCEJ,M,Metal Gear Solid 2: Sons Of Liberty,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,533,Metal Gear Solid 2: Sons Of Liberty
+62,Metal Gear Solid,PS,1998,Action,Konami Digital Entertainment,94.0,9.4,KCEJ,M,Metal Gear Solid,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,125,Metal Gear Solid
+63,Metal Gear Solid,PS,1998,Action,Konami Digital Entertainment,94.0,9.4,KCEJ,M,Metal Gear Solid,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,270,Metal Gear Solid
+64,Metal Gear Solid,PS,1998,Action,Konami Digital Entertainment,94.0,9.4,KCEJ,M,Metal Gear Solid,Rika Muranaka,,4174,Rika Muranaka,4.23,125,Metal Gear Solid
+65,Metal Gear Solid,PS,1998,Action,Konami Digital Entertainment,94.0,9.4,KCEJ,M,Metal Gear Solid,Rika Muranaka,,4174,Rika Muranaka,4.23,270,Metal Gear Solid
+66,Metal Gear Solid,GB,2000,Action,Konami Digital Entertainment,,,,,Metal Gear Solid,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,125,Metal Gear Solid
+67,Metal Gear Solid,GB,2000,Action,Konami Digital Entertainment,,,,,Metal Gear Solid,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,270,Metal Gear Solid
+68,Metal Gear Solid,GB,2000,Action,Konami Digital Entertainment,,,,,Metal Gear Solid,Rika Muranaka,,4174,Rika Muranaka,4.23,125,Metal Gear Solid
+69,Metal Gear Solid,GB,2000,Action,Konami Digital Entertainment,,,,,Metal Gear Solid,Rika Muranaka,,4174,Rika Muranaka,4.23,270,Metal Gear Solid
+70,Metal Gear Solid 4: Guns Of The Patriots,PS3,2008,Action,Konami Digital Entertainment,94.0,8.7,Kojima Productions,M,Metal Gear Solid 4: Guns Of The Patriots,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,695,Metal Gear Solid 4: Guns Of The Patriots
+71,Metal Gear Solid 4: Guns Of The Patriots,PS3,2008,Action,Konami Digital Entertainment,94.0,8.7,Kojima Productions,M,Metal Gear Solid 4: Guns Of The Patriots,Takahiro Izutani,,7596,Takahiro Izutani,4.02,695,Metal Gear Solid 4: Guns Of The Patriots
+72,Tekken 2,PS,1996,Fighting,Sony Computer Entertainment,89.0,8.9,Namco,T,Tekken 2,Shinji Hosoe,1967-02-28,8140,Shinji Hosoe,3.97,336,Tekken 2
+73,Destiny,PS4,2014,Shooter,Activision,76.0,6.1,Bungie Software, Bungie,Destiny,Martin O'Donnell,1955-05-01,10207,Martin O'Donnell,3.47,492,Destiny
+74,Destiny,PS4,2014,Shooter,Activision,76.0,6.1,Bungie Software, Bungie,Destiny,Michael Salvatori,,10180,Michael Salvatori,3.5,492,Destiny
+75,Destiny,XOne,2014,Shooter,Activision,75.0,5.5,Bungie Software, Bungie,Destiny,Martin O'Donnell,1955-05-01,10207,Martin O'Donnell,3.47,492,Destiny
+76,Destiny,XOne,2014,Shooter,Activision,75.0,5.5,Bungie Software, Bungie,Destiny,Michael Salvatori,,10180,Michael Salvatori,3.5,492,Destiny
+77,Destiny,X360,2014,Shooter,Activision,,4.7,Bungie,T,Destiny,Martin O'Donnell,1955-05-01,10207,Martin O'Donnell,3.47,492,Destiny
+78,Destiny,X360,2014,Shooter,Activision,,4.7,Bungie,T,Destiny,Michael Salvatori,,10180,Michael Salvatori,3.5,492,Destiny
+79,Destiny,PS3,2014,Shooter,Activision,,4.5,Bungie,T,Destiny,Martin O'Donnell,1955-05-01,10207,Martin O'Donnell,3.47,492,Destiny
+80,Destiny,PS3,2014,Shooter,Activision,,4.5,Bungie,T,Destiny,Michael Salvatori,,10180,Michael Salvatori,3.5,492,Destiny
+81,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,64,Super Smash Bros.
+82,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,146,Super Smash Bros.
+83,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,368,Super Smash Bros.
+84,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,411,Super Smash Bros.
+85,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,558,Super Smash Bros.
+86,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,608,Super Smash Bros.
+87,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,851,Super Smash Bros.
+88,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,64,Super Smash Bros.
+89,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,146,Super Smash Bros.
+90,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,368,Super Smash Bros.
+91,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,411,Super Smash Bros.
+92,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,558,Super Smash Bros.
+93,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,608,Super Smash Bros.
+94,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,851,Super Smash Bros.
+95,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,64,Super Smash Bros.
+96,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,146,Super Smash Bros.
+97,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,368,Super Smash Bros.
+98,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,411,Super Smash Bros.
+99,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,558,Super Smash Bros.
+100,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,608,Super Smash Bros.
+101,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,851,Super Smash Bros.
+109,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Keiichi Suzuki,1951-08-28,8099,Keiichi Suzuki,3.97,64,Super Smash Bros.
+110,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Keiichi Suzuki,1951-08-28,8099,Keiichi Suzuki,3.97,146,Super Smash Bros.
+111,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Keiichi Suzuki,1951-08-28,8099,Keiichi Suzuki,3.97,368,Super Smash Bros.
+112,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Keiichi Suzuki,1951-08-28,8099,Keiichi Suzuki,3.97,411,Super Smash Bros.
+113,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Keiichi Suzuki,1951-08-28,8099,Keiichi Suzuki,3.97,558,Super Smash Bros.
+114,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Keiichi Suzuki,1951-08-28,8099,Keiichi Suzuki,3.97,608,Super Smash Bros.
+115,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Keiichi Suzuki,1951-08-28,8099,Keiichi Suzuki,3.97,851,Super Smash Bros.
+116,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,64,Super Smash Bros.
+117,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,146,Super Smash Bros.
+118,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,368,Super Smash Bros.
+119,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,411,Super Smash Bros.
+120,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,558,Super Smash Bros.
+121,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,608,Super Smash Bros.
+122,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,851,Super Smash Bros.
+130,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Mahito Yokota,,4161,Mahito Yokota,4.23,64,Super Smash Bros.
+131,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Mahito Yokota,,4161,Mahito Yokota,4.23,146,Super Smash Bros.
+132,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Mahito Yokota,,4161,Mahito Yokota,4.23,368,Super Smash Bros.
+133,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Mahito Yokota,,4161,Mahito Yokota,4.23,411,Super Smash Bros.
+134,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Mahito Yokota,,4161,Mahito Yokota,4.23,558,Super Smash Bros.
+135,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Mahito Yokota,,4161,Mahito Yokota,4.23,608,Super Smash Bros.
+136,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Mahito Yokota,,4161,Mahito Yokota,4.23,851,Super Smash Bros.
+137,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,64,Super Smash Bros.
+138,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,146,Super Smash Bros.
+139,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,368,Super Smash Bros.
+140,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,411,Super Smash Bros.
+141,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,558,Super Smash Bros.
+142,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,608,Super Smash Bros.
+143,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,851,Super Smash Bros.
+144,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Rika Muranaka,,4174,Rika Muranaka,4.23,64,Super Smash Bros.
+145,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Rika Muranaka,,4174,Rika Muranaka,4.23,146,Super Smash Bros.
+146,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Rika Muranaka,,4174,Rika Muranaka,4.23,368,Super Smash Bros.
+147,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Rika Muranaka,,4174,Rika Muranaka,4.23,411,Super Smash Bros.
+148,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Rika Muranaka,,4174,Rika Muranaka,4.23,558,Super Smash Bros.
+149,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Rika Muranaka,,4174,Rika Muranaka,4.23,608,Super Smash Bros.
+150,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Rika Muranaka,,4174,Rika Muranaka,4.23,851,Super Smash Bros.
+151,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Toru Minegishi,,7475,Toru Minegishi,4.03,64,Super Smash Bros.
+152,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Toru Minegishi,,7475,Toru Minegishi,4.03,146,Super Smash Bros.
+153,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Toru Minegishi,,7475,Toru Minegishi,4.03,368,Super Smash Bros.
+154,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Toru Minegishi,,7475,Toru Minegishi,4.03,411,Super Smash Bros.
+155,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Toru Minegishi,,7475,Toru Minegishi,4.03,558,Super Smash Bros.
+156,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Toru Minegishi,,7475,Toru Minegishi,4.03,608,Super Smash Bros.
+157,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,Super Smash Bros.,Toru Minegishi,,7475,Toru Minegishi,4.03,851,Super Smash Bros.
+158,Assassin's Creed Ii,PS3,2009,Action,Ubisoft,91.0,8.6,Ubisoft Montreal,M,Assassin's Creed Ii,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,16,Assassin's Creed Ii
+160,Assassin's Creed Ii,X360,2009,Action,Ubisoft,90.0,8.8,Ubisoft Montreal,M,Assassin's Creed Ii,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,16,Assassin's Creed Ii
+162,Assassin's Creed Ii,PC,2010,Action,Ubisoft,86.0,6.9,Ubisoft Montreal,M,Assassin's Creed Ii,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,16,Assassin's Creed Ii
+164,Assassin's Creed,X360,2007,Adventure,Ubisoft,81.0,7.7,Ubisoft Montreal,M,Assassin's Creed,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,410,Assassin's Creed
+165,Assassin's Creed,X360,2007,Adventure,Ubisoft,81.0,7.7,Ubisoft Montreal,M,Assassin's Creed,Lorne Balfe,1976-02-23,7553,Lorne Balfe,4.02,410,Assassin's Creed
+166,Assassin's Creed,X360,2007,Adventure,Ubisoft,81.0,7.7,Ubisoft Montreal,M,Assassin's Creed,Winifred Phillips,,9787,Winifred Phillips,3.68,410,Assassin's Creed
+167,Assassin's Creed,PS3,2007,Adventure,Ubisoft,81.0,7.3,Ubisoft Montreal,M,Assassin's Creed,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,410,Assassin's Creed
+168,Assassin's Creed,PS3,2007,Adventure,Ubisoft,81.0,7.3,Ubisoft Montreal,M,Assassin's Creed,Lorne Balfe,1976-02-23,7553,Lorne Balfe,4.02,410,Assassin's Creed
+169,Assassin's Creed,PS3,2007,Adventure,Ubisoft,81.0,7.3,Ubisoft Montreal,M,Assassin's Creed,Winifred Phillips,,9787,Winifred Phillips,3.68,410,Assassin's Creed
+170,Assassin's Creed,PC,2008,Adventure,Ubisoft,,,,,Assassin's Creed,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,410,Assassin's Creed
+171,Assassin's Creed,PC,2008,Adventure,Ubisoft,,,,,Assassin's Creed,Lorne Balfe,1976-02-23,7553,Lorne Balfe,4.02,410,Assassin's Creed
+172,Assassin's Creed,PC,2008,Adventure,Ubisoft,,,,,Assassin's Creed,Winifred Phillips,,9787,Winifred Phillips,3.68,410,Assassin's Creed
+173,Pokemon Stadium,N64,1999,Strategy,Nintendo,,,,,Pokemon Stadium,Junichi Masuda,1968-01-12,5712,Junichi Masuda,4.14,699,Pokemon Stadium
+174,Dr. Mario,GB,1989,Puzzle,Nintendo,,,,,Dr. Mario,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,435,Dr. Mario
+175,Dr. Mario,GB,1989,Puzzle,Nintendo,,,,,Dr. Mario,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,856,Dr. Mario
+176,Dr. Mario,GB,1989,Puzzle,Nintendo,,,,,Dr. Mario,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,435,Dr. Mario
+177,Dr. Mario,GB,1989,Puzzle,Nintendo,,,,,Dr. Mario,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,856,Dr. Mario
+178,Dr. Mario,NES,1990,Puzzle,Nintendo,,,,,Dr. Mario,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,435,Dr. Mario
+179,Dr. Mario,NES,1990,Puzzle,Nintendo,,,,,Dr. Mario,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,856,Dr. Mario
+180,Dr. Mario,NES,1990,Puzzle,Nintendo,,,,,Dr. Mario,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,435,Dr. Mario
+181,Dr. Mario,NES,1990,Puzzle,Nintendo,,,,,Dr. Mario,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,856,Dr. Mario
+182,Animal Crossing: City Folk,Wii,2008,Simulation,Nintendo,73.0,7.6,Nintendo,E,Animal Crossing: City Folk,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,360,Animal Crossing: City Folk
+184,Luigi's Mansion: Dark Moon,3DS,2013,Action,Nintendo,86.0,8.4,Next Level Games,E,Luigi's Mansion: Dark Moon,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,293,Luigi's Mansion: Dark Moon
+185,Sonic The Hedgehog,GEN,1991,Platform,Sega,,,,,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,61,Sonic The Hedgehog
+186,Sonic The Hedgehog,GEN,1991,Platform,Sega,,,,,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,123,Sonic The Hedgehog
+187,Sonic The Hedgehog,GEN,1991,Platform,Sega,,,,,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,459,Sonic The Hedgehog
+188,Sonic The Hedgehog,GEN,1991,Platform,Sega,,,,,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,905,Sonic The Hedgehog
+189,Sonic The Hedgehog,GEN,1991,Platform,Sega,,,,,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,61,Sonic The Hedgehog
+190,Sonic The Hedgehog,GEN,1991,Platform,Sega,,,,,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,123,Sonic The Hedgehog
+191,Sonic The Hedgehog,GEN,1991,Platform,Sega,,,,,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,459,Sonic The Hedgehog
+192,Sonic The Hedgehog,GEN,1991,Platform,Sega,,,,,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,905,Sonic The Hedgehog
+193,Sonic The Hedgehog,PS3,2006,Platform,Sega,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,61,Sonic The Hedgehog
+194,Sonic The Hedgehog,PS3,2006,Platform,Sega,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,123,Sonic The Hedgehog
+195,Sonic The Hedgehog,PS3,2006,Platform,Sega,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,459,Sonic The Hedgehog
+196,Sonic The Hedgehog,PS3,2006,Platform,Sega,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,905,Sonic The Hedgehog
+197,Sonic The Hedgehog,PS3,2006,Platform,Sega,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,61,Sonic The Hedgehog
+198,Sonic The Hedgehog,PS3,2006,Platform,Sega,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,123,Sonic The Hedgehog
+199,Sonic The Hedgehog,PS3,2006,Platform,Sega,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,459,Sonic The Hedgehog
+200,Sonic The Hedgehog,PS3,2006,Platform,Sega,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,905,Sonic The Hedgehog
+201,Sonic The Hedgehog,X360,2006,Platform,Sega,46.0,4.4,Sega,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,61,Sonic The Hedgehog
+202,Sonic The Hedgehog,X360,2006,Platform,Sega,46.0,4.4,Sega,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,123,Sonic The Hedgehog
+203,Sonic The Hedgehog,X360,2006,Platform,Sega,46.0,4.4,Sega,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,459,Sonic The Hedgehog
+204,Sonic The Hedgehog,X360,2006,Platform,Sega,46.0,4.4,Sega,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,905,Sonic The Hedgehog
+205,Sonic The Hedgehog,X360,2006,Platform,Sega,46.0,4.4,Sega,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,61,Sonic The Hedgehog
+206,Sonic The Hedgehog,X360,2006,Platform,Sega,46.0,4.4,Sega,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,123,Sonic The Hedgehog
+207,Sonic The Hedgehog,X360,2006,Platform,Sega,46.0,4.4,Sega,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,459,Sonic The Hedgehog
+208,Sonic The Hedgehog,X360,2006,Platform,Sega,46.0,4.4,Sega,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,905,Sonic The Hedgehog
+209,Sonic The Hedgehog,PS3,,Platform,,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,61,Sonic The Hedgehog
+210,Sonic The Hedgehog,PS3,,Platform,,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,123,Sonic The Hedgehog
+211,Sonic The Hedgehog,PS3,,Platform,,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,459,Sonic The Hedgehog
+212,Sonic The Hedgehog,PS3,,Platform,,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,905,Sonic The Hedgehog
+213,Sonic The Hedgehog,PS3,,Platform,,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,61,Sonic The Hedgehog
+214,Sonic The Hedgehog,PS3,,Platform,,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,123,Sonic The Hedgehog
+215,Sonic The Hedgehog,PS3,,Platform,,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,459,Sonic The Hedgehog
+216,Sonic The Hedgehog,PS3,,Platform,,43.0,4.1,Sonic Team,E10+,Sonic The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,905,Sonic The Hedgehog
+217,Kingdom Hearts Ii,PS2,2005,Role-Playing,Square Enix,87.0,9,Square Enix,E10+,Kingdom Hearts Ii,Hiroshi Fujioka,1946-02-19,8613,Hiroshi Fujioka,3.92,33,Kingdom Hearts Ii
+218,Kingdom Hearts Ii,PS2,2005,Role-Playing,Square Enix,87.0,9,Square Enix,E10+,Kingdom Hearts Ii,Hiroshi Fujioka,1946-02-19,8613,Hiroshi Fujioka,3.92,315,Kingdom Hearts Ii
+219,Kingdom Hearts Ii,PS2,2005,Role-Playing,Square Enix,87.0,9,Square Enix,E10+,Kingdom Hearts Ii,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,33,Kingdom Hearts Ii
+220,Kingdom Hearts Ii,PS2,2005,Role-Playing,Square Enix,87.0,9,Square Enix,E10+,Kingdom Hearts Ii,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,315,Kingdom Hearts Ii
+223,Kingdom Hearts Ii,PS3,2014,Role-Playing,Square Enix,,,,,Kingdom Hearts Ii,Hiroshi Fujioka,1946-02-19,8613,Hiroshi Fujioka,3.92,33,Kingdom Hearts Ii
+224,Kingdom Hearts Ii,PS3,2014,Role-Playing,Square Enix,,,,,Kingdom Hearts Ii,Hiroshi Fujioka,1946-02-19,8613,Hiroshi Fujioka,3.92,315,Kingdom Hearts Ii
+225,Kingdom Hearts Ii,PS3,2014,Role-Playing,Square Enix,,,,,Kingdom Hearts Ii,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,33,Kingdom Hearts Ii
+226,Kingdom Hearts Ii,PS3,2014,Role-Playing,Square Enix,,,,,Kingdom Hearts Ii,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,315,Kingdom Hearts Ii
+229,Assassin's Creed: Revelations,PS3,2011,Action,Ubisoft,80.0,7.5,Ubisoft Montreal,M,Assassin's Creed: Revelations,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,199,Assassin's Creed: Revelations
+230,Assassin's Creed: Revelations,X360,2011,Action,Ubisoft,80.0,7.2,Ubisoft Montreal,M,Assassin's Creed: Revelations,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,199,Assassin's Creed: Revelations
+231,Assassin's Creed: Revelations,PC,2011,Action,Ubisoft,80.0,7.4,Ubisoft Montreal,M,Assassin's Creed: Revelations,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,199,Assassin's Creed: Revelations
+232,Teenage Mutant Ninja Turtles,NES,1989,Action,Palcom,,,,,Teenage Mutant Ninja Turtles,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,700,Teenage Mutant Ninja Turtles
+233,Teenage Mutant Ninja Turtles,NES,1989,Action,Palcom,,,,,Teenage Mutant Ninja Turtles,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,892,Teenage Mutant Ninja Turtles
+234,Teenage Mutant Ninja Turtles,NES,1989,Action,Palcom,,,,,Teenage Mutant Ninja Turtles,Miki Higashino,1968-01-01,4368,Miki Higashino,4.22,700,Teenage Mutant Ninja Turtles
+235,Teenage Mutant Ninja Turtles,NES,1989,Action,Palcom,,,,,Teenage Mutant Ninja Turtles,Miki Higashino,1968-01-01,4368,Miki Higashino,4.22,892,Teenage Mutant Ninja Turtles
+236,Teenage Mutant Ninja Turtles,GBA,2003,Action,Unknown,71.0,8.8,Konami,E,Teenage Mutant Ninja Turtles,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,700,Teenage Mutant Ninja Turtles
+237,Teenage Mutant Ninja Turtles,GBA,2003,Action,Unknown,71.0,8.8,Konami,E,Teenage Mutant Ninja Turtles,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,892,Teenage Mutant Ninja Turtles
+238,Teenage Mutant Ninja Turtles,GBA,2003,Action,Unknown,71.0,8.8,Konami,E,Teenage Mutant Ninja Turtles,Miki Higashino,1968-01-01,4368,Miki Higashino,4.22,700,Teenage Mutant Ninja Turtles
+239,Teenage Mutant Ninja Turtles,GBA,2003,Action,Unknown,71.0,8.8,Konami,E,Teenage Mutant Ninja Turtles,Miki Higashino,1968-01-01,4368,Miki Higashino,4.22,892,Teenage Mutant Ninja Turtles
+240,Teenage Mutant Ninja Turtles,PS2,2003,Action,Konami Digital Entertainment,59.0,8.7,KCE Studios,E,Teenage Mutant Ninja Turtles,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,700,Teenage Mutant Ninja Turtles
+241,Teenage Mutant Ninja Turtles,PS2,2003,Action,Konami Digital Entertainment,59.0,8.7,KCE Studios,E,Teenage Mutant Ninja Turtles,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,892,Teenage Mutant Ninja Turtles
+242,Teenage Mutant Ninja Turtles,PS2,2003,Action,Konami Digital Entertainment,59.0,8.7,KCE Studios,E,Teenage Mutant Ninja Turtles,Miki Higashino,1968-01-01,4368,Miki Higashino,4.22,700,Teenage Mutant Ninja Turtles
+243,Teenage Mutant Ninja Turtles,PS2,2003,Action,Konami Digital Entertainment,59.0,8.7,KCE Studios,E,Teenage Mutant Ninja Turtles,Miki Higashino,1968-01-01,4368,Miki Higashino,4.22,892,Teenage Mutant Ninja Turtles
+244,Teenage Mutant Ninja Turtles,GC,2003,Action,Konami Digital Entertainment,57.0,8,Konami,E,Teenage Mutant Ninja Turtles,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,700,Teenage Mutant Ninja Turtles
+245,Teenage Mutant Ninja Turtles,GC,2003,Action,Konami Digital Entertainment,57.0,8,Konami,E,Teenage Mutant Ninja Turtles,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,892,Teenage Mutant Ninja Turtles
+246,Teenage Mutant Ninja Turtles,GC,2003,Action,Konami Digital Entertainment,57.0,8,Konami,E,Teenage Mutant Ninja Turtles,Miki Higashino,1968-01-01,4368,Miki Higashino,4.22,700,Teenage Mutant Ninja Turtles
+247,Teenage Mutant Ninja Turtles,GC,2003,Action,Konami Digital Entertainment,57.0,8,Konami,E,Teenage Mutant Ninja Turtles,Miki Higashino,1968-01-01,4368,Miki Higashino,4.22,892,Teenage Mutant Ninja Turtles
+248,Teenage Mutant Ninja Turtles,XB,2003,Action,Konami Digital Entertainment,56.0,8.4,Konami,E,Teenage Mutant Ninja Turtles,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,700,Teenage Mutant Ninja Turtles
+249,Teenage Mutant Ninja Turtles,XB,2003,Action,Konami Digital Entertainment,56.0,8.4,Konami,E,Teenage Mutant Ninja Turtles,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,892,Teenage Mutant Ninja Turtles
+250,Teenage Mutant Ninja Turtles,XB,2003,Action,Konami Digital Entertainment,56.0,8.4,Konami,E,Teenage Mutant Ninja Turtles,Miki Higashino,1968-01-01,4368,Miki Higashino,4.22,700,Teenage Mutant Ninja Turtles
+251,Teenage Mutant Ninja Turtles,XB,2003,Action,Konami Digital Entertainment,56.0,8.4,Konami,E,Teenage Mutant Ninja Turtles,Miki Higashino,1968-01-01,4368,Miki Higashino,4.22,892,Teenage Mutant Ninja Turtles
+252,Half-life,PC,1997,Shooter,Vivendi Games,96.0,9.1,Valve Software,M,Half-life,Mike Morasky,,6278,Mike Morasky,4.11,268,Half-life
+253,Half-life,PS2,2001,Shooter,Vivendi Games,87.0,8.6,Gearbox Software,M,Half-life,Mike Morasky,,6278,Mike Morasky,4.11,268,Half-life
+254,Watch Dogs,PS4,2014,Action,Ubisoft,80.0,6.3,Ubisoft Montreal,M,Watch Dogs,Lorne Balfe,1976-02-23,7553,Lorne Balfe,4.02,859,Watch Dogs
+255,Watch Dogs,PS4,2014,Action,Ubisoft,80.0,6.3,Ubisoft Montreal,M,Watch Dogs,Winifred Phillips,,9787,Winifred Phillips,3.68,859,Watch Dogs
+256,Watch Dogs,PS3,2014,Action,Ubisoft,,5.1,Ubisoft Montreal,M,Watch Dogs,Lorne Balfe,1976-02-23,7553,Lorne Balfe,4.02,859,Watch Dogs
+257,Watch Dogs,PS3,2014,Action,Ubisoft,,5.1,Ubisoft Montreal,M,Watch Dogs,Winifred Phillips,,9787,Winifred Phillips,3.68,859,Watch Dogs
+258,Watch Dogs,XOne,2014,Action,Ubisoft,78.0,5.8,Ubisoft Montreal,M,Watch Dogs,Lorne Balfe,1976-02-23,7553,Lorne Balfe,4.02,859,Watch Dogs
+259,Watch Dogs,XOne,2014,Action,Ubisoft,78.0,5.8,Ubisoft Montreal,M,Watch Dogs,Winifred Phillips,,9787,Winifred Phillips,3.68,859,Watch Dogs
+260,Watch Dogs,X360,2014,Action,Ubisoft,,5,Ubisoft Montreal,M,Watch Dogs,Lorne Balfe,1976-02-23,7553,Lorne Balfe,4.02,859,Watch Dogs
+261,Watch Dogs,X360,2014,Action,Ubisoft,,5,Ubisoft Montreal,M,Watch Dogs,Winifred Phillips,,9787,Winifred Phillips,3.68,859,Watch Dogs
+262,Watch Dogs,PC,2014,Action,Ubisoft,77.0,4.7,Ubisoft Montreal,M,Watch Dogs,Lorne Balfe,1976-02-23,7553,Lorne Balfe,4.02,859,Watch Dogs
+263,Watch Dogs,PC,2014,Action,Ubisoft,77.0,4.7,Ubisoft Montreal,M,Watch Dogs,Winifred Phillips,,9787,Winifred Phillips,3.68,859,Watch Dogs
+264,Watch Dogs,WiiU,2014,Action,Ubisoft,62.0,6.4,Ubisoft Romania,M,Watch Dogs,Lorne Balfe,1976-02-23,7553,Lorne Balfe,4.02,859,Watch Dogs
+265,Watch Dogs,WiiU,2014,Action,Ubisoft,62.0,6.4,Ubisoft Romania,M,Watch Dogs,Winifred Phillips,,9787,Winifred Phillips,3.68,859,Watch Dogs
+266,Left 4 Dead 2,X360,2009,Shooter,Electronic Arts,89.0,8.6,Valve Software,M,Left 4 Dead 2,Mike Morasky,,6278,Mike Morasky,4.11,777,Left 4 Dead 2
+267,Left 4 Dead 2,PC,2009,Shooter,Valve Software,89.0,8.5,Valve Software,M,Left 4 Dead 2,Mike Morasky,,6278,Mike Morasky,4.11,777,Left 4 Dead 2
+268,Tekken 5,PS2,2005,Fighting,Namco Bandai Games,88.0,8.6,Namco,T,Tekken 5,Go Shiina,1974-05-16,5252,Go Shiina,4.17,157,Tekken 5
+269,Banjo-kazooie,N64,1998,Platform,Nintendo,,,,,Banjo-kazooie,Michiko Naruke,,6668,Michiko Naruke,4.08,355,Banjo-kazooie
+270,Banjo-kazooie,X360,2008,Platform,Microsoft Game Studios,77.0,8.2,4J Studios,E,Banjo-kazooie,Michiko Naruke,,6668,Michiko Naruke,4.08,355,Banjo-kazooie
+271,Star Wars: Battlefront,PS2,2004,Shooter,LucasArts,82.0,8.7,Pandemic Studios,T,Star Wars: Battlefront,Peter McConnell,,8336,Peter McConnell,3.95,915,Star Wars: Battlefront
+272,Star Wars: Battlefront,XB,2004,Shooter,Activision,80.0,9.1,Pandemic Studios,T,Star Wars: Battlefront,Peter McConnell,,8336,Peter McConnell,3.95,915,Star Wars: Battlefront
+273,Star Wars: Battlefront,PC,2004,Shooter,LucasArts,72.0,3.5,EA DICE,T,Star Wars: Battlefront,Peter McConnell,,8336,Peter McConnell,3.95,915,Star Wars: Battlefront
+274,Luigi's Mansion,GC,2001,Action,Nintendo,78.0,8.5,Nintendo,E,Luigi's Mansion,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,164,Luigi's Mansion
+275,Luigi's Mansion,GC,2001,Action,Nintendo,78.0,8.5,Nintendo,E,Luigi's Mansion,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,461,Luigi's Mansion
+278,Assassin's Creed: Brotherhood,X360,2010,Action,Ubisoft,89.0,8.3,Ubisoft Montreal,M,Assassin's Creed: Brotherhood,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,158,Assassin's Creed: Brotherhood
+279,Assassin's Creed: Brotherhood,X360,2010,Action,Ubisoft,89.0,8.3,Ubisoft Montreal,M,Assassin's Creed: Brotherhood,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,863,Assassin's Creed: Brotherhood
+280,Assassin's Creed: Brotherhood,PS3,2010,Action,Ubisoft,90.0,8.2,Ubisoft Montreal,M,Assassin's Creed: Brotherhood,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,158,Assassin's Creed: Brotherhood
+281,Assassin's Creed: Brotherhood,PS3,2010,Action,Ubisoft,90.0,8.2,Ubisoft Montreal,M,Assassin's Creed: Brotherhood,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,863,Assassin's Creed: Brotherhood
+282,Assassin's Creed: Brotherhood,PC,2011,Action,Ubisoft,88.0,8.2,Ubisoft Montreal,M,Assassin's Creed: Brotherhood,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,158,Assassin's Creed: Brotherhood
+283,Assassin's Creed: Brotherhood,PC,2011,Action,Ubisoft,88.0,8.2,Ubisoft Montreal,M,Assassin's Creed: Brotherhood,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,863,Assassin's Creed: Brotherhood
+284,Tekken 4,PS2,2002,Fighting,Namco Bandai Games,79.0,8.3,Namco,T,Tekken 4,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,191,Tekken 4
+285,Tekken,PS,1995,Fighting,Sony Computer Entertainment,,,,,Tekken,Nobuyoshi Sano,1969-01-19,8811,Nobuyoshi Sano,3.89,743,Tekken
+287,Tekken,PS,1995,Fighting,Sony Computer Entertainment,,,,,Tekken,Shinji Hosoe,1967-02-28,8140,Shinji Hosoe,3.97,743,Tekken
+288,Tekken,PS,1995,Fighting,Sony Computer Entertainment,,,,,Tekken,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,743,Tekken
+290,Killer Instinct,SNES,1995,Fighting,Nintendo,,,,,Killer Instinct,Mark Morgan,1961-10-22,7784,Mark Morgan,4,685,Killer Instinct
+291,Killer Instinct,SNES,1995,Fighting,Nintendo,,,,,Killer Instinct,Mark Morgan,1961-10-22,7784,Mark Morgan,4,754,Killer Instinct
+292,Killer Instinct,SNES,1995,Fighting,Nintendo,,,,,Killer Instinct,Mark Morgan,1961-10-22,7784,Mark Morgan,4,867,Killer Instinct
+293,Animal Crossing,GC,2001,Simulation,Nintendo,87.0,8.9,Nintendo,E,Animal Crossing,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,228,Animal Crossing
+296,Spider-man,PS,2000,Action,Activision,87.0,9,Neversoft Entertainment,E,Spider-man,Dan Forden,1963-09-28,5061,Dan Forden,4.18,771,Spider-man
+297,Spider-man,2600,1981,Action,Parker Bros.,,,,,Spider-man,Dan Forden,1963-09-28,5061,Dan Forden,4.18,771,Spider-man
+298,Spider-man,N64,2000,Action,Activision,,,,,Spider-man,Dan Forden,1963-09-28,5061,Dan Forden,4.18,771,Spider-man
+299,Donkey Kong,GB,1994,Platform,Nintendo,,,,,Donkey Kong,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,387,Donkey Kong
+300,Donkey Kong,GB,1994,Platform,Nintendo,,,,,Donkey Kong,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,387,Donkey Kong
+301,Donkey Kong,GB,1994,Platform,Nintendo,,,,,Donkey Kong,Mahito Yokota,,4161,Mahito Yokota,4.23,387,Donkey Kong
+302,Donkey Kong,2600,1981,Platform,Coleco,,,,,Donkey Kong,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,387,Donkey Kong
+303,Donkey Kong,2600,1981,Platform,Coleco,,,,,Donkey Kong,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,387,Donkey Kong
+304,Donkey Kong,2600,1981,Platform,Coleco,,,,,Donkey Kong,Mahito Yokota,,4161,Mahito Yokota,4.23,387,Donkey Kong
+305,Donkey Kong,NES,1983,Platform,Nintendo,,,,,Donkey Kong,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,387,Donkey Kong
+306,Donkey Kong,NES,1983,Platform,Nintendo,,,,,Donkey Kong,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,387,Donkey Kong
+307,Donkey Kong,NES,1983,Platform,Nintendo,,,,,Donkey Kong,Mahito Yokota,,4161,Mahito Yokota,4.23,387,Donkey Kong
+308,The Sims 4,PC,2014,Simulation,Electronic Arts,70.0,3.9,Maxis,T,The Sims 4,Jerry Martin,,5928,Jerry Martin,4.13,916,The Sims 4
+309,Hitman 2: Silent Assassin,PS2,2002,Action,Eidos Interactive,85.0,7.8,Io Interactive,M,Hitman 2: Silent Assassin,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,566,Hitman 2: Silent Assassin
+310,Hitman 2: Silent Assassin,XB,,Action,Eidos Interactive,84.0,8,Io Interactive,M,Hitman 2: Silent Assassin,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,566,Hitman 2: Silent Assassin
+311,Hitman 2: Silent Assassin,GC,2003,Action,Eidos Interactive,83.0,5.5,Io Interactive,M,Hitman 2: Silent Assassin,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,566,Hitman 2: Silent Assassin
+312,Yoshi's Story,N64,1997,Platform,Nintendo,,,,,Yoshi's Story,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,670,Yoshi's Story
+314,Mortal Kombat,PS3,2011,Fighting,Warner Bros. Interactive Entertainment,84.0,8.4,NetherRealm Studios,M,Mortal Kombat,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,513,Mortal Kombat
+315,Mortal Kombat,PS3,2011,Fighting,Warner Bros. Interactive Entertainment,84.0,8.4,NetherRealm Studios,M,Mortal Kombat,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,547,Mortal Kombat
+316,Mortal Kombat,GEN,1992,Fighting,Arena Entertainment,,,,,Mortal Kombat,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,513,Mortal Kombat
+317,Mortal Kombat,GEN,1992,Fighting,Arena Entertainment,,,,,Mortal Kombat,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,547,Mortal Kombat
+318,Mortal Kombat,X360,2011,Fighting,Warner Bros. Interactive Entertainment,86.0,8.3,NetherRealm Studios,M,Mortal Kombat,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,513,Mortal Kombat
+319,Mortal Kombat,X360,2011,Fighting,Warner Bros. Interactive Entertainment,86.0,8.3,NetherRealm Studios,M,Mortal Kombat,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,547,Mortal Kombat
+320,Mortal Kombat,PSV,2012,Fighting,Warner Bros. Interactive Entertainment,85.0,7.8,NetherRealm Studios,M,Mortal Kombat,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,513,Mortal Kombat
+321,Mortal Kombat,PSV,2012,Fighting,Warner Bros. Interactive Entertainment,85.0,7.8,NetherRealm Studios,M,Mortal Kombat,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,547,Mortal Kombat
+322,Mortal Kombat,PC,1994,Fighting,Acclaim Entertainment,,,,,Mortal Kombat,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,513,Mortal Kombat
+323,Mortal Kombat,PC,1994,Fighting,Acclaim Entertainment,,,,,Mortal Kombat,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,547,Mortal Kombat
+324,Bioshock,X360,2007,Shooter,Take-Two Interactive,96.0,8.9,Irrational Games, 2K Marin,Bioshock,Garry Schyman,,10110,Garry Schyman,3.55,667,Bioshock
+325,Bioshock,X360,2007,Shooter,Take-Two Interactive,96.0,8.9,Irrational Games, 2K Marin,Bioshock,Garry Schyman,,10110,Garry Schyman,3.55,725,Bioshock
+326,Bioshock,PS3,2008,Shooter,Take-Two Interactive,94.0,8.7,Digital Extremes, 2K Marin,Bioshock,Garry Schyman,,10110,Garry Schyman,3.55,667,Bioshock
+327,Bioshock,PS3,2008,Shooter,Take-Two Interactive,94.0,8.7,Digital Extremes, 2K Marin,Bioshock,Garry Schyman,,10110,Garry Schyman,3.55,725,Bioshock
+328,Bioshock,PC,2007,Shooter,Take-Two Interactive,96.0,8.5,Irrational Games, 2K Marin,Bioshock,Garry Schyman,,10110,Garry Schyman,3.55,667,Bioshock
+329,Bioshock,PC,2007,Shooter,Take-Two Interactive,96.0,8.5,Irrational Games, 2K Marin,Bioshock,Garry Schyman,,10110,Garry Schyman,3.55,725,Bioshock
+330,The Sims,PS2,2003,Simulation,Electronic Arts,83.0,7.7,Edge of Reality,T,The Sims,Jerry Martin,,5928,Jerry Martin,4.13,290,The Sims
+332,The Sims,GC,2003,Simulation,Electronic Arts,85.0,7.7,Edge of Reality,T,The Sims,Jerry Martin,,5928,Jerry Martin,4.13,290,The Sims
+334,The Sims,XB,2003,Simulation,Electronic Arts,84.0,6.9,Edge of Reality,T,The Sims,Jerry Martin,,5928,Jerry Martin,4.13,290,The Sims
+336,The Sims,PC,2000,Simulation,Electronic Arts,92.0,7.9,Maxis,T,The Sims,Jerry Martin,,5928,Jerry Martin,4.13,290,The Sims
+338,Mario Paint,SNES,1992,Misc,Nintendo,,,,,Mario Paint,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,792,Mario Paint
+339,Mario Paint,SNES,1992,Misc,Nintendo,,,,,Mario Paint,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,792,Mario Paint
+341,Mario Paint,SNES,1992,Misc,Nintendo,,,,,Mario Paint,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,792,Mario Paint
+342,Mario Paint,SNES,1992,Misc,Nintendo,,,,,Mario Paint,Mahito Yokota,,4161,Mahito Yokota,4.23,792,Mario Paint
+343,Tekken 6,PS3,2009,Fighting,Namco Bandai Games,79.0,7.4,Namco Bandai Games,T,Tekken 6,Go Shiina,1974-05-16,5252,Go Shiina,4.17,351,Tekken 6
+344,Tekken 6,PS3,2009,Fighting,Namco Bandai Games,79.0,7.4,Namco Bandai Games,T,Tekken 6,Hitoshi Sakimoto,1969-02-26,6143,Hitoshi Sakimoto,4.11,351,Tekken 6
+345,Tekken 6,PS3,2009,Fighting,Namco Bandai Games,79.0,7.4,Namco Bandai Games,T,Tekken 6,Masaharu Iwata,1966-10-26,6417,Masaharu Iwata,4.1,351,Tekken 6
+346,Tekken 6,PS3,2009,Fighting,Namco Bandai Games,79.0,7.4,Namco Bandai Games,T,Tekken 6,Shinji Hosoe,1967-02-28,8140,Shinji Hosoe,3.97,351,Tekken 6
+347,Tekken 6,X360,2009,Fighting,Namco Bandai Games,80.0,7,Namco Bandai Games America, Namco Bandai Games,Tekken 6,Go Shiina,1974-05-16,5252,Go Shiina,4.17,351,Tekken 6
+348,Tekken 6,X360,2009,Fighting,Namco Bandai Games,80.0,7,Namco Bandai Games America, Namco Bandai Games,Tekken 6,Hitoshi Sakimoto,1969-02-26,6143,Hitoshi Sakimoto,4.11,351,Tekken 6
+349,Tekken 6,X360,2009,Fighting,Namco Bandai Games,80.0,7,Namco Bandai Games America, Namco Bandai Games,Tekken 6,Masaharu Iwata,1966-10-26,6417,Masaharu Iwata,4.1,351,Tekken 6
+350,Tekken 6,X360,2009,Fighting,Namco Bandai Games,80.0,7,Namco Bandai Games America, Namco Bandai Games,Tekken 6,Shinji Hosoe,1967-02-28,8140,Shinji Hosoe,3.97,351,Tekken 6
+351,Tekken 6,PSP,2009,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games America, Namco Bandai Games,Tekken 6,Go Shiina,1974-05-16,5252,Go Shiina,4.17,351,Tekken 6
+352,Tekken 6,PSP,2009,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games America, Namco Bandai Games,Tekken 6,Hitoshi Sakimoto,1969-02-26,6143,Hitoshi Sakimoto,4.11,351,Tekken 6
+353,Tekken 6,PSP,2009,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games America, Namco Bandai Games,Tekken 6,Masaharu Iwata,1966-10-26,6417,Masaharu Iwata,4.1,351,Tekken 6
+354,Tekken 6,PSP,2009,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games America, Namco Bandai Games,Tekken 6,Shinji Hosoe,1967-02-28,8140,Shinji Hosoe,3.97,351,Tekken 6
+355,Mario Party,N64,1998,Misc,Nintendo,,,,,Mario Party,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,343,Mario Party
+356,Mario Party,N64,1998,Misc,Nintendo,,,,,Mario Party,Mahito Yokota,,4161,Mahito Yokota,4.23,343,Mario Party
+357,Mario Party,N64,1998,Misc,Nintendo,,,,,Mario Party,Yasunori Mitsuda,1972-01-21,6165,Yasunori Mitsuda,4.11,343,Mario Party
+358,Streets Of Rage,GEN,1990,Action,Sega,,,,,Streets Of Rage,Takayuki Nakamura,1967-07-19,7630,Takayuki Nakamura,4.01,247,Streets Of Rage
+359,Streets Of Rage,GEN,1990,Action,Sega,,,,,Streets Of Rage,Yuzo Koshiro,1967-12-12,5913,Yuzo Koshiro,4.13,247,Streets Of Rage
+362,Half-life 2,PC,2004,Shooter,Vivendi Games,96.0,9.1,Valve Software,M,Half-life 2,Mike Morasky,,6278,Mike Morasky,4.11,151,Half-life 2
+363,Half-life 2,XB,2005,Shooter,Electronic Arts,90.0,8.6,Valve Software,M,Half-life 2,Mike Morasky,,6278,Mike Morasky,4.11,151,Half-life 2
+364,Paper Mario: Sticker Star,3DS,2012,Role-Playing,Nintendo,75.0,5.6,Intelligent Systems,E,Paper Mario: Sticker Star,Taro Kudo,,3388,Taro Kudo,4.27,201,Paper Mario: Sticker Star
+365,Parasite Eve,PS,1998,Role-Playing,SquareSoft,81.0,8.9,SquareSoft,M,Parasite Eve,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,329,Parasite Eve
+366,Portal 2,X360,2011,Shooter,Valve Software,95.0,8.5,Valve Software,E10+,Portal 2,Mike Morasky,,6278,Mike Morasky,4.11,382,Portal 2
+367,Portal 2,PS3,2011,Shooter,Valve,95.0,8.4,Valve Software,E10+,Portal 2,Mike Morasky,,6278,Mike Morasky,4.11,382,Portal 2
+368,Portal 2,PC,2011,Shooter,Valve Software,95.0,8.8,Valve Software,E10+,Portal 2,Mike Morasky,,6278,Mike Morasky,4.11,382,Portal 2
+369,Soulcalibur Ii,PS2,2003,Fighting,Namco Bandai Games,92.0,8.8,Namco,T,Soulcalibur Ii,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,307,Soulcalibur Ii
+370,Soulcalibur Ii,PS2,2003,Fighting,Namco Bandai Games,92.0,8.8,Namco,T,Soulcalibur Ii,Toru Minegishi,,7475,Toru Minegishi,4.03,307,Soulcalibur Ii
+371,Soulcalibur Ii,GC,2003,Fighting,Namco Bandai Games,93.0,9.1,Namco,T,Soulcalibur Ii,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,307,Soulcalibur Ii
+372,Soulcalibur Ii,GC,2003,Fighting,Namco Bandai Games,93.0,9.1,Namco,T,Soulcalibur Ii,Toru Minegishi,,7475,Toru Minegishi,4.03,307,Soulcalibur Ii
+373,Soulcalibur Ii,XB,2003,Fighting,Namco Bandai Games,92.0,8.9,Namco,T,Soulcalibur Ii,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,307,Soulcalibur Ii
+374,Soulcalibur Ii,XB,2003,Fighting,Namco Bandai Games,92.0,8.9,Namco,T,Soulcalibur Ii,Toru Minegishi,,7475,Toru Minegishi,4.03,307,Soulcalibur Ii
+375,Need For Speed: Undercover,PS3,2008,Racing,Electronic Arts,59.0,5.9,EA Vancouver,T,Need For Speed: Undercover,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,341,Need For Speed: Undercover
+376,Need For Speed: Undercover,X360,2008,Racing,Electronic Arts,64.0,5.9,EA Vancouver,T,Need For Speed: Undercover,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,341,Need For Speed: Undercover
+377,Need For Speed: Undercover,PS2,2008,Racing,Electronic Arts,,6.5,Exient Entertainment,T,Need For Speed: Undercover,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,341,Need For Speed: Undercover
+378,Need For Speed: Undercover,PSP,2008,Racing,Electronic Arts,52.0,6.8,Piranha Games,T,Need For Speed: Undercover,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,341,Need For Speed: Undercover
+379,Need For Speed: Undercover,Wii,2008,Racing,Electronic Arts,54.0,6.2,Exient Entertainment,T,Need For Speed: Undercover,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,341,Need For Speed: Undercover
+380,Need For Speed: Undercover,DS,2008,Racing,Electronic Arts,59.0,6.7,Firebrand Games,E10+,Need For Speed: Undercover,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,341,Need For Speed: Undercover
+381,Need For Speed: Undercover,PC,2008,Racing,Electronic Arts,65.0,4.9,EA Black Box,T,Need For Speed: Undercover,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,341,Need For Speed: Undercover
+382,Bioshock Infinite,X360,2013,Shooter,Take-Two Interactive,93.0,8.5,Irrational Games,M,Bioshock Infinite,Garry Schyman,,10110,Garry Schyman,3.55,249,Bioshock Infinite
+383,Bioshock Infinite,PS3,2013,Shooter,Take-Two Interactive,94.0,8.5,Irrational Games,M,Bioshock Infinite,Garry Schyman,,10110,Garry Schyman,3.55,249,Bioshock Infinite
+384,Bioshock Infinite,PC,2013,Shooter,Take-Two Interactive,94.0,8.5,Irrational Games,M,Bioshock Infinite,Garry Schyman,,10110,Garry Schyman,3.55,249,Bioshock Infinite
+385,Destiny: The Taken King,PS4,2015,Shooter,Activision,86.0,6,Bungie,T,Destiny: The Taken King,Laura Intravia,,5918,Laura Intravia,4.13,544,Destiny: The Taken King
+386,Destiny: The Taken King,XOne,2015,Shooter,Activision,89.0,5.2,Bungie Software, Bungie,Destiny: The Taken King,Laura Intravia,,5918,Laura Intravia,4.13,544,Destiny: The Taken King
+387,Destiny: The Taken King,PS3,2015,Shooter,Activision,,5.5,Bungie,T,Destiny: The Taken King,Laura Intravia,,5918,Laura Intravia,4.13,544,Destiny: The Taken King
+388,Destiny: The Taken King,X360,2015,Shooter,Activision,,4.4,Bungie Software, Bungie,Destiny: The Taken King,Laura Intravia,,5918,Laura Intravia,4.13,544,Destiny: The Taken King
+389,Kingdom Hearts: Chain Of Memories,GBA,2004,Role-Playing,Square Enix,76.0,7.9,Jupiter Corporation,E,Kingdom Hearts: Chain Of Memories,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,246,Kingdom Hearts: Chain Of Memories
+390,Secret Of Mana,SNES,1993,Role-Playing,SquareSoft,,,,,Secret Of Mana,Tsuyoshi Sekito,1963-04-03,7348,Tsuyoshi Sekito,4.04,314,Secret Of Mana
+391,Secret Of Mana,SNES,1993,Role-Playing,SquareSoft,,,,,Secret Of Mana,Yasunori Mitsuda,1972-01-21,6165,Yasunori Mitsuda,4.11,314,Secret Of Mana
+392,Sonic & Knuckles,GEN,1994,Platform,Sega,,,,,Sonic & Knuckles,Howard Drossin,1970-10-02,9000,Howard Drossin,3.87,240,Sonic & Knuckles
+393,Silent Hill,PS,1999,Action,Konami Digital Entertainment,86.0,9.2,KCET,M,Silent Hill,Akira Yamaoka,1968-02-06,5613,Akira Yamaoka,4.15,154,Silent Hill
+394,Silent Hill,PS,1999,Action,Konami Digital Entertainment,86.0,9.2,KCET,M,Silent Hill,Akira Yamaoka,1968-02-06,5613,Akira Yamaoka,4.15,346,Silent Hill
+395,Silent Hill,PS,1999,Action,Konami Digital Entertainment,86.0,9.2,KCET,M,Silent Hill,Rika Muranaka,,4174,Rika Muranaka,4.23,154,Silent Hill
+396,Silent Hill,PS,1999,Action,Konami Digital Entertainment,86.0,9.2,KCET,M,Silent Hill,Rika Muranaka,,4174,Rika Muranaka,4.23,346,Silent Hill
+397,Diablo,PC,1996,Role-Playing,Activision,94.0,8.7,Blizzard Entertainment,M,Diablo,Matt Uelmen,1972-07-31,4317,Matt Uelmen,4.22,953,Diablo
+399,Diablo,PC,1996,Role-Playing,Activision,94.0,8.7,Blizzard Entertainment,M,Diablo,Russell Brower,,9434,Russell Brower,3.78,953,Diablo
+400,Diablo,PS,1997,Role-Playing,Electronic Arts,,,,,Diablo,Matt Uelmen,1972-07-31,4317,Matt Uelmen,4.22,953,Diablo
+402,Diablo,PS,1997,Role-Playing,Electronic Arts,,,,,Diablo,Russell Brower,,9434,Russell Brower,3.78,953,Diablo
+403,Soulcalibur Iv,X360,2008,Fighting,Ubisoft,85.0,7.9,Namco,T,Soulcalibur Iv,Masaharu Iwata,1966-10-26,6417,Masaharu Iwata,4.1,414,Soulcalibur Iv
+404,Soulcalibur Iv,PS3,2008,Fighting,Ubisoft,85.0,7.9,Namco,T,Soulcalibur Iv,Masaharu Iwata,1966-10-26,6417,Masaharu Iwata,4.1,414,Soulcalibur Iv
+405,Mega Man 2,NES,1988,Action,Capcom,,,,,Mega Man 2,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,102,Mega Man 2
+406,Xenogears,PS,1998,Role-Playing,SquareSoft,84.0,8.4,SquareSoft,T,Xenogears,Yasunori Mitsuda,1972-01-21,6165,Yasunori Mitsuda,4.11,385,Xenogears
+408,Kirby Super Star,SNES,1996,Platform,Nintendo,,,,,Kirby Super Star,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,279,Kirby Super Star
+409,Kirby Super Star,SNES,1996,Platform,Nintendo,,,,,Kirby Super Star,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,582,Kirby Super Star
+410,Sonic & Sega All-stars Racing,Wii,2010,Racing,Sega,,,,,Sonic & Sega All-stars Racing,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,663,Sonic & Sega All-stars Racing
+411,Sonic & Sega All-stars Racing,Wii,2010,Racing,Sega,,,,,Sonic & Sega All-stars Racing,Hideki Naganuma,1972-05-16,5557,Hideki Naganuma,4.15,663,Sonic & Sega All-stars Racing
+412,Sonic & Sega All-stars Racing,Wii,2010,Racing,Sega,,,,,Sonic & Sega All-stars Racing,Tim Wright,1967-07-31,8138,Tim Wright,3.97,663,Sonic & Sega All-stars Racing
+413,Sonic & Sega All-stars Racing,DS,2010,Racing,Sega,,,,,Sonic & Sega All-stars Racing,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,663,Sonic & Sega All-stars Racing
+414,Sonic & Sega All-stars Racing,DS,2010,Racing,Sega,,,,,Sonic & Sega All-stars Racing,Hideki Naganuma,1972-05-16,5557,Hideki Naganuma,4.15,663,Sonic & Sega All-stars Racing
+415,Sonic & Sega All-stars Racing,DS,2010,Racing,Sega,,,,,Sonic & Sega All-stars Racing,Tim Wright,1967-07-31,8138,Tim Wright,3.97,663,Sonic & Sega All-stars Racing
+416,Sonic & Sega All-stars Racing,PS3,2010,Racing,Sega,,,,,Sonic & Sega All-stars Racing,Allister Brimble,1970-11-29,5930,Allister Brimble,4.13,663,Sonic & Sega All-stars Racing
+417,Sonic & Sega All-stars Racing,PS3,2010,Racing,Sega,,,,,Sonic & Sega All-stars Racing,Hideki Naganuma,1972-05-16,5557,Hideki Naganuma,4.15,663,Sonic & Sega All-stars Racing
+418,Sonic & Sega All-stars Racing,PS3,2010,Racing,Sega,,,,,Sonic & Sega All-stars Racing,Tim Wright,1967-07-31,8138,Tim Wright,3.97,663,Sonic & Sega All-stars Racing
+419,Yoshi's New Island,3DS,2014,Platform,Nintendo,64.0,6.1,Arzest,E,Yoshi's New Island,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,747,Yoshi's New Island
+421,The Sims 2,PSP,2005,Simulation,Electronic Arts,65.0,6.9,Maxis,T,The Sims 2,Jerry Martin,,5928,Jerry Martin,4.13,776,The Sims 2
+423,The Sims 2,DS,2005,Simulation,Electronic Arts,70.0,6.1,Griptonite Games,E10+,The Sims 2,Jerry Martin,,5928,Jerry Martin,4.13,776,The Sims 2
+425,The Sims 2,PS2,2005,Simulation,Electronic Arts,75.0,4.4,Maxis,T,The Sims 2,Jerry Martin,,5928,Jerry Martin,4.13,776,The Sims 2
+427,The Sims 2,GBA,2005,Simulation,Electronic Arts,58.0,7.5,Maxis,E10+,The Sims 2,Jerry Martin,,5928,Jerry Martin,4.13,776,The Sims 2
+429,The Sims 2,GC,2005,Simulation,Electronic Arts,73.0,8.3,Maxis,T,The Sims 2,Jerry Martin,,5928,Jerry Martin,4.13,776,The Sims 2
+431,The Sims 2,PC,2004,Simulation,Electronic Arts,90.0,8.8,Maxis,T,The Sims 2,Jerry Martin,,5928,Jerry Martin,4.13,776,The Sims 2
+433,The Sims 2,XB,2005,Simulation,Electronic Arts,75.0,7.1,Maxis,T,The Sims 2,Jerry Martin,,5928,Jerry Martin,4.13,776,The Sims 2
+435,Crysis 2,X360,2011,Action,Electronic Arts,84.0,7.5,Crytek,M,Crysis 2,Graeme Norgate,1971-03-20,7669,Graeme Norgate,4.01,617,Crysis 2
+436,Crysis 2,PS3,2011,Action,Electronic Arts,85.0,7.2,Crytek,M,Crysis 2,Graeme Norgate,1971-03-20,7669,Graeme Norgate,4.01,617,Crysis 2
+437,Crysis 2,PC,2011,Action,Electronic Arts,86.0,6.8,Crytek,M,Crysis 2,Graeme Norgate,1971-03-20,7669,Graeme Norgate,4.01,617,Crysis 2
+438,Mario & Luigi: Partners In Time,DS,2005,Role-Playing,Nintendo,,,,,Mario & Luigi: Partners In Time,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,463,Mario & Luigi: Partners In Time
+439,Silent Hill 2,PS2,2001,Action,Konami Digital Entertainment,89.0,8.9,KCET,M,Silent Hill 2,Akira Yamaoka,1968-02-06,5613,Akira Yamaoka,4.15,203,Silent Hill 2
+440,Silent Hill 2,PS2,2001,Action,Konami Digital Entertainment,89.0,8.9,KCET,M,Silent Hill 2,Rika Muranaka,,4174,Rika Muranaka,4.23,203,Silent Hill 2
+441,Kid Icarus: Uprising,3DS,2012,Action,Nintendo,83.0,8.7,Opus, Project Sora,Kid Icarus: Uprising,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,354,Kid Icarus: Uprising
+443,Kid Icarus: Uprising,3DS,2012,Action,Nintendo,83.0,8.7,Opus, Project Sora,Kid Icarus: Uprising,Yasunori Mitsuda,1972-01-21,6165,Yasunori Mitsuda,4.11,354,Kid Icarus: Uprising
+444,Pokemon Xd: Gale Of Darkness,GC,2005,Role-Playing,Nintendo,64.0,8.3,Genius Sonority Inc.,E,Pokemon Xd: Gale Of Darkness,Tsukasa Tawada,,8255,Tsukasa Tawada,3.96,526,Pokemon Xd: Gale Of Darkness
+445,Hyrule Warriors,WiiU,2014,Action,Nintendo,76.0,8.3,Omega Force,T,Hyrule Warriors,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,480,Hyrule Warriors
+446,Hyrule Warriors,WiiU,2014,Action,Nintendo,76.0,8.3,Omega Force,T,Hyrule Warriors,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,898,Hyrule Warriors
+447,Hyrule Warriors,WiiU,2014,Action,Nintendo,76.0,8.3,Omega Force,T,Hyrule Warriors,Toru Minegishi,,7475,Toru Minegishi,4.03,480,Hyrule Warriors
+448,Hyrule Warriors,WiiU,2014,Action,Nintendo,76.0,8.3,Omega Force,T,Hyrule Warriors,Toru Minegishi,,7475,Toru Minegishi,4.03,898,Hyrule Warriors
+449,Hyrule Warriors,3DS,2016,Action,Nintendo,,,,,Hyrule Warriors,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,480,Hyrule Warriors
+450,Hyrule Warriors,3DS,2016,Action,Nintendo,,,,,Hyrule Warriors,Koji Kondo,1961-08-13,7399,Koji Kondo,4.03,898,Hyrule Warriors
+451,Hyrule Warriors,3DS,2016,Action,Nintendo,,,,,Hyrule Warriors,Toru Minegishi,,7475,Toru Minegishi,4.03,480,Hyrule Warriors
+452,Hyrule Warriors,3DS,2016,Action,Nintendo,,,,,Hyrule Warriors,Toru Minegishi,,7475,Toru Minegishi,4.03,898,Hyrule Warriors
+453,Castlevania,NES,1986,Platform,Konami Digital Entertainment,,,,,Castlevania,Kinuyo Yamashita,,6552,Kinuyo Yamashita,4.09,261,Castlevania
+454,Castlevania,NES,1986,Platform,Konami Digital Entertainment,,,,,Castlevania,Michiru Yamane,1963-09-23,6105,Michiru Yamane,4.12,261,Castlevania
+455,Castlevania,N64,1999,Platform,Konami Digital Entertainment,,,,,Castlevania,Kinuyo Yamashita,,6552,Kinuyo Yamashita,4.09,261,Castlevania
+456,Castlevania,N64,1999,Platform,Konami Digital Entertainment,,,,,Castlevania,Michiru Yamane,1963-09-23,6105,Michiru Yamane,4.12,261,Castlevania
+457,Bayonetta,PS3,2009,Action,Sega,87.0,7.7,Nex Entertainment,M,Bayonetta,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,111,Bayonetta
+458,Bayonetta,PS3,2009,Action,Sega,87.0,7.7,Nex Entertainment,M,Bayonetta,Takahiro Izutani,,7596,Takahiro Izutani,4.02,111,Bayonetta
+459,Bayonetta,X360,2009,Action,Sega,90.0,8,PlatinumGames,M,Bayonetta,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,111,Bayonetta
+460,Bayonetta,X360,2009,Action,Sega,90.0,8,PlatinumGames,M,Bayonetta,Takahiro Izutani,,7596,Takahiro Izutani,4.02,111,Bayonetta
+461,Pikmin 2,GC,2004,Strategy,Nintendo,90.0,9.1,Nintendo,E,Pikmin 2,Kazumi Totaka,1967-08-23,6777,Kazumi Totaka,4.07,272,Pikmin 2
+463,Mega Man 3,NES,1990,Platform,Capcom,,,,,Mega Man 3,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,255,Mega Man 3
+464,Shadow Of The Colossus,PS2,2005,Action,Sony Computer Entertainment,91.0,9.1,SCE Japan Studio,T,Shadow Of The Colossus,Kow Otani,1957-05-01,3080,Kow Otani,4.29,43,Shadow Of The Colossus
+465,Shadow Of The Colossus,PS3,2011,Action,Sony Computer Entertainment,,8.4,Bluepoint Games,T,Shadow Of The Colossus,Kow Otani,1957-05-01,3080,Kow Otani,4.29,43,Shadow Of The Colossus
+466,Plants Vs. Zombies,DS,2011,Strategy,Mastertronic,81.0,7.4,TOSE,E10+,Plants Vs. Zombies,Laura Shigihara,,4117,Laura Shigihara,4.23,108,Plants Vs. Zombies
+467,Plants Vs. Zombies,X360,2010,Strategy,PopCap Games,89.0,8.2,PopCap,E10+,Plants Vs. Zombies,Laura Shigihara,,4117,Laura Shigihara,4.23,108,Plants Vs. Zombies
+468,Plants Vs. Zombies,PS3,2011,Strategy,PopCap Games,85.0,7.9,PopCap,E10+,Plants Vs. Zombies,Laura Shigihara,,4117,Laura Shigihara,4.23,108,Plants Vs. Zombies
+469,Plants Vs. Zombies,PC,2009,Strategy,PopCap Games,87.0,8.9,PopCap,E10+,Plants Vs. Zombies,Laura Shigihara,,4117,Laura Shigihara,4.23,108,Plants Vs. Zombies
+470,Pokken Tournament,WiiU,2016,Fighting,Namco Bandai Games,76.0,8,Bandai Namco Games,E10+,Pokken Tournament,Nobuyoshi Sano,1969-01-19,8811,Nobuyoshi Sano,3.89,969,Pokken Tournament
+471,Pokken Tournament,WiiU,2016,Fighting,Namco Bandai Games,76.0,8,Bandai Namco Games,E10+,Pokken Tournament,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,969,Pokken Tournament
+472,Shadow The Hedgehog,GC,2005,Platform,Sega,51.0,6.6,Sonic Team,E10+,Shadow The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,109,Shadow The Hedgehog
+473,Shadow The Hedgehog,GC,2005,Platform,Sega,51.0,6.6,Sonic Team,E10+,Shadow The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,664,Shadow The Hedgehog
+474,Shadow The Hedgehog,GC,2005,Platform,Sega,51.0,6.6,Sonic Team,E10+,Shadow The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,109,Shadow The Hedgehog
+475,Shadow The Hedgehog,GC,2005,Platform,Sega,51.0,6.6,Sonic Team,E10+,Shadow The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,664,Shadow The Hedgehog
+476,Shadow The Hedgehog,PS2,2005,Platform,Sega,45.0,6,Sonic Team,E10+,Shadow The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,109,Shadow The Hedgehog
+477,Shadow The Hedgehog,PS2,2005,Platform,Sega,45.0,6,Sonic Team,E10+,Shadow The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,664,Shadow The Hedgehog
+478,Shadow The Hedgehog,PS2,2005,Platform,Sega,45.0,6,Sonic Team,E10+,Shadow The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,109,Shadow The Hedgehog
+479,Shadow The Hedgehog,PS2,2005,Platform,Sega,45.0,6,Sonic Team,E10+,Shadow The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,664,Shadow The Hedgehog
+480,Shadow The Hedgehog,XB,2005,Platform,Sega,49.0,5.5,Sega,E10+,Shadow The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,109,Shadow The Hedgehog
+481,Shadow The Hedgehog,XB,2005,Platform,Sega,49.0,5.5,Sega,E10+,Shadow The Hedgehog,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,664,Shadow The Hedgehog
+482,Shadow The Hedgehog,XB,2005,Platform,Sega,49.0,5.5,Sega,E10+,Shadow The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,109,Shadow The Hedgehog
+483,Shadow The Hedgehog,XB,2005,Platform,Sega,49.0,5.5,Sega,E10+,Shadow The Hedgehog,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,664,Shadow The Hedgehog
+484,Castlevania Ii: Simon's Quest,NES,1987,Platform,Konami Digital Entertainment,,,,,Castlevania Ii: Simon's Quest,Michiko Naruke,,6668,Michiko Naruke,4.08,519,Castlevania Ii: Simon's Quest
+485,Xenoblade Chronicles,Wii,2010,Role-Playing,Nintendo,92.0,8.9,Monolith Soft,T,Xenoblade Chronicles,Yasunori Mitsuda,1972-01-21,6165,Yasunori Mitsuda,4.11,45,Xenoblade Chronicles
+487,Xenoblade Chronicles,Wii,2010,Role-Playing,Nintendo,92.0,8.9,Monolith Soft,T,Xenoblade Chronicles,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,45,Xenoblade Chronicles
+488,Xenoblade Chronicles,3DS,2015,Role-Playing,Nintendo,,,,,Xenoblade Chronicles,Yasunori Mitsuda,1972-01-21,6165,Yasunori Mitsuda,4.11,45,Xenoblade Chronicles
+490,Xenoblade Chronicles,3DS,2015,Role-Playing,Nintendo,,,,,Xenoblade Chronicles,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,45,Xenoblade Chronicles
+491,Crysis 3,X360,2013,Shooter,Electronic Arts,76.0,6.7,Crytek,M,Crysis 3,Graeme Norgate,1971-03-20,7669,Graeme Norgate,4.01,448,Crysis 3
+492,Crysis 3,PS3,2013,Shooter,Electronic Arts,77.0,6.3,Crytek,M,Crysis 3,Graeme Norgate,1971-03-20,7669,Graeme Norgate,4.01,448,Crysis 3
+493,Crysis 3,PC,2013,Shooter,Electronic Arts,76.0,6.5,Crytek,M,Crysis 3,Graeme Norgate,1971-03-20,7669,Graeme Norgate,4.01,448,Crysis 3
+494,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Tekken Tag Tournament 2,Go Shiina,1974-05-16,5252,Go Shiina,4.17,219,Tekken Tag Tournament 2
+495,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Tekken Tag Tournament 2,Go Shiina,1974-05-16,5252,Go Shiina,4.17,605,Tekken Tag Tournament 2
+496,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Tekken Tag Tournament 2,Shinji Hosoe,1967-02-28,8140,Shinji Hosoe,3.97,219,Tekken Tag Tournament 2
+497,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Tekken Tag Tournament 2,Shinji Hosoe,1967-02-28,8140,Shinji Hosoe,3.97,605,Tekken Tag Tournament 2
+498,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Tekken Tag Tournament 2,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,219,Tekken Tag Tournament 2
+499,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Tekken Tag Tournament 2,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,605,Tekken Tag Tournament 2
+500,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Tekken Tag Tournament 2,Go Shiina,1974-05-16,5252,Go Shiina,4.17,219,Tekken Tag Tournament 2
+501,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Tekken Tag Tournament 2,Go Shiina,1974-05-16,5252,Go Shiina,4.17,605,Tekken Tag Tournament 2
+502,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Tekken Tag Tournament 2,Shinji Hosoe,1967-02-28,8140,Shinji Hosoe,3.97,219,Tekken Tag Tournament 2
+503,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Tekken Tag Tournament 2,Shinji Hosoe,1967-02-28,8140,Shinji Hosoe,3.97,605,Tekken Tag Tournament 2
+504,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Tekken Tag Tournament 2,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,219,Tekken Tag Tournament 2
+505,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Tekken Tag Tournament 2,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,605,Tekken Tag Tournament 2
+506,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Tekken Tag Tournament 2,Go Shiina,1974-05-16,5252,Go Shiina,4.17,219,Tekken Tag Tournament 2
+507,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Tekken Tag Tournament 2,Go Shiina,1974-05-16,5252,Go Shiina,4.17,605,Tekken Tag Tournament 2
+508,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Tekken Tag Tournament 2,Shinji Hosoe,1967-02-28,8140,Shinji Hosoe,3.97,219,Tekken Tag Tournament 2
+509,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Tekken Tag Tournament 2,Shinji Hosoe,1967-02-28,8140,Shinji Hosoe,3.97,605,Tekken Tag Tournament 2
+510,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Tekken Tag Tournament 2,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,219,Tekken Tag Tournament 2
+511,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Tekken Tag Tournament 2,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,605,Tekken Tag Tournament 2
+512,Xenoblade Chronicles X,WiiU,2015,Role-Playing,Nintendo,84.0,8.9,Monolith Soft,T,Xenoblade Chronicles X,Yasunori Mitsuda,1972-01-21,6165,Yasunori Mitsuda,4.11,131,Xenoblade Chronicles X
+513,Ace Combat 3: Electrosphere,PS,1999,Simulation,Sony Computer Entertainment,,,,,Ace Combat 3: Electrosphere,Go Shiina,1974-05-16,5252,Go Shiina,4.17,949,Ace Combat 3: Electrosphere
+514,Mega Man,NES,1987,Platform,Capcom,,,,,Mega Man,Akari Kaida,1974-01-10,7252,Akari Kaida,4.04,720,Mega Man
+515,The World Ends With You,DS,2007,Role-Playing,Square Enix,88.0,8.9,Jupiter Corporation,T,The World Ends With You,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,159,The World Ends With You
+516,The World Ends With You,DS,2007,Role-Playing,Square Enix,88.0,8.9,Jupiter Corporation,T,The World Ends With You,Yoko Shimomura,1967-10-19,6964,Yoko Shimomura,4.06,472,The World Ends With You
+517,Bayonetta 2,WiiU,2014,Action,Nintendo,91.0,8.2,PlatinumGames,M,Bayonetta 2,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,242,Bayonetta 2
+518,Bayonetta 2,WiiU,2014,Action,Nintendo,91.0,8.2,PlatinumGames,M,Bayonetta 2,Takahiro Izutani,,7596,Takahiro Izutani,4.02,242,Bayonetta 2
+519,Soulcalibur V,PS3,2012,Fighting,Namco Bandai Games,81.0,6.7,Project Soul,T,Soulcalibur V,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,317,Soulcalibur V
+520,Soulcalibur V,PS3,2012,Fighting,Namco Bandai Games,81.0,6.7,Project Soul,T,Soulcalibur V,Lorne Balfe,1976-02-23,7553,Lorne Balfe,4.02,317,Soulcalibur V
+521,Soulcalibur V,PS3,2012,Fighting,Namco Bandai Games,81.0,6.7,Project Soul,T,Soulcalibur V,Winifred Phillips,,9787,Winifred Phillips,3.68,317,Soulcalibur V
+522,Soulcalibur V,X360,2012,Fighting,Namco Bandai Games,77.0,6.2,Project Soul,T,Soulcalibur V,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,317,Soulcalibur V
+523,Soulcalibur V,X360,2012,Fighting,Namco Bandai Games,77.0,6.2,Project Soul,T,Soulcalibur V,Lorne Balfe,1976-02-23,7553,Lorne Balfe,4.02,317,Soulcalibur V
+524,Soulcalibur V,X360,2012,Fighting,Namco Bandai Games,77.0,6.2,Project Soul,T,Soulcalibur V,Winifred Phillips,,9787,Winifred Phillips,3.68,317,Soulcalibur V
+525,Katamari Damacy,PS2,2004,Puzzle,Namco Bandai Games,86.0,9,Namco,E,Katamari Damacy,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,361,Katamari Damacy
+527,God Eater,PSP,2010,Action,Unknown,,,,,God Eater,Go Shiina,1974-05-16,5252,Go Shiina,4.17,333,God Eater
+528,God Eater,PSP,2010,Action,Unknown,,,,,God Eater,Go Shiina,1974-05-16,5252,Go Shiina,4.17,428,God Eater
+531,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Silent Hill 3,Akira Yamaoka,1968-02-06,5613,Akira Yamaoka,4.15,911,Silent Hill 3
+532,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Silent Hill 3,Akira Yamaoka,1968-02-06,5613,Akira Yamaoka,4.15,990,Silent Hill 3
+533,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Silent Hill 3,Rika Muranaka,,4174,Rika Muranaka,4.23,911,Silent Hill 3
+534,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Silent Hill 3,Rika Muranaka,,4174,Rika Muranaka,4.23,990,Silent Hill 3
+535,Ace Attorney Investigations: Miles Edgeworth,DS,2009,Adventure,Capcom,78.0,8.4,Capcom,T,Ace Attorney Investigations: Miles Edgeworth,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,994,Ace Attorney Investigations: Miles Edgeworth
+536,Catherine,PS3,2011,Adventure,Deep Silver,79.0,8.1,Atlus,M,Catherine,Shoji Meguro,1971-06-04,7891,Shoji Meguro,3.99,903,Catherine
+537,Catherine,X360,2011,Adventure,Deep Silver,82.0,7.9,Atlus,M,Catherine,Shoji Meguro,1971-06-04,7891,Shoji Meguro,3.99,903,Catherine
+538,Prince Of Persia: The Two Thrones,PS2,2005,Action,Ubisoft,85.0,8.5,Ubisoft Montreal,M,Prince Of Persia: The Two Thrones,Rod Abernethy,,10359,Rod Abernethy,3.27,758,Prince Of Persia: The Two Thrones
+539,Prince Of Persia: The Two Thrones,PS2,2005,Action,Ubisoft,85.0,8.5,Ubisoft Montreal,M,Prince Of Persia: The Two Thrones,Stuart Chatwood,1969-10-22,5430,Stuart Chatwood,4.16,758,Prince Of Persia: The Two Thrones
+540,Prince Of Persia: The Two Thrones,XB,2005,Action,Ubisoft,85.0,8.4,Ubisoft,M,Prince Of Persia: The Two Thrones,Rod Abernethy,,10359,Rod Abernethy,3.27,758,Prince Of Persia: The Two Thrones
+541,Prince Of Persia: The Two Thrones,XB,2005,Action,Ubisoft,85.0,8.4,Ubisoft,M,Prince Of Persia: The Two Thrones,Stuart Chatwood,1969-10-22,5430,Stuart Chatwood,4.16,758,Prince Of Persia: The Two Thrones
+542,Prince Of Persia: The Two Thrones,GC,2005,Action,Ubisoft,84.0,8.1,Ubisoft,M,Prince Of Persia: The Two Thrones,Rod Abernethy,,10359,Rod Abernethy,3.27,758,Prince Of Persia: The Two Thrones
+543,Prince Of Persia: The Two Thrones,GC,2005,Action,Ubisoft,84.0,8.1,Ubisoft,M,Prince Of Persia: The Two Thrones,Stuart Chatwood,1969-10-22,5430,Stuart Chatwood,4.16,758,Prince Of Persia: The Two Thrones
+544,Super Castlevania Iv,SNES,1991,Platform,Konami Digital Entertainment,,,,,Super Castlevania Iv,Kinuyo Yamashita,,6552,Kinuyo Yamashita,4.09,543,Super Castlevania Iv
+545,Super Castlevania Iv,SNES,1991,Platform,Konami Digital Entertainment,,,,,Super Castlevania Iv,Michiru Yamane,1963-09-23,6105,Michiru Yamane,4.12,543,Super Castlevania Iv
+546,Super Castlevania Iv,SNES,1991,Platform,Konami Digital Entertainment,,,,,Super Castlevania Iv,Taro Kudo,,3388,Taro Kudo,4.27,543,Super Castlevania Iv
+547,Mega Man X7,PS2,2003,Action,Capcom,58.0,5.1,Valuewave Co.,Ltd.,Mega Man X7,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,722,Mega Man X7
+548,Sonic & All-stars Racing Transformed,X360,2012,Racing,Sega,,,,,Sonic & All-stars Racing Transformed,Hideki Naganuma,1972-05-16,5557,Hideki Naganuma,4.15,854,Sonic & All-stars Racing Transformed
+549,Sonic & All-stars Racing Transformed,WiiU,2012,Racing,Sega,,,,,Sonic & All-stars Racing Transformed,Hideki Naganuma,1972-05-16,5557,Hideki Naganuma,4.15,854,Sonic & All-stars Racing Transformed
+550,Sonic & All-stars Racing Transformed,PS3,2012,Racing,Sega,,,,,Sonic & All-stars Racing Transformed,Hideki Naganuma,1972-05-16,5557,Hideki Naganuma,4.15,854,Sonic & All-stars Racing Transformed
+551,Sonic & All-stars Racing Transformed,PSV,2012,Racing,Sega,,,,,Sonic & All-stars Racing Transformed,Hideki Naganuma,1972-05-16,5557,Hideki Naganuma,4.15,854,Sonic & All-stars Racing Transformed
+552,Sonic & All-stars Racing Transformed,3DS,2012,Racing,Sega,,,,,Sonic & All-stars Racing Transformed,Hideki Naganuma,1972-05-16,5557,Hideki Naganuma,4.15,854,Sonic & All-stars Racing Transformed
+553,Sonic & All-stars Racing Transformed,PC,2013,Racing,Sega,,,,,Sonic & All-stars Racing Transformed,Hideki Naganuma,1972-05-16,5557,Hideki Naganuma,4.15,854,Sonic & All-stars Racing Transformed
+554,Unreal Tournament,PS2,2000,Shooter,Infogrames,77.0,6.8,Epic Games,M,Unreal Tournament,Alexander Brandon,1974-09-29,6662,Alexander Brandon,4.08,693,Unreal Tournament
+556,Unreal Tournament,PS2,2000,Shooter,Infogrames,77.0,6.8,Epic Games,M,Unreal Tournament,Andrew Sega,1975-05-20,7849,Andrew Sega,4,693,Unreal Tournament
+557,Unreal Tournament,PS2,2000,Shooter,Infogrames,77.0,6.8,Epic Games,M,Unreal Tournament,Michiel van den Bos,1975-05-23,8891,Michiel van den Bos,3.88,693,Unreal Tournament
+558,Tales Of Zestiria,PS3,2015,Role-Playing,Namco Bandai Games,,8,Namco Bandai Games, Bandai Namco Games,Tales Of Zestiria,Go Shiina,1974-05-16,5252,Go Shiina,4.17,820,Tales Of Zestiria
+559,Tales Of Zestiria,PS4,2015,Role-Playing,Namco Bandai Games,72.0,6.8,Bandai Namco Games,T,Tales Of Zestiria,Go Shiina,1974-05-16,5252,Go Shiina,4.17,820,Tales Of Zestiria
+560,The Hobbit,PS2,2003,Platform,Vivendi Games,59.0,8.6,Inevitable Entertainment,E,The Hobbit,Rod Abernethy,,10359,Rod Abernethy,3.27,569,The Hobbit
+561,The Hobbit,XB,2003,Platform,Vivendi Games,,,,,The Hobbit,Rod Abernethy,,10359,Rod Abernethy,3.27,569,The Hobbit
+562,The Hobbit,GBA,2003,Platform,Vivendi Games,67.0,9.2,Saffire,E,The Hobbit,Rod Abernethy,,10359,Rod Abernethy,3.27,569,The Hobbit
+563,The Hobbit,GC,2003,Platform,Vivendi Games,61.0,7.3,Inevitable Entertainment,E,The Hobbit,Rod Abernethy,,10359,Rod Abernethy,3.27,569,The Hobbit
+564,Inazuma Eleven,DS,2008,Role-Playing,Nintendo,,,,,Inazuma Eleven,Tomohito Nishiura,1973-02-13,6999,Tomohito Nishiura,4.06,610,Inazuma Eleven
+565,Inazuma Eleven,DS,2008,Role-Playing,Nintendo,,,,,Inazuma Eleven,Yasunori Mitsuda,1972-01-21,6165,Yasunori Mitsuda,4.11,610,Inazuma Eleven
+568,Freedom Fighters,PS2,2003,Shooter,Electronic Arts,81.0,8.4,Io Interactive,T,Freedom Fighters,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,858,Freedom Fighters
+569,Freedom Fighters,XB,2003,Shooter,Electronic Arts,82.0,8.2,Io Interactive,T,Freedom Fighters,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,858,Freedom Fighters
+570,Freedom Fighters,GC,2003,Shooter,Electronic Arts,83.0,7.8,Io Interactive,T,Freedom Fighters,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,858,Freedom Fighters
+571,Silent Hill 4: The Room,PS2,2004,Action,Konami Digital Entertainment,76.0,7.8,KCET,M,Silent Hill 4: The Room,Akira Yamaoka,1968-02-06,5613,Akira Yamaoka,4.15,890,Silent Hill 4: The Room
+572,Silent Hill 4: The Room,PS2,2004,Action,Konami Digital Entertainment,76.0,7.8,KCET,M,Silent Hill 4: The Room,Rika Muranaka,,4174,Rika Muranaka,4.23,890,Silent Hill 4: The Room
+573,Silent Hill 4: The Room,XB,2004,Action,Konami Digital Entertainment,76.0,8.3,KCET,M,Silent Hill 4: The Room,Akira Yamaoka,1968-02-06,5613,Akira Yamaoka,4.15,890,Silent Hill 4: The Room
+574,Silent Hill 4: The Room,XB,2004,Action,Konami Digital Entertainment,76.0,8.3,KCET,M,Silent Hill 4: The Room,Rika Muranaka,,4174,Rika Muranaka,4.23,890,Silent Hill 4: The Room
+575,Hitman: Blood Money,PS2,2006,Action,Eidos Interactive,83.0,8.4,Io Interactive,M,Hitman: Blood Money,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,606,Hitman: Blood Money
+576,Hitman: Blood Money,X360,2006,Action,Eidos Interactive,82.0,8.7,Io Interactive,M,Hitman: Blood Money,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,606,Hitman: Blood Money
+577,Hitman: Blood Money,XB,2006,Action,Eidos Interactive,81.0,9.1,Io Interactive,M,Hitman: Blood Money,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,606,Hitman: Blood Money
+578,Hitman: Blood Money,PC,2006,Action,Eidos Interactive,82.0,8.8,Io Interactive,M,Hitman: Blood Money,Jesper Kyd,1972-02-03,8115,Jesper Kyd,3.97,606,Hitman: Blood Money
+579,Monster Hunter,PS2,2004,Role-Playing,Capcom,68.0,8.9,Capcom,T,Monster Hunter,Akari Kaida,1974-01-10,7252,Akari Kaida,4.04,561,Monster Hunter
+580,Persona,PS,1995,Role-Playing,Atlus,,,,,Persona,Shoji Meguro,1971-06-04,7891,Shoji Meguro,3.99,398,Persona
+581,Persona,PS,1995,Role-Playing,Atlus,,,,,Persona,Shoji Meguro,1971-06-04,7891,Shoji Meguro,3.99,775,Persona
+584,Paper Mario: Color Splash,WiiU,2016,Role-Playing,Nintendo,75.0,6.8,Nintendo, Intelligent Systems,Paper Mario: Color Splash,Taro Kudo,,3388,Taro Kudo,4.27,173,Paper Mario: Color Splash
+585,Nights: Journey Of Dreams,Wii,2007,Platform,Sega,69.0,8.5,Sega, Sonic Team,Nights: Journey Of Dreams,Jun Senoue,1970-08-02,6091,Jun Senoue,4.12,733,Nights: Journey Of Dreams
+586,Nights: Journey Of Dreams,Wii,2007,Platform,Sega,69.0,8.5,Sega, Sonic Team,Nights: Journey Of Dreams,Tomoya Ohtani,1974-07-01,5079,Tomoya Ohtani,4.18,733,Nights: Journey Of Dreams
+587,Mother 3,GBA,2006,Role-Playing,Nintendo,,,,,Mother 3,Hirokazu Tanaka,1957-12-13,6489,Hirokazu Tanaka,4.09,49,Mother 3
+589,Mother 3,GBA,2006,Role-Playing,Nintendo,,,,,Mother 3,Keiichi Suzuki,1951-08-28,8099,Keiichi Suzuki,3.97,49,Mother 3
+590,Soulcalibur,DC,1999,Fighting,Namco Bandai Games,98.0,8.8,Namco,T,Soulcalibur,Nobuyoshi Sano,1969-01-19,8811,Nobuyoshi Sano,3.89,574,Soulcalibur
+591,Soulcalibur,DC,1999,Fighting,Namco Bandai Games,98.0,8.8,Namco,T,Soulcalibur,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,574,Soulcalibur
+592,Persona 4: Dancing All Night,PSV,2015,Misc,Nippon Ichi Software,76.0,8.6,Atlus, Dingo Inc.,Persona 4: Dancing All Night,Norihiko Hibino,1973-09-03,7388,Norihiko Hibino,4.03,67,Persona 4: Dancing All Night
+593,Persona 4: Dancing All Night,PSV,2015,Misc,Nippon Ichi Software,76.0,8.6,Atlus, Dingo Inc.,Persona 4: Dancing All Night,Yuu Miyake,1973-11-19,7946,Yuu Miyake,3.99,67,Persona 4: Dancing All Night
+594,Ace Attorney Investigations 2,DS,2011,Adventure,Capcom,,,,,Ace Attorney Investigations 2,Noriyuki Iwadare,1964-04-28,7123,Noriyuki Iwadare,4.05,755,Ace Attorney Investigations 2
+595,Angry Birds,PC,2011,Puzzle,Focus Home Interactive,,7.3,Rovio Mobile, Rovio Entertainment,Angry Birds,Ari Pulkkinen,1982-01-15,8303,Ari Pulkkinen,3.95,184,Angry Birds
+596,Warcraft Iii: Reign Of Chaos,PC,2002,Strategy,Vivendi Games,92.0,9.1,Blizzard Entertainment,T,Warcraft Iii: Reign Of Chaos,Matt Uelmen,1972-07-31,4317,Matt Uelmen,4.22,552,Warcraft Iii: Reign Of Chaos
+597,Warcraft Iii: Reign Of Chaos,PC,2002,Strategy,Vivendi Games,92.0,9.1,Blizzard Entertainment,T,Warcraft Iii: Reign Of Chaos,Russell Brower,,9434,Russell Brower,3.78,552,Warcraft Iii: Reign Of Chaos
+598,Contra Iii: The Alien Wars,SNES,1992,Shooter,Konami Digital Entertainment,,,,,Contra Iii: The Alien Wars,Miki Higashino,1968-01-01,4368,Miki Higashino,4.22,769,Contra Iii: The Alien Wars
+599,Baroque,PS2,2007,Role-Playing,Rising Star Games,60.0,8.8,Sting,T,Baroque,Masaharu Iwata,1966-10-26,6417,Masaharu Iwata,4.1,220,Baroque
+600,Baroque,Wii,2008,Role-Playing,Rising Star Games,50.0,8.1,Sting,T,Baroque,Masaharu Iwata,1966-10-26,6417,Masaharu Iwata,4.1,220,Baroque
+601,Streets Of Rage 3,GEN,1993,Action,Sega,,,,,Streets Of Rage 3,Yuzo Koshiro,1967-12-12,5913,Yuzo Koshiro,4.13,939,Streets Of Rage 3
+602,Starcraft,PC,1998,Strategy,Activision,88.0,9.1,Blizzard Entertainment,T,Starcraft,Matt Uelmen,1972-07-31,4317,Matt Uelmen,4.22,264,Starcraft
+604,Starcraft,PC,1998,Strategy,Activision,88.0,9.1,Blizzard Entertainment,T,Starcraft,Russell Brower,,9434,Russell Brower,3.78,264,Starcraft
+605,Rewrite,PSV,2014,Adventure,Prototype,,,,,Rewrite,Jun Maeda,1975-01-03,4985,Jun Maeda,4.19,703,Rewrite
+607,Rewrite,PSV,2014,Adventure,Prototype,,,,,Rewrite,Magome Togoshi,,5972,Magome Togoshi,4.12,703,Rewrite
+609,Rewrite,PSV,2014,Adventure,Prototype,,,,,Rewrite,Shinji Orito,1973-07-30,5610,Shinji Orito,4.15,703,Rewrite

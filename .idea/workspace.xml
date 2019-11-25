@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c830591-7dcd-46ad-b077-c9944e19a3ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jupyter_notebooks_data_mashup/Dataset Combining.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter_notebooks_data_mashup/Dataset Combining.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,24 +117,6 @@
             <path>
               <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-              <item name="Wikipedia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-              <item name="Wikipedia" type="462c0819:PsiDirectoryNode" />
-              <item name="List of Video Game Musicians" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -327,7 +308,7 @@
       <workItem from="1574366121354" duration="1293000" />
       <workItem from="1574528001891" duration="968000" />
       <workItem from="1574533721626" duration="1303000" />
-      <workItem from="1574616810383" duration="5907000" />
+      <workItem from="1574616810383" duration="6593000" />
     </task>
     <task id="LOCAL-00001" summary="remote test">
       <created>1574017012234</created>
@@ -490,15 +471,28 @@
       <option name="project" value="LOCAL" />
       <updated>1574648072555</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Updated Description at top of Jupyter Notebook file">
+      <created>1574648562573</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1574648562573</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Updated Description at top of Jupyter Notebook file">
+      <created>1574648605811</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1574648605811</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75711000" />
+    <option name="totallyTimeSpent" value="76397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="516" y="8" width="1192" height="924" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2975352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -549,7 +543,8 @@
     <MESSAGE value="working on getting cleaned Wiki data to have consistent separators" />
     <MESSAGE value="finished Replace Separator script for Wikipedia data&#10;Added code comments to that file as well" />
     <MESSAGE value="Updated Jupyter Notebook. &#10;Final dataset is actually quite a bit improved when removing all &#10;vgmdb data." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Jupyter Notebook. &#10;Final dataset is actually quite a bit improved when removing all &#10;vgmdb data." />
+    <MESSAGE value="Updated Description at top of Jupyter Notebook file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Description at top of Jupyter Notebook file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$least_popular_albums.coverage" NAME="least_popular_albums Coverage Results" MODIFIED="1570917871205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
