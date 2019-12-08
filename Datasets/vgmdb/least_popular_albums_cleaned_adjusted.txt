@@ -451,474 +451,474 @@ Rank,Album Name,Rating,#votes,Popularity
 500,Ys Iii J.D.K. Special,3.83,12,0.0846
 501,Secret Of Mana Genesis,3.18,25,0.0847
 502,Dark Souls Iii,3.53,15,0.0847
-503,The Legend Of Dragoon  ,3.75,16,0.0848
+503,The Legend Of Dragoon,3.75,16,0.0848
 504,Amrita,4.46,12,0.0849
-505,Myst ,4.00,13,0.0849
-506,Gargantia On The Verdurous Planet  ,4.00,15,0.0850
-507,Under Defeat -extended Tracks-,4.08,12,0.0850
-508,Remastered Tracks Rockman Zero Telos,4.37,15,0.0851
-509,Blazblue Song Accord #1 With Continuum Shift,4.18,11,0.0852
-510,Earthworm Jim Anthology,4.46,12,0.0853
+505,Myst,4.00,13,0.0849
+506,Gargantia On The Verdurous Planet,4.00,15,0.0850
+507,Under Defeat,4.08,12,0.0850
+508,Rockman Zero Telos,4.37,15,0.0851
+509,Blazblue,4.18,11,0.0852
+510,Earthworm Jim,4.46,12,0.0853
 511,Ar Tonelico Iii: Sekai Shuuen No Hikigane Wa Shoujo No Uta Ga Hiku  ,4.04,12,0.0853
-512,Kirby Wii Music Selection,4.21,12,0.0854
+512,Kirby Wii,4.21,12,0.0854
 513,The Banner Saga,4.00,13,0.0854
-514,Bayonetta 2  ,3.50,20,0.0854
-515,Cradle -touhou Gengaku Shiten-,3.96,12,0.0854
-516,Ray'z Premium Box -beyond-,4.77,11,0.0855
-518,Gatchaman Crowds  ,4.18,17,0.0856
-519,Super Donkey Kong 3 Mysterious Kremis Island  ,3.81,13,0.0856
-520,Perfect Collection Sorcerian ,3.32,11,0.0856
-521,Project Chaos: A Sonic 3 And Knuckles Arrangement Album,4.00,20,0.0857
-522,Fire Emblem: Shin Ankoku Ryuu To Hikari No Ken  ,3.50,13,0.0858
-523,Hoshi No Kirby Robobo Planet  ,4.88,12,0.0859
-524,Phantasy Star Online Songs Of Ragol Odyssey  ~episode 1&2~,4.06,16,0.0859
-525,Far Cry 3: Blood Dragon  ,4.39,14,0.0860
-526,Ryu Ga Gotoku & Ryu Ga Gotoku 2  Sound Track,4.23,13,0.0862
-527,Bloodborne  ,4.13,15,0.0863
-528,Kyousougiga Music Collection,4.62,13,0.0863
-529,Madworld  ,3.38,20,0.0863
-530,Witch On The Holy Night  ,4.81,13,0.0864
-532,Piano Arrange: Radiant Historia,4.08,13,0.0867
-533,Tsukino Akari -final Fantasy Iv Theme Of Love-,4.70,15,0.0867
-534,Dragon Quest Suite,3.77,13,0.0868
-535,Tekken Blood Vengeance  ,3.82,11,0.0868
-536,Fairy Tail   ,4.65,17,0.0869
+514,Bayonetta 2,3.50,20,0.0854
+515,Cradle,3.96,12,0.0854
+516,Ray'z Premium Box,4.77,11,0.0855
+518,Gatchaman Crowds,4.18,17,0.0856
+519,Super Donkey Kong 3,3.81,13,0.0856
+520,Perfect Collection Sorcerian,3.32,11,0.0856
+521,Project Chaos,4.00,20,0.0857
+522,Fire Emblem: Shin Ankoku Ryuu To Hikari No Ken,3.50,13,0.0858
+523,Hoshi No Kirby Robobo Planet,4.88,12,0.0859
+524,Phantasy Star,4.06,16,0.0859
+525,Far Cry 3: Blood Dragon,4.39,14,0.0860
+526,Ryu Ga Gotoku,4.23,13,0.0862
+527,Bloodborne ,4.13,15,0.0863
+528,Kyousougiga,4.62,13,0.0863
+529,Madworld,3.38,20,0.0863
+530,Witch on the Holy Night,4.81,13,0.0864
+532,Radiant Historia,4.08,13,0.0867
+533,Ryu Ga Gotoku 2,4.23,13,0.0862
+534,Dragon Quest,3.77,13,0.0868
+535,Tekken Blood Vengeance,3.82,11,0.0868
+536,Fairy Tail,4.65,17,0.0869
 537,After All...,4.27,11,0.0870
-538,Diablo Ii ,4.50,16,0.0870
-539,Music From Star Trader,3.63,12,0.0871
-540,Banjo-kazooie Game ,4.32,14,0.0872
-542,Phantasy Star Online Episode I & Ii Premium Arrange,3.62,13,0.0873
+538,Diablo Ii,4.50,16,0.0870
+539,Star Trader,3.63,12,0.0871
+540,Banjo-kazooie,4.32,14,0.0872
+542,Phantasy Star,3.62,13,0.0873
 543,Dimension W  : Resonance W,4.27,11,0.0874
-544,Shin Megami Tensei Iv Final  ,4.00,12,0.0874
+544,Shin Megami Tensei Iv,4.00,12,0.0874
 545,Retro Future Girls,4.50,14,0.0875
-546,Celestial Music Record Of All Mankind ~ Touhou Hisouten  Sound Track,4.29,12,0.0875
-547,Assassin's Creed  Game ,3.88,12,0.0875
-548,Innocence O.S.T.,4.68,11,0.0876
-549,Ridge Racer 7 : Direct Audio,3.42,13,0.0877
-550,Halo: Reach  ,3.92,13,0.0877
-551,Music From Ys Renewal,3.64,11,0.0878
-552,Trine  ,4.32,17,0.0878
-553,Pokemon X/Y,3.88,20,0.0880
-554,Music From Jesus Kyoufu No Bio-monster,3.62,13,0.0880
-555,Redline  ,4.82,11,0.0881
-556,Driving Emotion Type-s / Bushido Blade  ,3.96,14,0.0882
-557,Arc The Lad  Game Sound Track,3.93,14,0.0883
+546,Touhou Hisouten,4.29,12,0.0875
+547,Assassin's Creed,3.88,12,0.0875
+548,Innocence,4.68,11,0.0876
+549,Ridge Racer 7,3.42,13,0.0877
+550,Halo: Reach,3.92,13,0.0877
+551,Ys Renewal,3.64,11,0.0878
+552,Trine,4.32,17,0.0878
+553,Pokemon X/y,3.88,20,0.0880
+554,Jesus Kyoufu No Bio-monster,3.62,13,0.0880
+555,Redline,4.82,11,0.0881
+556,Bushido Blade,3.96,14,0.0882
+557,Arc The Lad,3.93,14,0.0883
 560,Ten Plants,3.21,14,0.0887
-562,Garou Densetsu / Last Resort,4.09,11,0.0888
-563,I Am Rapture - Rapture Is Me: Official Bioshock Score,4.00,14,0.0888
-564,Genso Suikoden Iii Music Collection ~rustling Of The Wind~,4.13,12,0.0888
-566,Professor Layton And The Diabolical Box  ,3.81,13,0.0889
+562,Garou Densetsu,4.09,11,0.0888
+563,Bioshock,4.00,14,0.0888
+564,Genso Suikoden Iii,4.13,12,0.0888
+566,Professor Layton And The Diabolical Box,3.81,13,0.0889
 567,The Legend Of Zelda: Majora's Mask 3D,4.32,11,0.0891
-568,The Legend Of Heroes: Sen No Kiseki  ,4.66,16,0.0893
-569,The King Of Fighters '95 Arrange Sound Trax,4.05,11,0.0893
-571,Makai Senki Disgaea  ,3.68,11,0.0894
-572,Gran Turismo 3 A-spec  Game ,3.77,13,0.0895
-573,Sekaiju To Fushigi No Dungeon  Sound Track,4.62,13,0.0895
-574,Shirokishi Monogatari -inishie No Kodou-  ,3.83,12,0.0896
-575,Sakura Note ~ima Ni Tsunagaru Mirai~ Oto No Okurimono,3.78,18,0.0897
-576,Higurashi No Naku Koro Ni / Eiko Shimamiya,4.54,14,0.0898
+568,The Legend Of Heroes: Sen No Kiseki ,4.66,16,0.0893
+569,The King Of Fighters,4.05,11,0.0893
+571,Makai Senki Disgaea,3.68,11,0.0894
+572,Gran Turismo 3,3.77,13,0.0895
+573,Sekaiju To Fushigi No Dungeon,4.62,13,0.0895
+574,Shirokishi Monogatari,3.83,12,0.0896
+575,Sakura Note,3.78,18,0.0897
+576,Higurashi No Naku Koro Ni,4.54,14,0.0898
 577,Persona 4,4.09,16,0.0899
-578,Ys Piano Collection,3.08,12,0.0899
-579,Persona Music Live Band,4.06,16,0.0900
+578,Ys,3.08,12,0.0899
+579,Persona,4.06,16,0.0900
 580,Retro Remix Revue: ,4.29,12,0.0901
 581,"Fz Series ""axis",3.79,12,0.0901
-582,Tales Of Series Battle Arrange Tracks,4.11,14,0.0902
+582,Tales Of Series,4.11,14,0.0902
 583,Midi Power Pro 7 ~gradius~,4.14,11,0.0902
 584,428 ~fuusasareta Shibuya De~  ,3.92,12,0.0903
 585,Sacred Factor,4.17,12,0.0904
-586,Sword Art Online   ,4.06,18,0.0908
-587,Command & Conquer  Collection,4.68,11,0.0908
+586,Sword Art Online,4.06,18,0.0908
+587,Command & Conquer,4.68,11,0.0908
 588,Soldner-X 2,4.19,13,0.0909
 589,Magico Catastrofe,4.83,20,0.0910
-590,Do-don-pachi Dai-fukkatsu  Sound Track For Iphone / Ipod Touch,3.41,16,0.0910
+590,Do-don-pachi Dai-fukkatsu,3.41,16,0.0910
 591,.Hack//liminality  ,4.08,12,0.0911
 592,Tokyo Mono Hara Shi Karasunomorigakuen Kitan Gakusou,4.63,15,0.0911
 593,Dark Souls,4.18,14,0.0911
-594,"Maneuver Cepter ""granada",3.62,13,0.0911
-595,Shin Megami Tensei Nine Premium Sound Trax,3.79,12,0.0913
+594,Maneuver Cepter,3.62,13,0.0911
+595,Shin Megami Tensei,3.79,12,0.0913
 596,Hotline Miami ,4.67,15,0.0913
 597,Super Metroid: Relics Of The Chozo,4.06,16,0.0914
-598,D2  Sound Track,4.31,13,0.0915
-599,The Legend Of Heroes: Zero No Kiseki Super Arrange Version,4.10,15,0.0915
+598,D2,4.31,13,0.0915
+599,The Legend Of Heroes: Zero No Kiseki,4.10,15,0.0915
 601,Perfect Selection Xexex,4.36,11,0.0915
-602,Biohazard Revelations  ,4.07,14,0.0917
-603,Assassin's Creed Iii  Game ,3.38,16,0.0918
+602,Biohazard Revelations,4.07,14,0.0917
+603,Assassin's Creed Iii,3.38,16,0.0918
 604,Super Street Fighter Iv,4.27,11,0.0919
-605,Jin-roh  Motion Picture ,4.45,11,0.0921
-606,Twinbee Paradise Sound Fantasia,4.00,11,0.0923
-607,"Re:birth Ii -sen- / ""saga"" Battle Arrange",4.23,15,0.0924
+605,Jin-roh,4.45,11,0.0921
+606,Twinbee Paradise,4.00,11,0.0923
+607,Re:birth Ii,4.23,15,0.0924
 608,The Legend Of Zelda: Twilight Princess HD,4.27,13,0.0924
-609,Haibane Renmei  Hane No Ne,4.50,11,0.0924
-610,Arc The Lad Twilight Of The Spirits  Game ,3.96,14,0.0925
-612,The Answer - Armored Core Tribute Album -,4.66,16,0.0925
-613,Varth: Operation Thunder Storm -g.S.M. Capcom 6-,4.15,13,0.0925
+609,Haibane Renmei,4.50,11,0.0924
+610,Arc The Lad Twilight Of The Spirits,3.96,14,0.0925
+612,The Answer - Armored Core,4.66,16,0.0925
+613,Varth: Operation Thunder Storm,4.15,13,0.0925
 614,Namco Game Sound Express ,4.25,12,0.0926
-615,Medievil: Resurrection  ,4.34,16,0.0927
-616,Yuke Yuke Trouble Makers  ,4.33,12,0.0927
+615,Medievil: Resurrection,4.34,16,0.0927
+616,Yuke Yuke Trouble Makers,4.33,12,0.0927
 618,We Are Rock-men!,3.79,17,0.0928
-619,Killer Instinct Gold ,3.81,13,0.0930
-620,The Legend Of Legacy  ,3.97,17,0.0930
-621,Tales Of Rebirth  ,3.34,16,0.0930
+619,Killer Instinct Gold,3.81,13,0.0930
+620,The Legend Of Legacy,3.97,17,0.0930
+621,Tales Of Rebirth,3.34,16,0.0930
 622,The End Of Evangelion,4.62,17,0.0930
-623,Bakemonogatari Complete Music Works Songs & S,4.47,17,0.0931
+623,Bakemonogatari,4.47,17,0.0931
 624,Blossom,4.42,18,0.0931
-625,Capcom Vs. Snk 2 Millionaire Fighting 2001  ,3.96,13,0.0932
+625,Capcom Vs. Snk 2 Millionaire Fighting 2001,3.96,13,0.0932
 626,Provincialism Ys,3.64,14,0.0933
 627,25th Anniversary Rockman Techno Arrange Ver.,3.59,16,0.0933
-628,Vanquish  ,3.41,17,0.0933
-629,Burning Rangers Sound Track,4.29,12,0.0933
+628,Vanquish,3.41,17,0.0933
+629,Burning Rangers,4.29,12,0.0933
 630,"Nhk Special ""uchuu Namachuukei Suisei Bakuhatsu Taiyoukei No Nazo""  ",4.12,13,0.0934
 631,Blazing Star,3.86,11,0.0936
 632,Neon Genesis Evangelion Iii,3.70,15,0.0936
-633,Naruto Shippuden  Sound Track Ii,4.86,18,0.0937
-634,Splatoon   -splatune-,4.04,14,0.0939
+633,Naruto Shippuden,4.86,18,0.0937
+634,Splatoon,4.04,14,0.0939
 636,The Legend Of Zelda: A Link Between Worlds,4.63,15,0.0940
 637,Replica*,4.36,11,0.0941
-638,Primal   Score Recording,3.88,13,0.0942
-639,Final Fantasy Crystal Chronicles Ring Of Fates  ,3.58,19,0.0942
-640,Final Fantasy Vii Advent Children Complete Reunion Tracks,4.03,15,0.0943
-641,Kiri No Mukou Ni Tsunagaru Sekai / Haruka Shimotsuki + Revo,4.92,13,0.0943
-642,Battle Sq [],3.54,12,0.0944
-643,Devil Summoner: Kuzunoha Raidou Tai Chouriki Heidan Complete Music Works,4.03,15,0.0944
-644,Rockman 10 Image ,3.81,18,0.0944
-645,Final Fantasy Type-0   [],3.88,20,0.0945
-646,Umineko No Naku Koro Ni Episode.1   Essence,4.00,12,0.0946
-647,Deus Ex: Game Of The Year Edition ,4.03,16,0.0946
-648,Anata Wo Yurusanai  ,3.75,14,0.0948
-649,Sorcerian Super Arrange Version,4.14,11,0.0948
-650,Fable  ,3.76,17,0.0949
-651,Espgaluda Ii  Sound Track,3.85,13,0.0949
-652,The King Of Fighters Xiii  ,4.06,16,0.0950
-654,Majin Tensei Ii Excellence Sound Collection,4.23,13,0.0952
-655,Alan Wake  Score,3.88,16,0.0952
+638,Primal,3.88,13,0.0942
+639,Final Fantasy Crystal Chronicles Ring Of Fates,3.58,19,0.0942
+640,Final Fantasy Vii,4.03,15,0.0943
+641,Kiri No Mukou Ni Tsunagaru Sekai,4.92,13,0.0943
+642,Battle Sq,3.54,12,0.0944
+643,Devil Summoner: Kuzunoha Raidou Tai Chouriki Heidan,4.03,15,0.0944
+644,Rockman 10,3.81,18,0.0944
+645,Final Fantasy Type-0,3.88,20,0.0945
+646,Umineko No Naku Koro Ni,4.00,12,0.0946
+647,Deus Ex,4.03,16,0.0946
+648,Anata Wo Yurusanai,3.75,14,0.0948
+649,Sorcerian,4.14,11,0.0948
+650,Fable,3.76,17,0.0949
+651,Espgaluda Ii,3.85,13,0.0949
+652,The King Of Fighters Xiii,4.06,16,0.0950
+654,Majin Tensei Ii,4.23,13,0.0952
+655,Alan Wake,3.88,16,0.0952
 656,Sound Fantasy Romancia,4.04,13,0.0952
-657,Fable Iii  ,4.23,11,0.0953
+657,Fable Iii,4.23,11,0.0953
 658,Sinen Ni Nozomu Ga Gotoshi,4.57,14,0.0954
-659,Final Fantasy V   Remaster Version,4.45,11,0.0955
-660,Starfox 64  ,3.92,13,0.0955
-661,Mana-khemia  ,4.14,14,0.0955
-662,The King Of Fighters Xi Sound Collection,4.04,12,0.0957
-663,Mario Kart 64 Race Tracks,3.79,14,0.0957
-664,Let The Winds Blow: Phantasy Star Online Episode Iii C.A.R.D. Revolution  Sound Track,4.18,11,0.0957
+659,Final Fantasy V,4.45,11,0.0955
+660,Starfox 64,3.92,13,0.0955
+661,Mana-khemia,4.14,14,0.0955
+662,The King Of Fighters Xi,4.04,12,0.0957
+663,Mario Kart 64,3.79,14,0.0957
+664,Let The Winds Blow: Phantasy Star,4.18,11,0.0957
 665,Poptrick,4.41,11,0.0958
 666,Il Mondo Dove E Finito Il Tempo,4.43,20,0.0958
-667,Headhunter: Redemption / Headhunter   Recording,4.29,12,0.0959
-668,Metal Gear Acid & Acid 2,3.58,13,0.0960
-669,Super Mario Bros. 3 Akihabara Electric Circus,4.04,12,0.0960
-670,"Under Defeat Hd ""new Order"" ",3.85,13,0.0960
-671,Remember Me  ,3.88,16,0.0960
+667,Headhunter: Redemption,4.29,12,0.0959
+668,Metal Gear Acid,3.58,13,0.0960
+669,Super Mario Bros. 3,4.04,12,0.0960
+670,Under Defeat Hd,3.85,13,0.0960
+671,Remember Me,3.88,16,0.0960
 672,Mega Selection -g.S.M. Sega-,4.42,12,0.0960
-673,Tekken 7 ,4.08,13,0.0961
-674,Kabaneri Of The Iron Fortress  ,4.14,43,0.0961
+673,Tekken 7,4.08,13,0.0961
+674,Kabaneri Of The Iron Fortress,4.14,43,0.0961
 675,Super Retro Game,3.73,11,0.0963
 676,Namco Game Sound Express ,3.89,14,0.0963
-677,Donkey Kong Returns  Sound Track,3.87,23,0.0963
-678,Kiseiju  ,4.22,18,0.0964
-679,American Mcgee's Alice  Music Score,4.22,16,0.0965
-680,The Elder Scrolls Iii: Morrowind  ,3.83,15,0.0967
-681,Genso Suikoden Arrange Collection ,3.88,12,0.0967
-682,Chaos Theory / Amon Tobin,4.05,19,0.0967
-683,Assassin's Creed Revelations  Game  - The Complete Recordings,4.42,12,0.0968
-684,Zero Divide  Game ,4.81,13,0.0969
-685,Darksiders Ii  ,4.35,13,0.0969
-686,Riviera ~the Promised Land~ Perfect Audio Collection Plus,4.27,11,0.0969
-687,Nier:automata Arranged & Unreleased Tracks,3.63,15,0.0972
-688,Gran Turismo 2  Game ,4.05,11,0.0972
-689,Aquaria  ,4.57,14,0.0973
-690,Oboromuramasa Genrokukaikitan  ,4.50,13,0.0974
+677,Donkey Kong Returns,3.87,23,0.0963
+678,Kiseiju,4.22,18,0.0964
+679,American Mcgee's Alice,4.22,16,0.0965
+680,The Elder Scrolls Iii: Morrowind,3.83,15,0.0967
+681,Genso Suikoden,3.88,12,0.0967
+682,Chaos Theory,4.05,19,0.0967
+683,Assassin's Creed Revelations,4.42,12,0.0968
+684,Zero Divide,4.81,13,0.0969
+685,Darksiders Ii,4.35,13,0.0969
+686,Riviera,4.27,11,0.0969
+687,Nier: Automata,3.63,15,0.0972
+688,Gran Turismo 2,4.05,11,0.0972
+689,Aquaria,4.57,14,0.0973
+690,Oboromuramasa Genrokukaikitan,4.50,13,0.0974
 692,Sword Maniac,3.83,12,0.0974
-693,Persona4 The Golden  ,3.53,17,0.0976
+693,Persona 4,3.53,17,0.0976
 694,Gunstar Heroes,4.27,15,0.0976
 695,Bionic Commando Rearmed,4.27,13,0.0977
-696,Saga 3 Jikuu No Hasha: Shadow Or Light  ,3.89,14,0.0978
-697,Black Ocean / Imeruat,4.20,15,0.0979
-699,Rule Of Rose ~ Songs From The  ,4.64,14,0.0980
-701,Adventures Of Mana  ,4.00,17,0.0982
+696,Saga 3 Jikuu No Hasha: Shadow Or Light,3.89,14,0.0978
+697,Black Ocean,4.20,15,0.0979
+699,Rule Of Rose,4.64,14,0.0980
+701,Adventures Of Mana,4.00,17,0.0982
 702,Alien Soldier,4.36,11,0.0982
 703,The Greatest Video Game Music,3.29,19,0.0982
-704,Pokemon Omega Ruby/Alpha Sapphire,4.85,13,0.0982
-705,Blazblue Phase Iii Chronophantasma  ,4.19,13,0.0982
-706,Noir   Ii,4.00,12,0.0983
-707,Giana Sisters: Twisted Dreams  ,4.33,12,0.0984
-708,Rainbow Moon Melodies  ,4.27,11,0.0986
+704,Pokemon Omega Ruby/alpha Sapphire,4.85,13,0.0982
+705,Blazblue Phase Iii Chronophantasma,4.19,13,0.0982
+706,Noir Ii,4.00,12,0.0983
+707,Giana Sisters: Twisted Dreams,4.33,12,0.0984
+708,Rainbow Moon,4.27,11,0.0986
 709,The Binding Of Isaac,4.00,18,0.0987
-710,Yuusha 30 Sou  ,4.21,17,0.0988
+710,Yuusha 30 Sou,4.21,17,0.0988
 711,Pop'n Twinbee,4.07,14,0.0988
-712,Gran Turismo 5  Game ,4.00,12,0.0989
-713,The Orange Box  ,4.15,13,0.0989
+712,Gran Turismo 5,4.00,12,0.0989
+713,The Orange Box,4.15,13,0.0989
 714,Musou Materialise,4.88,13,0.0989
-715,Perfect Dark Zero  ,3.67,15,0.0990
-716,Vampire: The Night Warriors Arcade Gametrack,3.83,12,0.0992
-717,Street Fighter Ex -arrange Sound Trax-,4.17,12,0.0992
-718,Kingdom Hearts -final Mix- Additional Tracks,3.81,13,0.0992
-719,Nights ~hoshi Furu Yoru No Monogatari~  ,4.16,16,0.0993
-720,The Legend Of Zelda: Ocarina Of Time ,3.62,17,0.0993
-721,Xanadu Next  Sound Track,3.92,12,0.0993
-722,Metal Gear Solid Portable Ops  ,3.83,12,0.0995
-723,Panty & Stocking With Garterbelt The  ,4.23,13,0.0996
-724,Remastered Tracks Rockman Zero Physis,4.47,16,0.0996
+715,Perfect Dark Zero,3.67,15,0.0990
+716,Vampire: The Night Warriors,3.83,12,0.0992
+717,Street Fighter Ex,4.17,12,0.0992
+718,Kingdom Hearts,3.81,13,0.0992
+719,Nights,4.16,16,0.0993
+720,The Legend Of Zelda: Ocarina Of Time,3.62,17,0.0993
+721,Xanadu Next,3.92,12,0.0993
+722,Metal Gear Solid Portable Ops,3.83,12,0.0995
+723,Panty & Stocking With Garterbelt,4.23,13,0.0996
+724,Rockman Zero Physis,4.47,16,0.0996
 725,Guten Talk,4.23,11,0.0997
-726,Stolen Hearts / Nanaa Mihgo's,4.39,14,0.0997
-727,Crysis 2  Videogame ,4.59,17,0.0998
+726,Stolen Hearts,4.39,14,0.0997
+727,Crysis 2,4.59,17,0.0998
 728,Umineko No Naku Koro Ni Musicbox Blue,4.33,12,0.0998
-729,World Of Final Fantasy  ,4.16,16,0.0998
+729,World Of Final Fantasy,4.16,16,0.0998
 730,Celestial Score,4.08,12,0.0998
-731,Rockman Exe Transmission Sound Track,4.00,12,0.0999
+731,Rockman Exe Transmission,4.00,12,0.0999
 732,Message,3.92,12,0.0999
-733,Merregnon  ,4.00,11,0.1002
-734,Armored Core 4  ,4.41,11,0.1004
-735,Katamari Damacy Tribute  : Katamari Takeshi,4.77,11,0.1004
-736,Guilty Crown  ,4.47,32,0.1004
-737,Panzer Dragoon Ii Zwei  ,4.13,16,0.1004
-738,Before Crisis -final Fantasy Vii- & Last Order -final Fantasy Vii-  ,3.88,20,0.1005
+733,Merregnon,4.00,11,0.1002
+734,Armored Core 4,4.41,11,0.1004
+735,Katamari Damacy,4.77,11,0.1004
+736,Guilty Crown,4.47,32,0.1004
+737,Panzer Dragoon Ii,4.13,16,0.1004
+738,Final Fantasy Vii,3.88,20,0.1005
 739,La Tale,4.55,11,0.1005
 740,Mother,3.97,15,0.1006
 741,Violin De Hiite Mita Ep2 ~ Maou No Gyakushuu / Scream No Hito,4.54,12,0.1009
-742,Rewrite  ,4.32,19,0.1010
-743,Diddy Kong Racing  ,3.75,16,0.1011
-744,Vampire Hunter: Darkstalkers' Revenge Arcade Gametrack,4.00,11,0.1011
-745,Lost Child  Sound Track From S.S.H Side-b,4.35,13,0.1012
-746,Age Of Mythology  ,4.36,11,0.1013
-747,Mobile Suit Gundam Unicorn  ,4.87,39,0.1015
+742,Rewrite,4.32,19,0.1010
+743,Diddy Kong Racing,3.75,16,0.1011
+744,Vampire Hunter: Darkstalkers' Revenge,4.00,11,0.1011
+745,Lost Child,4.35,13,0.1012
+746,Age Of Mythology,4.36,11,0.1013
+747,Mobile Suit Gundam Unicorn,4.87,39,0.1015
 748,Super Mario Bros. 3,4.38,13,0.1015
 749,Navigatoria / Akiko Shikata,4.64,11,0.1015
 750,Donpachi,3.65,13,0.1017
-751,Guin Saga  ,4.27,11,0.1019
-752,Another Eden  ,4.27,11,0.1019
+751,Guin Saga,4.27,11,0.1019
+752,Another Eden,4.27,11,0.1019
 753,Okami Gojuu No Shirabe,3.70,20,0.1019
-754,Contra Dual Spirits  ,3.86,11,0.1021
-755,Dead Rising  ,3.83,15,0.1022
-756,Brandish -the Dark Revenant-  Sound Track,4.14,14,0.1023
-757,Macross The Complete,4.77,11,0.1023
-758,No Reality  ,4.83,12,0.1024
-759,Strider Hiryu -g.S.M. Capcom 2-,3.75,12,0.1025
-760,Plants Vs. Zombies  ,4.04,13,0.1025
-761,Clannad Remix Album -memento-,4.12,13,0.1026
-762,The King Of Fighters 2002  Sound Trax,4.59,11,0.1026
-763,No More Heroes 2 Desperate Struggle  Sound Tracks,4.25,14,0.1028
-764,Symphonic Suite Dragon Quest I & Ii,4.00,11,0.1028
-765,Famicom 20th Anniversary Arrange Sound Tracks,3.79,19,0.1029
-766,Biohazard The Umbrella Chronicles  Sound Track,4.00,11,0.1030
-767,Valkyrie Profile -covenant Of The Plume- Arrange Album,3.96,12,0.1030
+754,Contra Dual Spirits,3.86,11,0.1021
+755,Dead Rising,3.83,15,0.1022
+756,Brandish,4.14,14,0.1023
+757,Macross,4.77,11,0.1023
+758,No Reality,4.83,12,0.1024
+759,Strider Hiryu,3.75,12,0.1025
+760,Plants Vs. Zombies,4.04,13,0.1025
+761,Clannad,4.12,13,0.1026
+762,The King Of Fighters 2002,4.59,11,0.1026
+763,No More Heroes 2: Desperate Struggle,4.25,14,0.1028
+764,Dragon Quest Ii,4.00,11,0.1028
+765,Famicom,3.79,19,0.1029
+766,Biohazard: The Umbrella Chronicles,4.00,11,0.1030
+767,Valkyrie Profile,3.96,12,0.1030
 768,Game Sound Collection ,4.00,11,0.1030
 770,Atlantis: The Lost Tales,4.14,11,0.1031
-771,"Higurashi No Naku Koro Ni Kai  Sound Version & Extra Sounds ""thanks/you",4.71,12,0.1031
-772,Guilty Gear 2 Overture   ,4.36,11,0.1031
+771,Higurashi No Naku Koro Ni Kai,4.71,12,0.1031
+772,Guilty Gear 2,4.36,11,0.1031
 773,Sonic The Hedgehog Boom,4.23,15,0.1032
-774,Naruto Shippuden  Sound Track,4.67,21,0.1033
-775,Music From Super Contra & A-jax,3.80,15,0.1033
-777,Sound Of Double Dragon,4.50,12,0.1034
-778,Blood Of Bahamut  ,3.86,14,0.1034
-779,Final Fantasy Orchestral Album,4.72,16,0.1034
-780,Fuujin Ryouiki Eretzvaju  ,4.29,14,0.1036
-781,Valkyrie Profile Voice Mix Arrange,3.47,17,0.1036
-782,Rockmanzero The Complete Works Of Game Music,4.46,14,0.1038
-783,Elder Gate  ,4.08,12,0.1038
-784,"Beautiful Katamari Damacy   ""katamari Suteki Damacy",4.21,14,0.1039
-785,Sonic The Hedgehog  Sound Track,4.39,18,0.1039
-786,Fairy Tail   ,4.22,16,0.1040
-787,Xenoblade2   [type B],4.79,26,0.1040
-788,R-type Final  Sound Tracks,3.70,15,0.1041
-789,Star Ocean -the Last Hope- Arrange ,3.88,16,0.1042
-790,"Bayonetta Preorder Purchase Bonus   ""rodin's Selection",4.40,15,0.1042
-791,Professor Layton And The Curious Village  ,3.79,17,0.1043
-792,Wanderers From Ys Super Arrange Version,3.77,13,0.1045
-793,Guilty Gear Xx Sound Alive / A.S.H.,3.87,15,0.1045
-794,Yoru No Nai Kuni Official Sound Track,4.42,13,0.1046
+774,Naruto Shippuden,4.67,21,0.1033
+775,Super Contra & A-jax,3.80,15,0.1033
+777,Double Dragon,4.50,12,0.1034
+778,Blood Of Bahamut,3.86,14,0.1034
+779,Final Fantasy,4.72,16,0.1034
+780,Fuujin Ryouiki Eretzvaju,4.29,14,0.1036
+781,Valkyrie Profile,3.47,17,0.1036
+782,Rockmanzero,4.46,14,0.1038
+783,Elder Gate,4.08,12,0.1038
+784,Beautiful Katamari Damacy,4.21,14,0.1039
+785,Sonic The Hedgehog,4.39,18,0.1039
+786,Fairy Tail,4.22,16,0.1040
+787,Xenoblade 2,4.79,26,0.1040
+788,R-type,3.70,15,0.1041
+789,Star Ocean,3.88,16,0.1042
+790,Bayonetta,4.40,15,0.1042
+791,Professor Layton And The Curious Village,3.79,17,0.1043
+792,Wanderers From Ys,3.77,13,0.1045
+793,Guilty Gear Xx Sound Alive,3.87,15,0.1045
+794,Yoru No Nai Kuni,4.42,13,0.1046
 795,Wanderings,4.41,11,0.1046
-796,The Legend Of Heroes Zero No Kiseki  ,4.00,13,0.1046
-797,Tales Of Destiny  ,3.75,12,0.1047
-798,Cowboy Bebop   3 Blue,3.65,13,0.1047
-799,Street Fighter V  ,4.03,15,0.1047
+796,The Legend Of Heroes Zero No Kiseki,4.00,13,0.1046
+797,Tales Of Destiny,3.75,12,0.1047
+798,Cowboy Bebop,3.65,13,0.1047
+799,Street Fighter V,4.03,15,0.1047
 800,Ninja Gaiden,4.21,12,0.1047
-801,"Symphonic Poem ""hope"" []",3.81,13,0.1050
-802,The Oneups ,4.10,15,0.1050
-803,Let's Tap ,3.75,16,0.1051
-804,Silent Hill Downpour  ,3.97,17,0.1054
-805,Dissidia 012[duodecim] Final Fantasy   [],3.77,26,0.1056
+801,Symphonic Poem,3.81,13,0.1050
+802,The Oneups,4.10,15,0.1050
+803,Let's Tap,3.75,16,0.1051
+804,Silent Hill Downpour,3.97,17,0.1054
+805,Final Fantasy,3.77,26,0.1056
 806,Beyond Good & Evil,4.19,18,0.1056
-807,Dragon Quest Ix Hoshizora No Mamoribito Synthesizer &  ,4.14,11,0.1056
-808,Front Mission 4 Plus 1st  ,3.96,12,0.1057
-809,The Vanishment Of Haruhi Suzumiya  ,4.58,12,0.1058
+807,Dragon Quest Ix Hoshizora No Mamoribito,4.14,11,0.1056
+808,Front Mission 4,3.96,12,0.1057
+809,The Vanishment Of Haruhi Suzumiya,4.58,12,0.1058
 810,Namco Game Sound Express ,4.04,14,0.1060
 811,Wanderings Ii,4.19,13,0.1062
-812,"Attack On Titan""   Ii",3.94,48,0.1062
-813,Genso Suikogaiden ,4.50,13,0.1062
+812,Attack On Titan,3.94,48,0.1062
+813,Genso Suikogaiden,4.50,13,0.1062
 814,Neon Genesis Evangelion Ii,3.93,15,0.1063
-815,Valkyrie Profile -covenant Of The Plume-  Sound Track,3.86,14,0.1065
-816,Final Fantasy Xiv - Eorzean Frontiers,4.05,11,0.1067
-817,Cyber Org  ,4.08,12,0.1067
-818,Granado Espada  Sound Track ,4.19,18,0.1067
-819,Parodius Da! -shinwa Kara Owaraihe-,3.77,11,0.1069
+815,Valkyrie Profile,3.86,14,0.1065
+816,Final Fantasy Xiv,4.05,11,0.1067
+817,Cyber Org,4.08,12,0.1067
+818,Granado Espada,4.19,18,0.1067
+819,Parodius Da!,3.77,11,0.1069
 820,Falcom J.D.K. Band 2 / Dalk Fukt No Gyakushuu,4.14,14,0.1070
-821,Evergrace  ,4.59,11,0.1070
+821,Evergrace,4.59,11,0.1070
 822,Doom Music,4.09,11,0.1072
 823,Raka / Akiko Shikata,4.75,16,0.1073
-824,Genso Suikoden Music Collection Produced By Hiroyuki Namba/played By Yajuh-ohkoku,4.25,16,0.1073
-825,Sonic Lost World   Without Boundaries,4.10,15,0.1074
-826,Cowboy Bebop   2 No Disc,3.75,12,0.1074
-827,"Makoto Shinkai Image Album ""promise",4.60,15,0.1075
-828,Falcom Boss Zanmai,3.82,17,0.1076
-829,Sakiya=rumei Ar Tonelico Iii Hymmnos Concert Side. Blue,4.37,15,0.1076
-830,Piano Opera Final Fantasy Vii/viii/ix,4.19,16,0.1083
-831,Capcom Music Generation Area 88  ,3.73,13,0.1083
-832,Street Fighter Iii 2nd Impact Giant Attack  Sound Track,4.29,12,0.1084
-833,Final Fantasy V Mambo De Chocobo,3.77,11,0.1085
-834,Heavensward: Final Fantasy Xiv  ,4.18,17,0.1086
+824,Genso Suikoden,4.25,16,0.1073
+825,Sonic Lost World,4.10,15,0.1074
+826,Cowboy Bebop,3.75,12,0.1074
+827,Makoto Shinkai,4.60,15,0.1075
+828,Zanmai,3.82,17,0.1076
+829,Sakiya=rumei Ar Tonelico Iii Hymmnos,4.37,15,0.1076
+830,Final Fantasy Viii,4.19,16,0.1083
+831,Area 88,3.73,13,0.1083
+832,Street Fighter Iii,4.29,12,0.1084
+833,Final Fantasy V,3.77,11,0.1085
+834,Final Fantasy Xiv,4.18,17,0.1086
 835,Nintendo Sound Selection ,4.09,17,0.1087
 836,Ghost Trick  Sound Track,4.53,18,0.1087
-838,Street Fighter Zero3  ,3.88,21,0.1089
-839,Tales Of Destiny2  ,3.71,19,0.1091
-840,Soldner-x: Himmelsstarmer Complete Edition  ,3.75,12,0.1091
-841,After Burner 20th Anniversary Box,4.43,14,0.1094
-842,Project Sylpheed  ,4.12,17,0.1095
+838,Street Fighter Zero 3,3.88,21,0.1089
+839,Tales Of Destiny 2,3.71,19,0.1091
+840,Soldner-x: Himmelsstarmer,3.75,12,0.1091
+841,After Burner,4.43,14,0.1094
+842,Project Sylpheed,4.12,17,0.1095
 843,Nintendo Sound Selection ,3.92,19,0.1097
-844,Winbee's Neo Cinema Club ~evergreen~,4.15,13,0.1097
-845,Hexyz Force  Sound Track,4.36,11,0.1097
-846,G-darius  Arcade Score,4.54,12,0.1099
+844,Winbee's Neo Cinema Club,4.15,13,0.1097
+845,Hexyz Force,4.36,11,0.1097
+846,G-darius,4.54,12,0.1099
 847,Takahashimeijin No Daiboukenjima,3.97,15,0.1099
 848,Mortal Kombat Ii,4.17,15,0.1099
 849,Hanjuku Hero Vs 3d  ,3.74,17,0.1100
-850,Phantasy Star Online  Sound Track,4.23,20,0.1100
-851,Shin Sekaiju No Meiq Millennium No Shoujo  ,4.14,18,0.1101
-852,Ninja Gaiden  Sound Trax,4.18,14,0.1101
-853,Terror In Resonance  ,4.31,18,0.1101
+850,Phantasy Star Online,4.23,20,0.1100
+851,Shin Sekaiju No Meiq Millennium No Shoujo,4.14,18,0.1101
+852,Ninja Gaiden,4.18,14,0.1101
+853,Terror In Resonance,4.31,18,0.1101
 854,Shin Megami Tensei: Devil Summoner 2: Raidou Kuzunoha Vs. King Abaddon ,4.18,14,0.1102
-855,Guwange / Esp Ra.De.  Sound Track,4.03,17,0.1103
+855,Guwange,4.03,17,0.1103
 856,Ganbare Goemon: Yukihime Kyuushutsu Emaki,4.33,12,0.1103
-857,Viewtiful Joe + Viewtiful Joe 2  ,4.04,13,0.1103
-858,Land Stalker ~koutei No Zaihou~,4.14,14,0.1104
-859,Halo 3  ,3.43,22,0.1105
-860,Rhapsodia  ,3.82,14,0.1105
-861,Competition / Sega Rally Championship Complete,4.05,11,0.1106
+857,Viewtiful Joe,4.04,13,0.1103
+858,Land Stalker,4.14,14,0.1104
+859,Halo 3,3.43,22,0.1105
+860,Rhapsodia,3.82,14,0.1105
+861,Competition,4.05,11,0.1106
 862,Distant Worlds: Music From Final Fantasy Returning Home,4.38,20,0.1107
-863,Classic Dungeon ~fuyoku No Masoujin~  ,4.64,11,0.1107
-864,Code Geass Lelouch Of The Rebellion R2 O.S.T.,4.62,13,0.1108
-865,Star Ocean Blue Sphere Arrange&sound Trax,4.07,15,0.1110
-866,Perfect Collection Sorcerian ,3.96,13,0.1111
+863,Classic Dungeon,4.64,11,0.1107
+864,Code Geass Lelouch Of The Rebellion R2,4.62,13,0.1108
+865,Star Ocean Blue Sphere,4.07,15,0.1110
+866,Perfect Collection Sorcerian,3.96,13,0.1111
 868,Murmur,4.25,12,0.1112
-869,Panzer Dragoon Orta Official ,4.50,15,0.1113
-870,Deltora Quest Seven Jewels  ,3.78,18,0.1116
-871,Vent ~ Grandia Arrange Version,3.42,19,0.1116
-872,Danganronpa  ,4.25,18,0.1117
-873,Suite Dragon Quest Ii -gods Of The Evil Spirits-,4.19,13,0.1119
-874,Final Fantasy Vi: Balance And Ruin,4.23,22,0.1119
-875,Gyakuten Saiban 4  ,3.56,17,0.1120
+869,Panzer Dragoon Orta,4.50,15,0.1113
+870,Deltora Quest Seven Jewels,3.78,18,0.1116
+871,Grandia,3.42,19,0.1116
+872,Danganronpa,4.25,18,0.1117
+873,Dragon Quest Ii,4.19,13,0.1119
+874,Final Fantasy Vi,4.23,22,0.1119
+875,Gyakuten Saiban 4,3.56,17,0.1120
 876,Raystorm,4.38,12,0.1120
-877,Front Mission 2   [],4.18,11,0.1121
-878,Complete Trinity: Sonic Heroes -  Soundtrax,4.04,24,0.1121
-879,Ghost In The Shell  ,4.36,11,0.1122
-880,Berserk  ,4.86,14,0.1123
-881,World Of Goo ,4.38,16,0.1123
-882,Game Sound Museum ~famicom Edition~ 01 Super Mario Bros.,4.50,11,0.1123
-884,Time Travelers  ,3.73,15,0.1123
-885,Kingdom Hearts  ,4.39,18,0.1126
-887,Super Street Fighter Ii Turbo Hd Remix Official  / Overclocked Remix,3.42,25,0.1127
-888,Streets Of Rage Remake,4.54,12,0.1127
-889,Devil May Cry 4  ,4.00,16,0.1128
+877,Front Mission 2,4.18,11,0.1121
+878,Complete Trinity: Sonic Heroes,4.04,24,0.1121
+879,Ghost In The Shell,4.36,11,0.1122
+880,Berserk,4.86,14,0.1123
+881,World Of Goo,4.38,16,0.1123
+882,Super Mario Bros.,4.50,11,0.1123
+884,Time Travelers,3.73,15,0.1123
+885,Kingdom Hearts,4.39,18,0.1126
+887,Super Street Fighter Ii: Turbo Revival,3.42,25,0.1127
+888,Streets Of Rage,4.54,12,0.1127
+889,Devil May Cry 4,4.00,16,0.1128
 890,The Legend Of Zelda: Twilight Princess,3.26,27,0.1128
-891,Sonic The Hedgehog 10th Anniversary,4.46,13,0.1130
-892,Final Fight -g.S.M. Capcom 3-,4.00,12,0.1130
-893,Atelier Rorona  Sound Track,4.30,22,0.1131
+891,Sonic The Hedgehog,4.46,13,0.1130
+892,Final Fight,4.00,12,0.1130
+893,Atelier Rorona,4.30,22,0.1131
 894,Symphonic Fantasies Tokyo,4.96,13,0.1132
-895,Press Start The 5th Anniversary,4.30,15,0.1132
-896,"Kokoro / Joanne Hogg Theme From ""xenosaga Episode I",3.95,11,0.1132
-897,Zone Of The Enders Z.O.E  ,4.03,16,0.1133
-898,Inazuma Eleven  ,3.90,15,0.1135
+895,Press Start,4.30,15,0.1132
+896,Xenosaga,3.95,11,0.1132
+897,Zone Of The Enders,4.03,16,0.1133
+898,Inazuma Eleven,3.90,15,0.1135
 899,Namco Game Sound Express ,3.96,13,0.1135
-900,Tenchi Wo Kurau Ii: The Battle Of Red Cliff -g.S.M. Capcom 7-,4.27,13,0.1135
-901,.Hack//g.U. Game Music O.S.T.,4.32,14,0.1136
-902,Angel Beats!  ,4.16,22,0.1136
-903,Seiken Densetsu Ds Children Of Mana - -,3.64,14,0.1137
+900,Tenchi Wo Kurau Ii: The Battle Of Red Cliff,4.27,13,0.1135
+901,.Hack//g.U.,4.32,14,0.1136
+902,Angel Beats!,4.16,22,0.1136
+903,Seiken Densetsu Ds Children Of Mana,3.64,14,0.1137
 904,Gokujou Parodius,4.36,14,0.1138
-905,The Elder Scrolls Iii: Morrowind Special Edition ,4.20,15,0.1138
-906,Noir   I,4.03,17,0.1140
+905,The Elder Scrolls Iii: Morrowind,4.20,15,0.1138
+906,Noir,4.03,17,0.1140
 907,Street Fighter Iii: New Generation,4.00,12,0.1140
 908,Nobuo Uematsu's 10 Short Stories,3.92,13,0.1140
 909,Ys Zanmai,3.97,16,0.1141
-910,Do-don-pachi Dai-fukkatsu Arrange Album,3.56,17,0.1141
+910,Do-don-pachi Dai-fukkatsu,3.56,17,0.1141
 911,Octave Theory,3.76,25,0.1143
-912,Aldnoah.Zero  ,4.19,34,0.1144
-913,The Legend Of Heroes Sora No Kiseki The 3rd  Sound Track,4.40,15,0.1144
+912,Aldnoah.Zero,4.19,34,0.1144
+913,The Legend Of Heroes Sora No Kiseki The 3rd,4.40,15,0.1144
 914,Contra 4: Rocked 'n' Loaded,4.28,18,0.1145
-917,Soul Edge Arcade Edition  Sound Track Super Battle Sound Attack,3.92,13,0.1148
-918,Flame ~homura Ar Tonelico Ii Hymmnos Concert Side Crimson,4.23,15,0.1148
-919,Melody Of Legend ~ Chapter Of Love,3.61,14,0.1148
-920,The Second Apocalypse: Ketsui ~kizunajigokutachi~ Perfect Sound Track,3.86,11,0.1148
-921,God Eater 2 & God Eater 2 Rage Burst  ,4.34,19,0.1149
-922,The Bouncer  ,3.61,14,0.1150
+917,Soul Edge Arcade Edition,3.92,13,0.1148
+918,Flame,4.23,15,0.1148
+919,Legend,3.61,14,0.1148
+920,The Second Apocalypse: Ketsui,3.86,11,0.1148
+921,God Eater 2,4.34,19,0.1149
+922,The Bouncer,3.61,14,0.1150
 923,Mother,4.03,18,0.1150
-925,Singing The Stars ~hoshiyomi~ Ar Tonelico Hymmnos Concert Side Blue,4.56,16,0.1150
-926,Rockman Zero Collection  - Resonnant Vie -,4.28,18,0.1151
-927,Ace Combat 3d: Cross Rumble  ,3.78,18,0.1151
-928,Mother3i,3.81,13,0.1154
-929,Genso Suikoden Tsumugareshi Hyakunen No Toki  ,4.23,11,0.1154
-930,To The Moon  ,4.40,15,0.1154
-931,Do-don-pachi Dai-fukkatsu Black Label Arrange Mode Album,3.77,15,0.1154
-932,Puella Magi Madoka Magica Music Collection,4.38,21,0.1156
-933,Super Mario Sound Collection,4.19,16,0.1157
-934,Perfect Selection Snatcher & Sd Snatcher,4.20,15,0.1157
-935,Front Mission 5 ~scars Of The War~  ,4.00,12,0.1157
-936,Chrono Cross ~memory Of Music~,3.93,15,0.1161
+925,Singing The Stars,4.56,16,0.1150
+926,Rockman Zero,4.28,18,0.1151
+927,Ace Combat 3d: Cross Rumble,3.78,18,0.1151
+928,Mother 3,3.81,13,0.1154
+929,Genso Suikoden Tsumugareshi Hyakunen No Toki,4.23,11,0.1154
+930,To The Moon,4.40,15,0.1154
+931,Do-don-pachi Dai-fukkatsu,3.77,15,0.1154
+932,Puella Magi Madoka Magica,4.38,21,0.1156
+933,Super Mario,4.19,16,0.1157
+934,Perfect Selection Snatcher,4.20,15,0.1157
+935,Front Mission 5,4.00,12,0.1157
+936,Chrono Cross,3.93,15,0.1161
 937,Video Games Live: ,3.29,21,0.1165
 938,Calling All Dawns,4.53,16,0.1166
-940,World Of Warcraft ,4.00,15,0.1167
-941,Bushido Blade 2  ,4.21,14,0.1168
-943,Final Fantasy Xi Chains Of Promathia  ,3.67,18,0.1169
-944,Mushihimesama Cave Festival Ver1.5 -arrange Album-,3.88,13,0.1170
+940,World Of Warcraft,4.00,15,0.1167
+941,Bushido Blade 2,4.21,14,0.1168
+943,Final Fantasy Xi: Chains Of Promathia  ,3.67,18,0.1169
+944,Mushihimesama Cave Festival,3.88,13,0.1170
 945,Lagrange Point,4.42,12,0.1171
-946,Dragon's Dogma  ,3.94,17,0.1171
+946,Dragon's Dogma,3.94,17,0.1171
 947,Perfect Selection Sound Racing History,4.42,13,0.1171
-948,Valkyrie Profile -lenneth- Arrange Album,4.29,14,0.1174
-949,Frontier Gate  ,4.00,14,0.1176
+948,Valkyrie Profile,4.29,14,0.1174
+949,Frontier Gate,4.00,14,0.1176
 950,Namco Game Sound Express ,4.18,17,0.1177
-951,Atelier Escha & Logy -alchemist Of Dusk Sky-  ,4.21,17,0.1177
-952,Abandoner  Sound Track,4.53,15,0.1177
-954,Senko No Ronde Dis-united Order Sound Track,4.04,14,0.1180
-955,Gyakuten Saiban 5  ,4.18,14,0.1181
-956,Cadenza -gyakuten Saiban 1-,4.30,15,0.1181
-957,Wangan Midnight Maximum Tune 4  ,3.72,16,0.1182
-958,Ganbare Goemon~neo Momoyama-bakufu No Odori~  Game ,4.43,15,0.1182
+951,Atelier Escha & Logy,4.21,17,0.1177
+952,Abandoner,4.53,15,0.1177
+954,Senko No Ronde Dis-united Order,4.04,14,0.1180
+955,Gyakuten Saiban 5,4.18,14,0.1181
+956,Cadenza,4.30,15,0.1181
+957,Wangan Midnight,3.72,16,0.1182
+958,Ganbare Goemon,4.43,15,0.1182
 959,Street Fighter Ex,4.07,14,0.1183
-960,Escaflowne  Sound Track,4.46,13,0.1183
-961,Tekken4  Sound Tracks,3.75,12,0.1183
-962,Soukyugurentai  ,3.73,15,0.1184
-963,Devil May Cry O.S.T.,4.50,11,0.1184
-964,Pachislot Akumajo Dracula  ,3.69,18,0.1185
-965,Okamiden ~chiisaki Taiyou~ Oto To Hikari No Tamatebako,4.91,11,0.1185
-966,Labyrinth No Kanata  ,4.50,15,0.1187
-967,Rockman Zx : Zx Tunes,4.52,23,0.1187
-968,Code Geass Lelouch Of The Rebellion O.S.T.,4.54,12,0.1188
-969,Detana Twinbee / Konami Kukeiha Club,4.41,11,0.1189
-970,Tenkuu No Shiro Laputa  -hikouseki No Nazo-,4.21,12,0.1189
-971,Dune - Spice Opera,4.47,16,0.1190
-972,Shin Megami Tensei Iv  ,3.91,29,0.1192
+960,Escaflowne,4.46,13,0.1183
+961,Tekken 4,3.75,12,0.1183
+962,Soukyugurentai,3.73,15,0.1184
+963,Devil May Cry,4.50,11,0.1184
+964,Pachislot Akumajo Dracula,3.69,18,0.1185
+965,Okamiden,4.91,11,0.1185
+966,Labyrinth No Kanata,4.50,15,0.1187
+967,Rockman Zx,4.52,23,0.1187
+968,Code Geass Lelouch Of The Rebellion,4.54,12,0.1188
+969,Detana Twinbee,4.41,11,0.1189
+970,Tenkuu No Shiro Laputa,4.21,12,0.1189
+971,Dune,4.47,16,0.1190
+972,Shin Megami Tensei Iv,3.91,29,0.1192
 973,Nintendo All Star! Dairantou Smash Brothers  ,3.95,21,0.1194
-974,Fez  ,3.69,18,0.1196
+974,Fez,3.69,18,0.1196
 975,Dark Cloud  ,3.88,17,0.1197
-976,Suite Gradius Fantasia,4.12,13,0.1198
-977,Odin Sphere Leifthrasir  ,4.00,16,0.1198
-978,Atelier Shallie -alchemist Of The Sea Of Dusk-  ,4.36,14,0.1199
-979,Enemy Zero  ,4.44,16,0.1200
-980,Technosoft Game Music Collection ,4.33,12,0.1201
+976,Gradius,4.12,13,0.1198
+977,Odin Sphere Leifthrasir,4.00,16,0.1198
+978,Atelier Shallie,4.36,14,0.1199
+979,Enemy Zero,4.44,16,0.1200
+980,Technosoft,4.33,12,0.1201
 981,Ys Healing,4.04,14,0.1201
-982,The Lunatic: Ibara Remix Tracks,4.10,15,0.1202
-983,Piano Opera Final Fantasy Iv/v/vi,3.74,23,0.1202
-984,Shin Megami Tensei: Digital Devil Saga 2  ,4.18,17,0.1203
-985,Radiata Stories  ,3.77,15,0.1204
+982,The Lunatic: Ibara,4.10,15,0.1202
+983,Final Fantasy V,3.74,23,0.1202
+984,Shin Megami Tensei: Digital Devil Saga 2,4.18,17,0.1203
+985,Radiata Stories,3.77,15,0.1204
 987,Vampire Savior: The Lord Of Vampire,4.07,14,0.1206
 988,Demon's Souls,3.71,33,0.1207
-989,Hospital. -six Doctors-  ,4.53,17,0.1207
-991,Neo Contra  ,4.50,15,0.1208
-992,Guwange Arrange Album +  Sound Track,4.00,11,0.1209
-993,Donkey Kong Country 3: Dixie Kong's Double Trouble!  ,3.77,22,0.1209
+989,Hospital.,4.53,17,0.1207
+991,Neo Contra,4.50,15,0.1208
+992,Guwange,4.00,11,0.1209
+993,Donkey Kong Country 3: Dixie Kong's Double Trouble!,3.77,22,0.1209
 994,Resolution Trigger,4.59,11,0.1210
-995,Red Dead Redemption  ,4.00,17,0.1210
-996,God Of War Iii:   From The Video Game,3.79,12,0.1213
-997,Starcraft Ii: Wings Of Liberty ,4.24,17,0.1215
-998,Shin Onimusha Dawn Of Dreams Special Pack  ,4.25,16,0.1215
-999,Umihara Kawase ,4.50,14,0.1215
-1000,Final Fantasy Xv  ,3.60,31,0.1216
+995,Red Dead Redemption,4.00,17,0.1210
+996,God Of War Iii,3.79,12,0.1213
+997,Starcraft Ii: Wings Of Liberty,4.24,17,0.1215
+998,Shin Onimusha Dawn Of Dreams,4.25,16,0.1215
+999,Umihara Kawase,4.50,14,0.1215
+1000,Final Fantasy Xv,3.60,31,0.1216
 1001,Heavy Rain  Videogame Score,3.60,21,0.1217
 1002,Square Enix Music Presents Music For Art,4.21,12,0.1219
 1003,Fiction Ii,4.33,12,0.1220
