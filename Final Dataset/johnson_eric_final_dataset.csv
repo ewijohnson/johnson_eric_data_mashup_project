@@ -1017,382 +1017,380 @@
 1015,Shinobi,PS2,2002,Platform,Sony Computer Entertainment,71.0,7.9,Overworks,M,Rod Abernethy,,10359.0,3.27,4.5,0.1984,
 1016,Shinobi,3DS,2011,Platform,Sega,69.0,7.3,Griptonite Games,T,Rod Abernethy,,10359.0,3.27,4.53,0.128,
 1017,Shinobi,3DS,2011,Platform,Sega,69.0,7.3,Griptonite Games,T,Rod Abernethy,,10359.0,3.27,4.5,0.1984,
-1018,Shinobi, Koi Utsutsu: Setsugetsuka Koi Emaki,PSV,2015,Action,0.01,,,,Rod Abernethy,,10359.0,3.27,4.53,0.128,
-1019,Shinobi, Koi Utsutsu: Setsugetsuka Koi Emaki,PSV,2015,Action,0.01,,,,Rod Abernethy,,10359.0,3.27,4.5,0.1984,
-1020,Wild Arms,PS,1996,Role-Playing,Sony Computer Entertainment,,,,,Michiko Naruke,,6668.0,4.08,3.88,0.1335,
-1021,Wild Arms,PS,1996,Role-Playing,Sony Computer Entertainment,,,,,Michiko Naruke,,6668.0,4.08,3.86,0.1478,
-1022,Wild Arms,PS,1996,Role-Playing,Sony Computer Entertainment,,,,,Michiko Naruke,,6668.0,4.08,4.11,0.2234,
-1023,Wild Arms,PS,1996,Role-Playing,Sony Computer Entertainment,,,,,Michiko Naruke,,6668.0,4.08,4.14,0.2423,
-1024,Castlevania Ii: Simon's Quest,NES,1987,Platform,Konami Digital Entertainment,,,,,Michiko Naruke,,6668.0,4.08,,,519.0
-1025,Xenoblade Chronicles,Wii,2010,Role-Playing,Nintendo,92.0,8.9,Monolith Soft,T,Yasunori Mitsuda,1972-01-21,6165.0,4.11,,,45.0
-1026,Xenoblade Chronicles,Wii,2010,Role-Playing,Nintendo,92.0,8.9,Monolith Soft,T,Yoko Shimomura,1967-10-19,6964.0,4.06,,,45.0
-1027,Xenoblade Chronicles,3DS,2015,Role-Playing,Nintendo,,,,,Yasunori Mitsuda,1972-01-21,6165.0,4.11,,,45.0
-1028,Xenoblade Chronicles,3DS,2015,Role-Playing,Nintendo,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,,,45.0
-1029,Crysis 3,X360,2013,Shooter,Electronic Arts,76.0,6.7,Crytek,M,Graeme Norgate,1971-03-20,7669.0,4.01,,,448.0
-1030,Crysis 3,PS3,2013,Shooter,Electronic Arts,77.0,6.3,Crytek,M,Graeme Norgate,1971-03-20,7669.0,4.01,,,448.0
-1031,Crysis 3,PC,2013,Shooter,Electronic Arts,76.0,6.5,Crytek,M,Graeme Norgate,1971-03-20,7669.0,4.01,,,448.0
-1032,Castlevania: Circle Of The Moon,GBA,2001,Platform,Konami Digital Entertainment,91.0,8.5,KCEK,T,Taro Kudo,,3388.0,4.27,4.27,0.2526,
-1033,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,219.0
-1034,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,605.0
-1035,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,219.0
-1036,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,605.0
-1037,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,219.0
-1038,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,605.0
-1039,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,219.0
-1040,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,605.0
-1041,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,219.0
-1042,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,605.0
-1043,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,219.0
-1044,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,605.0
-1045,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,219.0
-1046,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,605.0
-1047,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,219.0
-1048,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,605.0
-1049,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,219.0
-1050,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,605.0
-1051,Darksiders Ii,PS3,2012,Action,THQ,84.0,7.1,Vigil Games,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
-1052,Darksiders Ii,X360,2012,Action,THQ,83.0,8,Vigil Games,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
-1053,Darksiders Ii,PS4,2015,Action,Nordic Games,,,,,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
-1054,Darksiders Ii,PC,2012,Action,Nordic Games,81.0,7.8,Vigil Games,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
-1055,Darksiders Ii,WiiU,2012,Action,THQ,85.0,8.2,Vigil Games,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
-1056,Darksiders Ii,XOne,2015,Action,Nordic Games,,,,,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
-1057,Xenoblade Chronicles X,WiiU,2015,Role-Playing,Nintendo,84.0,8.9,Monolith Soft,T,Yasunori Mitsuda,1972-01-21,6165.0,4.11,1.5,0.0091,131.0
-1058,Rogue Galaxy,PS2,2005,Role-Playing,Sony Computer Entertainment,83.0,8.4,Level 5,T,Tomohito Nishiura,1973-02-13,6999.0,4.06,4.07,0.1274,
-1059,Rogue Galaxy,PS2,2005,Role-Playing,Sony Computer Entertainment,83.0,8.4,Level 5,T,Tomohito Nishiura,1973-02-13,6999.0,4.06,4.21,0.1456,
-1060,Rogue Galaxy,PS2,2005,Role-Playing,Sony Computer Entertainment,83.0,8.4,Level 5,T,Yoko Shimomura,1967-10-19,6964.0,4.06,4.07,0.1274,
-1061,Rogue Galaxy,PS2,2005,Role-Playing,Sony Computer Entertainment,83.0,8.4,Level 5,T,Yoko Shimomura,1967-10-19,6964.0,4.06,4.21,0.1456,
-1062,Ace Combat 3: Electrosphere,PS,1999,Simulation,Sony Computer Entertainment,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.05,0.1659,949.0
-1063,Street Fighter X Tekken,PS3,2012,Fighting,Capcom,84.0,5.3,Capcom,T,Nobuyoshi Sano,1969-01-19,8811.0,3.89,3.09,0.0405,
-1064,Street Fighter X Tekken,PS3,2012,Fighting,Capcom,84.0,5.3,Capcom,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.09,0.0405,
-1065,Street Fighter X Tekken,X360,2012,Fighting,Capcom,83.0,4.4,Capcom,T,Nobuyoshi Sano,1969-01-19,8811.0,3.89,3.09,0.0405,
-1066,Street Fighter X Tekken,X360,2012,Fighting,Capcom,83.0,4.4,Capcom,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.09,0.0405,
-1067,Street Fighter X Tekken,PSV,2012,Fighting,Capcom,79.0,7.5,Capcom,T,Nobuyoshi Sano,1969-01-19,8811.0,3.89,3.09,0.0405,
-1068,Street Fighter X Tekken,PSV,2012,Fighting,Capcom,79.0,7.5,Capcom,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.09,0.0405,
-1069,Street Fighter X Tekken,PC,2012,Fighting,Capcom,79.0,6.4,Capcom, QLOC,Nobuyoshi Sano,1969-01-19,8811.0,3.89,3.09,0.0405,
-1070,Street Fighter X Tekken,PC,2012,Fighting,Capcom,79.0,6.4,Capcom, QLOC,Yuu Miyake,1973-11-19,7946.0,3.99,3.09,0.0405,
-1071,Mega Man,NES,1987,Platform,Capcom,,,,,Akari Kaida,1974-01-10,7252.0,4.04,,,720.0
-1072,Mega Man,NES,1987,Platform,Capcom,,,,,Alph Lyla,,,,,,720.0
-1073,Final Fantasy Xi: Wings Of The Goddess,PS2,2007,Role-Playing,Square Enix,,tbd,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.57,0.1476,
-1074,Final Fantasy Xi: Wings Of The Goddess,X360,2007,Role-Playing,Square Enix,63.0,5.8,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.57,0.1476,
-1075,Hitman: Contracts,PS2,2004,Shooter,Eidos Interactive,80.0,8.3,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.15,0.0797,
-1076,Hitman: Contracts,XB,2004,Shooter,Eidos Interactive,78.0,8.8,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.15,0.0797,
-1077,Doom,PS,1994,Shooter,Infogrames,,,,,Allister Brimble,1970-11-29,5930.0,4.13,4.55,0.0621,
-1078,Doom,GBA,2001,Shooter,Activision,81.0,8.5,David A. Palmer Productions,T,Allister Brimble,1970-11-29,5930.0,4.13,4.55,0.0621,
-1079,Doom,PC,1992,Shooter,id Software,85.0,8.2,id Software,M,Allister Brimble,1970-11-29,5930.0,4.13,4.55,0.0621,
-1080,The World Ends With You,DS,2007,Role-Playing,Square Enix,88.0,8.9,Jupiter Corporation,T,Yoko Shimomura,1967-10-19,6964.0,4.06,,,159.0
-1081,The World Ends With You,DS,2007,Role-Playing,Square Enix,88.0,8.9,Jupiter Corporation,T,Yoko Shimomura,1967-10-19,6964.0,4.06,,,472.0
-1082,Bayonetta 2,WiiU,2014,Action,Nintendo,91.0,8.2,PlatinumGames,M,Norihiko Hibino,1973-09-03,7388.0,4.03,3.5,0.0854,242.0
-1083,Bayonetta 2,WiiU,2014,Action,Nintendo,91.0,8.2,PlatinumGames,M,Takahiro Izutani,,7596.0,4.02,3.5,0.0854,242.0
-1084,Soulcalibur V,PS3,2012,Fighting,Namco Bandai Games,81.0,6.7,Project Soul,T,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.1787,317.0
-1085,Soulcalibur V,PS3,2012,Fighting,Namco Bandai Games,81.0,6.7,Project Soul,T,Lorne Balfe,1976-02-23,7553.0,4.02,4.35,0.1787,317.0
-1086,Soulcalibur V,PS3,2012,Fighting,Namco Bandai Games,81.0,6.7,Project Soul,T,Winifred Phillips,,9787.0,3.68,4.35,0.1787,317.0
-1087,Soulcalibur V,X360,2012,Fighting,Namco Bandai Games,77.0,6.2,Project Soul,T,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.1787,317.0
-1088,Soulcalibur V,X360,2012,Fighting,Namco Bandai Games,77.0,6.2,Project Soul,T,Lorne Balfe,1976-02-23,7553.0,4.02,4.35,0.1787,317.0
-1089,Soulcalibur V,X360,2012,Fighting,Namco Bandai Games,77.0,6.2,Project Soul,T,Winifred Phillips,,9787.0,3.68,4.35,0.1787,317.0
-1090,Zone Of The Enders,PS2,2001,Shooter,Konami Digital Entertainment,78.0,7.4,KCEJ,M,Norihiko Hibino,1973-09-03,7388.0,4.03,3.47,0.0555,
-1091,Zone Of The Enders,PS2,2001,Shooter,Konami Digital Entertainment,78.0,7.4,KCEJ,M,Norihiko Hibino,1973-09-03,7388.0,4.03,4.03,0.1133,
-1092,Final Fantasy Tactics A2: Grimoire Of The Rift,DS,2007,Role-Playing,Square Enix,80.0,6.9,Square Enix,E10+,Masaharu Iwata,1966-10-26,6417.0,4.1,4.08,0.212,
-1093,Sword Of Mana,GBA,2003,Role-Playing,Nintendo,72.0,8.3,Brownie Brown,E,Kenji Ito,1968-07-05,7488.0,4.02,3.67,0.1465,
-1094,Katamari Damacy,PS2,2004,Puzzle,Namco Bandai Games,86.0,9,Namco,E,Yuu Miyake,1973-11-19,7946.0,3.99,4.77,0.1004,361.0
-1095,Katamari Damacy,PS2,2004,Puzzle,Namco Bandai Games,86.0,9,Namco,E,Yuu Miyake,1973-11-19,7946.0,3.99,4.34,0.3024,361.0
-1096,God Eater,PSP,2010,Action,Unknown,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.4,0.2661,333.0
-1097,God Eater,PSP,2010,Action,Unknown,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.4,0.2661,428.0
-1098,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.23,0.177,911.0
-1099,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.23,0.177,990.0
-1100,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.33,0.2774,911.0
-1101,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.33,0.2774,990.0
-1102,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Rika Muranaka,,4174.0,4.23,4.23,0.177,911.0
-1103,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Rika Muranaka,,4174.0,4.23,4.23,0.177,990.0
-1104,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Rika Muranaka,,4174.0,4.23,4.33,0.2774,911.0
-1105,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Rika Muranaka,,4174.0,4.23,4.33,0.2774,990.0
-1106,Tactics Ogre: Let Us Cling Together,SNES,1995,Role-Playing,Quest,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.37,0.2644,
-1107,Tactics Ogre: Let Us Cling Together,SNES,1995,Role-Playing,Quest,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.37,0.2644,
-1108,Tactics Ogre: Let Us Cling Together,PSP,2010,Role-Playing,Square Enix,87.0,8.8,Square Enix,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.37,0.2644,
-1109,Tactics Ogre: Let Us Cling Together,PSP,2010,Role-Playing,Square Enix,87.0,8.8,Square Enix,T,Masaharu Iwata,1966-10-26,6417.0,4.1,4.37,0.2644,
-1110,Ace Attorney Investigations: Miles Edgeworth,DS,2009,Adventure,Capcom,78.0,8.4,Capcom,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,,,994.0
-1111,Catherine,PS3,2011,Adventure,Deep Silver,79.0,8.1,Atlus,M,Shoji Meguro,1971-06-04,7891.0,3.99,4.0,0.1347,903.0
-1112,Catherine,PS3,2011,Adventure,Deep Silver,79.0,8.1,Atlus,M,Shoji Meguro,1971-06-04,7891.0,3.99,3.82,0.1642,903.0
-1113,Catherine,X360,2011,Adventure,Deep Silver,82.0,7.9,Atlus,M,Shoji Meguro,1971-06-04,7891.0,3.99,4.0,0.1347,903.0
-1114,Catherine,X360,2011,Adventure,Deep Silver,82.0,7.9,Atlus,M,Shoji Meguro,1971-06-04,7891.0,3.99,3.82,0.1642,903.0
-1115,The Last Remnant,X360,2008,Role-Playing,Square Enix,66.0,6.9,Square Enix,M,Tsuyoshi Sekito,1963-04-03,7348.0,4.04,4.3,0.2901,
-1116,The Last Remnant,PC,2009,Role-Playing,Square Enix,66.0,8.3,Square Enix,M,Tsuyoshi Sekito,1963-04-03,7348.0,4.04,4.3,0.2901,
-1117,Prince Of Persia: The Two Thrones,PS2,2005,Action,Ubisoft,85.0,8.5,Ubisoft Montreal,M,Rod Abernethy,,10359.0,3.27,,,758.0
-1118,Prince Of Persia: The Two Thrones,PS2,2005,Action,Ubisoft,85.0,8.5,Ubisoft Montreal,M,Stuart Chatwood,1969-10-22,5430.0,4.16,,,758.0
-1119,Prince Of Persia: The Two Thrones,XB,2005,Action,Ubisoft,85.0,8.4,Ubisoft,M,Rod Abernethy,,10359.0,3.27,,,758.0
-1120,Prince Of Persia: The Two Thrones,XB,2005,Action,Ubisoft,85.0,8.4,Ubisoft,M,Stuart Chatwood,1969-10-22,5430.0,4.16,,,758.0
-1121,Prince Of Persia: The Two Thrones,GC,2005,Action,Ubisoft,84.0,8.1,Ubisoft,M,Rod Abernethy,,10359.0,3.27,,,758.0
-1122,Prince Of Persia: The Two Thrones,GC,2005,Action,Ubisoft,84.0,8.1,Ubisoft,M,Stuart Chatwood,1969-10-22,5430.0,4.16,,,758.0
-1123,Final Fantasy Crystal Chronicles: Ring Of Fates,DS,2007,Role-Playing,Square Enix,77.0,7.2,Square Enix,E10+,Kumi Tanioka,1974-08-29,8206.0,3.96,4.13,0.2224,
-1124,Radiata Stories,PS2,2005,Role-Playing,Square Enix,74.0,9,Tri-Ace,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.77,0.1204,
-1125,Super Castlevania Iv,SNES,1991,Platform,Konami Digital Entertainment,,,,,Kinuyo Yamashita,,6552.0,4.09,,,543.0
-1126,Super Castlevania Iv,SNES,1991,Platform,Konami Digital Entertainment,,,,,Michiru Yamane,1963-09-23,6105.0,4.12,,,543.0
-1127,Super Castlevania Iv,SNES,1991,Platform,Konami Digital Entertainment,,,,,Taro Kudo,,3388.0,4.27,,,543.0
-1128,Okami,PS2,2006,Action,Capcom,93.0,9.3,Clover Studio,T,Akari Kaida,1974-01-10,7252.0,4.04,3.91,0.1519,
-1129,Okami,PS2,2006,Action,Capcom,93.0,9.3,Clover Studio,T,Akari Kaida,1974-01-10,7252.0,4.04,4.44,0.4882,
-1130,Okami,PS2,2006,Action,Capcom,93.0,9.3,Clover Studio,T,Alph Lyla,,,,3.91,0.1519,
-1131,Okami,PS2,2006,Action,Capcom,93.0,9.3,Clover Studio,T,Alph Lyla,,,,4.44,0.4882,
-1132,Okami,Wii,2008,Action,Capcom,90.0,8.9,Ready at Dawn,T,Akari Kaida,1974-01-10,7252.0,4.04,3.91,0.1519,
-1133,Okami,Wii,2008,Action,Capcom,90.0,8.9,Ready at Dawn,T,Akari Kaida,1974-01-10,7252.0,4.04,4.44,0.4882,
-1134,Okami,Wii,2008,Action,Capcom,90.0,8.9,Ready at Dawn,T,Alph Lyla,,,,3.91,0.1519,
-1135,Okami,Wii,2008,Action,Capcom,90.0,8.9,Ready at Dawn,T,Alph Lyla,,,,4.44,0.4882,
-1136,Okami,PS3,2012,Action,Capcom,,,,,Akari Kaida,1974-01-10,7252.0,4.04,3.91,0.1519,
-1137,Okami,PS3,2012,Action,Capcom,,,,,Akari Kaida,1974-01-10,7252.0,4.04,4.44,0.4882,
-1138,Okami,PS3,2012,Action,Capcom,,,,,Alph Lyla,,,,3.91,0.1519,
-1139,Okami,PS3,2012,Action,Capcom,,,,,Alph Lyla,,,,4.44,0.4882,
-1140,Viewtiful Joe,GC,2003,Action,Capcom,93.0,8.3,Clover Studio,T,Akari Kaida,1974-01-10,7252.0,4.04,4.04,0.1103,
-1141,Viewtiful Joe,GC,2003,Action,Capcom,93.0,8.3,Clover Studio,T,Alph Lyla,,,,4.04,0.1103,
-1142,Viewtiful Joe,PS2,2004,Action,Capcom,90.0,8.5,Clover Studio,T,Akari Kaida,1974-01-10,7252.0,4.04,4.04,0.1103,
-1143,Viewtiful Joe,PS2,2004,Action,Capcom,90.0,8.5,Clover Studio,T,Alph Lyla,,,,4.04,0.1103,
-1144,Suikoden,PS,1995,Role-Playing,Konami Digital Entertainment,,,,,Kentaro Haneda,,4110.0,4.23,5.0,0.1348,
-1145,Suikoden,PS,1995,Role-Playing,Konami Digital Entertainment,,,,,Michiru Oshima,1961-03-16,7193.0,4.05,5.0,0.1348,
-1146,Suikoden,PS,1995,Role-Playing,Konami Digital Entertainment,,,,,Miki Higashino,1968-01-01,4368.0,4.22,5.0,0.1348,
-1147,Front Mission,SNES,1995,Strategy,SquareSoft,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,3.93,0.2293,
-1148,Front Mission,DS,2007,Strategy,Square Enix,72.0,8.9,Square Enix,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,3.93,0.2293,
-1149,Total War: Shogun 2,PC,2011,Strategy,Sega,90.0,8.3,Creative Assembly,T,Jeff van Dyck,,,,,,612.0
-1150,Mega Man X7,PS2,2003,Action,Capcom,58.0,5.1,Valuewave Co.,Ltd.,Noriyuki Iwadare,1964-04-28,7123.0,4.05,,,722.0
-1151,Sonic & All-stars Racing Transformed,X360,2012,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
-1152,Sonic & All-stars Racing Transformed,WiiU,2012,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
-1153,Sonic & All-stars Racing Transformed,PS3,2012,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
-1154,Sonic & All-stars Racing Transformed,PSV,2012,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
-1155,Sonic & All-stars Racing Transformed,3DS,2012,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
-1156,Sonic & All-stars Racing Transformed,PC,2013,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
-1157,Unreal Tournament,PS2,2000,Shooter,Infogrames,77.0,6.8,Epic Games,M,Alexander Brandon,1974-09-29,6662.0,4.08,,,693.0
-1158,Unreal Tournament,PS2,2000,Shooter,Infogrames,77.0,6.8,Epic Games,M,Andrew Sega,1975-05-20,7849.0,4,,,693.0
-1159,Unreal Tournament,PS2,2000,Shooter,Infogrames,77.0,6.8,Epic Games,M,Michiel van den Bos,1975-05-23,8891.0,3.88,,,693.0
-1160,Unreal Tournament,PS2,2000,Shooter,Infogrames,77.0,6.8,Epic Games,M,Peter Hajba,1974-12-15,,,,,693.0
-1161,Parasite Eve Ii,PS,1999,Role-Playing,SquareSoft,79.0,9,SquareSoft,M,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.39,0.1356,
-1162,Breath Of Fire Iv,PS,2000,Role-Playing,Capcom,83.0,8.9,Capcom,T,Yoshino Aoki,,7006.0,4.06,3.9,0.171,
-1163,Tales Of Zestiria,PS3,2015,Role-Playing,Namco Bandai Games,,8,Namco Bandai Games, Bandai Namco Games,Go Shiina,1974-05-16,5252.0,4.17,4.38,0.0709,820.0
-1164,Tales Of Zestiria,PS4,2015,Role-Playing,Namco Bandai Games,72.0,6.8,Bandai Namco Games,T,Go Shiina,1974-05-16,5252.0,4.17,4.38,0.0709,820.0
-1165,Odin Sphere,PS2,2007,Role-Playing,Square Enix,83.0,8.6,Vanilla Ware,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.08,0.3156,
-1166,Odin Sphere,PS2,2007,Role-Playing,Square Enix,83.0,8.6,Vanilla Ware,T,Manabu Namiki,1971-09-13,6391.0,4.1,4.08,0.3156,
-1167,Odin Sphere,PS2,2007,Role-Playing,Square Enix,83.0,8.6,Vanilla Ware,T,Masaharu Iwata,1966-10-26,6417.0,4.1,4.08,0.3156,
-1168,Odin Sphere,PS2,2007,Role-Playing,Square Enix,83.0,8.6,Vanilla Ware,T,Shoji Meguro,1971-06-04,7891.0,3.99,4.08,0.3156,
-1169,Daytona Usa,SAT,1994,Racing,Sega,,,,,Takayuki Nakamura,1967-07-19,7630.0,4.01,4.0,0.1427,
-1170,The Hobbit,PS2,2003,Platform,Vivendi Games,59.0,8.6,Inevitable Entertainment,E,Rod Abernethy,,10359.0,3.27,,,569.0
-1171,The Hobbit,XB,2003,Platform,Vivendi Games,,,,,Rod Abernethy,,10359.0,3.27,,,569.0
-1172,The Hobbit,GBA,2003,Platform,Vivendi Games,67.0,9.2,Saffire,E,Rod Abernethy,,10359.0,3.27,,,569.0
-1173,The Hobbit,GC,2003,Platform,Vivendi Games,61.0,7.3,Inevitable Entertainment,E,Rod Abernethy,,10359.0,3.27,,,569.0
-1174,Dragon's Crown,PS3,2013,Role-Playing,Nippon Ichi Software,82.0,8.3,Vanillaware,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.18,0.1437,
-1175,Dragon's Crown,PS3,2013,Role-Playing,Nippon Ichi Software,82.0,8.3,Vanillaware,T,Shoji Meguro,1971-06-04,7891.0,3.99,4.18,0.1437,
-1176,Dragon's Crown,PSV,2013,Role-Playing,Nippon Ichi Software,78.0,8.4,Vanillaware,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.18,0.1437,
-1177,Dragon's Crown,PSV,2013,Role-Playing,Nippon Ichi Software,78.0,8.4,Vanillaware,T,Shoji Meguro,1971-06-04,7891.0,3.99,4.18,0.1437,
-1178,Inazuma Eleven,DS,2008,Role-Playing,Nintendo,,,,,Tomohito Nishiura,1973-02-13,6999.0,4.06,3.9,0.1135,610.0
-1179,Inazuma Eleven,DS,2008,Role-Playing,Nintendo,,,,,Yasunori Mitsuda,1972-01-21,6165.0,4.11,3.9,0.1135,610.0
-1180,Freedom Fighters,PS2,2003,Shooter,Electronic Arts,81.0,8.4,Io Interactive,T,Jesper Kyd,1972-02-03,8115.0,3.97,4.41,0.0692,858.0
-1181,Freedom Fighters,XB,2003,Shooter,Electronic Arts,82.0,8.2,Io Interactive,T,Jesper Kyd,1972-02-03,8115.0,3.97,4.41,0.0692,858.0
-1182,Freedom Fighters,GC,2003,Shooter,Electronic Arts,83.0,7.8,Io Interactive,T,Jesper Kyd,1972-02-03,8115.0,3.97,4.41,0.0692,858.0
-1183,The 3rd Birthday,PSP,2010,Role-Playing,Square Enix,71.0,6.1,HexaDrive,M,Tsuyoshi Sekito,1963-04-03,7348.0,4.04,4.13,0.2017,
-1184,The 3rd Birthday,PSP,2010,Role-Playing,Square Enix,71.0,6.1,HexaDrive,M,Yoko Shimomura,1967-10-19,6964.0,4.06,4.13,0.2017,
-1185,Soul Sacrifice,PSV,2013,Role-Playing,Sony Computer Entertainment,77.0,8.2,SCE Japan Studio, comcept,Yasunori Mitsuda,1972-01-21,6165.0,4.11,3.65,0.1282,
-1186,Silent Hill 4: The Room,PS2,2004,Action,Konami Digital Entertainment,76.0,7.8,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.0,0.2256,890.0
-1187,Silent Hill 4: The Room,PS2,2004,Action,Konami Digital Entertainment,76.0,7.8,KCET,M,Rika Muranaka,,4174.0,4.23,4.0,0.2256,890.0
-1188,Silent Hill 4: The Room,XB,2004,Action,Konami Digital Entertainment,76.0,8.3,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.0,0.2256,890.0
-1189,Silent Hill 4: The Room,XB,2004,Action,Konami Digital Entertainment,76.0,8.3,KCET,M,Rika Muranaka,,4174.0,4.23,4.0,0.2256,890.0
-1190,Hitman: Blood Money,PS2,2006,Action,Eidos Interactive,83.0,8.4,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,,,606.0
-1191,Hitman: Blood Money,X360,2006,Action,Eidos Interactive,82.0,8.7,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,,,606.0
-1192,Hitman: Blood Money,XB,2006,Action,Eidos Interactive,81.0,9.1,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,,,606.0
-1193,Hitman: Blood Money,PC,2006,Action,Eidos Interactive,82.0,8.8,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,,,606.0
-1194,Monster Hunter,PS2,2004,Role-Playing,Capcom,68.0,8.9,Capcom,T,Akari Kaida,1974-01-10,7252.0,4.04,,,561.0
-1195,Monster Hunter,PS2,2004,Role-Playing,Capcom,68.0,8.9,Capcom,T,Alph Lyla,,,,,,561.0
-1196,Grandia Iii,PS2,2005,Role-Playing,Square Enix,77.0,8.3,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.95,0.1718,
-1197,Tales Of Legendia,PS2,2005,Role-Playing,Namco Bandai Games,72.0,7.7,Namco,T,Go Shiina,1974-05-16,5252.0,4.17,4.48,0.305,
-1198,Ico,PS2,2001,Action,Sony Computer Entertainment,90.0,8.8,SCE Japan Studio,T,Michiru Oshima,1961-03-16,7193.0,4.05,3.89,0.3431,
-1199,Ico,PS3,2011,Action,Sony Computer Entertainment,,7.4,Bluepoint Games,T,Michiru Oshima,1961-03-16,7193.0,4.05,3.89,0.3431,
-1200,Bomberman Hero,N64,1998,Platform,Nintendo,,,,,Jun Chikuma,,,,3.65,0.0722,
-1201,God Eater 2,PSV,2013,Role-Playing,Namco Bandai Games,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.34,0.1149,
-1202,God Eater 2,PSP,2013,Role-Playing,Namco Bandai Games,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.34,0.1149,
-1203,Persona,PS,1995,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,4.06,0.09,398.0
-1204,Persona,PS,1995,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,4.06,0.09,775.0
-1205,Persona,PS,1995,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,3.66,0.1449,398.0
-1206,Persona,PS,1995,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,3.66,0.1449,775.0
-1207,Chocobo Racing,PS,1999,Racing,SquareSoft,,,,,Kenji Ito,1968-07-05,7488.0,4.02,3.96,0.0658,
-1208,Grandia,SAT,1997,Role-Playing,ESP,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.42,0.1116,
-1209,Grandia,SAT,1997,Role-Playing,ESP,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.93,0.1492,
-1210,Grandia,SAT,1997,Role-Playing,ESP,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.46,0.2094,
-1211,Grandia,SAT,1997,Role-Playing,ESP,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.57,0.4317,
-1212,Grandia,PS,1999,Role-Playing,Ubisoft,89.0,6.6,Game Arts,E,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.42,0.1116,
-1213,Grandia,PS,1999,Role-Playing,Ubisoft,89.0,6.6,Game Arts,E,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.93,0.1492,
-1214,Grandia,PS,1999,Role-Playing,Ubisoft,89.0,6.6,Game Arts,E,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.46,0.2094,
-1215,Grandia,PS,1999,Role-Playing,Ubisoft,89.0,6.6,Game Arts,E,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.57,0.4317,
-1216,Paper Mario: Color Splash,WiiU,2016,Role-Playing,Nintendo,75.0,6.8,Nintendo, Intelligent Systems,Taro Kudo,,3388.0,4.27,,,173.0
-1217,Ogre Battle 64: Person Of Lordly Caliber,N64,1999,Role-Playing,Nintendo,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.02,0.2089,
-1218,Ogre Battle 64: Person Of Lordly Caliber,N64,1999,Role-Playing,Nintendo,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.02,0.2089,
-1219,Nights: Journey Of Dreams,Wii,2007,Platform,Sega,69.0,8.5,Sega, Sonic Team,Jun Senoue,1970-08-02,6091.0,4.12,,,733.0
-1220,Nights: Journey Of Dreams,Wii,2007,Platform,Sega,69.0,8.5,Sega, Sonic Team,Tomoya Ohtani,1974-07-01,5079.0,4.18,,,733.0
-1221,Mother 3,GBA,2006,Role-Playing,Nintendo,,,,,Hirokazu Tanaka,1957-12-13,6489.0,4.09,3.81,0.1154,49.0
-1222,Mother 3,GBA,2006,Role-Playing,Nintendo,,,,,Keiichi Suzuki,1951-08-28,8099.0,3.97,3.81,0.1154,49.0
-1223,Command & Conquer,PS,1996,Strategy,Virgin Interactive,,,,,Frank Klepacki,,7213.0,4.04,4.68,0.0908,
-1224,Command & Conquer,N64,1999,Strategy,Nintendo,,,,,Frank Klepacki,,7213.0,4.04,4.68,0.0908,
-1225,Grandia Xtreme,PS2,2002,Role-Playing,Enix Corporation,68.0,6.5,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.76,0.1436,
-1226,Tobal 2,PS,1997,Fighting,SquareSoft,,,,,Takayuki Nakamura,1967-07-19,7630.0,4.01,4.75,0.1638,
-1227,Soulcalibur,DC,1999,Fighting,Namco Bandai Games,98.0,8.8,Namco,T,Nobuyoshi Sano,1969-01-19,8811.0,3.89,4.67,0.1234,574.0
-1228,Soulcalibur,DC,1999,Fighting,Namco Bandai Games,98.0,8.8,Namco,T,Nobuyoshi Sano,1969-01-19,8811.0,3.89,4.15,0.2246,574.0
-1229,Soulcalibur,DC,1999,Fighting,Namco Bandai Games,98.0,8.8,Namco,T,Yuu Miyake,1973-11-19,7946.0,3.99,4.67,0.1234,574.0
-1230,Soulcalibur,DC,1999,Fighting,Namco Bandai Games,98.0,8.8,Namco,T,Yuu Miyake,1973-11-19,7946.0,3.99,4.15,0.2246,574.0
-1231,World Of Final Fantasy,PS4,2016,Role-Playing,Square Enix,77.0,8.3,Square Enix,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,4.16,0.0998,
-1232,World Of Final Fantasy,PSV,2016,Role-Playing,Square Enix,77.0,8.6,Square Enix,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,4.16,0.0998,
-1233,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,3.55,0.1254,
-1234,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,3.65,0.1793,
-1235,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,4.2,0.2904,
-1236,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,4.16,0.2975,
-1237,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.55,0.1254,
-1238,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.65,0.1793,
-1239,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,4.2,0.2904,
-1240,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,4.16,0.2975,
-1241,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,3.55,0.1254,
-1242,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,3.65,0.1793,
-1243,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,4.2,0.2904,
-1244,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,4.16,0.2975,
-1245,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.55,0.1254,
-1246,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.65,0.1793,
-1247,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,4.2,0.2904,
-1248,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,4.16,0.2975,
-1249,Persona 4: Dancing All Night,PSV,2015,Misc,Nippon Ichi Software,76.0,8.6,Atlus, Dingo Inc.,Norihiko Hibino,1973-09-03,7388.0,4.03,,,67.0
-1250,Persona 4: Dancing All Night,PSV,2015,Misc,Nippon Ichi Software,76.0,8.6,Atlus, Dingo Inc.,Yuu Miyake,1973-11-19,7946.0,3.99,,,67.0
-1251,Live A Live,SNES,1994,Role-Playing,SquareSoft,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.31,0.1529,
-1252,Live A Live,SNES,1994,Role-Playing,SquareSoft,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.23,0.2802,
-1253,Radiant Historia,DS,2010,Role-Playing,Atlus,85.0,9,Atlus,E10+,Shoji Meguro,1971-06-04,7891.0,3.99,4.08,0.0867,
-1254,Radiant Historia,DS,2010,Role-Playing,Atlus,85.0,9,Atlus,E10+,Shoji Meguro,1971-06-04,7891.0,3.99,4.2,0.2766,
-1255,Radiant Historia,DS,2010,Role-Playing,Atlus,85.0,9,Atlus,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,4.08,0.0867,
-1256,Radiant Historia,DS,2010,Role-Playing,Atlus,85.0,9,Atlus,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,4.2,0.2766,
-1257,Grandia Ii,PS2,2002,Role-Playing,Ubisoft,71.0,8.6,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.88,0.1785,
-1258,Grandia Ii,PS2,2002,Role-Playing,Ubisoft,71.0,8.6,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.15,0.2776,
-1259,Grandia Ii,PS2,2002,Role-Playing,Ubisoft,71.0,8.6,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.26,0.3396,
-1260,Grandia Ii,DC,2000,Role-Playing,Ubisoft,90.0,8.8,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.88,0.1785,
-1261,Grandia Ii,DC,2000,Role-Playing,Ubisoft,90.0,8.8,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.15,0.2776,
-1262,Grandia Ii,DC,2000,Role-Playing,Ubisoft,90.0,8.8,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.26,0.3396,
-1263,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Kenji Ito,1968-07-05,7488.0,4.02,3.52,0.1367,
-1264,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Kenji Ito,1968-07-05,7488.0,4.02,3.9,0.1796,
-1265,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Kenji Ito,1968-07-05,7488.0,4.02,4.24,0.2958,
-1266,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Manabu Namiki,1971-09-13,6391.0,4.1,3.52,0.1367,
-1267,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Manabu Namiki,1971-09-13,6391.0,4.1,3.9,0.1796,
-1268,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Manabu Namiki,1971-09-13,6391.0,4.1,4.24,0.2958,
-1269,Panzer Dragoon Orta,XB,2002,Shooter,Sega,90.0,8.5,Smilebit,T,Saori Kobayashi,,5781.0,4.14,4.5,0.1113,
-1270,Panzer Dragoon Orta,XB,2002,Shooter,Sega,90.0,8.5,Smilebit,T,Saori Kobayashi,,5781.0,4.14,4.32,0.1378,
-1271,Ace Attorney Investigations 2,DS,2011,Adventure,Capcom,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,,,755.0
-1272,Luminous Arc,DS,2007,Role-Playing,Rising Star Games,70.0,7,Image Epoch, Imageepoch,Yasunori Mitsuda,1972-01-21,6165.0,4.11,3.73,0.0796,
-1273,Angry Birds,PC,2011,Puzzle,Focus Home Interactive,,7.3,Rovio Mobile, Rovio Entertainment,Ari Pulkkinen,1982-01-15,8303.0,3.95,,,184.0
-1274,Final Fantasy Xi: Treasures Of Aht Urhgan,PS2,2006,Role-Playing,Square Enix,87.0,7.1,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.95,0.1492,
-1275,Breath Of Fire,GBA,2001,Role-Playing,Ubisoft,79.0,8.8,Capcom,E,Akari Kaida,1974-01-10,7252.0,4.04,4.59,0.3599,
-1276,Breath Of Fire,GBA,2001,Role-Playing,Ubisoft,79.0,8.8,Capcom,E,Alph Lyla,,,,4.59,0.3599,
-1277,Breath Of Fire,GBA,2001,Role-Playing,Ubisoft,79.0,8.8,Capcom,E,Yoko Shimomura,1967-10-19,6964.0,4.06,4.59,0.3599,
-1278,Phantasy Star Online,DC,2000,Role-Playing,Sega,89.0,9.1,Sonic Team,T,Jun Senoue,1970-08-02,6091.0,4.12,4.23,0.11,
-1279,Phantasy Star Online,DC,2000,Role-Playing,Sega,89.0,9.1,Sonic Team,T,Tomoya Ohtani,1974-07-01,5079.0,4.18,4.23,0.11,
-1280,Treasure Hunter G,SNES,1996,Role-Playing,SquareSoft,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.2,0.2293,
-1281,Treasure Hunter G,SNES,1996,Role-Playing,SquareSoft,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.2,0.2293,
-1282,Ridge Racer 6,X360,2005,Racing,Namco Bandai Games,74.0,7.1,Namco,E,Yuu Miyake,1973-11-19,7946.0,3.99,3.79,0.1444,
-1283,Arc Rise Fantasia,Wii,2009,Role-Playing,Marvelous Interactive,64.0,7.8,Image Epoch, Imageepoch,Yasunori Mitsuda,1972-01-21,6165.0,4.11,4.24,0.1548,
-1284,Let's Tap,Wii,2008,Misc,Sega,70.0,6.6,Prope,E,Shinji Hosoe,1967-02-28,8140.0,3.97,3.75,0.1051,
-1285,Heroes Of Mana,DS,2007,Strategy,Square Enix,66.0,tbd,Brownie Brown,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,3.9,0.156,
-1286,Phantom Brave,PS2,2004,Role-Playing,Tecmo Koei,81.0,7.9,Nippon Ichi Software,T,Tenpei Sato,,9462.0,3.78,4.13,0.1241,
-1287,Guilty Gear,PS,1998,Fighting,Virgin Interactive,,,,,Daisuke Ishiwatari,,6892.0,4.07,4.14,0.187,
-1288,Guilty Gear,PS,1998,Fighting,Virgin Interactive,,,,,Daisuke Ishiwatari,,6892.0,4.07,4.42,0.2181,
-1289,Final Fantasy Xi: Rise Of The Zilart,PS2,2003,Role-Playing,Square Enix,,,,,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.98,0.1545,
-1290,Warcraft Iii: Reign Of Chaos,PC,2002,Strategy,Vivendi Games,92.0,9.1,Blizzard Entertainment,T,Matt Uelmen,1972-07-31,4317.0,4.22,,,552.0
-1291,Warcraft Iii: Reign Of Chaos,PC,2002,Strategy,Vivendi Games,92.0,9.1,Blizzard Entertainment,T,Russell Brower,,9434.0,3.78,,,552.0
-1292,Contra Iii: The Alien Wars,SNES,1992,Shooter,Konami Digital Entertainment,,,,,Miki Higashino,1968-01-01,4368.0,4.22,,,769.0
-1293,Diablo Ii,PC,2000,Role-Playing,Havas Interactive,88.0,8.8,Blizzard North,M,Matt Uelmen,1972-07-31,4317.0,4.22,4.18,0.0671,
-1294,Diablo Ii,PC,2000,Role-Playing,Havas Interactive,88.0,8.8,Blizzard North,M,Matt Uelmen,1972-07-31,4317.0,4.22,4.5,0.087,
-1295,Diablo Ii,PC,2000,Role-Playing,Havas Interactive,88.0,8.8,Blizzard North,M,Russell Brower,,9434.0,3.78,4.18,0.0671,
-1296,Diablo Ii,PC,2000,Role-Playing,Havas Interactive,88.0,8.8,Blizzard North,M,Russell Brower,,9434.0,3.78,4.5,0.087,
-1297,Grand Knights History,PSP,2011,Role-Playing,Marvelous Interactive,,,Vanillaware,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.12,0.1695,
-1298,Mystic Ark,SNES,1995,Role-Playing,Enix Corporation,,,,,Akihiko Mori,,5422.0,4.16,4.28,0.1742,
-1299,Baroque,PS2,2007,Role-Playing,Rising Star Games,60.0,8.8,Sting,T,Masaharu Iwata,1966-10-26,6417.0,4.1,3.92,0.1235,220.0
-1300,Baroque,PS2,2007,Role-Playing,Rising Star Games,60.0,8.8,Sting,T,Masaharu Iwata,1966-10-26,6417.0,4.1,4.25,0.2057,220.0
-1301,Baroque,Wii,2008,Role-Playing,Rising Star Games,50.0,8.1,Sting,T,Masaharu Iwata,1966-10-26,6417.0,4.1,3.92,0.1235,220.0
-1302,Baroque,Wii,2008,Role-Playing,Rising Star Games,50.0,8.1,Sting,T,Masaharu Iwata,1966-10-26,6417.0,4.1,4.25,0.2057,220.0
-1303,Last Ranker,PSP,2010,Role-Playing,Capcom,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.49,0.2821,
-1304,Guilty Gear X,PS2,2001,Fighting,Sammy Corporation,79.0,7.8,Arc System Works,T,Daisuke Ishiwatari,,6892.0,4.07,3.79,0.1339,
-1305,Psychonauts,XB,2005,Platform,THQ,88.0,9,Double Fine Productions,T,Peter McConnell,,8336.0,3.95,3.64,0.073,
-1306,Psychonauts,PS2,2005,Platform,Majesco Entertainment,86.0,8.7,BudCat,T,Peter McConnell,,8336.0,3.95,3.64,0.073,
-1307,Ash: Archaic Sealed Heat,DS,2007,Role-Playing,Nintendo,,,Mistwalker,E10+,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,3.54,0.1225,
-1308,Soma Bringer,DS,2008,Role-Playing,Nintendo,,,,,Yasunori Mitsuda,1972-01-21,6165.0,4.11,4.19,0.2546,
-1309,Opoona,Wii,2007,Role-Playing,Tecmo Koei,65.0,7.7,ArtePiazza,E10+,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.5,0.3041,
-1310,Opoona,Wii,2007,Role-Playing,Tecmo Koei,65.0,7.7,ArtePiazza,E10+,Manabu Namiki,1971-09-13,6391.0,4.1,4.5,0.3041,
-1311,Opoona,Wii,2007,Role-Playing,Tecmo Koei,65.0,7.7,ArtePiazza,E10+,Masaharu Iwata,1966-10-26,6417.0,4.1,4.5,0.3041,
-1312,Guilty Gear Isuka,PS2,2004,Fighting,505 Games,73.0,7.5,Arc System Works,T,Daisuke Ishiwatari,,6892.0,4.07,3.82,0.1251,
-1313,Gradius V,PS2,2004,Shooter,Konami Digital Entertainment,82.0,8.5,Treasure,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.25,0.3396,
-1314,Shin Megami Tensei,PS,2001,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,3.55,0.0729,
-1315,Shin Megami Tensei,PS,2001,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,3.79,0.0913,
-1316,Shin Megami Tensei,PS,2001,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,3.62,0.1587,
-1317,Blood Of Bahamut,DS,2009,Role-Playing,Square Enix,,,,,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.86,0.1034,
-1318,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,3.7,0.0744,
-1319,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,4.23,0.1119,
-1320,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,3.61,0.164,
-1321,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,4.8,0.1689,
-1322,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,3.96,0.2699,
-1323,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,3.94,0.3599,
-1324,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,4.65,0.8424,
-1325,Stella Deus: The Gate Of Eternity,PS2,2004,Strategy,505 Games,75.0,8,Pinegrow,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,3.89,0.1619,
-1326,Streets Of Rage 3,GEN,1993,Action,Sega,,,,,Yuzo Koshiro,1967-12-12,5913.0,4.13,,,939.0
-1327,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Jun Maeda,1975-01-03,4985.0,4.19,3.86,0.0785,
-1328,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.43,0.166,
-1329,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Magome Togoshi,,5972.0,4.12,3.86,0.0785,
-1330,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Magome Togoshi,,5972.0,4.12,4.43,0.166,
-1331,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Shinji Orito,1973-07-30,5610.0,4.15,3.86,0.0785,
-1332,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.43,0.166,
-1333,The Witcher,PC,2007,Role-Playing,Atari,81.0,8.8,CD Projekt Red Studio,M,Mark Knight,1973-01-08,,,3.68,0.0768,
-1334,Burning Rangers,SAT,1998,Platform,Sega,,,,,Jun Senoue,1970-08-02,6091.0,4.12,4.29,0.0933,
-1335,Burning Rangers,SAT,1998,Platform,Sega,,,,,Tomoya Ohtani,1974-07-01,5079.0,4.18,4.29,0.0933,
-1336,Grimgrimoire,PS2,2007,Strategy,Tecmo Koei,79.0,7.9,Vanilla Ware,E10+,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,3.5,0.0843,
-1337,Starcraft,PC,1998,Strategy,Activision,88.0,9.1,Blizzard Entertainment,T,Matt Uelmen,1972-07-31,4317.0,4.22,,,264.0
-1338,Starcraft,PC,1998,Strategy,Activision,88.0,9.1,Blizzard Entertainment,T,Russell Brower,,9434.0,3.78,,,264.0
-1339,Time Travelers,PSV,2012,Adventure,Level 5,,,,,Tomohito Nishiura,1973-02-13,6999.0,4.06,3.73,0.1123,
-1340,Time Travelers,3DS,2012,Adventure,Unknown,,,,,Tomohito Nishiura,1973-02-13,6999.0,4.06,3.73,0.1123,
-1341,Time Travelers,PSP,2012,Adventure,Level 5,,,,,Tomohito Nishiura,1973-02-13,6999.0,4.06,3.73,0.1123,
-1342,Clannad,PS2,2006,Adventure,Interchannel,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.12,0.1026,
-1343,Clannad,PS2,2006,Adventure,Interchannel,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.6,0.3024,
-1344,Clannad,PS2,2006,Adventure,Interchannel,,,,,Magome Togoshi,,5972.0,4.12,4.12,0.1026,
-1345,Clannad,PS2,2006,Adventure,Interchannel,,,,,Magome Togoshi,,5972.0,4.12,4.6,0.3024,
-1346,Clannad,PS2,2006,Adventure,Interchannel,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.12,0.1026,
-1347,Clannad,PS2,2006,Adventure,Interchannel,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.6,0.3024,
-1348,Clannad,PSP,2008,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.12,0.1026,
-1349,Clannad,PSP,2008,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.6,0.3024,
-1350,Clannad,PSP,2008,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.12,0.1026,
-1351,Clannad,PSP,2008,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.6,0.3024,
-1352,Clannad,PSP,2008,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.12,0.1026,
-1353,Clannad,PSP,2008,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.6,0.3024,
-1354,Clannad,PS3,2011,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.12,0.1026,
-1355,Clannad,PS3,2011,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.6,0.3024,
-1356,Clannad,PS3,2011,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.12,0.1026,
-1357,Clannad,PS3,2011,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.6,0.3024,
-1358,Clannad,PS3,2011,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.12,0.1026,
-1359,Clannad,PS3,2011,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.6,0.3024,
-1360,Clannad,X360,2008,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.12,0.1026,
-1361,Clannad,X360,2008,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.6,0.3024,
-1362,Clannad,X360,2008,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.12,0.1026,
-1363,Clannad,X360,2008,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.6,0.3024,
-1364,Clannad,X360,2008,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.12,0.1026,
-1365,Clannad,X360,2008,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.6,0.3024,
-1366,Mr. Driller,PS,1999,Puzzle,Namco Bandai Games,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.0,0.0561,
-1367,Wangan Midnight,PS3,2007,Racing,Genki,,,,,Yuzo Koshiro,1967-12-12,5913.0,4.13,3.72,0.1182,
-1368,Wangan Midnight,PS3,2007,Racing,Genki,,,,,Yuzo Koshiro,1967-12-12,5913.0,4.13,3.56,0.1252,
-1369,Wangan Midnight,PS3,2007,Racing,Genki,,,,,Yuzo Koshiro,1967-12-12,5913.0,4.13,4.31,0.2193,
-1370,Deathsmiles Ii,X360,2010,Shooter,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,4.03,0.1296,
-1371,Air,PSP,2007,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.4,0.2788,
-1372,Air,PSP,2007,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.4,0.2788,
-1373,Air,PSP,2007,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.4,0.2788,
-1374,Mushihimesama,X360,2012,Action,Cave,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.13,0.1251,
-1375,Mushihimesama,X360,2012,Action,Cave,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.0,0.2231,
-1376,Mushihimesama,X360,2012,Action,Cave,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.34,0.2906,
-1377,Mushihimesama,X360,2012,Action,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,4.13,0.1251,
-1378,Mushihimesama,X360,2012,Action,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,4.0,0.2231,
-1379,Mushihimesama,X360,2012,Action,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,4.34,0.2906,
-1380,Mushihimesama,X360,2012,Action,Cave,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.13,0.1251,
-1381,Mushihimesama,X360,2012,Action,Cave,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.0,0.2231,
-1382,Mushihimesama,X360,2012,Action,Cave,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.34,0.2906,
-1383,Mushihimesama,X360,2012,Action,Cave,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.13,0.1251,
-1384,Mushihimesama,X360,2012,Action,Cave,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.0,0.2231,
-1385,Mushihimesama,X360,2012,Action,Cave,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.34,0.2906,
-1386,Elvandia Story,PS2,2007,Role-Playing,Spike,,,,,Norihiko Hibino,1973-09-03,7388.0,4.03,4.12,0.1481,
-1387,Elvandia Story,PS2,2007,Role-Playing,Spike,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.12,0.1481,
-1388,Rewrite,PSV,2014,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.32,0.101,703.0
-1389,Rewrite,PSV,2014,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.32,0.101,703.0
-1390,Rewrite,PSV,2014,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.32,0.101,703.0
-1391,Dodonpachi Saidaioujou,X360,2013,Shooter,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,3.36,0.0535,
-1392,Dodonpachi Saidaioujou,X360,2013,Shooter,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,3.84,0.1901,
-1393,Deus Ex,PC,2000,Role-Playing,Eidos Interactive,90.0,9.3,Ion Storm,M,Alexander Brandon,1974-09-29,6662.0,4.08,4.03,0.0946,
-1394,Deus Ex,PC,2000,Role-Playing,Eidos Interactive,90.0,9.3,Ion Storm,M,Michiel van den Bos,1975-05-23,8891.0,3.88,4.03,0.0946,
-1395,Dodonpachi Daifukkatsu: Black Label,X360,2011,Shooter,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,4.5,0.2212,
-1396,Trine,PC,2009,Action,Nobilis,80.0,8.2,Frozenbyte, Inc.,Ari Pulkkinen,1982-01-15,8303.0,3.95,4.32,0.0878,
+1018,Wild Arms,PS,1996,Role-Playing,Sony Computer Entertainment,,,,,Michiko Naruke,,6668.0,4.08,3.88,0.1335,
+1019,Wild Arms,PS,1996,Role-Playing,Sony Computer Entertainment,,,,,Michiko Naruke,,6668.0,4.08,3.86,0.1478,
+1020,Wild Arms,PS,1996,Role-Playing,Sony Computer Entertainment,,,,,Michiko Naruke,,6668.0,4.08,4.11,0.2234,
+1021,Wild Arms,PS,1996,Role-Playing,Sony Computer Entertainment,,,,,Michiko Naruke,,6668.0,4.08,4.14,0.2423,
+1022,Castlevania Ii: Simon's Quest,NES,1987,Platform,Konami Digital Entertainment,,,,,Michiko Naruke,,6668.0,4.08,,,519.0
+1023,Xenoblade Chronicles,Wii,2010,Role-Playing,Nintendo,92.0,8.9,Monolith Soft,T,Yasunori Mitsuda,1972-01-21,6165.0,4.11,,,45.0
+1024,Xenoblade Chronicles,Wii,2010,Role-Playing,Nintendo,92.0,8.9,Monolith Soft,T,Yoko Shimomura,1967-10-19,6964.0,4.06,,,45.0
+1025,Xenoblade Chronicles,3DS,2015,Role-Playing,Nintendo,,,,,Yasunori Mitsuda,1972-01-21,6165.0,4.11,,,45.0
+1026,Xenoblade Chronicles,3DS,2015,Role-Playing,Nintendo,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,,,45.0
+1027,Crysis 3,X360,2013,Shooter,Electronic Arts,76.0,6.7,Crytek,M,Graeme Norgate,1971-03-20,7669.0,4.01,,,448.0
+1028,Crysis 3,PS3,2013,Shooter,Electronic Arts,77.0,6.3,Crytek,M,Graeme Norgate,1971-03-20,7669.0,4.01,,,448.0
+1029,Crysis 3,PC,2013,Shooter,Electronic Arts,76.0,6.5,Crytek,M,Graeme Norgate,1971-03-20,7669.0,4.01,,,448.0
+1030,Castlevania: Circle Of The Moon,GBA,2001,Platform,Konami Digital Entertainment,91.0,8.5,KCEK,T,Taro Kudo,,3388.0,4.27,4.27,0.2526,
+1031,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,219.0
+1032,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,605.0
+1033,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,219.0
+1034,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,605.0
+1035,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,219.0
+1036,Tekken Tag Tournament 2,PS3,2012,Fighting,Namco Bandai Games,82.0,8.2,Namco Bandai Games,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,605.0
+1037,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,219.0
+1038,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,605.0
+1039,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,219.0
+1040,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,605.0
+1041,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,219.0
+1042,Tekken Tag Tournament 2,X360,2012,Fighting,Namco Bandai Games,83.0,7.5,Namco Bandai Games,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,605.0
+1043,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,219.0
+1044,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Go Shiina,1974-05-16,5252.0,4.17,3.6,0.1452,605.0
+1045,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,219.0
+1046,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Shinji Hosoe,1967-02-28,8140.0,3.97,3.6,0.1452,605.0
+1047,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,219.0
+1048,Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,,,,,Yuu Miyake,1973-11-19,7946.0,3.99,3.6,0.1452,605.0
+1049,Darksiders Ii,PS3,2012,Action,THQ,84.0,7.1,Vigil Games,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
+1050,Darksiders Ii,X360,2012,Action,THQ,83.0,8,Vigil Games,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
+1051,Darksiders Ii,PS4,2015,Action,Nordic Games,,,,,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
+1052,Darksiders Ii,PC,2012,Action,Nordic Games,81.0,7.8,Vigil Games,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
+1053,Darksiders Ii,WiiU,2012,Action,THQ,85.0,8.2,Vigil Games,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
+1054,Darksiders Ii,XOne,2015,Action,Nordic Games,,,,,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.0969,
+1055,Xenoblade Chronicles X,WiiU,2015,Role-Playing,Nintendo,84.0,8.9,Monolith Soft,T,Yasunori Mitsuda,1972-01-21,6165.0,4.11,1.5,0.0091,131.0
+1056,Rogue Galaxy,PS2,2005,Role-Playing,Sony Computer Entertainment,83.0,8.4,Level 5,T,Tomohito Nishiura,1973-02-13,6999.0,4.06,4.07,0.1274,
+1057,Rogue Galaxy,PS2,2005,Role-Playing,Sony Computer Entertainment,83.0,8.4,Level 5,T,Tomohito Nishiura,1973-02-13,6999.0,4.06,4.21,0.1456,
+1058,Rogue Galaxy,PS2,2005,Role-Playing,Sony Computer Entertainment,83.0,8.4,Level 5,T,Yoko Shimomura,1967-10-19,6964.0,4.06,4.07,0.1274,
+1059,Rogue Galaxy,PS2,2005,Role-Playing,Sony Computer Entertainment,83.0,8.4,Level 5,T,Yoko Shimomura,1967-10-19,6964.0,4.06,4.21,0.1456,
+1060,Ace Combat 3: Electrosphere,PS,1999,Simulation,Sony Computer Entertainment,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.05,0.1659,949.0
+1061,Street Fighter X Tekken,PS3,2012,Fighting,Capcom,84.0,5.3,Capcom,T,Nobuyoshi Sano,1969-01-19,8811.0,3.89,3.09,0.0405,
+1062,Street Fighter X Tekken,PS3,2012,Fighting,Capcom,84.0,5.3,Capcom,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.09,0.0405,
+1063,Street Fighter X Tekken,X360,2012,Fighting,Capcom,83.0,4.4,Capcom,T,Nobuyoshi Sano,1969-01-19,8811.0,3.89,3.09,0.0405,
+1064,Street Fighter X Tekken,X360,2012,Fighting,Capcom,83.0,4.4,Capcom,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.09,0.0405,
+1065,Street Fighter X Tekken,PSV,2012,Fighting,Capcom,79.0,7.5,Capcom,T,Nobuyoshi Sano,1969-01-19,8811.0,3.89,3.09,0.0405,
+1066,Street Fighter X Tekken,PSV,2012,Fighting,Capcom,79.0,7.5,Capcom,T,Yuu Miyake,1973-11-19,7946.0,3.99,3.09,0.0405,
+1067,Street Fighter X Tekken,PC,2012,Fighting,Capcom,79.0,6.4,Capcom, QLOC,Nobuyoshi Sano,1969-01-19,8811.0,3.89,3.09,0.0405,
+1068,Street Fighter X Tekken,PC,2012,Fighting,Capcom,79.0,6.4,Capcom, QLOC,Yuu Miyake,1973-11-19,7946.0,3.99,3.09,0.0405,
+1069,Mega Man,NES,1987,Platform,Capcom,,,,,Akari Kaida,1974-01-10,7252.0,4.04,,,720.0
+1070,Mega Man,NES,1987,Platform,Capcom,,,,,Alph Lyla,,,,,,720.0
+1071,Final Fantasy Xi: Wings Of The Goddess,PS2,2007,Role-Playing,Square Enix,,tbd,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.57,0.1476,
+1072,Final Fantasy Xi: Wings Of The Goddess,X360,2007,Role-Playing,Square Enix,63.0,5.8,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.57,0.1476,
+1073,Hitman: Contracts,PS2,2004,Shooter,Eidos Interactive,80.0,8.3,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.15,0.0797,
+1074,Hitman: Contracts,XB,2004,Shooter,Eidos Interactive,78.0,8.8,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,4.15,0.0797,
+1075,Doom,PS,1994,Shooter,Infogrames,,,,,Allister Brimble,1970-11-29,5930.0,4.13,4.55,0.0621,
+1076,Doom,GBA,2001,Shooter,Activision,81.0,8.5,David A. Palmer Productions,T,Allister Brimble,1970-11-29,5930.0,4.13,4.55,0.0621,
+1077,Doom,PC,1992,Shooter,id Software,85.0,8.2,id Software,M,Allister Brimble,1970-11-29,5930.0,4.13,4.55,0.0621,
+1078,The World Ends With You,DS,2007,Role-Playing,Square Enix,88.0,8.9,Jupiter Corporation,T,Yoko Shimomura,1967-10-19,6964.0,4.06,,,159.0
+1079,The World Ends With You,DS,2007,Role-Playing,Square Enix,88.0,8.9,Jupiter Corporation,T,Yoko Shimomura,1967-10-19,6964.0,4.06,,,472.0
+1080,Bayonetta 2,WiiU,2014,Action,Nintendo,91.0,8.2,PlatinumGames,M,Norihiko Hibino,1973-09-03,7388.0,4.03,3.5,0.0854,242.0
+1081,Bayonetta 2,WiiU,2014,Action,Nintendo,91.0,8.2,PlatinumGames,M,Takahiro Izutani,,7596.0,4.02,3.5,0.0854,242.0
+1082,Soulcalibur V,PS3,2012,Fighting,Namco Bandai Games,81.0,6.7,Project Soul,T,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.1787,317.0
+1083,Soulcalibur V,PS3,2012,Fighting,Namco Bandai Games,81.0,6.7,Project Soul,T,Lorne Balfe,1976-02-23,7553.0,4.02,4.35,0.1787,317.0
+1084,Soulcalibur V,PS3,2012,Fighting,Namco Bandai Games,81.0,6.7,Project Soul,T,Winifred Phillips,,9787.0,3.68,4.35,0.1787,317.0
+1085,Soulcalibur V,X360,2012,Fighting,Namco Bandai Games,77.0,6.2,Project Soul,T,Jesper Kyd,1972-02-03,8115.0,3.97,4.35,0.1787,317.0
+1086,Soulcalibur V,X360,2012,Fighting,Namco Bandai Games,77.0,6.2,Project Soul,T,Lorne Balfe,1976-02-23,7553.0,4.02,4.35,0.1787,317.0
+1087,Soulcalibur V,X360,2012,Fighting,Namco Bandai Games,77.0,6.2,Project Soul,T,Winifred Phillips,,9787.0,3.68,4.35,0.1787,317.0
+1088,Zone Of The Enders,PS2,2001,Shooter,Konami Digital Entertainment,78.0,7.4,KCEJ,M,Norihiko Hibino,1973-09-03,7388.0,4.03,3.47,0.0555,
+1089,Zone Of The Enders,PS2,2001,Shooter,Konami Digital Entertainment,78.0,7.4,KCEJ,M,Norihiko Hibino,1973-09-03,7388.0,4.03,4.03,0.1133,
+1090,Final Fantasy Tactics A2: Grimoire Of The Rift,DS,2007,Role-Playing,Square Enix,80.0,6.9,Square Enix,E10+,Masaharu Iwata,1966-10-26,6417.0,4.1,4.08,0.212,
+1091,Sword Of Mana,GBA,2003,Role-Playing,Nintendo,72.0,8.3,Brownie Brown,E,Kenji Ito,1968-07-05,7488.0,4.02,3.67,0.1465,
+1092,Katamari Damacy,PS2,2004,Puzzle,Namco Bandai Games,86.0,9,Namco,E,Yuu Miyake,1973-11-19,7946.0,3.99,4.77,0.1004,361.0
+1093,Katamari Damacy,PS2,2004,Puzzle,Namco Bandai Games,86.0,9,Namco,E,Yuu Miyake,1973-11-19,7946.0,3.99,4.34,0.3024,361.0
+1094,God Eater,PSP,2010,Action,Unknown,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.4,0.2661,333.0
+1095,God Eater,PSP,2010,Action,Unknown,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.4,0.2661,428.0
+1096,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.23,0.177,911.0
+1097,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.23,0.177,990.0
+1098,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.33,0.2774,911.0
+1099,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.33,0.2774,990.0
+1100,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Rika Muranaka,,4174.0,4.23,4.23,0.177,911.0
+1101,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Rika Muranaka,,4174.0,4.23,4.23,0.177,990.0
+1102,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Rika Muranaka,,4174.0,4.23,4.33,0.2774,911.0
+1103,Silent Hill 3,PS2,2003,Action,Konami Digital Entertainment,85.0,8.8,KCET,M,Rika Muranaka,,4174.0,4.23,4.33,0.2774,990.0
+1104,Tactics Ogre: Let Us Cling Together,SNES,1995,Role-Playing,Quest,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.37,0.2644,
+1105,Tactics Ogre: Let Us Cling Together,SNES,1995,Role-Playing,Quest,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.37,0.2644,
+1106,Tactics Ogre: Let Us Cling Together,PSP,2010,Role-Playing,Square Enix,87.0,8.8,Square Enix,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.37,0.2644,
+1107,Tactics Ogre: Let Us Cling Together,PSP,2010,Role-Playing,Square Enix,87.0,8.8,Square Enix,T,Masaharu Iwata,1966-10-26,6417.0,4.1,4.37,0.2644,
+1108,Ace Attorney Investigations: Miles Edgeworth,DS,2009,Adventure,Capcom,78.0,8.4,Capcom,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,,,994.0
+1109,Catherine,PS3,2011,Adventure,Deep Silver,79.0,8.1,Atlus,M,Shoji Meguro,1971-06-04,7891.0,3.99,4.0,0.1347,903.0
+1110,Catherine,PS3,2011,Adventure,Deep Silver,79.0,8.1,Atlus,M,Shoji Meguro,1971-06-04,7891.0,3.99,3.82,0.1642,903.0
+1111,Catherine,X360,2011,Adventure,Deep Silver,82.0,7.9,Atlus,M,Shoji Meguro,1971-06-04,7891.0,3.99,4.0,0.1347,903.0
+1112,Catherine,X360,2011,Adventure,Deep Silver,82.0,7.9,Atlus,M,Shoji Meguro,1971-06-04,7891.0,3.99,3.82,0.1642,903.0
+1113,The Last Remnant,X360,2008,Role-Playing,Square Enix,66.0,6.9,Square Enix,M,Tsuyoshi Sekito,1963-04-03,7348.0,4.04,4.3,0.2901,
+1114,The Last Remnant,PC,2009,Role-Playing,Square Enix,66.0,8.3,Square Enix,M,Tsuyoshi Sekito,1963-04-03,7348.0,4.04,4.3,0.2901,
+1115,Prince Of Persia: The Two Thrones,PS2,2005,Action,Ubisoft,85.0,8.5,Ubisoft Montreal,M,Rod Abernethy,,10359.0,3.27,,,758.0
+1116,Prince Of Persia: The Two Thrones,PS2,2005,Action,Ubisoft,85.0,8.5,Ubisoft Montreal,M,Stuart Chatwood,1969-10-22,5430.0,4.16,,,758.0
+1117,Prince Of Persia: The Two Thrones,XB,2005,Action,Ubisoft,85.0,8.4,Ubisoft,M,Rod Abernethy,,10359.0,3.27,,,758.0
+1118,Prince Of Persia: The Two Thrones,XB,2005,Action,Ubisoft,85.0,8.4,Ubisoft,M,Stuart Chatwood,1969-10-22,5430.0,4.16,,,758.0
+1119,Prince Of Persia: The Two Thrones,GC,2005,Action,Ubisoft,84.0,8.1,Ubisoft,M,Rod Abernethy,,10359.0,3.27,,,758.0
+1120,Prince Of Persia: The Two Thrones,GC,2005,Action,Ubisoft,84.0,8.1,Ubisoft,M,Stuart Chatwood,1969-10-22,5430.0,4.16,,,758.0
+1121,Final Fantasy Crystal Chronicles: Ring Of Fates,DS,2007,Role-Playing,Square Enix,77.0,7.2,Square Enix,E10+,Kumi Tanioka,1974-08-29,8206.0,3.96,4.13,0.2224,
+1122,Radiata Stories,PS2,2005,Role-Playing,Square Enix,74.0,9,Tri-Ace,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.77,0.1204,
+1123,Super Castlevania Iv,SNES,1991,Platform,Konami Digital Entertainment,,,,,Kinuyo Yamashita,,6552.0,4.09,,,543.0
+1124,Super Castlevania Iv,SNES,1991,Platform,Konami Digital Entertainment,,,,,Michiru Yamane,1963-09-23,6105.0,4.12,,,543.0
+1125,Super Castlevania Iv,SNES,1991,Platform,Konami Digital Entertainment,,,,,Taro Kudo,,3388.0,4.27,,,543.0
+1126,Okami,PS2,2006,Action,Capcom,93.0,9.3,Clover Studio,T,Akari Kaida,1974-01-10,7252.0,4.04,3.91,0.1519,
+1127,Okami,PS2,2006,Action,Capcom,93.0,9.3,Clover Studio,T,Akari Kaida,1974-01-10,7252.0,4.04,4.44,0.4882,
+1128,Okami,PS2,2006,Action,Capcom,93.0,9.3,Clover Studio,T,Alph Lyla,,,,3.91,0.1519,
+1129,Okami,PS2,2006,Action,Capcom,93.0,9.3,Clover Studio,T,Alph Lyla,,,,4.44,0.4882,
+1130,Okami,Wii,2008,Action,Capcom,90.0,8.9,Ready at Dawn,T,Akari Kaida,1974-01-10,7252.0,4.04,3.91,0.1519,
+1131,Okami,Wii,2008,Action,Capcom,90.0,8.9,Ready at Dawn,T,Akari Kaida,1974-01-10,7252.0,4.04,4.44,0.4882,
+1132,Okami,Wii,2008,Action,Capcom,90.0,8.9,Ready at Dawn,T,Alph Lyla,,,,3.91,0.1519,
+1133,Okami,Wii,2008,Action,Capcom,90.0,8.9,Ready at Dawn,T,Alph Lyla,,,,4.44,0.4882,
+1134,Okami,PS3,2012,Action,Capcom,,,,,Akari Kaida,1974-01-10,7252.0,4.04,3.91,0.1519,
+1135,Okami,PS3,2012,Action,Capcom,,,,,Akari Kaida,1974-01-10,7252.0,4.04,4.44,0.4882,
+1136,Okami,PS3,2012,Action,Capcom,,,,,Alph Lyla,,,,3.91,0.1519,
+1137,Okami,PS3,2012,Action,Capcom,,,,,Alph Lyla,,,,4.44,0.4882,
+1138,Viewtiful Joe,GC,2003,Action,Capcom,93.0,8.3,Clover Studio,T,Akari Kaida,1974-01-10,7252.0,4.04,4.04,0.1103,
+1139,Viewtiful Joe,GC,2003,Action,Capcom,93.0,8.3,Clover Studio,T,Alph Lyla,,,,4.04,0.1103,
+1140,Viewtiful Joe,PS2,2004,Action,Capcom,90.0,8.5,Clover Studio,T,Akari Kaida,1974-01-10,7252.0,4.04,4.04,0.1103,
+1141,Viewtiful Joe,PS2,2004,Action,Capcom,90.0,8.5,Clover Studio,T,Alph Lyla,,,,4.04,0.1103,
+1142,Suikoden,PS,1995,Role-Playing,Konami Digital Entertainment,,,,,Kentaro Haneda,,4110.0,4.23,5.0,0.1348,
+1143,Suikoden,PS,1995,Role-Playing,Konami Digital Entertainment,,,,,Michiru Oshima,1961-03-16,7193.0,4.05,5.0,0.1348,
+1144,Suikoden,PS,1995,Role-Playing,Konami Digital Entertainment,,,,,Miki Higashino,1968-01-01,4368.0,4.22,5.0,0.1348,
+1145,Front Mission,SNES,1995,Strategy,SquareSoft,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,3.93,0.2293,
+1146,Front Mission,DS,2007,Strategy,Square Enix,72.0,8.9,Square Enix,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,3.93,0.2293,
+1147,Total War: Shogun 2,PC,2011,Strategy,Sega,90.0,8.3,Creative Assembly,T,Jeff van Dyck,,,,,,612.0
+1148,Mega Man X7,PS2,2003,Action,Capcom,58.0,5.1,Valuewave Co.,Ltd.,Noriyuki Iwadare,1964-04-28,7123.0,4.05,,,722.0
+1149,Sonic & All-stars Racing Transformed,X360,2012,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
+1150,Sonic & All-stars Racing Transformed,WiiU,2012,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
+1151,Sonic & All-stars Racing Transformed,PS3,2012,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
+1152,Sonic & All-stars Racing Transformed,PSV,2012,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
+1153,Sonic & All-stars Racing Transformed,3DS,2012,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
+1154,Sonic & All-stars Racing Transformed,PC,2013,Racing,Sega,,,,,Hideki Naganuma,1972-05-16,5557.0,4.15,,,854.0
+1155,Unreal Tournament,PS2,2000,Shooter,Infogrames,77.0,6.8,Epic Games,M,Alexander Brandon,1974-09-29,6662.0,4.08,,,693.0
+1156,Unreal Tournament,PS2,2000,Shooter,Infogrames,77.0,6.8,Epic Games,M,Andrew Sega,1975-05-20,7849.0,4,,,693.0
+1157,Unreal Tournament,PS2,2000,Shooter,Infogrames,77.0,6.8,Epic Games,M,Michiel van den Bos,1975-05-23,8891.0,3.88,,,693.0
+1158,Unreal Tournament,PS2,2000,Shooter,Infogrames,77.0,6.8,Epic Games,M,Peter Hajba,1974-12-15,,,,,693.0
+1159,Parasite Eve Ii,PS,1999,Role-Playing,SquareSoft,79.0,9,SquareSoft,M,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.39,0.1356,
+1160,Breath Of Fire Iv,PS,2000,Role-Playing,Capcom,83.0,8.9,Capcom,T,Yoshino Aoki,,7006.0,4.06,3.9,0.171,
+1161,Tales Of Zestiria,PS3,2015,Role-Playing,Namco Bandai Games,,8,Namco Bandai Games, Bandai Namco Games,Go Shiina,1974-05-16,5252.0,4.17,4.38,0.0709,820.0
+1162,Tales Of Zestiria,PS4,2015,Role-Playing,Namco Bandai Games,72.0,6.8,Bandai Namco Games,T,Go Shiina,1974-05-16,5252.0,4.17,4.38,0.0709,820.0
+1163,Odin Sphere,PS2,2007,Role-Playing,Square Enix,83.0,8.6,Vanilla Ware,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.08,0.3156,
+1164,Odin Sphere,PS2,2007,Role-Playing,Square Enix,83.0,8.6,Vanilla Ware,T,Manabu Namiki,1971-09-13,6391.0,4.1,4.08,0.3156,
+1165,Odin Sphere,PS2,2007,Role-Playing,Square Enix,83.0,8.6,Vanilla Ware,T,Masaharu Iwata,1966-10-26,6417.0,4.1,4.08,0.3156,
+1166,Odin Sphere,PS2,2007,Role-Playing,Square Enix,83.0,8.6,Vanilla Ware,T,Shoji Meguro,1971-06-04,7891.0,3.99,4.08,0.3156,
+1167,Daytona Usa,SAT,1994,Racing,Sega,,,,,Takayuki Nakamura,1967-07-19,7630.0,4.01,4.0,0.1427,
+1168,The Hobbit,PS2,2003,Platform,Vivendi Games,59.0,8.6,Inevitable Entertainment,E,Rod Abernethy,,10359.0,3.27,,,569.0
+1169,The Hobbit,XB,2003,Platform,Vivendi Games,,,,,Rod Abernethy,,10359.0,3.27,,,569.0
+1170,The Hobbit,GBA,2003,Platform,Vivendi Games,67.0,9.2,Saffire,E,Rod Abernethy,,10359.0,3.27,,,569.0
+1171,The Hobbit,GC,2003,Platform,Vivendi Games,61.0,7.3,Inevitable Entertainment,E,Rod Abernethy,,10359.0,3.27,,,569.0
+1172,Dragon's Crown,PS3,2013,Role-Playing,Nippon Ichi Software,82.0,8.3,Vanillaware,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.18,0.1437,
+1173,Dragon's Crown,PS3,2013,Role-Playing,Nippon Ichi Software,82.0,8.3,Vanillaware,T,Shoji Meguro,1971-06-04,7891.0,3.99,4.18,0.1437,
+1174,Dragon's Crown,PSV,2013,Role-Playing,Nippon Ichi Software,78.0,8.4,Vanillaware,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.18,0.1437,
+1175,Dragon's Crown,PSV,2013,Role-Playing,Nippon Ichi Software,78.0,8.4,Vanillaware,T,Shoji Meguro,1971-06-04,7891.0,3.99,4.18,0.1437,
+1176,Inazuma Eleven,DS,2008,Role-Playing,Nintendo,,,,,Tomohito Nishiura,1973-02-13,6999.0,4.06,3.9,0.1135,610.0
+1177,Inazuma Eleven,DS,2008,Role-Playing,Nintendo,,,,,Yasunori Mitsuda,1972-01-21,6165.0,4.11,3.9,0.1135,610.0
+1178,Freedom Fighters,PS2,2003,Shooter,Electronic Arts,81.0,8.4,Io Interactive,T,Jesper Kyd,1972-02-03,8115.0,3.97,4.41,0.0692,858.0
+1179,Freedom Fighters,XB,2003,Shooter,Electronic Arts,82.0,8.2,Io Interactive,T,Jesper Kyd,1972-02-03,8115.0,3.97,4.41,0.0692,858.0
+1180,Freedom Fighters,GC,2003,Shooter,Electronic Arts,83.0,7.8,Io Interactive,T,Jesper Kyd,1972-02-03,8115.0,3.97,4.41,0.0692,858.0
+1181,The 3rd Birthday,PSP,2010,Role-Playing,Square Enix,71.0,6.1,HexaDrive,M,Tsuyoshi Sekito,1963-04-03,7348.0,4.04,4.13,0.2017,
+1182,The 3rd Birthday,PSP,2010,Role-Playing,Square Enix,71.0,6.1,HexaDrive,M,Yoko Shimomura,1967-10-19,6964.0,4.06,4.13,0.2017,
+1183,Soul Sacrifice,PSV,2013,Role-Playing,Sony Computer Entertainment,77.0,8.2,SCE Japan Studio, comcept,Yasunori Mitsuda,1972-01-21,6165.0,4.11,3.65,0.1282,
+1184,Silent Hill 4: The Room,PS2,2004,Action,Konami Digital Entertainment,76.0,7.8,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.0,0.2256,890.0
+1185,Silent Hill 4: The Room,PS2,2004,Action,Konami Digital Entertainment,76.0,7.8,KCET,M,Rika Muranaka,,4174.0,4.23,4.0,0.2256,890.0
+1186,Silent Hill 4: The Room,XB,2004,Action,Konami Digital Entertainment,76.0,8.3,KCET,M,Akira Yamaoka,1968-02-06,5613.0,4.15,4.0,0.2256,890.0
+1187,Silent Hill 4: The Room,XB,2004,Action,Konami Digital Entertainment,76.0,8.3,KCET,M,Rika Muranaka,,4174.0,4.23,4.0,0.2256,890.0
+1188,Hitman: Blood Money,PS2,2006,Action,Eidos Interactive,83.0,8.4,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,,,606.0
+1189,Hitman: Blood Money,X360,2006,Action,Eidos Interactive,82.0,8.7,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,,,606.0
+1190,Hitman: Blood Money,XB,2006,Action,Eidos Interactive,81.0,9.1,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,,,606.0
+1191,Hitman: Blood Money,PC,2006,Action,Eidos Interactive,82.0,8.8,Io Interactive,M,Jesper Kyd,1972-02-03,8115.0,3.97,,,606.0
+1192,Monster Hunter,PS2,2004,Role-Playing,Capcom,68.0,8.9,Capcom,T,Akari Kaida,1974-01-10,7252.0,4.04,,,561.0
+1193,Monster Hunter,PS2,2004,Role-Playing,Capcom,68.0,8.9,Capcom,T,Alph Lyla,,,,,,561.0
+1194,Grandia Iii,PS2,2005,Role-Playing,Square Enix,77.0,8.3,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.95,0.1718,
+1195,Tales Of Legendia,PS2,2005,Role-Playing,Namco Bandai Games,72.0,7.7,Namco,T,Go Shiina,1974-05-16,5252.0,4.17,4.48,0.305,
+1196,Ico,PS2,2001,Action,Sony Computer Entertainment,90.0,8.8,SCE Japan Studio,T,Michiru Oshima,1961-03-16,7193.0,4.05,3.89,0.3431,
+1197,Ico,PS3,2011,Action,Sony Computer Entertainment,,7.4,Bluepoint Games,T,Michiru Oshima,1961-03-16,7193.0,4.05,3.89,0.3431,
+1198,Bomberman Hero,N64,1998,Platform,Nintendo,,,,,Jun Chikuma,,,,3.65,0.0722,
+1199,God Eater 2,PSV,2013,Role-Playing,Namco Bandai Games,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.34,0.1149,
+1200,God Eater 2,PSP,2013,Role-Playing,Namco Bandai Games,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.34,0.1149,
+1201,Persona,PS,1995,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,4.06,0.09,398.0
+1202,Persona,PS,1995,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,4.06,0.09,775.0
+1203,Persona,PS,1995,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,3.66,0.1449,398.0
+1204,Persona,PS,1995,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,3.66,0.1449,775.0
+1205,Chocobo Racing,PS,1999,Racing,SquareSoft,,,,,Kenji Ito,1968-07-05,7488.0,4.02,3.96,0.0658,
+1206,Grandia,SAT,1997,Role-Playing,ESP,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.42,0.1116,
+1207,Grandia,SAT,1997,Role-Playing,ESP,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.93,0.1492,
+1208,Grandia,SAT,1997,Role-Playing,ESP,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.46,0.2094,
+1209,Grandia,SAT,1997,Role-Playing,ESP,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.57,0.4317,
+1210,Grandia,PS,1999,Role-Playing,Ubisoft,89.0,6.6,Game Arts,E,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.42,0.1116,
+1211,Grandia,PS,1999,Role-Playing,Ubisoft,89.0,6.6,Game Arts,E,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.93,0.1492,
+1212,Grandia,PS,1999,Role-Playing,Ubisoft,89.0,6.6,Game Arts,E,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.46,0.2094,
+1213,Grandia,PS,1999,Role-Playing,Ubisoft,89.0,6.6,Game Arts,E,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.57,0.4317,
+1214,Paper Mario: Color Splash,WiiU,2016,Role-Playing,Nintendo,75.0,6.8,Nintendo, Intelligent Systems,Taro Kudo,,3388.0,4.27,,,173.0
+1215,Ogre Battle 64: Person Of Lordly Caliber,N64,1999,Role-Playing,Nintendo,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.02,0.2089,
+1216,Ogre Battle 64: Person Of Lordly Caliber,N64,1999,Role-Playing,Nintendo,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.02,0.2089,
+1217,Nights: Journey Of Dreams,Wii,2007,Platform,Sega,69.0,8.5,Sega, Sonic Team,Jun Senoue,1970-08-02,6091.0,4.12,,,733.0
+1218,Nights: Journey Of Dreams,Wii,2007,Platform,Sega,69.0,8.5,Sega, Sonic Team,Tomoya Ohtani,1974-07-01,5079.0,4.18,,,733.0
+1219,Mother 3,GBA,2006,Role-Playing,Nintendo,,,,,Hirokazu Tanaka,1957-12-13,6489.0,4.09,3.81,0.1154,49.0
+1220,Mother 3,GBA,2006,Role-Playing,Nintendo,,,,,Keiichi Suzuki,1951-08-28,8099.0,3.97,3.81,0.1154,49.0
+1221,Command & Conquer,PS,1996,Strategy,Virgin Interactive,,,,,Frank Klepacki,,7213.0,4.04,4.68,0.0908,
+1222,Command & Conquer,N64,1999,Strategy,Nintendo,,,,,Frank Klepacki,,7213.0,4.04,4.68,0.0908,
+1223,Grandia Xtreme,PS2,2002,Role-Playing,Enix Corporation,68.0,6.5,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.76,0.1436,
+1224,Tobal 2,PS,1997,Fighting,SquareSoft,,,,,Takayuki Nakamura,1967-07-19,7630.0,4.01,4.75,0.1638,
+1225,Soulcalibur,DC,1999,Fighting,Namco Bandai Games,98.0,8.8,Namco,T,Nobuyoshi Sano,1969-01-19,8811.0,3.89,4.67,0.1234,574.0
+1226,Soulcalibur,DC,1999,Fighting,Namco Bandai Games,98.0,8.8,Namco,T,Nobuyoshi Sano,1969-01-19,8811.0,3.89,4.15,0.2246,574.0
+1227,Soulcalibur,DC,1999,Fighting,Namco Bandai Games,98.0,8.8,Namco,T,Yuu Miyake,1973-11-19,7946.0,3.99,4.67,0.1234,574.0
+1228,Soulcalibur,DC,1999,Fighting,Namco Bandai Games,98.0,8.8,Namco,T,Yuu Miyake,1973-11-19,7946.0,3.99,4.15,0.2246,574.0
+1229,World Of Final Fantasy,PS4,2016,Role-Playing,Square Enix,77.0,8.3,Square Enix,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,4.16,0.0998,
+1230,World Of Final Fantasy,PSV,2016,Role-Playing,Square Enix,77.0,8.6,Square Enix,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,4.16,0.0998,
+1231,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,3.55,0.1254,
+1232,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,3.65,0.1793,
+1233,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,4.2,0.2904,
+1234,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,4.16,0.2975,
+1235,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.55,0.1254,
+1236,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.65,0.1793,
+1237,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,4.2,0.2904,
+1238,Final Fantasy Xi,PS2,,Role-Playing,Unknown,85.0,6.9,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,4.16,0.2975,
+1239,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,3.55,0.1254,
+1240,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,3.65,0.1793,
+1241,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,4.2,0.2904,
+1242,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Kumi Tanioka,1974-08-29,8206.0,3.96,4.16,0.2975,
+1243,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.55,0.1254,
+1244,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.65,0.1793,
+1245,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,4.2,0.2904,
+1246,Final Fantasy Xi,X360,2006,Role-Playing,Square Enix,66.0,6.5,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,4.16,0.2975,
+1247,Persona 4: Dancing All Night,PSV,2015,Misc,Nippon Ichi Software,76.0,8.6,Atlus, Dingo Inc.,Norihiko Hibino,1973-09-03,7388.0,4.03,,,67.0
+1248,Persona 4: Dancing All Night,PSV,2015,Misc,Nippon Ichi Software,76.0,8.6,Atlus, Dingo Inc.,Yuu Miyake,1973-11-19,7946.0,3.99,,,67.0
+1249,Live A Live,SNES,1994,Role-Playing,SquareSoft,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.31,0.1529,
+1250,Live A Live,SNES,1994,Role-Playing,SquareSoft,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.23,0.2802,
+1251,Radiant Historia,DS,2010,Role-Playing,Atlus,85.0,9,Atlus,E10+,Shoji Meguro,1971-06-04,7891.0,3.99,4.08,0.0867,
+1252,Radiant Historia,DS,2010,Role-Playing,Atlus,85.0,9,Atlus,E10+,Shoji Meguro,1971-06-04,7891.0,3.99,4.2,0.2766,
+1253,Radiant Historia,DS,2010,Role-Playing,Atlus,85.0,9,Atlus,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,4.08,0.0867,
+1254,Radiant Historia,DS,2010,Role-Playing,Atlus,85.0,9,Atlus,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,4.2,0.2766,
+1255,Grandia Ii,PS2,2002,Role-Playing,Ubisoft,71.0,8.6,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.88,0.1785,
+1256,Grandia Ii,PS2,2002,Role-Playing,Ubisoft,71.0,8.6,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.15,0.2776,
+1257,Grandia Ii,PS2,2002,Role-Playing,Ubisoft,71.0,8.6,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.26,0.3396,
+1258,Grandia Ii,DC,2000,Role-Playing,Ubisoft,90.0,8.8,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,3.88,0.1785,
+1259,Grandia Ii,DC,2000,Role-Playing,Ubisoft,90.0,8.8,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.15,0.2776,
+1260,Grandia Ii,DC,2000,Role-Playing,Ubisoft,90.0,8.8,Game Arts,T,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.26,0.3396,
+1261,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Kenji Ito,1968-07-05,7488.0,4.02,3.52,0.1367,
+1262,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Kenji Ito,1968-07-05,7488.0,4.02,3.9,0.1796,
+1263,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Kenji Ito,1968-07-05,7488.0,4.02,4.24,0.2958,
+1264,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Manabu Namiki,1971-09-13,6391.0,4.1,3.52,0.1367,
+1265,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Manabu Namiki,1971-09-13,6391.0,4.1,3.9,0.1796,
+1266,Deathsmiles,X360,2009,Shooter,Rising Star Games,76.0,8.4,Cave,T,Manabu Namiki,1971-09-13,6391.0,4.1,4.24,0.2958,
+1267,Panzer Dragoon Orta,XB,2002,Shooter,Sega,90.0,8.5,Smilebit,T,Saori Kobayashi,,5781.0,4.14,4.5,0.1113,
+1268,Panzer Dragoon Orta,XB,2002,Shooter,Sega,90.0,8.5,Smilebit,T,Saori Kobayashi,,5781.0,4.14,4.32,0.1378,
+1269,Ace Attorney Investigations 2,DS,2011,Adventure,Capcom,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,,,755.0
+1270,Luminous Arc,DS,2007,Role-Playing,Rising Star Games,70.0,7,Image Epoch, Imageepoch,Yasunori Mitsuda,1972-01-21,6165.0,4.11,3.73,0.0796,
+1271,Angry Birds,PC,2011,Puzzle,Focus Home Interactive,,7.3,Rovio Mobile, Rovio Entertainment,Ari Pulkkinen,1982-01-15,8303.0,3.95,,,184.0
+1272,Final Fantasy Xi: Treasures Of Aht Urhgan,PS2,2006,Role-Playing,Square Enix,87.0,7.1,Square Enix,T,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.95,0.1492,
+1273,Breath Of Fire,GBA,2001,Role-Playing,Ubisoft,79.0,8.8,Capcom,E,Akari Kaida,1974-01-10,7252.0,4.04,4.59,0.3599,
+1274,Breath Of Fire,GBA,2001,Role-Playing,Ubisoft,79.0,8.8,Capcom,E,Alph Lyla,,,,4.59,0.3599,
+1275,Breath Of Fire,GBA,2001,Role-Playing,Ubisoft,79.0,8.8,Capcom,E,Yoko Shimomura,1967-10-19,6964.0,4.06,4.59,0.3599,
+1276,Phantasy Star Online,DC,2000,Role-Playing,Sega,89.0,9.1,Sonic Team,T,Jun Senoue,1970-08-02,6091.0,4.12,4.23,0.11,
+1277,Phantasy Star Online,DC,2000,Role-Playing,Sega,89.0,9.1,Sonic Team,T,Tomoya Ohtani,1974-07-01,5079.0,4.18,4.23,0.11,
+1278,Treasure Hunter G,SNES,1996,Role-Playing,SquareSoft,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.2,0.2293,
+1279,Treasure Hunter G,SNES,1996,Role-Playing,SquareSoft,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.2,0.2293,
+1280,Ridge Racer 6,X360,2005,Racing,Namco Bandai Games,74.0,7.1,Namco,E,Yuu Miyake,1973-11-19,7946.0,3.99,3.79,0.1444,
+1281,Arc Rise Fantasia,Wii,2009,Role-Playing,Marvelous Interactive,64.0,7.8,Image Epoch, Imageepoch,Yasunori Mitsuda,1972-01-21,6165.0,4.11,4.24,0.1548,
+1282,Let's Tap,Wii,2008,Misc,Sega,70.0,6.6,Prope,E,Shinji Hosoe,1967-02-28,8140.0,3.97,3.75,0.1051,
+1283,Heroes Of Mana,DS,2007,Strategy,Square Enix,66.0,tbd,Brownie Brown,E10+,Yoko Shimomura,1967-10-19,6964.0,4.06,3.9,0.156,
+1284,Phantom Brave,PS2,2004,Role-Playing,Tecmo Koei,81.0,7.9,Nippon Ichi Software,T,Tenpei Sato,,9462.0,3.78,4.13,0.1241,
+1285,Guilty Gear,PS,1998,Fighting,Virgin Interactive,,,,,Daisuke Ishiwatari,,6892.0,4.07,4.14,0.187,
+1286,Guilty Gear,PS,1998,Fighting,Virgin Interactive,,,,,Daisuke Ishiwatari,,6892.0,4.07,4.42,0.2181,
+1287,Final Fantasy Xi: Rise Of The Zilart,PS2,2003,Role-Playing,Square Enix,,,,,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.98,0.1545,
+1288,Warcraft Iii: Reign Of Chaos,PC,2002,Strategy,Vivendi Games,92.0,9.1,Blizzard Entertainment,T,Matt Uelmen,1972-07-31,4317.0,4.22,,,552.0
+1289,Warcraft Iii: Reign Of Chaos,PC,2002,Strategy,Vivendi Games,92.0,9.1,Blizzard Entertainment,T,Russell Brower,,9434.0,3.78,,,552.0
+1290,Contra Iii: The Alien Wars,SNES,1992,Shooter,Konami Digital Entertainment,,,,,Miki Higashino,1968-01-01,4368.0,4.22,,,769.0
+1291,Diablo Ii,PC,2000,Role-Playing,Havas Interactive,88.0,8.8,Blizzard North,M,Matt Uelmen,1972-07-31,4317.0,4.22,4.18,0.0671,
+1292,Diablo Ii,PC,2000,Role-Playing,Havas Interactive,88.0,8.8,Blizzard North,M,Matt Uelmen,1972-07-31,4317.0,4.22,4.5,0.087,
+1293,Diablo Ii,PC,2000,Role-Playing,Havas Interactive,88.0,8.8,Blizzard North,M,Russell Brower,,9434.0,3.78,4.18,0.0671,
+1294,Diablo Ii,PC,2000,Role-Playing,Havas Interactive,88.0,8.8,Blizzard North,M,Russell Brower,,9434.0,3.78,4.5,0.087,
+1295,Grand Knights History,PSP,2011,Role-Playing,Marvelous Interactive,,,Vanillaware,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.12,0.1695,
+1296,Mystic Ark,SNES,1995,Role-Playing,Enix Corporation,,,,,Akihiko Mori,,5422.0,4.16,4.28,0.1742,
+1297,Baroque,PS2,2007,Role-Playing,Rising Star Games,60.0,8.8,Sting,T,Masaharu Iwata,1966-10-26,6417.0,4.1,3.92,0.1235,220.0
+1298,Baroque,PS2,2007,Role-Playing,Rising Star Games,60.0,8.8,Sting,T,Masaharu Iwata,1966-10-26,6417.0,4.1,4.25,0.2057,220.0
+1299,Baroque,Wii,2008,Role-Playing,Rising Star Games,50.0,8.1,Sting,T,Masaharu Iwata,1966-10-26,6417.0,4.1,3.92,0.1235,220.0
+1300,Baroque,Wii,2008,Role-Playing,Rising Star Games,50.0,8.1,Sting,T,Masaharu Iwata,1966-10-26,6417.0,4.1,4.25,0.2057,220.0
+1301,Last Ranker,PSP,2010,Role-Playing,Capcom,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.49,0.2821,
+1302,Guilty Gear X,PS2,2001,Fighting,Sammy Corporation,79.0,7.8,Arc System Works,T,Daisuke Ishiwatari,,6892.0,4.07,3.79,0.1339,
+1303,Psychonauts,XB,2005,Platform,THQ,88.0,9,Double Fine Productions,T,Peter McConnell,,8336.0,3.95,3.64,0.073,
+1304,Psychonauts,PS2,2005,Platform,Majesco Entertainment,86.0,8.7,BudCat,T,Peter McConnell,,8336.0,3.95,3.64,0.073,
+1305,Ash: Archaic Sealed Heat,DS,2007,Role-Playing,Nintendo,,,Mistwalker,E10+,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,3.54,0.1225,
+1306,Soma Bringer,DS,2008,Role-Playing,Nintendo,,,,,Yasunori Mitsuda,1972-01-21,6165.0,4.11,4.19,0.2546,
+1307,Opoona,Wii,2007,Role-Playing,Tecmo Koei,65.0,7.7,ArtePiazza,E10+,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.5,0.3041,
+1308,Opoona,Wii,2007,Role-Playing,Tecmo Koei,65.0,7.7,ArtePiazza,E10+,Manabu Namiki,1971-09-13,6391.0,4.1,4.5,0.3041,
+1309,Opoona,Wii,2007,Role-Playing,Tecmo Koei,65.0,7.7,ArtePiazza,E10+,Masaharu Iwata,1966-10-26,6417.0,4.1,4.5,0.3041,
+1310,Guilty Gear Isuka,PS2,2004,Fighting,505 Games,73.0,7.5,Arc System Works,T,Daisuke Ishiwatari,,6892.0,4.07,3.82,0.1251,
+1311,Gradius V,PS2,2004,Shooter,Konami Digital Entertainment,82.0,8.5,Treasure,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.25,0.3396,
+1312,Shin Megami Tensei,PS,2001,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,3.55,0.0729,
+1313,Shin Megami Tensei,PS,2001,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,3.79,0.0913,
+1314,Shin Megami Tensei,PS,2001,Role-Playing,Atlus,,,,,Shoji Meguro,1971-06-04,7891.0,3.99,3.62,0.1587,
+1315,Blood Of Bahamut,DS,2009,Role-Playing,Square Enix,,,,,Naoshi Mizuta,1972-01-24,8403.0,3.94,3.86,0.1034,
+1316,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,3.7,0.0744,
+1317,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,4.23,0.1119,
+1318,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,3.61,0.164,
+1319,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,4.8,0.1689,
+1320,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,3.96,0.2699,
+1321,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,3.94,0.3599,
+1322,Final Fantasy Vi,PS,1999,Role-Playing,Sony Computer Entertainment,,,,,Jake Kaufman,1981-04-03,5995.0,4.12,4.65,0.8424,
+1323,Stella Deus: The Gate Of Eternity,PS2,2004,Strategy,505 Games,75.0,8,Pinegrow,T,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,3.89,0.1619,
+1324,Streets Of Rage 3,GEN,1993,Action,Sega,,,,,Yuzo Koshiro,1967-12-12,5913.0,4.13,,,939.0
+1325,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Jun Maeda,1975-01-03,4985.0,4.19,3.86,0.0785,
+1326,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.43,0.166,
+1327,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Magome Togoshi,,5972.0,4.12,3.86,0.0785,
+1328,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Magome Togoshi,,5972.0,4.12,4.43,0.166,
+1329,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Shinji Orito,1973-07-30,5610.0,4.15,3.86,0.0785,
+1330,Kanon,DC,2000,Adventure,NEC Interchannel,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.43,0.166,
+1331,The Witcher,PC,2007,Role-Playing,Atari,81.0,8.8,CD Projekt Red Studio,M,Mark Knight,1973-01-08,,,3.68,0.0768,
+1332,Burning Rangers,SAT,1998,Platform,Sega,,,,,Jun Senoue,1970-08-02,6091.0,4.12,4.29,0.0933,
+1333,Burning Rangers,SAT,1998,Platform,Sega,,,,,Tomoya Ohtani,1974-07-01,5079.0,4.18,4.29,0.0933,
+1334,Grimgrimoire,PS2,2007,Strategy,Tecmo Koei,79.0,7.9,Vanilla Ware,E10+,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,3.5,0.0843,
+1335,Starcraft,PC,1998,Strategy,Activision,88.0,9.1,Blizzard Entertainment,T,Matt Uelmen,1972-07-31,4317.0,4.22,,,264.0
+1336,Starcraft,PC,1998,Strategy,Activision,88.0,9.1,Blizzard Entertainment,T,Russell Brower,,9434.0,3.78,,,264.0
+1337,Time Travelers,PSV,2012,Adventure,Level 5,,,,,Tomohito Nishiura,1973-02-13,6999.0,4.06,3.73,0.1123,
+1338,Time Travelers,3DS,2012,Adventure,Unknown,,,,,Tomohito Nishiura,1973-02-13,6999.0,4.06,3.73,0.1123,
+1339,Time Travelers,PSP,2012,Adventure,Level 5,,,,,Tomohito Nishiura,1973-02-13,6999.0,4.06,3.73,0.1123,
+1340,Clannad,PS2,2006,Adventure,Interchannel,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.12,0.1026,
+1341,Clannad,PS2,2006,Adventure,Interchannel,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.6,0.3024,
+1342,Clannad,PS2,2006,Adventure,Interchannel,,,,,Magome Togoshi,,5972.0,4.12,4.12,0.1026,
+1343,Clannad,PS2,2006,Adventure,Interchannel,,,,,Magome Togoshi,,5972.0,4.12,4.6,0.3024,
+1344,Clannad,PS2,2006,Adventure,Interchannel,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.12,0.1026,
+1345,Clannad,PS2,2006,Adventure,Interchannel,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.6,0.3024,
+1346,Clannad,PSP,2008,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.12,0.1026,
+1347,Clannad,PSP,2008,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.6,0.3024,
+1348,Clannad,PSP,2008,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.12,0.1026,
+1349,Clannad,PSP,2008,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.6,0.3024,
+1350,Clannad,PSP,2008,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.12,0.1026,
+1351,Clannad,PSP,2008,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.6,0.3024,
+1352,Clannad,PS3,2011,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.12,0.1026,
+1353,Clannad,PS3,2011,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.6,0.3024,
+1354,Clannad,PS3,2011,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.12,0.1026,
+1355,Clannad,PS3,2011,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.6,0.3024,
+1356,Clannad,PS3,2011,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.12,0.1026,
+1357,Clannad,PS3,2011,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.6,0.3024,
+1358,Clannad,X360,2008,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.12,0.1026,
+1359,Clannad,X360,2008,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.6,0.3024,
+1360,Clannad,X360,2008,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.12,0.1026,
+1361,Clannad,X360,2008,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.6,0.3024,
+1362,Clannad,X360,2008,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.12,0.1026,
+1363,Clannad,X360,2008,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.6,0.3024,
+1364,Mr. Driller,PS,1999,Puzzle,Namco Bandai Games,,,,,Go Shiina,1974-05-16,5252.0,4.17,4.0,0.0561,
+1365,Wangan Midnight,PS3,2007,Racing,Genki,,,,,Yuzo Koshiro,1967-12-12,5913.0,4.13,3.72,0.1182,
+1366,Wangan Midnight,PS3,2007,Racing,Genki,,,,,Yuzo Koshiro,1967-12-12,5913.0,4.13,3.56,0.1252,
+1367,Wangan Midnight,PS3,2007,Racing,Genki,,,,,Yuzo Koshiro,1967-12-12,5913.0,4.13,4.31,0.2193,
+1368,Deathsmiles Ii,X360,2010,Shooter,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,4.03,0.1296,
+1369,Air,PSP,2007,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.4,0.2788,
+1370,Air,PSP,2007,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.4,0.2788,
+1371,Air,PSP,2007,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.4,0.2788,
+1372,Mushihimesama,X360,2012,Action,Cave,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.13,0.1251,
+1373,Mushihimesama,X360,2012,Action,Cave,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.0,0.2231,
+1374,Mushihimesama,X360,2012,Action,Cave,,,,,Hitoshi Sakimoto,1969-02-26,6143.0,4.11,4.34,0.2906,
+1375,Mushihimesama,X360,2012,Action,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,4.13,0.1251,
+1376,Mushihimesama,X360,2012,Action,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,4.0,0.2231,
+1377,Mushihimesama,X360,2012,Action,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,4.34,0.2906,
+1378,Mushihimesama,X360,2012,Action,Cave,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.13,0.1251,
+1379,Mushihimesama,X360,2012,Action,Cave,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.0,0.2231,
+1380,Mushihimesama,X360,2012,Action,Cave,,,,,Masaharu Iwata,1966-10-26,6417.0,4.1,4.34,0.2906,
+1381,Mushihimesama,X360,2012,Action,Cave,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.13,0.1251,
+1382,Mushihimesama,X360,2012,Action,Cave,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.0,0.2231,
+1383,Mushihimesama,X360,2012,Action,Cave,,,,,Yoko Shimomura,1967-10-19,6964.0,4.06,4.34,0.2906,
+1384,Elvandia Story,PS2,2007,Role-Playing,Spike,,,,,Norihiko Hibino,1973-09-03,7388.0,4.03,4.12,0.1481,
+1385,Elvandia Story,PS2,2007,Role-Playing,Spike,,,,,Noriyuki Iwadare,1964-04-28,7123.0,4.05,4.12,0.1481,
+1386,Rewrite,PSV,2014,Adventure,Prototype,,,,,Jun Maeda,1975-01-03,4985.0,4.19,4.32,0.101,703.0
+1387,Rewrite,PSV,2014,Adventure,Prototype,,,,,Magome Togoshi,,5972.0,4.12,4.32,0.101,703.0
+1388,Rewrite,PSV,2014,Adventure,Prototype,,,,,Shinji Orito,1973-07-30,5610.0,4.15,4.32,0.101,703.0
+1389,Dodonpachi Saidaioujou,X360,2013,Shooter,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,3.36,0.0535,
+1390,Dodonpachi Saidaioujou,X360,2013,Shooter,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,3.84,0.1901,
+1391,Deus Ex,PC,2000,Role-Playing,Eidos Interactive,90.0,9.3,Ion Storm,M,Alexander Brandon,1974-09-29,6662.0,4.08,4.03,0.0946,
+1392,Deus Ex,PC,2000,Role-Playing,Eidos Interactive,90.0,9.3,Ion Storm,M,Michiel van den Bos,1975-05-23,8891.0,3.88,4.03,0.0946,
+1393,Dodonpachi Daifukkatsu: Black Label,X360,2011,Shooter,Cave,,,,,Manabu Namiki,1971-09-13,6391.0,4.1,4.5,0.2212,
+1394,Trine,PC,2009,Action,Nobilis,80.0,8.2,Frozenbyte, Inc.,Ari Pulkkinen,1982-01-15,8303.0,3.95,4.32,0.0878,
