@@ -11,8 +11,9 @@ This project looks at data on video games and video game composers.
 This file contains information on where to find elements of this project and also discusses 
 research questions and the general project background. 
 
-Section 1 will contain information on Research Questions and Background
-Section 2 will contain a high-level overview of where to find everything in this project. 
+* Section 1 will contain information on Research Questions and Background.   
+  
+* Section 2 will contain a high-level overview of where to find everything in this project. 
 
 # Section 1
 ## Research Questions and Background 

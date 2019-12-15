@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c830591-7dcd-46ad-b077-c9944e19a3ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/unique column values.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/unique column values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Top 1000 downloaded soundtracks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Top 1000 downloaded soundtracks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/replacing_separators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/replacing_separators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/clean_musicians_into_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/clean_musicians_into_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/get_individual_composer_pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/get_individual_composer_pages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/replacing_separators_wiki.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/replacing_separators_wiki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/vgmdb/highest_rated_artists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/vgmdb/highest_rated_artists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +48,6 @@
         <option value="$PROJECT_DIR$/Datasets/Wikipedia/Game Pages/get_individual_game_pages.py" />
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/Datasets/vgmdb/testest.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Datasets/vgmdb/changing_separators.py" />
         <option value="$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums_cleaned_adjusted.txt" />
         <option value="$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/video_game_sales_cleaned.csv" />
@@ -80,6 +70,7 @@
         <option value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py" />
         <option value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/get_individual_composer_pages.py" />
         <option value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/replacing_separators_wiki.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -100,11 +91,6 @@
             <path>
               <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -302,7 +288,7 @@
       <workItem from="1575949902169" duration="3659000" />
       <workItem from="1576349133409" duration="3025000" />
       <workItem from="1576434561406" duration="626000" />
-      <workItem from="1576437426143" duration="6308000" />
+      <workItem from="1576437426143" duration="7407000" />
     </task>
     <task id="LOCAL-00001" summary="remote test">
       <created>1574017012234</created>
@@ -570,11 +556,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576445108575</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Updated code comments and documentation">
+      <created>1576446791086</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1576446791086</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101772000" />
+    <option name="totallyTimeSpent" value="102871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="4" width="1136" height="924" extended-state="0" />
@@ -608,7 +601,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added documentation files&#10;cleaned up folders and code that are not going to be used&#10;cleaned up test code&#10;made sure all datasets have original data and website copy folders" />
     <MESSAGE value="copied all documentation to a separate folder, added documentation section to README" />
     <MESSAGE value="worked in jupyter notebook, starting combining" />
     <MESSAGE value="finished rough draft of jupyter notebook, need to do more data cleaning now" />
@@ -633,7 +625,8 @@
     <MESSAGE value="finished Analysis portion of Notebook" />
     <MESSAGE value="Finished Analysis and Assessment Jupyter Notebook&#10;Added 3 screenshots for bqplots" />
     <MESSAGE value="All documentation updated and finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="All documentation updated and finished" />
+    <MESSAGE value="Updated code comments and documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated code comments and documentation" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$least_popular_albums.coverage" NAME="least_popular_albums Coverage Results" MODIFIED="1570917871205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
@@ -683,16 +676,6 @@
     <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/wiki test 1.py" />
     <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/Original Data Do Not Edit/most_popular_albums.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/kenji_ito.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -845,16 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Documentation/kaggle_documentation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="170">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/Video game sales with ratings.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -961,6 +934,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/kaggle_documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="170">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
