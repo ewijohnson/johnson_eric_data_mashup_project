@@ -7,17 +7,17 @@ sources and combines it into a single, novel dataset.
 
 This project looks at data on video games and video game composers. 
 
-## Documentation
-Documentation for all datasets can be found in two places - in each dataset
-folder along with the code and datasets themselves, and also separately in 
-the first-level folder Documentation. Putting these files in two locations 
-was done to facilitate ease of access. On the one hand, it makes sense to 
-keep them in with the respective code and datasets, and on the other hand, 
-for people who are looking at this project for the first time, or who are 
-looking for a high-level overview, will find it easier to have the files in 
-their own top-level folder. 
+## Overview of this file
+This file contains information on where to find elements of this project and also discusses 
+research questions and the general project background. 
 
-## Research Questions
+Section 1 will contain information on Research Questions and Background
+Section 2 will contain a high-level overview of where to find everything in this project. 
+
+# Section 1
+## Research Questions and Background 
+
+### Research Questions
 The final dataset aims to allow for analysis to answer these questions, and related
 questions, that cannot be answered by any one dataset currently in existence.
 
@@ -31,7 +31,7 @@ Are there any correlations between:
 Does a given composer tend to write music for a certain game genre, or is there
 a tendency to not be limited by game genre?
 
-## Background on the Project
+### Background on the Project
 This research idea came about from my love of video game music. While I enjoy playing video games, I often find 
 myself listening to soundtracks from many games while I do other work. It is a unique genre of music, similar to 
 contemporary classical, yet less cinematic than movie soundtracks. It is almost atmospheric, but more melodic. While 
@@ -54,3 +54,66 @@ listening to? Do composers tend to work within certain genres, or do they often 
 An in-depth look of the music of video games has not been done before, and my project will create one dataset that 
 can be used for analyzing these questions as well as others. Hopefully it will also inspire others to continue looking 
 more deeply into video game music, and highlight music and composers as an integral part of video games.    
+
+
+# Section 2
+## High-Level Overview 
+
+### Final Dataset File
+The final single dataset file can be found in the upper-level folder named "Final Dataset". 
+
+### Intermediate Datasets
+All intermediate datasets can be found along with the other dataset information. This information 
+is located in the upper-level Datasets folder, and then in the corresponding source folder. Within 
+each source folder is another folder named "Copy of Final Intermediate Dataset(s)". The final 
+intermediate datasets can be found there. Note that there are two intermediate datasets in the 
+vgmdb folder, and the Wikipedia data is found within the first sub-folder "List of Video Game 
+Musicians" (there was originally going to be another separate group of Wikipedia data, but this was 
+scrapped and the original folder structure was left unchanged).
+
+### Documentation
+Documentation for all datasets can be found in two places - in each dataset
+folder along with the code and datasets themselves, and also separately in 
+the first-level folder Documentation. Putting these files in two locations 
+was done to facilitate ease of access. On the one hand, it makes sense to 
+keep them in with the respective code and datasets, and on the other hand, 
+for people who are looking at this project for the first time, or who are 
+looking for a high-level overview, will find it easier to have the files in 
+their own top-level folder. 
+
+### Commented & Documented Code
+All code that was used to web scrape and to adjust the data to reach the final intermediate datasets 
+can be found in the corresponding folders within the Datasets/"data-source" directories. All code 
+has been commented and has a general overview at the beginning of the script summarizing what the 
+purpose of that file is. 
+
+Hand-created and hand-edited data files are described in the Documentation for each dataset, as nearly 
+all of the hand-editing was done as part of data cleaning. This is where you can find information 
+on the creation of these files and how they differ from other versions of that data. 
+
+### Jupyter Notebook - Final Dataset Creation
+The Jupyter Notebook that can be run to create the final dataset can be found in the upper-level 
+folder named "jupyter_notebooks_data_mashup", and the notebook is titled "Dataset Combining". 
+This is the notebook that reads in all of my final intermediate datasets and explains the entire 
+process as well. At the end of this notebook, a link is created that can be used to download the 
+final dataset (although it is also already included in this project, see above). 
+
+### GitHub Link
+This project can be found at: 
+[GitHub Link.](https://github.com/ewijohnson/johnson_eric_data_mashup_project) 
+
+It will also be submitted as a separate file in the assignment section on Moodle. 
+
+### Resume Entry 
+The resume entry will be submitted as a separate file in the assignment section on Moodle. 
+
+### Single Summary Slide
+The single summary slide will also be submitted as a separate file in the assignment section. 
+
+### Short Assessment Report 
+The short assessment report and initial data analysis report can be found in a Jupyter Notebook 
+located in the upper-level folder "jupyter_notebooks_data_mashup". The notebook is titled 
+"Initial Analysis and Assessment". A couple of the visualizations that I made to show initial data 
+analysis can only be viewed in a live Jupyter Notebook, so if you don't want to run it yourself, I 
+included screenshots of these visualizations in the sub-folder "Screenshots of bqplot Plots". 
+There are three screenshots and they correspond in order to the plots in the notebook. 
