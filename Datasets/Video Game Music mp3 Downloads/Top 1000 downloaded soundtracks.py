@@ -1,3 +1,9 @@
+"""
+This script web scrapes and collects the data from mp3 Downloads using the requests package and
+some XPath. It prints out the final collected data to a new text file.
+"""
+
+
 from lxml import html
 import requests
 import time
@@ -20,6 +26,7 @@ with open('top_1000_downloaded_soundtracks.txt', 'w', encoding='utf-8') as outfi
                 if '\t' not in album:
                     cleaned_soundtracks_list.append(album)
 
+        # Checks for the end of the page and avoids the beginning of the page
         if page_num == 1:
             header_info = cleaned_soundtracks_list.index('>>')
             cleaned_soundtracks_list = cleaned_soundtracks_list[header_info + 1:]
@@ -30,6 +37,7 @@ with open('top_1000_downloaded_soundtracks.txt', 'w', encoding='utf-8') as outfi
         footer_info = cleaned_soundtracks_list.index('<<')
         cleaned_soundtracks_list = cleaned_soundtracks_list[:footer_info]
 
+        # Does some rudimentary cleaning on the data
         for album in cleaned_soundtracks_list:
             try:
                 album = album.strip('.')

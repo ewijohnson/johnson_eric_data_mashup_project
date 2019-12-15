@@ -1,3 +1,9 @@
+"""
+This script can be adjusted to get the unique column values in any of the columns in the Kaggle dataset.
+This script was used to complete my data documentation, in order to see how many unique values are
+in each column.
+"""
+
 import csv
 
 unique_values = []

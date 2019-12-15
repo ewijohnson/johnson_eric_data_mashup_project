@@ -1,3 +1,9 @@
+"""
+This script serves to web scrape and collect the data on the least popular albums from vgmdb.net
+It uses the requests package along with some XPath. It prints out the final data to a text file.
+"""
+
+
 from lxml import html
 import requests
 import time
@@ -34,6 +40,8 @@ with open('least_popular_albums.txt', 'w', encoding='utf-8') as outfile:
             rank = rank.strip('\n')
             rank = rank.strip('\t')
             rank = rank.strip()
+
+            # Checks to see when the real data on the page is finished, and to move on to the next page
             if rank[:5] == 'Page ':
                 break
             if rank != '':

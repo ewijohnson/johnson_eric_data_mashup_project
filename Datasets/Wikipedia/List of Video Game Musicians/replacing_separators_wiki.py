@@ -5,6 +5,7 @@ number of soundtrack names that use commas in their titles. All titles that use 
 enclosed in quotation marks (one or two sets), and so this program accounts for those variations.
 """
 
+
 with open('all_composer_data_cleaned.csv', encoding='UTF-8') as infile:
     with open('all_composer_data_cleaned_adjusted.txt', 'w', encoding='UTF-8') as outfile:
         file = infile.readlines()
