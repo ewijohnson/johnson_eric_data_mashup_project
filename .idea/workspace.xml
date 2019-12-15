@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c830591-7dcd-46ad-b077-c9944e19a3ef" name="Default Changelist" comment="">
+    <list default="true" id="9c830591-7dcd-46ad-b077-c9944e19a3ef" name="Default Changelist" comment="Finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,9 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="992" />
-    <option name="y" value="13" />
-    <option name="width" value="2673" />
+    <option name="y" value="9" />
+    <option name="width" value="2313" />
     <option name="height" value="2079" />
   </component>
   <component name="ProjectView">
@@ -76,6 +75,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,41 +83,10 @@
               <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-              <item name="Kaggle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-              <item name="Kaggle" type="462c0819:PsiDirectoryNode" />
-              <item name="video-game-sales-with-ratings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-              <item name="vgmdb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="johnson_eric_data_mashup_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="johnson_eric_data_mashup_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Datasets" type="462c0819:PsiDirectoryNode" />
-              <item name="Video Game Music mp3 Downloads" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,7 +277,8 @@
       <workItem from="1575071324798" duration="191000" />
       <workItem from="1575838975755" duration="10854000" />
       <workItem from="1575949902169" duration="3659000" />
-      <workItem from="1576349133409" duration="2626000" />
+      <workItem from="1576349133409" duration="3025000" />
+      <workItem from="1576434561406" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="remote test">
       <created>1574017012234</created>
@@ -548,16 +518,30 @@
       <option name="project" value="LOCAL" />
       <updated>1576365961198</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="finished Analysis portion of Notebook">
+      <created>1576374817860</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1576374817860</updated>
+    </task>
+    <task id="LOCAL-00036" summary="finished Analysis portion of Notebook">
+      <created>1576374928324</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1576374928324</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94439000" />
+    <option name="totallyTimeSpent" value="95464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="441" y="6" width="1188" height="924" extended-state="0" />
+    <frame x="0" y="4" width="1027" height="924" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23144877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27497426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -586,7 +570,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added Jupyter Notebook file&#10;changed separators in wikipedia and vgmdb files" />
     <MESSAGE value="finished preparing all vgmdb.net files for pandas" />
     <MESSAGE value="all files can be read into pandas now&#10;might still need to do some name cleaning later on" />
     <MESSAGE value="added documentation files&#10;cleaned up folders and code that are not going to be used&#10;cleaned up test code&#10;made sure all datasets have original data and website copy folders" />
@@ -611,7 +594,8 @@
     <MESSAGE value="jupyter notebook updated with cleaned data outputs" />
     <MESSAGE value="finished jupyter notebook and final dataset file" />
     <MESSAGE value="working on analysis Notebook, made some visualizations &#10;updated one row in Kaggle data (removed comma)" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on analysis Notebook, made some visualizations &#10;updated one row in Kaggle data (removed comma)" />
+    <MESSAGE value="finished Analysis portion of Notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished Analysis portion of Notebook" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$least_popular_albums.coverage" NAME="least_popular_albums Coverage Results" MODIFIED="1570917871205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
