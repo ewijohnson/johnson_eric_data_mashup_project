@@ -4,11 +4,19 @@
 
 
 ### Data Cleaning Assessment
-This dataset needs very little data cleaning, in part because I formatted the data how I wanted it 
+This dataset needed very little data cleaning, in part because I formatted the data how I wanted it 
 to look as I was web scraping it and collecting it in a .txt file. I will need to remove any Japanese 
-characters from titles, but from a brief look through the data, I only found one album name that will 
-need this done. Because there's so little to fix, I will just clean this data by hand, as it will take 
-no more than 5-10 minutes. 
+characters from titles. Because there's so little to fix, I cleaned this data by hand, as it took no 
+more than 15-30 minutes. 
+
+I did end up having to write a script to replace the separators ("replacing_separators.py") because 
+of various punctuations in the soundtrack titles that were causing the file to initially not be read 
+into Jupyter Notebooks correctly. This was a short, simple script to write and replace any separation 
+commas with semi-colons, leaving commas in titles intact. 
+
+I also used OpenRefine to standardize many of the soundtrack titles with what was in other datasets. 
+For example, the game "Pokemon Black and White" was reformatted to "Pokemon Black/white" to have a 
+standard title variation across all datasets. 
 
 
 ### Authorship, Attribution, Provenance
@@ -43,7 +51,9 @@ two properties, the Ranking ("#") and Album Name ("Album"). The ranking data is 
 ### Column Details
 I named these columns myself when collecting this data, so the exact names may be changed later on 
 to assist with combining this dataset with the others. The names I use here are the ones that match 
-what is currently in my dataset and do not reflect what their final names will necessarily be. 
+what is currently in my dataset and do not reflect what their final names will necessarily be.
+
+Many of these columns were renamed in my Jupyter Notebook in order to assist with joining datasets.  
 
 #### "#"
 This column represents the ranking of the album, from 1-1000. Each data value is a single unique 

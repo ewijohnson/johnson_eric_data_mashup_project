@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c830591-7dcd-46ad-b077-c9944e19a3ef" name="Default Changelist" comment="Finished">
+    <list default="true" id="9c830591-7dcd-46ad-b077-c9944e19a3ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Datasets/Kaggle/Copy of Final Intermediate Dataset/video_game_sales_cleaned.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Copy of Final Intermediate Dataset/top_1000_downloaded_soundtracks_cleaned_adjusted.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Copy of Final Intermediate Dataset/all_composer_data_cleaned_adjusted.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/vgmdb/Copy of Final Intermediate Datasets/highest_rated_artists_cleaned_adjusted.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/vgmdb/Copy of Final Intermediate Datasets/least_popular_albums_cleaned_adjusted.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/Video game sales with ratings.md" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/Video game sales with ratings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Top 1000 downloaded soundtracks.md" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Top 1000 downloaded soundtracks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/List of video game musicians.md" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/List of video game musicians.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Video game soundtracks by composer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Video game soundtracks by composer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/vgmdb/Most and least popular albums AND Highest rated artists.md" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/vgmdb/Least popular albums AND Highest rated artists.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/vgmdb/most_popular_albums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/vgmdb/most_popular_albums.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/vgmdb/most_popular_albums_adjusted.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/kaggle_documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/kaggle_documentation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/vgmdb_all_documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/vgmdb_all_documentation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/video_game_music_mp3_downloads_documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/video_game_music_mp3_downloads_documentation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/wikipedia_musician_list_documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/wikipedia_musician_list_documentation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/wikipedia_soundtracks_by_composer_documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/wikipedia_soundtracks_by_composer_documentation.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,12 +41,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>indv_comp_page</find>
-      <find>pokemon</find>
       <find>fate/</find>
       <find>pok</find>
       <find>ã©</find>
       <find>shinobi</find>
       <find>shinobi, koi</find>
+      <find>pokemon</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -55,19 +73,28 @@
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py" />
         <option value="$PROJECT_DIR$/Datasets/vgmdb/testest.py" />
-        <option value="$PROJECT_DIR$/Documentation/wikipedia_musician_list_documentation.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Datasets/vgmdb/changing_separators.py" />
         <option value="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/replacing_separators.py" />
         <option value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/replacing_separators_wiki.py" />
         <option value="$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums_cleaned_adjusted.txt" />
         <option value="$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/video_game_sales_cleaned.csv" />
+        <option value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/List of video game musicians.md" />
+        <option value="$PROJECT_DIR$/Documentation/wikipedia_musician_list_documentation.md" />
+        <option value="$PROJECT_DIR$/Documentation/video_game_music_mp3_downloads_documentation.md" />
+        <option value="$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Top 1000 downloaded soundtracks.md" />
+        <option value="$PROJECT_DIR$/Documentation/wikipedia_soundtracks_by_composer_documentation.md" />
+        <option value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Video game soundtracks by composer.md" />
+        <option value="$PROJECT_DIR$/Documentation/kaggle_documentation.md" />
+        <option value="$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/Video game sales with ratings.md" />
+        <option value="$PROJECT_DIR$/Datasets/vgmdb/Least popular albums AND Highest rated artists.md" />
+        <option value="$PROJECT_DIR$/Documentation/vgmdb_all_documentation.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="9" />
-    <option name="width" value="2313" />
+    <option name="width" value="2556" />
     <option name="height" value="2079" />
   </component>
   <component name="ProjectView">
@@ -92,23 +119,23 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Copy of Final Intermediate Dataset" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Wikipedia\List of Video Game Musicians" />
-      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Documentation" />
-      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\vgmdb\Original Data Do Not Edit" />
-      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Video Game Music mp3 Downloads\Original Data Do Not Edit" />
-      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Video Game Music mp3 Downloads" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Final Dataset" />
       <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Wikipedia\Game Pages" />
       <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Wikipedia\List of Video Game Musicians\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Wikipedia\List of Video Game Musicians\Copy of Final Intermediate Dataset" />
+      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Video Game Music mp3 Downloads\Copy of Final Intermediate Dataset" />
+      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\vgmdb\Copy of Final Intermediate Datasets" />
+      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Kaggle\Copy of Final Intermediate Dataset" />
+      <recent name="C:\Users\oboec\MSLIS\IS590OMO\johnson_eric_data_mashup_project\Datasets\Wikipedia\List of Video Game Musicians" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -279,6 +306,7 @@
       <workItem from="1575949902169" duration="3659000" />
       <workItem from="1576349133409" duration="3025000" />
       <workItem from="1576434561406" duration="626000" />
+      <workItem from="1576437426143" duration="4620000" />
     </task>
     <task id="LOCAL-00001" summary="remote test">
       <created>1574017012234</created>
@@ -532,16 +560,23 @@
       <option name="project" value="LOCAL" />
       <updated>1576374928324</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Finished Analysis and Assessment Jupyter Notebook&#10;Added 3 screenshots for bqplots">
+      <created>1576437479492</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1576437479493</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95464000" />
+    <option name="totallyTimeSpent" value="100084000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="4" width="1027" height="924" extended-state="0" />
+    <frame x="0" y="4" width="1136" height="924" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27497426" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25277779" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -570,7 +605,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finished preparing all vgmdb.net files for pandas" />
     <MESSAGE value="all files can be read into pandas now&#10;might still need to do some name cleaning later on" />
     <MESSAGE value="added documentation files&#10;cleaned up folders and code that are not going to be used&#10;cleaned up test code&#10;made sure all datasets have original data and website copy folders" />
     <MESSAGE value="copied all documentation to a separate folder, added documentation section to README" />
@@ -595,7 +629,8 @@
     <MESSAGE value="finished jupyter notebook and final dataset file" />
     <MESSAGE value="working on analysis Notebook, made some visualizations &#10;updated one row in Kaggle data (removed comma)" />
     <MESSAGE value="finished Analysis portion of Notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished Analysis portion of Notebook" />
+    <MESSAGE value="Finished Analysis and Assessment Jupyter Notebook&#10;Added 3 screenshots for bqplots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Analysis and Assessment Jupyter Notebook&#10;Added 3 screenshots for bqplots" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$least_popular_albums.coverage" NAME="least_popular_albums Coverage Results" MODIFIED="1570917871205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
@@ -619,36 +654,6 @@
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$changing_separators.coverage" NAME="changing_separators Coverage Results" MODIFIED="1574619813608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/get_individual_composer_pages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Individual Composer Data/akari_kaida.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/all_composer_data.csv" />
-    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/testest.py" />
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/all_composer_data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="2380" column="51" lean-forward="true" selection-start-line="2380" selection-start-column="51" selection-end-line="2380" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/highest_rated_artists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69598">
@@ -671,53 +676,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/top_1000_downloaded_soundtracks.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/top_1000_downloaded_soundtracks_adjusted.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="362" selection-start-line="362" selection-end-line="362" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/Video game sales with ratings.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/Most and least popular albums AND Highest rated artists.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Top 1000 downloaded soundtracks.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/List of video game musicians.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Video game soundtracks by composer.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -733,50 +695,6 @@
     <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/wiki test 1.py" />
     <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/Original Data Do Not Edit/most_popular_albums.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Documentation/kaggle_documentation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Documentation/vgmdb_all_documentation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Documentation/video_game_music_mp3_downloads_documentation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret lean-forward="true" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Documentation/wikipedia_soundtracks_by_composer_documentation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Documentation/wikipedia_musician_list_documentation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="1" selection-start-column="1" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -812,34 +730,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/top_1000_downloaded_soundtracks_adjusted_cleaned.txt" />
-    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/replacing_separators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/clean_musicians_into_list.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/all_composer_data_cleaned.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130849">
           <caret line="7697" column="10" selection-start-line="7697" selection-start-column="1" selection-end-line="7697" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/replacing_separators_wiki.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -856,35 +750,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/changing_separators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/video_game_sales_cleaned.csv___jb_tmp___" />
     <entry file="file://$PROJECT_DIR$/Final Dataset/johnson_eric_final_dataset.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/all_composer_data_cleaned_adjusted.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="7982" column="22" selection-start-line="7982" selection-start-column="15" selection-end-line="7982" selection-end-column="22" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/least_popular_albums_cleaned_adjusted.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
           <caret line="1460" column="12" selection-start-line="1460" selection-start-column="5" selection-end-line="1460" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/top_1000_downloaded_soundtracks_cleaned_adjusted.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="555" column="11" selection-start-line="555" selection-start-column="4" selection-end-line="555" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -900,6 +773,172 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/unique column values.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/changing_separators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Kaggle/Copy of Final Intermediate Dataset/video_game_sales_cleaned.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/Copy of Final Intermediate Datasets/highest_rated_artists_cleaned_adjusted.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/Copy of Final Intermediate Datasets/least_popular_albums_cleaned_adjusted.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Copy of Final Intermediate Dataset/top_1000_downloaded_soundtracks_cleaned_adjusted.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Copy of Final Intermediate Dataset/all_composer_data_cleaned_adjusted.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/wikipedia_musician_list_documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="17">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/List of video game musicians.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/clean_musicians_into_list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/combining_indv_to_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/replacing_separators_wiki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/replacing_separators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/top_1000_downloaded_soundtracks.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/top_1000_downloaded_soundtracks_cleaned_adjusted.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="555" column="11" selection-start-line="555" selection-start-column="4" selection-end-line="555" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/video_game_music_mp3_downloads_documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="388">
+            <caret line="45" column="32" lean-forward="true" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Video Game Music mp3 Downloads/Top 1000 downloaded soundtracks.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1088">
+            <caret line="64" selection-start-line="64" selection-end-line="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/all_composer_data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/all_composer_data_cleaned_adjusted.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="2997" column="7" selection-start-line="2997" selection-end-line="2997" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/wikipedia_soundtracks_by_composer_documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="544">
+            <caret line="32" column="29" lean-forward="true" selection-start-line="29" selection-end-line="32" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Wikipedia/List of Video Game Musicians/Video game soundtracks by composer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="544">
+            <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/kaggle_documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="170">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/Video game sales with ratings.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="187">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/vgmdb_all_documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2159">
+            <caret line="127" selection-start-line="127" selection-end-line="127" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/vgmdb/Least popular albums AND Highest rated artists.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="473">
+            <caret line="113" column="15" lean-forward="true" selection-start-line="113" selection-start-column="15" selection-end-line="113" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

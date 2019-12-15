@@ -4,15 +4,10 @@
 
 
 ### Data Cleaning Assessment
-There is not a large amount of data cleaning that I will need to do for this dataset. I 
-will need to deal with the one column ("User Score") that has missing data listed in two 
-different ways (see final section on individual column documentation), and make sure to 
-list both forms of missing data in the same way. I will need to go through and double-check 
-the categorical data, because upon closer inspection, I think I have found at least one 
-typo (for the categorical data in the "Platform" column, one of the categories is listed as 
-"3DO" which I believe should be part of the "3DS" category). These errors should not be hard 
-to fix, and I will be able to do this in Python. It should take no more than an hour or two 
-to go through, double-check, and fix any issues that I come across. 
+The data cleaning that I needed to do was primarily around standardizing soundtrack names to ensure 
+they were the same as in other datasets. I used OpenRefine to help with this. Most of the work here 
+involved removing accents from letters in game titles, and reformatting everything to Title case so 
+that it would match up with the other data I had. 
 
 
 ### Authorship, Attribution, Provenance

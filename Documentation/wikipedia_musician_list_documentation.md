@@ -1,7 +1,12 @@
-k# Wikipedia
+# Wikipedia
 
 ##  List of Video Game Musicians
 
+This dataset is not include as an "official" intermediate dataset because I ended up just using it
+for a starting point when collecting the data from the individual composer pages. The documentation 
+is still included, as the data was still collected in order to retrieve all of the information that 
+I needed from Wikipedia. The dataset can be found in the Wikipedia directory in my project under 
+"List of Video Game Musicians.csv". 
 
 ### Data Cleaning Assessment
 I have already completed the necessary data cleaning for this dataset.
