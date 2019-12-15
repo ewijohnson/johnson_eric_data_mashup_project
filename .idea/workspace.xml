@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9c830591-7dcd-46ad-b077-c9944e19a3ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/video_game_sales_cleaned.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Kaggle/video-game-sales-with-ratings/video_game_sales_cleaned.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Dataset/johnson_eric_final_dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Final Dataset/johnson_eric_final_dataset.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter_notebooks_data_mashup/Dataset Combining.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter_notebooks_data_mashup/Dataset Combining.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +67,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="992" />
-    <option name="y" value="51" />
+    <option name="y" value="13" />
     <option name="width" value="2673" />
     <option name="height" value="2079" />
   </component>
@@ -311,7 +308,7 @@
       <workItem from="1575071324798" duration="191000" />
       <workItem from="1575838975755" duration="10854000" />
       <workItem from="1575949902169" duration="3659000" />
-      <workItem from="1576349133409" duration="1975000" />
+      <workItem from="1576349133409" duration="2626000" />
     </task>
     <task id="LOCAL-00001" summary="remote test">
       <created>1574017012234</created>
@@ -544,14 +541,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576352883821</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="working on analysis Notebook, made some visualizations &#10;updated one row in Kaggle data (removed comma)">
+      <created>1576365961198</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1576365961198</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93788000" />
+    <option name="totallyTimeSpent" value="94439000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="540" y="32" width="1188" height="924" extended-state="0" />
+    <frame x="441" y="6" width="1188" height="924" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23144877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -582,7 +586,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated README to include research Qs and background info" />
     <MESSAGE value="added Jupyter Notebook file&#10;changed separators in wikipedia and vgmdb files" />
     <MESSAGE value="finished preparing all vgmdb.net files for pandas" />
     <MESSAGE value="all files can be read into pandas now&#10;might still need to do some name cleaning later on" />
@@ -607,7 +610,8 @@
     <MESSAGE value="finished cleaning vgmdg least pop file (more or less)" />
     <MESSAGE value="jupyter notebook updated with cleaned data outputs" />
     <MESSAGE value="finished jupyter notebook and final dataset file" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished jupyter notebook and final dataset file" />
+    <MESSAGE value="working on analysis Notebook, made some visualizations &#10;updated one row in Kaggle data (removed comma)" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on analysis Notebook, made some visualizations &#10;updated one row in Kaggle data (removed comma)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/johnson_eric_data_mashup_project$least_popular_albums.coverage" NAME="least_popular_albums Coverage Results" MODIFIED="1570917871205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets/vgmdb" />
