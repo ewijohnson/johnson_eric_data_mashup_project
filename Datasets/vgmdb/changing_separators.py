@@ -23,16 +23,21 @@ with open(infile, encoding='UTF-8') as old:
     with open(outfile, 'w', encoding='UTF-8') as new:
         old = old.readlines()
         for line in old:
+
+            # Counts the number of parentheses in the line to see which lines are outliers and need
+            #    to be accounted for (i.e., parentheses in one of the data columns)
             parnum = line.count('(')
             if parnum != 1:
                 print(parnum, line)
 
-            if line.count(',') == 3:
+            # Counts the number of commas in each line, this slightly varies for each dataset and
+            #    can be adjusted accordingly
+            if line.count(',') == 3:  # This is the expected number of commas
                 line = ','.join(line.rsplit(' (', 1))
                 line = ''.join(line.rsplit(')', 1))
                 line = line.replace(',', '<')
                 print(line, end='', file=new)
-            elif line.count(',') == 4:
+            elif line.count(',') == 4:  # This is for the lines that have an additional comma in a title
                 line = '<'.join(line.rsplit(',', 2))
                 print(line, end='', file=new)
             else:

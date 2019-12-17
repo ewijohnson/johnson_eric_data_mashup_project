@@ -20,24 +20,33 @@ import random
 tree = html.parse("C:/Users/oboec/MSLIS/IS590OMO/johnson_eric_data_mashup_project/Datasets/Wikipedia/List of Video "
                   "Game Musicians/Webpage Local Copy/List of video game musicians - Wikipedia.html")
 
+# Gets the title of the Wikipedia page
 title = tree.xpath("//h1[@id='firstHeading']/text()")
 print(title[0])
 
+# Gets all links from the page
 links = tree.xpath("//div/ul/li/a/@href")
 
 with open('composer_page_headings.txt', 'w', encoding='utf-8') as composer_page_heading_file:
 
     # Loops through all of the links on the page
     for link in links:
+
+        # Accounts for links that are not composer pages
         if link[0] != '#':
 
             url = link
             page = requests.get(url)
             tree = html.fromstring(page.content)
 
+            # Gets the title of the individual composer page, this is the heading of the page that
+            #    is being linked to
             title = tree.xpath("//h1[@id='firstHeading']/text()")
 
+            # Gets all soundtracks from individual page
             soundtracks = tree.xpath("//ul/li/i//text()")
+
+            # Gets composer birthday, if present, from individual page
             birthday = tree.xpath("//span[@class='bday']/text()")
 
             try:
@@ -53,23 +62,26 @@ with open('composer_page_headings.txt', 'w', encoding='utf-8') as composer_page_
                     print(title[0], file=indv_comp_page)
                     print(file=indv_comp_page)
 
+                    # Prints birthday info to the outfile
                     try:
                         print('birthday: ' + birthday[0], file=indv_comp_page)
                         print(file=indv_comp_page)
 
-                    # No information on the composer's birthday is available
+                    # If no information on the composer's birthday is available
                     except IndexError:
                         print('birthday: n/a', file=indv_comp_page)
                         print(file=indv_comp_page)
 
-                    # No information on soundtracks is available
+                    # Checks to see if any soundtrack info was extracted
                     try:
                         for soundtrack in soundtracks:
                             print(soundtrack, file=indv_comp_page)
 
+                    # If no information on soundtracks is available
                     except IndexError:
                         pass
 
+                # This is the name of the last composer link, so it avoids accessing any footer links
                 if title[0] == 'Inon Zur':
                     break
 
@@ -78,5 +90,6 @@ with open('composer_page_headings.txt', 'w', encoding='utf-8') as composer_page_
             except IndexError:
                 print('n/a' + ': ' + link)
 
+            # Waits between 4-9 seconds to request the next page
             s = random.uniform(4, 9)
             time.sleep(s)

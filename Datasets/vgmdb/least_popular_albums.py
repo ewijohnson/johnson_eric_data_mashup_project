@@ -20,9 +20,12 @@ with open('least_popular_albums.txt', 'w', encoding='utf-8') as outfile:
 
     while page_num != 99:  # 98 pages of data as of 2019-10-12
 
+        # Accounts for page 1 of data
         if page_num is None:
             print('Gathering data for page 1...')
             url = base_url
+
+        # Accounts for all other pages
         else:
             print('Gathering data for page ' + str(page_num) + '...')
             url = base_url + page_num_ending + str(page_num)
@@ -33,6 +36,7 @@ with open('least_popular_albums.txt', 'w', encoding='utf-8') as outfile:
         # tree = html.parse("C:/Users/oboec/MSLIS/IS590OMO/johnson_eric_data_mashup_project/Datasets/vgmdb/Webpage
         # Local Copy/Least Popular Albums (10 vote minimum) - VGMdb.html")
 
+        # Uses XPath to extract the data wanted from the page
         rankings = tree.xpath("//tr/td/text() | //tr/td/a//span[@lang='en']/text()")
 
         num = 0
@@ -44,21 +48,27 @@ with open('least_popular_albums.txt', 'w', encoding='utf-8') as outfile:
             # Checks to see when the real data on the page is finished, and to move on to the next page
             if rank[:5] == 'Page ':
                 break
+
+            # Accounts for the blank lines at the beginning of the page
             if rank != '':
                 if num in [0, 1, 2]:
                     print(rank, end=', ', file=outfile)
                     print(rank)
                     num += 1
+
+                # Last data value per line
                 elif num == 3:
                     print(rank, file=outfile)
                     print(rank)
                     num = 0
 
+        # Moves onto the next page
         if page_num is None:
             page_num = 2
             page_num_ending = '&page='
         else:
             page_num += 1
 
+        # Waits between 8-15 seconds before the next page request
         s = random.uniform(8, 15)
         time.sleep(s)

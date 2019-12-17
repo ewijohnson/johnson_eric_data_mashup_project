@@ -9,11 +9,19 @@ import os
 
 path = 'Individual Composer Data'
 composer_files = []
+
+# Gets all of the individual composer files listed in the Individual Composer Data directory at the
+#    same level as this file
 for files in os.listdir(path):
     composer_files.append(files)
 
+# Opens the outfile, which will be a single text file for all of this data
 with open('all_composer_data.txt', 'w', encoding='UTF-8') as outfile:
+
+    # Creates the heading for the new file
     print('Soundtrack; Composer; Composer Birthday', file=outfile)
+
+    # Goes through each of the individual composer files
     for file in composer_files:
         with open((path + '/' + file), encoding='UTF-8') as f:
             f = f.readlines()
@@ -43,6 +51,10 @@ with open('all_composer_data.txt', 'w', encoding='UTF-8') as outfile:
                     Soundtrack 2; Bill Bob; 2019-12-14
                 """
 
+                # The first four lines of each individual file are always Composer Name, blank line,
+                #    Birthday, blank line, so this accounts for those and saves any necessary data.
+                #    All soundtracks start with line 4, and that part of the file is highly variable
+                #    in length, so this checks to see when that data will be read and printed.
                 if n < 4:
                     if n == 0:
                         composer = line.strip('\n')

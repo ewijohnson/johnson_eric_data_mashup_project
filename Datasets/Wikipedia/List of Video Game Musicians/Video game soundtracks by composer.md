@@ -12,20 +12,10 @@ files that will need to be combined and reformatted.
 
 When collecting this data, I collected some additional information that is not about video game 
 musicians, such as some video game systems, due to the nature of web scraping and how I was able 
-to filter or not filter out information as I scraped it. Therefore, my first step will be to go 
+to filter or not filter out information as I scraped it. Therefore, my first step was to go 
 through the individual files and remove any that are not related to video game musicians. I 
 completed this step of edits by hand, as there were not too many to go through and there was 
 no good way to do this in Python that would take less time than doing it by hand. 
-
-When I had the appropriate group of information, I then combined these individual files into a 
-single file using a python script ("combining_indv_to_one.py"). This single file is the text file 
-"all_composer_data.txt". I then did a few hand edits of the data, ensuring that only the correct 
-data was inside. After that, I realized that I needed to change the separators from commas to 
-something else, as when I attempted to read the file into my Jupyter Notebook, many of the lines 
-were not being read in correctly due to commas in the game names. So I wrote another script, 
-"replacing_separators.py" which went through and reformatted all of the data, including changing 
-the separators to semi-colons. This allowed my final intermediate data file, 
-"all_composer_data_cleaned_adjusted.txt" to correctly work. 
 
 I also did a little data cleaning in OpenRefine in order to ensure variations on game names were 
 formatted the same across all datasets. For example, I removed all accents above the letter "e" 
@@ -73,8 +63,15 @@ heading (musician name), musician birthdate, and list of soundtracks that each m
 This script then printed the information on each page to an individual text file. I used the 
 requests package to perform my web scraping in all steps. 
 
-These individual files were then combined into a single .txt file, as described above in the 
-Data Cleaning Assessment section. 
+When I had the appropriate group of information, I then combined these individual files into a 
+single file using a python script ("combining_indv_to_one.py"). This single file is the text file 
+"all_composer_data.txt". I then did a few hand edits of the data, ensuring that only the correct 
+data was inside. After that, I realized that I needed to change the separators from commas to 
+something else, as when I attempted to read the file into my Jupyter Notebook, many of the lines 
+were not being read in correctly due to commas in the game names. So I wrote another script, 
+"replacing_separators.py" which went through and reformatted all of the data, including changing 
+the separators to semi-colons. This allowed my final intermediate data file, 
+"all_composer_data_cleaned_adjusted.txt" to correctly work. 
 
 
 ### Data Structure
@@ -125,3 +122,4 @@ soundtracks, and so they are listed in the body of a paragraph as regular text r
 In other cases, the data simply may not be included on the Wikipedia page. In any case, this data 
 was not able to be collected automatically through my scripts. As with the Musician Birthdate 
 information, it is unclear exactly how many files have missing data.
+ 

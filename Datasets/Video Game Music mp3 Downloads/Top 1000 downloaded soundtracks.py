@@ -17,10 +17,13 @@ with open('top_1000_downloaded_soundtracks.txt', 'w', encoding='utf-8') as outfi
         page = requests.get(url)
         tree = html.fromstring(page.content)
 
+        # XPath to extract the data needed from the page
         soundtracks = tree.xpath("//tbody/tr/td//text() | //table[@id='top40']/tbody/tr/td/a//text()")
 
         cleaned_soundtracks_list = []
 
+        # Accounts for only the soundtrack data that we want, ignoring extraneous data pulled by
+        #    the XPath request
         for album in soundtracks:
             if '\r' not in album:
                 if '\t' not in album:
@@ -39,11 +42,17 @@ with open('top_1000_downloaded_soundtracks.txt', 'w', encoding='utf-8') as outfi
 
         # Does some rudimentary cleaning on the data
         for album in cleaned_soundtracks_list:
+
+            # This gets the ranking of the album name by checking to see if it can be changed from
+            #    a string to an integer (a ranking will pass this test, the album name will fail)
             try:
                 album = album.strip('.')
                 int(album)
                 print(album, end=', ', file=outfile)
                 print(album, end=', ')
+
+            # This except clause will catch all the soundtrack names and add them to the outfile in
+            #    the appropriately associated line with the right ranking number
             except ValueError:
                 if album != '#':
                     print(album, file=outfile)
@@ -56,6 +65,7 @@ with open('top_1000_downloaded_soundtracks.txt', 'w', encoding='utf-8') as outfi
         if page_num == 11:  # 10 pages of data as of 2019-10-13
             break
 
+        # Waits between 3-5 seconds to request the next page
         s = random.uniform(3, 5)
         print('finished with page ' + str(page_num-1) + ', waiting ' + str(s) +
               ' seconds for page ' + str(page_num) + '.')
